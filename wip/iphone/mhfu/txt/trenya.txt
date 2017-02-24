@@ -1,0 +1,984 @@
+
+** TRENYA'S BOAT GUIDE **
+   By icyisamu, aegilnet
+
+=======
+Mountains
+==========
+200 pts --
+   Items
+      Paintball
+      Tranquilizer
+      Raw Meat
+      Empty Bottle
+      Honey
+      Dung
+      Frozen Berry
+      Net
+   Ores
+      Armor Sphere
+      Ice Crystal
+   Fish
+      Nothing
+   Bugs
+      Flashbug
+   Materials
+      Bullfango Pelt
+      Screamer
+      Sm Monster Bone
+      Anteka Antlers
+      Bone
+      Unknown Skull
+      Brute Bone
+      Sm Bone Husk
+   Mystery
+      Nothing
+   Decorations
+      CoolBreeze Jewel
+
+300 pts --
+   Items
+      Paintball
+      Raw Meat
+      Trap Tool
+      Sm Bone Husk
+      Honey
+      Net
+   Ores
+      Armor Sphere
+      Machalite Ore
+   Fish
+      Small Goldenfish
+   Bugs
+      Flashbug
+   Materials
+      Bullfango Pelt
+      Screamer
+      Pale Extract
+      Giaprey Scale
+      Giant Bone
+      Sm Monster Bone
+      Brute Bone
+   Mystery
+      Dragonmoss
+   Decorations
+      CoolBreeze Jewel
+      Snowblower Jewel
+
+500 pts --
+   Items
+      Flute
+      Trap Tool
+      Net
+      Sm Bone Husk
+   Ores
+      Armor Sphere
+   Fish
+      Small Goldenfish
+   Bugs
+      Flashbug
+   Materials
+      Giaprey Scale
+      Blango Pelt
+      Pale Extract
+      Electro Sac
+      Giant Bone
+   Mystery
+      Nothing
+   Decorations
+      Hardball Jewel
+
+1000 pts --
+   Items
+      Flute
+      Trap Tool
+   Ores
+      Dragonite Ore
+      Armor Stone
+      Armor Sphere
+      Armor Sphere+
+   Fish
+      Nothing
+   Bugs
+      King Scarab
+      Hercudrome
+   Materials
+      Wyvern Stone
+      Thunderbug Juice
+      Thunder Sac
+      Stout Bone
+      Giaprey Scale+
+      Blango Pelt+
+   Mystery
+      Dragonmoss+
+      Dragonmoss
+   Decorations
+      BattlefieldJewel
+      Freeze Jewel
+
+1500 pts --
+   Items
+      Nothing
+   Ores
+      Armor Stone
+      Hrd Armor Sphere
+      Hvy Armor Sphere
+      Ryl Armor Sphere
+   Fish
+      Nothing
+   Bugs
+      Rare Scarab
+      Emperor Cricket
+   Materials
+      Lightning Sac
+      RobustWyvernBone
+      Wyvern Stone
+      Big Wyvern Stone
+      ThkBullfangoPelt
+      High Qualty Pelt
+      Giaprey Scale+
+      Blango Pelt+
+      Piercing Claw
+   Mystery
+      Dragonmoss+
+   Decorations
+      Glacier Jewel
+      Cold Wind Jewel
+      Anchor Jewel
+      Snowplow Jewel
+      Expert Jewel
+      Feel Good Jewel
+
+=======
+Jungle
+==========
+200 pts --
+   Items
+      Honey
+      Tranquilizer
+      Nitroshroom
+      Spicy Mushroom
+      Monster Fluid
+      Velociprey Fang
+      Huskberry
+   Ores
+      Antiseptic Stone
+   Fish
+      Nothing
+   Bugs
+      Nothing
+   Materials
+      Mystery Bone
+      Velociprey Scale
+      Hornetaur Wing
+      Conga Pelt
+      Sm Hermitaur Shl
+      FireWyvern Fluid
+   Mystery
+      Nothing
+   Decorations
+      Retroviral Jewel
+
+300 pts --
+   Items
+      Raw Meat
+      Sm Bone Husk
+      Dung
+      Wyvern Droppings
+      Monster Fluid
+      Huskberry
+   Ores
+      Armor Sphere
+      Earth Crystal
+   Fish
+      Nothing
+   Bugs
+      Nothing
+   Materials
+      Screamer
+      Hornetaur Wing
+      Hornetaur Shell
+      Conga Pelt
+      Kut-Ku Scale
+      FireWyvern Fluid
+      Velociprey Fang
+      Black Pearl
+      Flame Sac
+   Mystery
+      Dragonwood
+   Decorations
+      Retroviral Jewel
+      HvnlyShieldJewel
+
+500 pts --
+   Items
+      Raw Meat
+      Dung
+      Wyvern Droppings
+      Sm Bone Husk
+   Ores
+      Armor Sphere
+      Armor Sphere+
+   Fish
+      Glutton Tuna
+   Bugs
+      Nothing
+   Materials
+      Screamer
+      Flame Sac
+      Sm Lobstershell
+      Hornetaur Shell
+      Hornetaur Head
+      Kelbi Horn
+      Kut-Ku Scale
+      FireWyvern Fluid
+      Black Pearl
+   Mystery
+      Dragonwood
+   Decorations
+      HvnlyShieldJewel
+      Psychic Jewel
+      Hardball Jewel
+
+1000 pts --
+   Items
+      Monster Broth
+   Ores
+      Carbalite Ore
+      Armor Sphere
+      Armor Sphere+
+   Fish
+      Glutton Tuna
+      Gastronome Tuna
+   Bugs
+      Nothing
+   Materials
+      Hrd Monster Bone
+      Hornetaur Crapce
+      HornetaurInnrWng
+      Velociprey Scle+
+      Conga Pelt+
+      Wyvern Stone
+      Inferno Sac
+      Lg Lobstershell
+   Mystery
+      Dragonwood
+      Dragonwood+
+   Decorations
+      Lightning Jewel
+
+1500 pts --
+   Items
+      Monster Broth
+      Monster Essence
+   Ores
+      Union Ore
+      Eltalite Ore
+      Hrd Armor Sphere
+      Hvy Armor Sphere
+      Ryl Armor Sphere
+   Fish
+      Nothing
+   Bugs
+      PhantomButterfly
+      Vspoid Razorwing
+   Materials
+      Hrd Monster Bone
+      Blazing Fire Sac
+      Piercing Claw
+      RobustWyvernBone
+      Big Wyvern Stone
+      Gt Lobstershell
+      Giant Blk Pearl
+   Mystery
+      Dragonwood+
+   Decorations
+      Thunder Jewel
+      Antiviral Jewel
+      SharpshootrJewel
+      Fatso Jewel
+
+=======
+Desert
+==========
+200 pts --
+   Items
+      Genprey Fang
+      Dragon Toadstool
+      Large Barrel
+      Small Barrel
+      Trap Tool
+      Cactus Flower
+   Ores
+      Armor Sphere
+   Fish
+      Glutton Tuna
+   Bugs
+      Killer Beetle
+   Materieals
+      Ice Crystal
+      FireWyvern Fluid
+      Sm Hermitaur Shl
+      Genprey Scale
+   Mystery
+      Nothing
+   Decorations
+      WarmBreeze Jewel
+
+300 pts --
+   Items
+      Genprey Fang
+      Dragon Toadstool
+      Large Barrel
+      Gunpowder
+      Trap Tool
+   Ores
+      Armor Sphere
+   Fish
+      Nothing
+   Bugs
+      Nothing
+   Materials
+      Vespoid Wing
+      Vespoid Shell
+      FireWyvern Fluid
+      Sm Hermitaur Shl
+   Mystery
+      Sinister Cloth
+      Dragonwood
+   Decorations
+      Paralysis Jewel
+
+500 pts --
+   Items
+      Large Barrel
+   Ores
+      Armor Sphere
+   Fish
+      Nothing
+   Bugs
+      Nothing
+   Materials
+      Lg Monster Bone
+      Piscine Fang
+      Vespoid Wing
+   Mystery
+      Dragonmoss
+      Sinister Cloth
+      Lost Umbrella
+   Decorations
+      Nothing
+
+1000 pts --
+   Items
+      Wyvern Droppings
+   Ores
+      Armor Sphere
+      Armor Sphere+
+   Fish
+      Gastronome Tuna
+   Bugs
+      Rainbow Insect
+   Materials
+      Hrd Monster Bone
+      Vespoid Carapace
+      Vespoid InnrWng
+      Genprey Scale+
+      Cephalos Scale+
+      Lg Lobstershell
+      Master's Skull
+   Mystery
+      Sinister Cloth
+      Dragonmoss
+      Dragonmoss+
+   Decorations
+      BattlefieldJewel
+
+1500 pts --
+   Items
+      Nothing
+   Ores
+      Hrd Armor Sphere
+      Hvy Armor Sphere
+      Ryl Armor Sphere
+   Fish
+      Nothing
+   Bugs
+      Emperor Cricket
+   Materials
+      Thunderbug Jelly
+      Piercing Claw
+      RobustWyvernBone
+      Gt Lobstershell
+      HvyPiscineFang
+      Big Wyvern Stone
+      Giant Blk Pearl
+   Mystery
+      Dragonmoss+
+   Decorations
+      SecretArts Jewel
+      Hot Wind Jewel
+      Evade Jewel
+
+=======
+Swamp
+==========
+200 pts --
+   Items
+      Large Barrel
+      Empty Bottle
+      Nitroshroom
+      Raw Meat
+      Felvine
+      Gunpowder
+   Ores
+      Nothing
+   Fish
+      Nothing
+   Bugs
+      Nothing
+   Materials
+      Nothing
+   Mystery
+      Nothing
+   Decorations
+      Nothing
+
+300 pts --
+   Items
+      Raw Meat
+      Wyvern Claw
+      Gunpowder
+      Nitroshroom
+      Large Barrel
+      Power Extract
+   Ores
+      Light Crystal
+      Armor Sphere
+   Fish
+      Nothing
+   Bugs
+      Nothing
+   Materials
+      Hornetaur Shell
+      Hornetaur Wing
+      Hornetaur Head
+      Ioprey Fang
+      Sm Ceanataur Shl
+   Mystery
+      Sinister Cloth
+      Dragonmoss
+   Decorations
+      Pep Jewel
+
+500 pts --
+   Items
+      Monster Fluid
+      Barrel Lid
+      Gunpowder
+      Power Extract
+      Wyvern Claw
+   Ores
+      Lightcrystal
+      Armor Sphere
+      Armor Sphere+
+   Fish
+      Nothing
+   Bugs
+      Nothing
+   Materials
+      Monster Bone+
+      Hornetaur Shell
+      Hornetaur Wing
+      Hornetaur Head
+      Sleep Sac
+      Ioprey Fang
+   Mystery
+      Lost Umbrella
+      Dragonmoss
+      Sinister Cloth
+   Decorations
+      Alarm Jewel
+      Antidote Jewel
+
+1000 pts --
+   Items
+      Monster Fluid
+      Monster Broth
+   Ores
+      Lightcrystal
+      Armor Sphere+
+   Fish
+      Gastronome Tuna
+      Ancient Fish
+   Bugs
+      King Scarab
+   Materials
+      Monster Bone+
+      Hrd Monster Bone
+      Stout Bone
+      Thunderbug Juice
+      Toxin Sac
+      Hornetaur Crapce
+      HornetaurInnrWng
+      Ioprey Scale+
+      Conga Pelt+
+   Mystery
+      Dragonmoss
+      Dragonmoss+
+      Sinister Cloth
+   Decorations
+      Small Arms Jewel
+
+1500 pts --
+   Items
+      Monster Essence
+   Ores
+      Union Ore
+      Novacrystal
+      Purecrystal
+      Hrd Armor Sphere
+      Hvy Armor Sphere
+      Ryl Armor Sphere
+   Fish
+      Nothing
+   Bugs
+      Emperor Cricket
+   Materials
+      Thunderbug Jelly
+      DeadlyPoisonSac
+      Stout Bone
+      RobustWyvernBone
+      Big Wyvern Stone
+      Ioprey Scale+
+      Piercing Claw
+      Vspoid Razorwing
+      Hornet Razorwing
+      Hornetaur Crapce
+   Mystery
+      Nothing
+   Decorations
+      Antivenin Jewel
+      Jolt Jewel
+      StayingPwr Jewel
+
+=======
+Forest&Hills
+==========
+200 pts --
+   Items
+      Honey
+      Spicy Mushroom
+      Raw Meat
+      Dung
+      FireWyvern Fluid
+   Ores
+      Nothing
+   Fish
+      Nothing
+   Bugs
+      Nothing
+   Materials
+      Screamer
+      Velociprey Fang
+      Kelbi Horn
+   Mystery
+      Nothing
+   Decorations
+      Nothing
+
+300 pts --
+   Items
+      Wyvern Droppings
+      Power Extract
+      Raw Meat
+      Nitroshroom
+      Wyvern Claw
+      Honey
+      Barrel Lid
+      Dung
+   Ores
+      Lightcrystal
+      Armor Sphere
+   Fish
+      Nothing
+   Bugs
+      Rainbow Insect
+   Materials
+      Ioprey Fang
+      Velociprey Fang
+      FireWyvern Fluid
+      Screamer
+      Sm Monster Bone
+   Mystery
+      Dragonwood
+      ShakalakaTreasre
+   Decorations
+      Nothing
+
+500 pts --
+   Items
+      Wyvern Droppings
+      Wyvern Claw
+   Ores
+      Armor Sphere+
+   Fish
+      Nothing
+   Bugs
+      Killer Beetle
+      Rainbow Insect
+   Materials
+      Lg Monster Bone
+      Monster Bone+
+      FireWyvern Fluid
+      Flame Sac
+   Mystery
+      ShakalakaTreasre
+      Dragonwood
+      Sinister Cloth
+      Pawprint Stamp
+   Decorations
+      Psychic Jewel
+
+1000 pts --
+   Items
+      Wyvern Droppings
+   Ores
+      Armor Sphere
+      Armor Sphere+
+   Fish
+      Gastronome Tuna
+      Ancient Fish
+   Bugs
+      Nothing
+   Materials
+      Wyvern Stone
+      Monster Bone+
+      Velociprey Scle+
+   Mystery
+      Dragonwood
+      Dragonwood+
+      Master's Skull
+   Decorations
+      Stream Jewel
+
+1500 pts --
+   Items
+      Nothing
+   Ores
+      Ryl Armor Sphere
+      Tru Armor Sphere
+   Fish
+      Nothing
+   Bugs
+      PhantomButterfly
+      Rare Scarab
+      Emperor Cricket
+   Materials
+      Blazing Fire Sac
+      Big Wyvern Stone
+      RobustWyvernBone
+      Thunderbug Jelly
+      Vespoid InnrWng
+      Velociprey Scle+
+      ThkBullfangoPelt
+   Mystery
+      Dragonwood+
+   Decorations
+      Anti-Faint Jewel
+      LapisLazuliJewel
+      Ninja Jewel
+
+=======
+Volcano
+==========
+200 pts --
+   Items
+      Nothing
+   Ores
+      Dragonite Ore
+      Firestone
+   Fish
+      Nothing
+   Bugs
+      Nothing
+   Materials
+      Nothing
+   Mystery
+      Nothing
+   Decorations
+      Nothing
+
+300 pts --
+   Items
+      Dragon Toadstool
+   Ores
+      Dragonite Ore
+      Firestone
+   Fish
+      Nothing
+   Bugs
+      Hercudrome
+   Materials
+      FireWyvern Fluid
+      Med Monster Bone
+      Ioprey Fang
+      Remobra Skin
+   Mystery
+      Sinister Cloth
+      Dragonwood
+   Decorations
+      BattlefieldJewel
+
+500 pts --
+   Items
+      Nothing
+   Ores
+      Armor Sphere
+      Armor Sphere+
+      Dragonite Ore
+      Firestone
+   Fish
+      Nothing
+   Bugs
+      Hercudrome
+      Rainbow Insect
+   Materials
+      Poison Sac
+      Sleep Sac
+      Ioprey Fang
+      Striped Skin
+   Mystery
+      Dragonwood
+      Dragonmoss
+      Sinister Cloth
+      Pawprint Stamp
+   Decorations
+      BattlefieldJewel
+      Good Luck Jewel
+
+1000 pts --
+   Items
+      Nothing
+   Ores
+      Armor Sphere+
+      Hrd Armor Sphere
+      Carbalite Ore
+      Firestone
+      Firecell Stone
+   Fish
+      Nothing
+   Bugs
+      Nothing
+   Materials
+      Toxin Sac
+      Hrd Monster Bone
+      Ioprey Fang
+      Ioprey Scale+
+      Vespoid Carapace
+      Vespoid InnrWng
+      Wyvern Stone
+   Mystery
+      Dragonwood
+      Dragonmoss+
+      Sinister Cloth
+      Dragonwood+
+      Pawprint Stamp
+   Decorations
+      LapisLazuliJewel
+
+1500 pts --
+   Items
+      Nothing
+   Ores
+      Hvy Armor Sphere
+      Ryl Armor Sphere
+      Tru Armor Sphere
+      Union Ore
+      Firecell Stone
+      Eltalite Ore
+      Mellanje Ore
+   Fish
+      Nothing
+   Bugs
+      Nothing
+   Materials
+      Big Wyvern Stone
+      Piercing Claw
+      ThkBullfangoPelt
+      RobustWyvernBone
+      SpecRemobraSkin+
+      Blazing Fire Sac
+   Mystery
+      Nothing
+   Decorations
+      Stone Wall Jewel
+      Slayer Jewel
+      Fate Jewel
+      PaperweightJewel
+
+=======
+Great Forest
+==========
+200 pts --
+   Items
+      Huskberry
+      Ivy
+      Sm Bone Husk
+      Lg Bone Husk
+      Trap Tool
+   Ores
+      Armor Sphere
+   Fish
+      Nothing
+   Bugs
+      Spiderweb
+   Materials
+      Velociprey Fang
+      Genprey Fang
+      Ioprey Fang
+   Mystery
+      Nothing
+   Decorations
+      Nothing
+
+300 pts --
+   Items
+      Dragon Toadstool
+      Dung
+      Bomb Material
+      Spicy Mushroom
+   Ores
+      Armor Sphere
+   Fish
+      Nothing
+   Bugs
+      Flashbug
+   Materials
+      Velociprey Scale
+      Genprey Scale
+      Ioprey Scale
+      Sharp Claw
+   Mystery
+      Nothing
+   Decorations
+      Suiko Jewel
+
+500 pts --
+   Items
+      Dragon Toadstool
+      Paintball
+      Wyvern Droppings
+      Monster Fluid
+   Ores
+      Armor Sphere
+      Armor Sphere+
+   Fish
+      Nothing
+   Bugs
+      Flashbug
+      Killer Beetle
+   Materials
+      Sleep Sac
+      Flame Sac
+      Hrd Monster Bone
+   Mystery
+      ShakalakaTreasre
+      ShakaInheritance
+      Dragonwood
+      Sinister Cloth
+   Decorations
+      Psychic Jewel
+      BattlefieldJewel
+
+1000 pts --
+   Items
+      Monster Fluid
+      Monster Broth
+   Ores
+      Armor Sphere+
+      Hrd Armor Sphere
+   Fish
+      Nothing
+   Bugs
+      King Scarab
+   Materials
+      Genprey Scale+
+      Ioprey Scale+
+      Velociprey Scle+
+      Thunderbug Juice
+   Mystery
+      ShakalakaTreasre
+      ShakaInheritance
+      Dragonwood+
+      Sinister Cloth
+      Lost Umbrella
+      Master's Skull
+   Decorations
+      LapisLazuliJewel
+
+1500 pts --
+   Items
+      Nothing
+   Ores
+      Hrd Armor Sphere
+      Hvy Armor Sphere
+      Ryl Armor Sphere
+   Fish
+      Nothing
+   Bugs
+      Rare Scarab
+      Emperor Cricket
+   Materials
+      Big Wyvern Stone
+      RobustWyvernBone
+      Piercing Claw
+      Thunderbug Jelly
+      Blazing Fire Sac
+      Genprey Scale+
+      Velociprey Scle+
+   Mystery
+      ShakalakaTreasr+
+      Dragonwood+
+   Decorations
+      Early Bird Jewel
+      Map Jewel
+      Sprinter Jewel
+      Fasting Jewel
+      Friendship Jewel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

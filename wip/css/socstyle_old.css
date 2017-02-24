@@ -1,0 +1,102 @@
+body {
+  padding: 0px; margin: 0px;
+  background: white url('../images/wallbkrepeat.jpg') bottom right repeat-y fixed;
+	font: 10pt normal Verdana, Tahoma, Arial;
+}
+
+#MainBk {
+  padding: 0px; margin: 0px;
+  width: 100%;
+  background: url('../images/wallbkmain.jpg') bottom right no-repeat fixed;
+}
+
+
+#MainBkContainer h1 {
+  font: 14pt bold Verdana, Tahoma, Arial;
+	color: darkblue;
+}
+
+#tableItems th {
+  background: aliceblue;
+  border: 1px solid darkblue;
+	padding: 0px 4px;
+}
+
+#tableItems td {
+  border: 1px solid silver;
+	padding: 0px 2px;
+}
+
+#tableItems td.percent {
+  padding: 0px 10px;
+	text-align: right;
+	color: darkblue;
+}
+
+#tableWeapons {
+  margin: 0px; padding: 0px;
+}
+
+#tableWeapons td {
+  text-align: left;
+  margin: 0px;
+	padding: 0px 2px;
+  border-bottom: 1px solid silver;
+}
+
+#tableWeapons td.mat {
+  text-align: right;
+  margin: 0px;
+	padding: 0px 2px;
+	font-weight: bold;
+	font-sixe: 8pt;
+	color: midnightblue;
+  /*border-bottom: 1px solid silver;*/
+}
+
+#tableWeapons td .dn {
+  border-right: 1px solid silver;
+	width: 8px; height: 30px;
+	margin: 0px 8px 0px 0px;
+	float: left;
+}
+
+#tableWeapons td .rt1 {
+  border-right: 1px solid silver;
+	width: 8px; height: 30px;
+	margin: 0px;
+	float: left;
+}
+
+#tableWeapons td .rt2 {
+  border-bottom: 1px solid silver;
+	width: 8px; height: 20px;
+	margin: 0px 0px 10px 0px;
+	float: left;
+}
+
+#tableWeapons td .en {
+  border-bottom: 1px solid silver;
+  border-left: 1px solid silver;
+	width: 9px; height: 20px;
+	margin: 0px 0px 10px 8px;
+	float: left;
+}
+
+#tableWeapons td .sp {
+	width: 20px; height: 10px;
+	float: left;
+}
+
+#tableWeapons td .cn {
+  margin: 12px 0px 0px 5px;
+	white-space: nowrap;
+	font-weight: bold;
+	float: left;
+}
+
+#tableWeapons td .mini {
+  color: skyblue;
+	font-size: 8pt;
+	font-weight: normal;
+}

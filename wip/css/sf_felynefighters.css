@@ -1,0 +1,124 @@
+#menubk { padding: 10px; margin: 0px; height: 300px; width: 165px;float: right;position: absolute;top: 0px;right: 0px;color: white; }
+#socmenudiv { padding: 0px;margin: 0px;width: 155px;float: right; }
+#socmenudiv .menuitem { display: block;height: 29px;padding: 0px;margin: 0px;text-align: center;background: url('http://minegarde.com/wip/images/buttonplain.png') center center no-repeat;text-decoration: none;font-weight: bold;color: #830131; }
+#socmenudiv .menuitem:hover { display: block;height: 29px;padding: 0px;margin: 0px;text-align: center;background: url('http://minegarde.com/wip/images/buttonhilite.png') center center no-repeat;text-decoration: none;font-weight: bold;color: #cc6699; }
+#socmenudiv .menuitem a { display: block;padding: 4px;text-decoration: none;color: #830131; }
+#socmenudiv .menuitem:hover a { display: block;padding: 4px;text-decoration: none;color: #cc6699; }
+#socmenudiv .statusicon { margin: 0px 0px 0px 6px;float: left;vertical-align: text-bottom;border: none; }
+#socmenudiv .submenu { padding: 0px;margin: 0px;width: 153px;background: #070002 url('http://minegarde.com/wip/images/menuaccordionbk.jpg') top left repeat-x;text-align: left;border: 1px solid black; }
+#socmenudiv .submenu ul { margin: 2px 6px;padding: 0px;width: 141px;list-style: none;background: black;overflow: hidden; }
+#socmenudiv .submenu ul li { margin: 2px;padding: 2px 4px;text-align: center;color: #830131; }
+#socmenudiv .submenu ul li a { text-decoration: none;color: #830131; }
+#socmenudiv .submenu ul li a:hover { text-decoration: none;color: #cc6699; }
+#menuToggle.visible { clear: both; text-align:right; margin: 0px 2px; float: right; width: 152px;
+  /*background: url('../images/menuaccordionbk.jpg') bottom left repeat-x;*/
+}
+#menuToggle a { display:block; padding:2px 4px; color:lightpink; }
+#menuToggle a:hover { display:block; padding:2px 4px; color:aliceblue; }
+#menuToggle.hidden { clear: both; text-align:right; padding: 0px 2px; float: right; background: #070002;
+  filter:alpha(opacity=85);-moz-opacity:.85;opacity:.85;
+}
+
+#copyright { text-align: center;padding: 20px;padding-bottom: 8px;color: lemonchiffon; }
+html { overflow-x: auto;overflow-y: auto; }
+form { display: inline; }
+img { vertical-align: middle;margin: 0px 1px;border: 0px; }
+BODY { font-family: Verdana, Tahoma, Arial, sans-serif;font-size: 11px;margin: 0px 10px 0px 10px;background: black url('http://minegarde.com/wip/sfimages/bodybk.jpg') top left fixed no-repeat;color: #999999; }
+BODY.post1 { background: black; }
+BODY.post1 .post1{ background: black; }
+TABLE, TR, TD { font-family: Verdana, Tahoma, Arial, sans-serif;font-size: 11px;color: #999999; }
+INPUT, BUTTON { background: url('http://minegarde.com/wip/sfimages/backgrounds/title2-bar.gif') bottom left repeat-x;color: #999999;background-color: #111;border: 1px solid #3f0a1d; }
+SELECT, TEXTAREA { color: #999999;background-color: #111;border: 1px solid #012336; }
+a:link, a:visited, a:active { text-decoration: none;color: #44709d; }
+a:hover { text-decoration: underline;color: #90adca; }
+fieldset.search { padding: 6px;line-height: 150%; }
+label { cursor: pointer; }
+img.attach { padding: 2px; }
+.googleroot { padding: 6px;line-height: 130% background: #000; }
+.googlechild { padding: 6px;margin-left: 30px;line-height: 130%; }
+.googlebottom, .googlebottom a:link, .googlebottom a:visited, .googlebottom a:active { font-size: 11px;background: #000;color: #3A4F6C; }
+.googlish, .googlish a:link, .googlish a:visited, .googlish a:active { font-size: 14px;font-weight: bold;background: #000;color: #00D; }
+.googlepagelinks { font-size: 1.1em;letter-spacing: 1px background: #000; }
+.googlesmall, .googlesmall a:link, .googlesmall a:active, .googlesmall a:visited { font-size: 10px;background: #000;color: #434951; }
+li.helprow { padding: 0px;margin: 0px 0px 10px 0px; }
+ul#help { padding: 0px 0px 0px 15px; }
+option.cat { font-weight: bold; }
+option.sub { font-weight: bold;color: #555; }
+.caldate { text-align: right;font-weight: bold;font-size: 11px;padding: 4px;margin: 0px;color: #777;background-color: #DFE6EF; }
+.warngood { color: green; }
+.warnbad { color: red; }
+#redirectwrap { text-align: center; margin: 200px; }
+#padandcenter { margin-left: auto;margin-right: auto;text-align: center;padding: 14px 0px 14px 0px; }
+#profilename { font-size: 28px;font-weight: bold; }
+#calendarname { font-size: 22px;font-weight: bold; }
+#photowrap { padding: 6px; }
+#phototitle { font-size: 24px;border-bottom: 1px solid black; }
+#photoimg { text-align: center;margin-top: 15px; }
+#ucpmenu { line-height: 150%;width: 180px; }
+#ucpmenu p { padding: 2px 5px 6px 9px;margin: 0px; }
+#ucpcontent { background: black ('http://minegarde.com/wip/sfimages/backgrounds/post-bk.gif') top left repeat-x;line-height: 150%;width: auto; }
+#ucpcontent p { padding: 10px;margin: 0px; }
+#ucpcontent img, .row1 img { margin: 0px; }
+#ipsbanner { position: absolute;top: 1px; }
+#logostrip { padding: 0px;margin: 0px; background: url('http://minegarde.com/wip/sfimages/buttons/smalllogo-bk.jpg') top left repeat-x; }
+#logostrip img {margin:0px;padding:0px;}
+#submenu { font-size: 10px;margin: 0px; padding: 0px; font-weight: bold; background: #050a10 url('http://minegarde.com/wip/sfimages/buttons/submenulogo.jpg') top left no-repeat; color: #b2c5dc; padding-left: 170px; /*border: 1px dashed #3a4f6c;*/ white-space:nowrap; }
+#submenu a:link, #submenu  a:visited, #submenu a:active { font-weight: bold;font-size: 10px;text-decoration: none;color: #b2c5dc; }
+#userlinks, #userlinksguest { background: url('http://minegarde.com/wip/sfimages/backgrounds/forumbarheader-bk.gif') bottom left repeat-x;
+color: #759cc2; margin:0px;padding:0px 4px;}
+#userlinks td { color: #759cc2; }
+#navstrip { font-weight: bold;padding: 6px 0px 6px 0px; }
+.activeuserstrip { background: url('http://minegarde.com/wip/sfimages/backgrounds/title3-bar.gif') left bottom repeat-x;padding: 6px; }
+.pformstrip { font-weight: bold;padding: 0px 15px;margin-top: 1px;background: url('http://minegarde.com/wip/sfimages/backgrounds/title2-bar.gif') repeat-x;height: 20px;color: #3A4F6C; }
+.pformleft { padding: 6px;margin-top: 1px;width: 25%;border-top: 1px solid #333333;background-color: #000; }
+.pformleftw { padding: 6px;margin-top: 1px;width: 40%;border-top: 1px solid #333333;background-color: #000; }
+.pformright { padding: 6px;margin-top: 1px;border-top: 1px solid #333333;border-left: 1px solid #333333;background-color: #000; }
+.post1 { background-color: #101010; }
+.post2 { background-color: #181818; }
+.postlinksbar { padding-top: 4px;margin: 0px 1px;font-size: 10px;background: url('http://minegarde.com/wip/sfimages/backgrounds/title2-bar.gif') top left repeat-x;height: 16px; }
+.postlinksbar a { color: #7c3e54; }
+.postlinksbar a:hover { color: #ae6781; }
+.row1, .row2, .row3 { background: url('http://minegarde.com/wip/sfimages/backgrounds/post-bk.gif') top left repeat-x;color: #999999;background-color: #000000; }
+.row4 { background: url('http://minegarde.com/wip/sfimages/backgrounds/post-bk.gif') top left repeat-x;color: #999999;background-color: #000000; }
+.darkrow1 { color: #4C77B6;background-color: #111; }
+.darkrow2 { background: url('http://minegarde.com/wip/sfimages/backgrounds/title3-bar.gif') repeat-x; }
+.darkrow3 { background: #000000 url('http://minegarde.com/wip/sfimages/backgrounds/title3-bar.gif') repeat-x;background-position: 0px -6px;color: #3A4F6C; }
+img.offset { margin: 3px 1px 0px 1px;background: none;border: none; }
+.hlight { background-color: #000; }
+.dlight { background-color: #000; }
+.titlemedium { font-weight: bold;pa.dding: 0px 7px;margin: 0px;background: url('http://minegarde.com/wip/sfimages/backgrounds/title2-bar.gif') repeat-x;height: 20px;color: #3A4F6C; }
+.titlemedium  a:link, .titlemedium  a:visited, .titlemedium  a:active { text-decoration: underline;color: #3A4F6C; }
+.maintitle { font-weight: bold;letter-spacing: 1px;padding: 0px;margin: 0px;background: url('http://minegarde.com/wip/sfimages/backgrounds/maintitle-bar.gif') repeat-x bottom left;margin-bottom: 0px;height: 48px; overflow-y: hidden; background-position: 0px 21px; color: #ff99cc; white-space: nowrap;}
+.maintitle a:link, .maintitle  a:visited, .maintitle  a:active { text-decoration: none;margin-top: 18px;color: lightpink; }
+.maintitle a:hover { text-decoration: underline; }
+
+.plainborder { background-color: #000; /*border: 1px solid #345487;*/ }
+.tableborder { padding: 0px;margin: 0px;width: 100%; }
+.tablefill { padding: 6px;background-color: #000;border: 1px solid #345487; }
+.tablepad { padding: 6px;background-color: #000; }
+.tablebasic { width: 100%;padding: 0px 0px 0px 0px;margin: 0px;border: 0px; }
+.wrapmini { float: left;line-height: 1.5em;width: 25%; }
+.pagelinks { float: left;line-height: 1.2em;width: 35%; }
+.desc { font-size: 10px;color: #434951; }
+.edit { font-size: 9px; }
+.signature { font-size: 10px;height: 120px;overflow: hidden;color: #777; }
+.postdetails { font-size: 10px; }
+.postcolor { font-size: 12px;line-height: 160%; }
+.normalname { font-size: 12px;font-weight: bold;color: #003; }
+.normalname a:link, .normalname a:visited, .normalname a:active { font-size: 12px; }
+.unreg { font-size: 11px;font-weight: bold;color: #900; }
+.searchlite { font-weight: bold;color: #F00;background-color: #000; }
+#QUOTE { font-family: Verdana, Arial;font-size: 11px;padding-top: 2px;padding-right: 2px;padding-bottom: 2px;padding-left: 2px;color: #465584;background-color: #080808;border: 1px solid #465584; }
+#CODE { font-family: Courier, Courier New, Verdana, Arial;font-size: 10px;padding-top: 2px;padding-right: 2px;padding-bottom: 2px;padding-left: 2px;color: #465584;background-color: #080808;border: 1px solid #465584; }
+.copyright { font-family: Verdana, Tahoma, Arial, Sans-Serif;font-size: 9px;line-height: 12px; }
+.codebuttons { font-size: 10px;font-family: verdana, helvetica, sans-serif;vertical-align: middle; }
+.forminput, .textinput, .radiobutton, .checkbox { font-size: 11px;font-family: verdana, helvetica, sans-serif;vertical-align: middle; }
+.thin { padding: 6px 0px 6px 0px;line-height: 140%;margin: 2px 0px 2px 0px;border-top: 1px solid #333;border-bottom: 1px solid #333; }
+.purple { font-weight: bold;color: purple; }
+.red { font-weight: bold;color: red; }
+.green { font-weight: bold;color: green; }
+.blue { font-weight: bold;color: blue; }
+.orange { font-weight: bold;color: #F90; }
+.maintitle_left { background: url('http://minegarde.com/wip/sfimages/backgrounds/maintitle-left.gif') left bottom no-repeat; height: 48px;padding: 0px;margin: 0px; padding-left: 65px; }
+.maintitle_right { background: url('http://minegarde.com/wip/sfimages/backgrounds/maintitle-right.gif') right top no-repeat; height: 48px;padding: 0px;margin: 0px; padding-right: 20px; position:relative; top -18px;}
+.maintitle_right div img { position:relative; top:-14px; }

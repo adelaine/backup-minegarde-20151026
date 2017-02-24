@@ -1,0 +1,1260 @@
+1,Book of Combos 1,調合書①入門編,Book of Combos 1
+2,Book of Combos 2,調合書②初級編,Book of Combos 2
+3,Book of Combos 3,調合書③中級編,Book of Combos 3
+4,Book of Combos 4,調合書④上級編,Book of Combos 4
+5,Book of Combos 5,調合書⑤達人編,Book of Combos 5
+6,Alchemy Guide,調合書Ｇ・錬金編,Alchemy Guide
+7,Potion,回復薬,Potion
+8,Mega Potion,回復薬グレート,Mega Potion
+9,Nutrients,栄養剤,Nutrients
+10,Mega Nutrients,栄養剤グレート,Mega Nutrients
+11,Antidote,解毒薬,Antidote
+12,Immunizer,活力剤,Immunizer
+13,Power Juice,強走薬,Power Juice
+14,Mega Juice,強走薬グレート,Mega Juice
+15,Demondrug,鬼人薬,Demondrug
+16,Mega Demondrug,鬼人薬グレート,Mega Demondrug
+17,Power Pill,怪力の丸薬,Power Pill
+18,Armorskin,硬化薬,Armorskin
+19,Mega Armorskin,硬化薬グレート,Mega Armorskin
+20,Armor Pill,忍耐の丸薬,Armor Pill
+21,Cool Drink,クーラードリンク,Cool Drink
+22,Hot Drink,ホットドリンク,Hot Drink
+23,Thawing Agent,解氷剤,Thawing Agent
+24,Psychoserum,千里眼の薬,Psychoserum
+25,Monster Fluid,モンスターの体液,Monster Fluid
+26,Monster Broth,モンスターの濃汁,Monster Broth
+27,Monster Essence,モンスターの特濃,Monster Broth+
+28,Thunderbug Juice,雷光エキス,Thunderbug Juice
+29,Thunderbug Jelly,雷光ゼリー,Thunderbug Jelly
+30,Herbal Medicine,漢方薬,Herbal Medicine
+31,Max Potion,秘薬,Max Potion
+32,Ancient Potion,いにしえの秘薬,Ancient Potion
+33,Catalyst,増強剤,Catalyst
+34,Energy Drink,元気ドリンコ,Energy Drink
+35,Gunpowder,爆薬,Gunpowder
+36,Lifecrystals,生命の粉,Lifecrystals
+37,Lifepowder,生命の粉塵,Lifepowder
+38,Powercharm,力の護符,Powercharm
+39,Powertalon,力の爪,Powertalon
+40,Armorcharm,守りの護符,Armorcharm
+41,Armortalon,守りの爪,Armortalon
+42,Tranquilizer,捕獲用麻酔薬,Tranquilizer
+43,Raw Meat,生肉,Raw Meat
+44,Poisoned Meat,毒生肉,Poisoned Meat
+45,Tainted Meat,シビレ生肉,Tainted Meat
+46,Drugged Meat,眠り生肉,Drugged Meat
+47,Rare Steak,生焼け肉,Rare Steak
+48,Well-Done Steak,こんがり肉,Well-Done Steak
+49,Gourmet Steak,こんがり肉Ｇ,Gourmet Steak
+50,Burnt Meat,コゲ肉,Burnt Meat
+51,Hot Meat,ホットミート,Hot Meat
+52,Cold Meat,クーラーミート,Cold Meat
+53,Rare Fish,生焼け魚,Rare Fish
+54,Gourmet Fish,こんがり魚,Gourmet Fish
+55,Gourmet Fish+,こんがり魚Ｇ,Gourmet Fish+
+56,Burnt Fish,コゲ魚,Burnt Fish
+57,Boomerang,ブーメラン,Boomerang
+58,Throwing Knife,投げナイフ,Throwing Knife
+59,Poison Thrw Knf,毒投げナイフ,Poison Thrw Knf
+60,Sleeping Thr Knf,眠り投げナイフ,Sleeping Thrw Knf
+61,Paralyze Thr Knf,麻痺投げナイフ,Paralyze Thrw Knf
+62,Tranq Thrwng Knf,捕獲用麻酔ナイフ,Tranq Thrw Knf
+63,Bomb Material,素材玉,Bomb Material
+64,Paintball,ペイントボール,Paintball
+65,Flash Bomb,閃光玉,Flash Bomb
+66,Sonic Bomb,音爆弾,Sonic Bomb
+67,Dung,モンスターのフン,Dung
+68,Wyvern Droppings,飛竜のフン,Wyvern Droppings
+69,Dung Bomb,こやし玉,Dung Bomb
+70,Smoke Bomb,けむり玉,Smoke Bomb
+71,Poison Smoke Bmb,毒けむり玉,Poison Smoke Bomb
+72,Farcaster,モドリ玉,Farcaster
+73,Deodorant,消臭玉,Deodorant
+74,Tranq Bomb,捕獲用麻酔玉,Tranq Bomb
+75,Spiderweb,クモの巣,Spiderweb
+76,Net,ネット,Net
+77,Trap Tool,トラップツール,Trap Tool
+78,Pitfall Trap,落とし穴,Pitfall Trap
+79,Shock Trap,シビレ罠,Shock Trap
+80,Lightning Rod,爆雷針,Lightning Rod
+81,Barrel Lid,タルの蓋,Barrel Lid
+82,Small Barrel,小タル,Small Barrel
+83,Large Barrel,大タル,Large Barrel
+84,Sm Barrel-Bomb,小タル爆弾,Sm Barrel-Bomb
+85,Sm Barrel-Bomb+,小タル爆弾Ｇ,Sm Barrel-Bomb+
+86,Lg Barrel-Bomb,大タル爆弾,Lg Barrel-Bomb
+87,Lg Barrel-Bomb+,大タル爆弾Ｇ,Lg Barrel-Bomb+
+88,Bounce Bomb,打上げタル爆弾,Bounce Bomb
+89,Bounce Bomb+,打上げタル爆弾Ｇ,Bounce Bomb+
+90,Anti-Dragon Bomb,対巨龍爆弾,Anti-Dragon Bomb
+91,dummy,ポリタン爆弾,Polytan Bomb
+92,dummy,ＪＵＭＰタル爆弾,Jump Barrel Bmb
+93,Huskberry,カラの実,Huskberry
+94,Sm Bone Husk,カラ骨【小】,Sm Bone Husk
+95,Lg Bone Husk,カラ骨【大】,Lg Bone Husk
+96,Normal S Lv1,LV1 通常弾,Normal S Lv1
+97,Normal S Lv2,LV2 通常弾,Normal S Lv2
+98,Normal S Lv3,LV3 通常弾,Normal S Lv3
+99,Pierce S Lv1,LV1 貫通弾,Pierce S Lv1
+100,Pierce S Lv2,LV2 貫通弾,Pierce S Lv2
+101,Pierce S Lv3,LV3 貫通弾,Pierce S Lv3
+102,Pellet S Lv1,LV1 散弾,Pellet S Lv1
+103,Pellet S Lv2,LV2 散弾,Pellet S Lv2
+104,Pellet S Lv3,LV3 散弾,Pellet S Lv3
+105,Crag S Lv1,LV1 徹甲榴弾,Crag S Lv1
+106,Crag S Lv2,LV2 徹甲榴弾,Crag S Lv2
+107,Crag S Lv3,LV3 徹甲榴弾,Crag S Lv3
+108,Clust S Lv1,LV1 拡散弾,Clust S Lv1
+109,Clust S Lv2,LV2 拡散弾,Clust S Lv2
+110,Clust S Lv3,LV3 拡散弾,Clust S Lv3
+111,Flaming S,火炎弾,Flaming S
+112,Water S,水冷弾,Water S
+113,Thunder S,電撃弾,Thunder S
+114,Freeze S,氷結弾,Freeze S
+115,Dragon S,滅龍弾,Dragon S
+116,Recov S Lv1,LV1 回復弾,Recov S Lv1
+117,Recov S Lv2,LV2 回復弾,Recov S Lv2
+118,Poison S Lv1,LV1 毒弾,Poison S Lv1
+119,Poison S Lv2,LV2 毒弾,Poison S Lv2
+120,Para S Lv1,LV1 麻痺弾,Para S Lv1
+121,Para S Lv2,LV2 麻痺弾,Para S Lv2
+122,Sleep S Lv1,LV1 睡眠弾,Sleep S Lv1
+123,Sleep S Lv2,LV2 睡眠弾,Sleep S Lv2
+124,Tranq S,捕獲用麻酔弾,Tranq S
+125,Paint S,ペイント弾,Paint S
+126,Demon S,鬼人弾,Demon S
+127,Armor S,硬化弾,Armor S
+128,No Coating,ビン無し,No Coating
+129,Empty Bottle,空きビン,Empty Bottle
+130,Power Coating,強撃ビン,PowerCoating
+131,Poison Coating,毒ビン,PoisonCoatng
+132,ParalysisCoating,麻痺ビン,Para Coating
+133,Sleep Coating,睡眠ビン,SleepCoating
+134,CloseRngCoating,接撃ビン,RazorCoating
+135,Paint Coating,ペイントビン,PaintCoating
+136,Cricket,釣りバッタ,Cricket
+137,Worm,釣りミミズ,Worm
+138,Firefly,釣りホタル,Firefly
+139,Frog,釣りカエル,Frog
+140,Tuna Bait,マグダンゴ,Tuna Bait
+141,Arrowana Bait,アロダンゴ,Arrowana Bait
+142,Goldenfish Bait,黄金ダンゴ,Goldenfish Bait
+143,Mega Fishing Fly,釣りフィーバエ,Mega Fishing Fly
+144,Old Pickaxe,ボロピッケル,Old Pickaxe
+145,Iron Pickaxe,ピッケル,Iron Pickaxe
+146,Mega Pickaxe,ピッケルグレート,Mega Pickaxe
+147,Expand Pickaxe,フエールピッケル,Expand Pickaxe
+148,Old Bugnet,ボロ虫あみ,Old Bugnet
+149,Bugnet,虫あみ,Bugnet
+150,Mega Bugnet,虫あみグレート,Mega Bugnet
+151,BBQ Spit,肉焼きセット,BBQ Spit
+152,Gourmet BBQ Spit,高級肉焼きセット,Gourmet BBQ Spit
+153,Whetstone,砥石,Whetstone
+154,Binoculars,双眼鏡,Binoculars
+155,Garbage,もえないゴミ,Garbage
+156,Flute,角笛,Flute
+157,Health Flute,回復笛,Health Flute
+158,Antidote Flute,解毒笛,Antidote Flute
+159,Demon Flute,鬼人笛,Demon Flute
+160,Armor Flute,硬化笛,Armor Flute
+161,Honey,ハチミツ,Honey
+162,Sunset Herb,落陽草,Sunset Herb
+163,Herb,薬草,Herb
+164,Antidote Herb,げどく草,Antidote Herb
+165,Fire Herb,火薬草,Fire Herb
+166,Ivy,ツタの葉,Ivy
+167,Sleep Herb,ネムリ草,Sleep Herb
+168,Sap Plant,ネンチャク草,Sap Plant
+169,Felvine,マタタビ,Felvine
+170,Cactus Flower,サボテンの花,Cactus Flower
+171,Hot Pepper,トウガラシ,Hot Pepper
+172,Dosbiscus,ドスビスカス,Dosbiscus
+173,Mountain Herbs,雪山草,Mountain Herb
+174,Giant Corn,オオモロコシ,Great Corn
+175,Special Mushroom,特産キノコ,Special Mushroom
+176,Select Mushroom,厳選キノコ,Select Mushroom
+177,Blue Mushroom,アオキノコ,Blue Mushroom
+178,Nitroshroom,ニトロダケ,Nitroshroom
+179,Parashroom,マヒダケ,Parashroom
+180,Toadstool,毒テングダケ,Toadstool
+181,Exciteshroom,ドキドキノコ,Exciteshroom
+182,Dragon Toadstool,マンドラゴラ,Dragon Toadstool
+183,Spicy Mushroom,特産キノコキムチ,Spicy Mushroom
+184,Chaos Mushroom,混沌茸,Chaoshroom
+185,Paintberry,ペイントの実,Paintberry
+186,Power Seed,怪力の種,Power Seed
+187,Armor Seed,忍耐の種,Armor Seed
+188,Dragon Seed,龍殺しの実,Dragon Seed
+189,Scatternut,はじけクルミ,Scatternut
+190,Needleberry,ハリの実,Needleberry
+191,Bomberry,カクサンの実,Bomberry
+192,Tropical Berry,熱帯イチゴ,Tropical Berry
+193,Frozen Berry,氷結晶イチゴ,Frozen Berry
+194,Red Seed,赤の種,Red Seed
+195,Green Seed,緑の種,Green Seed
+196,Yellow Seed,黄の種,Yellow Seed
+197,Beautiful Shell,きれいな貝殻,Beautiful Shell
+198,Black Pearl,黒真珠,Black Pearl
+199,Giant Blk Pearl,極上黒真珠,Black Pearl+
+200,Stone,石ころ,Stone
+201,Disk Stone,円盤石,Disk Stone
+202,Iron Ore,鉄鉱石,Iron Ore
+203,Earth Crystal,大地の結晶,Earth Crystal
+204,Machalite Ore,マカライト鉱石,Machalite Ore
+205,Dragonite Ore,ドラグライト鉱石,Dragonite Ore
+206,Carbalite Ore,カブレライト鉱石,Carbalite Ore
+207,Eltalite Ore,エルトライト鉱石,Etherlite Ore
+208,Union Ore,ユニオン鉱石,Union Ore
+209,Mellanje Ore,メランジェ鉱石,Melange Ore
+210,Firestone,紅蓮石,Fire Stone
+211,Firecell Stone,獄炎石,Firecell Stone
+212,Coal,燃石炭,Coal
+213,Goldstone Piece,黄金石のかけら,Goldstone Piece
+214,Goldstone Hunk,黄金石の塊,Goldstone Hunk
+215,Lightcrystal,ライトクリスタル,Lightcrystal
+216,Novacrystal,ノヴァクリスタル,Nova Crystal
+217,Purecrystal,ピュアクリスタル,Pure Crystal
+218,Antiseptic Stone,抗菌石,Antiseptic Stone
+219,Ice Crystal,氷結晶,Ice Crystal
+220,Rainbow Ore,虹色鉱石,Rainbow Ore
+221,Great Stone,グレートストーン,Great Stone
+222,Armor Stone,鎧石,Armor Stone
+223,Armor Sphere,鎧玉,Armor Sphere
+224,Armor Sphere+,上鎧玉,Armor Sphere+
+225,Hrd Armor Sphere,堅鎧玉,Hrd Armor Sphere
+226,Hvy Armor Sphere,重鎧玉,Hvy Armor Sphere
+227,Ryl Armor Sphere,王鎧玉,King Armor Sphre
+228,Tru Armor Sphere,真鎧玉,True Armor Sphre
+229,Knife Mackerel,キレアジ,Knife Mackerel
+230,Sushifish,サシミウオ,Sushifish
+231,Sleepyfish,眠魚,Sleepyfish
+232,Pin Tuna,ハリマグロ,Pin Tuna
+233,Rumblefish,はじけイワシ,Rumblefish
+234,Scatterfish,カクサンデメキン,Scatterfish
+235,Burst Arrowana,ハレツアロワナ,Burst Arrowana
+236,Bomb Arrowana,バクレツアロワナ,Bomb Arrowana
+237,Glutton Tuna,大食いマグロ,Glutton Tuna
+238,Gastronome Tuna,ドス大食いマグロ,Gastronome Tuna
+239,Speartuna,カジキマグロ,Speartuna
+240,Small Goldenfish,小金魚,Small Goldenfish
+241,Goldenfish,黄金魚,Goldenfish
+242,Silverfish,白金魚,Silver Fish
+243,Ancient Fish,古代魚,Ancient Fish
+244,Springnight Carp,春夜鯉,Springnight Carp
+245,Tailed Frog,オオシッポガエル,Big-Tailed Frog
+246,Insect Husk,虫の死骸,Insect Husk
+247,Yambug,ヤマイモムシ,Yambug
+248,Bughopper,カクバッタ,Bughopper
+249,Snakebee Larva,ツチハチノコ,Snakebee Larva
+250,Godbug,不死虫,Godbug
+251,Bitterbug,にが虫,Bitterbug
+252,Flashbug,光蟲,Flashbug
+253,Thunderbug,雷光虫,Thunderbug
+254,Carpenterbug,セッチャクロアリ,Carpenterbug
+255,King Scarab,王族カナブン,King Scarab
+256,Emperor Cricket,皇帝バッタ,Emperor Locust
+257,Killer Beetle,キラビートル,Killer Beetle
+258,Hercudrome,ドスヘラクレス,Hercudrome
+259,Rare Scarab,マレコガネ,Rare Scarab
+260,PhantomButterfly,マボロシチョウ,PhantomButterfly
+261,Royal Rhino,ロイヤルカブト,Royal Rhino
+262,Divine Rhino,ゴッドカブト,Divine Rhino
+263,Rainbow Insect,虹色コガネ,Rainbow Insect
+264,Great Hornfly,オオツノアゲハ,Great Hornfly
+265,Great Ladybug,オオナナホシ,Great Ladybug
+266,Screamer,鳴き袋,Screamer
+267,Poison Sac,毒袋,Poison Sac
+268,Toxin Sac,猛毒袋,Toxin Sac
+269,DeadlyPoisonSac,劇烈毒袋,Venom Sac
+270,Paralysis Sac,麻痺袋,Paralysis Sac
+271,Sleep Sac,睡眠袋,Sleep Sac
+272,Coma Sac,昏睡袋,Coma Sac
+273,Flame Sac,火炎袋,Flame Sac
+274,Inferno Sac,爆炎袋,Inferno Sac
+275,Blazing Fire Sac,業炎袋,Blaze Sac
+276,Electro Sac,電気袋,Electro Sac
+277,Thunder Sac,電撃袋,Thunder Sac
+278,Lightning Sac,雷電袋,Lightning Sac
+279,Power Extract,狂走エキス,Power Extract
+280,Pale Extract,アルビノエキス,Pale Extract
+281,Sm Monster Bone,竜骨【小】,Sm Monster Bone
+282,Med Monster Bone,竜骨【中】,Med Monster Bone
+283,Lg Monster Bone,竜骨【大】,Lg Monster Bone
+284,Monster Bone+,上竜骨,Monster Bone+
+285,Hrd Monster Bone,堅竜骨,Hrd Monster Bone
+286,Hvy Monster Bone,重竜骨,Hvy Monster Bone
+287,Eldr Dragon Bone,古龍骨,Elder Drgn Bone
+288,BigEDragonBone,太古龍骨,Ancient DrgnBone
+289,Mystery Bone,なぞの骨,Mystery Bone
+290,Unknown Skull,なぞの頭骨,Unknown Skull
+291,Master's Skull,達人のドクロ,Master's Skull
+292,Bone,棒状の骨,Bone
+293,RobustWyvernBone,堅牢な鳥竜骨,BirdWyvnStoutBne
+294,Brute Bone,獣骨,Brute Bone
+295,Giant Bone,大きな骨,Giant Bone
+296,Stout Bone,堅牢な骨,Stout Bone
+297,Massive Bone,重厚な骨,Colossal Bone
+298,Wyvern Fang,竜の牙,Wyvern Fang
+299,Wyvern Claw ,竜の爪,Wyvern Claw
+300,Wyvern Stone,竜玉,Wyvern Stone
+301,Big Wyvern Stone,大竜玉,Lg Wyvern Stone
+302,BigEDragonJewel,古龍の大宝玉,Elder Dragon Jwl
+303,White Liver,ホワイトレバー,White Liver
+304,Popo Tongue,ポポノタン,Popo Tongue
+305,Secret Pouch,秘密のポーチ,Secret Pouch
+306,CarapaceonBrains,ザザミソ,CarpcnBrains
+307,CarapaceonBrain+,極上ザザミソ,CarpcnBrains+
+308,Piscine Liver,魚竜のキモ,Piscine Liver
+309,Wyvern Tears,竜のナミダ,Wyvern Tears
+310,Wyvern Sobs,竜の大粒のナミダ,Wyvern Sobs
+311,Territorial Dung,なわばりのフン,Territorial Dung
+312,TerritorialDung+,なわばりの大フン,TerritorialDung+
+313,Crab Pearl,ヤド真珠,Crab Pearl
+314,Crab Pearl+,極上ヤド真珠,Crab Pearl+
+315,Dragon Treasure,龍秘宝,Dragon Treasure
+316,Anc Drgn Treasre,いにしえの龍秘宝,Anc Drgn Treasre
+317,Decayed Drgn Scl,朽ちた龍鱗,Decayed Drgn Scl
+318,Dragon Herb,龍薬石,Dragon Herb
+319,Felyne Fur Ruby,ネコ毛の紅玉,Felyne Fur Ruby
+320,Mosswine Hide,モスの苔皮,Mosswine Hide
+321,Bullfango Pelt,ファンゴの毛皮,Bullfango Pelt
+322,ThkBullfangoPelt,ファンゴの厚毛皮,Bullfango Pelt+
+323,Bullfango Head,ファンゴの頭,Bullfango Head
+324,Bulldrome Tusk,大猪の牙,Bulldrome Tusk
+325,Bulldrome Hide,大猪の皮,Bulldrome Hide
+326,Bulldrome Hide+,大猪の硬い皮,Bulldrome Hide+
+327,Kelbi Horn,ケルビの角,Kelbi Horn
+328,Kelbi Hide,ケルビの皮,Kelbi Hide
+329,Anteka Antlers,ガウシカの角,Anteka Antlers
+330,Anteka Pelt,ガウシカの毛皮,Anteka Pelt
+331,High Qualty Pelt,上質な毛皮,High Quality Pelt
+332,Remobra Skin,蛇竜の皮,Remobra Skin
+333,Remobra Skin+,蛇竜の上皮,Remobra Skin+
+334,SpecRemobraSkin+,蛇竜の特上皮,Remobra Skin G
+335,Striped Skin,縞模様の皮,Striped Skin
+336,Remobra Skull,蛇竜の頭,Remobra Skull
+337,ShakalakaTreasre,奇面族のお宝,ShakalakaTreasre
+338,ShakalakaTreasr+,奇面族の秘宝,ShakalakaTrsure+
+339,ShakaInheritance,奇面王の遺産,ShakaInheritance
+340,Giaprey Scale,ギアノスの鱗,Giaprey Scale
+341,Giaprey Scale+,ギアノスの上鱗,Giaprey Scale+
+342,Giaprey Hide,ギアノスの皮,Giaprey Hide
+343,Giaprey Hide+,ギアノスの上皮,Giaprey Hide+
+344,Giadrome Hide,ドスギアノスの皮,Giadrome Hide
+345,Giadrome Claw,ドスギアノスの爪,Giadrome Claw
+346,Giadrome Claw+,ギアノスの尖爪,Giadrome Claw+
+347,Giadrome Skull,ドスギアノスの頭,Giadrome Skull
+348,Velociprey Fang,ランポスの牙,Velociprey Fang
+349,Velociprey Scale,ランポスの鱗,Velociprey Scale
+350,Velociprey Scle+,ランポスの上鱗,Velociprey Scl+
+351,Velociprey Hide,ランポスの皮,Velociprey Hide
+352,Velociprey Hide+,ランポスの上皮,Velociprey Hide+
+353,Velocidrome Hide,ドスランポスの皮,Velocidrome Hide
+354,Velocidrome Claw,ドスランポスの爪,Velocidrome Claw
+355,Velocidrome Clw+,ランポスの尖爪,Velocidrome Clw+
+356,Velocidrome Head,ドスランポスの頭,Velocidrome Head
+357,Genprey Fang,ゲネポスの麻痺牙,Genprey Fang
+358,Genprey Scale,ゲネポスの鱗,Genprey Scale
+359,Genprey Scale+,ゲネポスの上鱗,Genprey Scale+
+360,Genprey Hide,ゲネポスの皮,Genprey Hide
+361,Genprey Hide+,ゲネポスの上皮,Genprey Hide+
+362,Gendrome Hide,ドスゲネポスの皮,Gendrome Hide
+363,Gendrome Tail,ドスゲネポスの尾,Gendrome Tail
+364,Gendrome Skull,ドスゲネポスの頭,Gendrome Skull
+365,Ioprey Fang,イーオスの毒牙,Ioprey Fang
+366,Ioprey Scale,イーオスの鱗,Ioprey Scale
+367,Ioprey Scale+,イーオスの上鱗,Ioprey Scale+
+368,Ioprey Hide,イーオスの皮,Ioprey Hide
+369,Ioprey Hide+,イーオスの上皮,Ioprey Hide+
+370,Iodrome Hide,ドスイーオスの皮,Iodrome Hide
+371,Iodrome Skull,ドスイーオスの頭,Iodrome Skull
+372,OrangeHypnoPelt,眠鳥の橙毛,Hypnoc Feather
+373,OrangeHypnoPelt+,眠鳥の豪橙毛,Hypnoc Feather+
+374,Top-GrdHypnoClaw,眠鳥の尖爪,Hypnoc Claw+
+375,Hypno Claw+,眠鳥の剛爪,Hypnoc StrngClaw
+376,Hypno Bezoar,眠鳥の胃石,HypncGizzardStne
+377,Hypno Bezoar+,眠鳥の稀胃石,HypncGizzardStn+
+378,Hypno Beak,眠鳥のクチバシ,Hypnoc Beak
+379,Hypno Fang,眠鳥の牙ハシ,HypncFangedBeak
+380,RainbowTailFeath,七色尾羽根,Rainbow Down
+381,Hypno Ticket,ヒプノチケット,Hypnoc Ticket
+382,Kut-Ku Scale,怪鳥の鱗,Kut-Ku Scale
+383,Kut-Ku Scale+,怪鳥の上鱗,Kut-Ku Scale+
+384,Thick Kut-Ku Scl,怪鳥の厚鱗,Kut-Ku Thck Scl
+385,Kut-Ku Shell,怪鳥の甲殻,Kut-Ku Shell
+386,Kut-Ku Carapace,怪鳥の堅殻,Kut-Ku Carapace
+387,Hvy Kut-Ku Shell,怪鳥の重殻,Kut-Ku Hvy Cpc 
+388,Kut-Ku Ear,怪鳥の耳,Kut-Ku Ear
+389,Long Kut-Ku Ear,怪鳥の地獄耳,Long Kut-Ku Ear
+390,Lucky Kut-Ku Ear,怪鳥の福耳,Lucky Kut-KuEar
+391,Giant Beak,巨大なクチバシ,Giant Beak
+392,Splendid Beak,立派なクチバシ,Splendid Beak
+393,Kut-Ku Webbing,怪鳥の翼膜,Kut-Ku Webbing
+394,Str Kut-Ku Wing,怪鳥の剛翼,Kut-Ku Hrd Wbbng
+395,Blue Kut-Ku Scl,青怪鳥の鱗,Blue Kut-Ku Scl
+396,Blue Kut-Ku Scl+,青怪鳥の上鱗,Blue Kut-Ku Scl+
+397,ThkBlueKut-KuScl,青怪鳥の厚鱗,BlueKut-KuThkScl
+398,Blue Kut-Ku Shl,青怪鳥の甲殻,Blue Kut-Ku Shl
+399,Blue Kut-Ku Cpc,青怪鳥の堅殻,Blue Kut-Ku Cpc
+400,HvyBlueKut-KuShl,青怪鳥の重殻,BlueKut-KuHvyCpc
+401,Rubbery Hide,ゴム質の皮,Rubbery Hide
+402,Rubbery Hide+,ゴム質の上皮,Rubbery Hide+
+403,SpecRubberyHide+,ゴム質の特上皮,Rubbery Hide G
+404,Gypceros Head,毒怪鳥の頭,Gypceros Head
+405,HardGypcerosHead,毒怪鳥の石頭,Gypceros HrdHead
+406,Pur Rubbery Hide,ゴム質の紫皮,Pur Rubbery Hide
+407,Pur Gypceros Wng,毒怪鳥の紫翼,Pur GypcerosWng
+408,HrdPuGypcerosWng,毒怪鳥の紫剛翼,Pur Gyp StrngWng
+409,Garuga Scale,黒狼鳥の鱗,Garuga Scale
+410,Garuga Scale+,黒狼鳥の上鱗,Garuga Scale+
+411,ThickGarugaScale,黒狼鳥の厚鱗,Garuga Scale G
+412,Garuga Shell,黒狼鳥の甲殻,Garuga Shell
+413,Garuga Carapace,黒狼鳥の堅殻,Garuga Carapace
+414,Hvy Garuga Shell,黒狼鳥の重殻,Garuga Hvy Cpc
+415,Garuga Ear,黒狼鳥の耳,Garuga Ear
+416,Long Garuga Ear,黒狼鳥の地獄耳,Garuga Devil Ear
+417,Sharpened Beak,尖ったクチバシ,Sharpened Beak
+418,Rejuvenated Beak,イカしたクチバシ,Sharpened Beak+
+419,Garuga Wing,黒狼鳥の翼,Garuga Wing
+420,Str Garuga Wing,黒狼鳥の剛翼,Garuga StrngWng
+421,Garuga Tail,黒狼鳥の尻尾,Garuga Tail
+422,LethrGarugaTail,黒狼鳥の靭尾,Garuga Tail+
+423,Garuga Mane,黒狼鳥のたてがみ,Garuga Mane
+424,SilverGarugaPelt,黒狼鳥の銀狼毛,Garuga Slvr Mane
+425,Blango Pelt,ブランゴの毛,Blango Pelt
+426,Blango Pelt+,ブランゴの剛毛,Blango Pelt+
+427,Sharp Claw,とがった爪,Sharp Claw
+428,Piercing Claw,鋭利な爪,Razor Claw
+429,Blangonga Fang,雪獅子の牙,Blangonga Fang
+430,Blangonga Fang+,雪獅子の鋭牙,Blangonga Fang+
+431,HvyBlangongaFang,雪獅子の重牙,Blangnga HvyFang
+432,Blangonga Pelt,雪獅子の毛,Blangonga Pelt
+433,Blangonga Pelt+,雪獅子の剛毛,Blangonga Pelt+
+434,HrdBlangongaPlt+,雪獅子の豪剛毛,Blangonga Pelt G
+435,Blangonga Whiskr,雪獅子の髭,Blangonga Whiskr
+436,Lthr Pelagus Plt,強靭な牙獣髭,Blngnga HrdWhskr
+437,Blangonga Tail,雪獅子の尻尾,Blangonga Tail
+438,LeathrBlangoTail,雪獅子の靭尾,Blangonga Tail G
+439,C.BlangongaPelt+,砂獅子の豪剛毛,Brwn BlngngaPelt
+440,HvyC.BlangoFang,砂獅子の重牙,Brwn BlngngaFang
+441,LthrC.BlangoTail,砂獅子の靭尾,Brwn BlngngaTail
+442,Conga Pelt,コンガの毛,Conga Pelt
+443,Conga Pelt+,コンガの剛毛,Conga Pelt+
+444,Congalala Pelt,桃毛獣の毛,Congalala Pelt
+445,Congalala Pelt+,桃毛獣の剛毛,Congalala Pelt+
+446,HrdCongalalaPlt+,桃毛獣の豪剛毛,Congalala Pelt G
+447,Vibrant Pelt,極彩色の毛,Vibrant Pelt
+448,Congalala Claw,桃毛獣の爪,Congalala Claw
+449,Congalala Claw+,桃毛獣の尖爪,Congalala Claw+
+450,HrdCongalalaClw+,桃毛獣の剛爪,Congalala Claw G
+451,Congalala Fang,桃毛獣の牙,Congalala Fang
+452,Lg Pelagus Fang,堅牢な牙獣牙,ConglalaStrngFng
+453,E.CongalalaPelt+,緑毛獣の豪剛毛,GrnCongalalaPelt
+454,HrdE.CongaClaw,緑毛獣の剛爪,GrnCongalalaClaw
+455,Vibrant Comb,極彩色のトサカ,Vibrant Crown
+456,Rajang Horn,金獅子の尖角,Rajang Horn
+457,Hard Rajang Horn,金獅子の剛角,Rajang Hard Horn
+458,Rajang Fang,金獅子の鋭牙,Rajang Fang
+459,Hvy Rajang Fang,金獅子の重牙,Rajang Hvy Fang
+460,Blk Rajang Pelt,金獅子の黒毛,Blk Rajang Pelt
+461,Blk Rajang Pelt+,金獅子の黒荒毛,BlkRajangThkPelt
+462,Rajang Claw,金獅子の尖爪,Rajang Claw
+463,Hard Rajang Claw,金獅子の剛爪,Rajang StrngClaw
+464,Rajang Tail,金獅子の尻尾,Rajang Tail
+465,dummy,ダミーアイテム,Dummy item
+466,Gold Rajang Pelt,黄金の毛,Gold Rajang Pelt
+467,GoldRajangPelt+,黄金の煌毛,ShiningRajangPlt
+468,Piscine Fang,魚竜の牙,Piscine Fang
+469,HvyPiscineFang,魚竜の重牙,Piscine Fang+
+470,Plesioth Scale,水竜の鱗,Plesioth Scale
+471,Plesioth Scale+,水竜の上鱗,Plesioth Scale+
+472,ThckPlesiothScl,水竜の厚鱗,Plsioth Thck Scl
+473,Plesioth Fin,水竜のヒレ,Plesioth Fin
+474,Plesioth Fin+,水竜の上ビレ,Plesioth Fin+
+475,SpecPlesiothFin+,水竜の特上ビレ,Plesioth Fin G
+476,Grn Plesioth Scl,翠水竜の鱗,Grn Plesioth Scl
+477,Grn Plsioth Scl+,翠水竜の上鱗,Grn Plsioth Scl+
+478,ThckGrnPlesioScl,翠水竜の厚鱗,GrnPlsiothThkScl
+479,Grn Plesioth Fin,翠水竜のヒレ,Grn Plesioth Fin
+480,Grn Plsioth Fin+,翠水竜の上ビレ,Grn Plsioth Fin+
+481,SpecGrnPlesioFn+,翠水竜の特上ビレ,GrnPlsioth Fin G
+482,Cephalos Scale,砂竜の鱗,Cephalos Scale
+483,Cephalos Scale+,砂竜の上鱗,Cephalos Scale+
+484,Cephalos Fin,砂竜のヒレ,Cephalos Fin
+485,Cephalos Fin+,砂竜の上ビレ,Cephalos Fin+
+486,Coral Cphlos Scl,砂竜の紫鱗,Coral Cphlos Scl
+487,Coral Cphlos Fin,砂竜の桃ヒレ,Coral Cphlos Fin
+488,ThckLavasiothScl,溶岩竜の厚鱗,Volganos Thk Scl
+489,HvyLavasiothShl,溶岩竜の重殻,Volganos Hvy Cpc
+490,HvyLavasiothFang,溶岩竜の重牙,Volganos HvyFang
+491,SpecLavasioFin+,溶岩竜の特上ビレ,Volganos Fin+
+492,Lavasioth Ticket,ラヴァチケット,Lava ticket
+493,Wyvern Skull Shl,竜頭殻,Wyvern Skull Shl
+494,Sm Hermitaur Shl,盾蟹の小殻,Sm Hermitaur Shl
+495,Hermitaur Shell,盾蟹の甲殻,Hermitaur Shell
+496,Hermitaur Carpce,盾蟹の堅殻,Hermitaur Carpce
+497,HvyHermitaurShl,盾蟹の重殻,Hermitaur HvyCpc
+498,Hermitaur Claw,盾蟹の爪,Hermitaur Claw
+499,Hermitaur Claw+,盾蟹の尖爪,Hermitaur Claw+
+500,HrdHermitaurClaw,盾蟹の剛爪,HermitaurClaw G
+501,PlumD.HermitrShl,盾蟹の紫殻,Pur HermitaurShl
+502,PlumD.HermitrClw,盾蟹の紫爪,Pur HermitaurClw
+503,Sm Ceanataur Shl,鎌蟹の小殻,Sm Ceanataur Shl
+504,Ceanataur Shell,鎌蟹の甲殻,Ceanataur Shell
+505,Ceanataur Carpce,鎌蟹の堅殻,Ceanataur Carpce
+506,HvyCeanataurShl,鎌蟹の重殻,CeanataurHvyCpc
+507,Ceanataur Leg,鎌蟹の脚,Ceanataur Leg
+508,HvyCeanataurLeg,鎌蟹の重脚,CeanataurHvyLeg
+509,Ceanataur Pincer,鎌蟹の鋏,Ceanataur Pincer
+510,Ceanataur Claw,鎌蟹の爪,Ceanataur Claw
+511,Ceanataur Claw+,鎌蟹の尖爪,Ceanataur Claw+
+512,HrdCeanataurClaw,鎌蟹の剛爪,CeanataurClaw G
+513,TerraCeanatrShl,鎌蟹の朱殻,RedCeanataurShl
+514,TerraCeanatrClaw,鎌蟹の朱爪,RedCeanataurClaw
+515,Sm Lobstershell,エビの小殻,Sm Lobstershell
+516,Lg Lobstershell,エビの大殻,Lg Lobstershell
+517,Gt Lobstershell,エビの巨大殻,Hg Lobstershell
+518,dummy,アメザリの甲殻,King Lobster Shl
+519,dummy,アメザリの巨大殻,King Lobster Cpc
+520,Rathian Scale,雌火竜の鱗,Rathian Scale
+521,Rathian Scale+,雌火竜の上鱗,Rathian Scale+
+522,ThckRathianScl,雌火竜の厚鱗,Rathian Thck Scl
+523,Rathian Plate,雌火竜の逆鱗,Rathian Plate
+524,Rathian Ruby,雌火竜の紅玉,Rathian Ruby
+525,HvnlyRathianScl,雌火竜の天鱗,RathianDvnePlate
+526,Rathian Shell,雌火竜の甲殻,Rathian Shell
+527,Rathian Carapace,雌火竜の堅殻,Rathian Carapace
+528,HvyRathianShell,雌火竜の重殻,Rathian Hvy Cpc
+529,Rathian Spike,雌火竜の棘,Rathian Spike
+530,Rathian Spike+,雌火竜の上棘,Rathian Spike+
+531,Rathian Thorn,雌火竜の秘棘,Rathian Spike G
+532,Pnk Rathian Scl,桜火竜の鱗,Pnk Rathian Scl
+533,Pnk Rathian Scl+,桜火竜の上鱗,PnkRathian Scl+
+534,ThckPnkRathnScl,桜火竜の厚鱗,PnkRathianThkScl
+535,Pnk Rathian Shl,桜火竜の甲殻,Pnk Rathian Shl
+536,Pnk Rathian Cpc,桜火竜の堅殻,Pnk Rathian Cpc
+537,HvyPnkRathianShl,桜火竜の重殻,PnkRathianHvyCpc
+538,Gld Rathian Scl+,金火竜の上鱗,Gld Rathian Scl+
+539,ThckGldRathnScl,金火竜の厚鱗,GldRathianThkScl
+540,Gld Rathian Cpc,金火竜の堅殻,Gld Rathian Cpc
+541,HvyGldRathianShl,金火竜の重殻,GldRathianHvyCpc
+542,GoldRathianThorn,金火竜の秘棘,GldRathianSpike
+543,Fire Wyvern Claw,火竜の翼爪,FireWyvern Claw
+544,HrdFireWyvernClw,火竜の剛翼爪,FireWyvrnHrdClaw
+545,FireWyvern Fluid,火竜の体液,FireWyvern Fluid
+546,FireWyvrn Marrow,火竜の骨髄,FireWyvrn Marrow
+547,FireWyvrn BrnStm,火竜の延髄,FireWyvrn BrnStm
+548,Rathalos Scale,火竜の鱗,Rathalos Scale
+549,Rathalos Scale+,火竜の上鱗,Rathalos Scale+
+550,Hrd Rathalos Scl,火竜の厚鱗,Rathalos ThckScl
+551,Rathalos Plate,火竜の逆鱗,Rathalos Plate
+552,Rathalos Ruby,火竜の紅玉,Rathalos Ruby
+553,HvnlyRathalosScl,火竜の天鱗,RathlosDvnePlate
+554,Rathalos Shell,火竜の甲殻,Rathalos Shell
+555,Rathalos Carpace,火竜の堅殻,Rathalos Carpace
+556,HvyRathalosShl,火竜の重殻,Rathalos Hvy Cpc
+557,Rathalos Tail,火竜の尻尾,Rathalos Tail
+558,LthrRathalosTail,火竜の靭尾,Rathalos HrdTail
+559,Rathalos Webbing,火竜の翼膜,Rathalos Webbing
+560,Rathalos Wing,火竜の翼,Rathalos Wing
+561,StrRathalosWing,火竜の剛翼,RathlosStrngWng
+562,Azure Rthlos Scl,蒼火竜の鱗,Azr Rathlos Scl
+563,Azre Rthlos Scl+,蒼火竜の上鱗,Azr Rathlos Scl+
+564,ThckAzurRthlsScl,蒼火竜の厚鱗,AzrRathlosThkScl
+565,Azure Rthlos Shl,蒼火竜の甲殻,Azre Rathlos Shl
+566,Azure Rthlos Cpc,蒼火竜の堅殻,Azre Rathlos Cpc
+567,HvyAzurRthlsShl,蒼火竜の重殻,AzrRathlosHvyCpc
+568,Azur Rthlos Tail,蒼火竜の尻尾,Azr Rathlos Tail
+569,LthrAzrRthlsTail,蒼火竜の靭尾,AzrRthlosHrdTail
+570,Azur Rthlos Wing,蒼火竜の翼,Azur Rathlos Wng
+571,Slvr Rthlos Scl+,銀火竜の上鱗,Slvr Ratlos Scl+
+572,ThckSlvrRthlsScl,銀火竜の厚鱗,SlvrRthlosThkScl
+573,Slvr Rthlos Cpc,銀火竜の堅殻,Slvr Rathlos Cpc
+574,HvySlvrRthlsShl,銀火竜の重殻,SlvrRthlosHvyCpc
+575,Slvr Rthlos Tail,銀火竜の尻尾,Slvr Ratlos Tail
+576,LthrSlvrRthlsTal,銀火竜の靭尾,SlvRthlosHrdTail
+577,Slvr Rthlos Wing,銀火竜の翼,Slvr Rathlos Wng
+578,Flabby Hide,ブヨブヨした皮,Flabby Hide
+579,Khezu Hide - Tan,真珠色の柔皮,Khezu Hide - Tan
+580,KhezuHide-Cream,真珠色の艶皮,Khezu Hide-Gloss
+581,Pale Bone,アルビノの中落ち,Pale Bone
+582,Pale Khezu Steak,アルビノの霜降り,Pale Khezu Steak
+583,KhezuSpecialCut,特撰アルビノ,ChoiceKhezuSteak
+584,Alluring Hide,魅惑色の柔皮,Alluring Hide
+585,Alluring Webbing,魅惑色の翼膜,Alluring Webbing
+586,StrAlluringWing,魅惑色の剛翼,Alluring Wing 
+587,Basarios Shell,岩竜の甲殻,Basarios Shell
+588,Basarios Carpace,岩竜の堅殻,Basarios Carpace
+589,HvyBasariosShell,岩竜の重殻,Basarios Hvy Cpc
+590,Basarios Wing,岩竜の翼,Basarios Wing
+591,StrBasariosWing,岩竜の剛翼,BasariosStrngWng
+592,Basarios Tears,岩竜の涙,Basarios Tears
+593,Tigrex Scale,轟竜の鱗,Tigrex Scale
+594,Tigrex Scale+,轟竜の上鱗,Tigrex Scale+
+595,ThickTigrexScale,轟竜の厚鱗,Tigrex Thck Scl
+596,HvnlyTigrexScale,轟竜の天鱗,TigrexDvinePlate
+597,Tigrex Shell,轟竜の甲殻,Tigrex Shell
+598,Tigrex Carapace,轟竜の堅殻,Tigrex Carapace
+599,Hvy Tigrex Shell,轟竜の重殻,Tigrex Hvy Cpc
+600,Tigrex Tail,轟竜の尻尾,Tigrex Tail
+601,LeathrTigrexTail,轟竜の靭尾,Tigrex Hrd Tail
+602,Tigrex Claw,轟竜の爪,Tigrex Claw
+603,Tigrex Claw+,轟竜の尖爪,Tigrex Claw+
+604,Hard Tigrex Claw,轟竜の剛爪,Tigrex StrngClaw
+605,Tigrex Fang,轟竜の牙,Tigrex Fang
+606,Tigrex Fang+,轟竜の鋭牙,Tigrex Fang+
+607,Hvy Tigrex Fang,轟竜の重牙,Tigrex Hvy Fang
+608,Tigrex Skull Shl,轟竜の頭殻,Tigrex Skull Shl
+609,Narga Scale+,迅竜の上鱗,Naruga Scale+
+610,ThickNargaScale,迅竜の厚鱗,Naruga Thck Scl
+611,HvnlyNargaScale,迅竜の天鱗,NarugaDvinePlate
+612,Black Narga Pelt,迅竜の黒毛,Naruga Pelt
+613,BlackNargaPelt+,迅竜の豪黒毛,Naruga Blk Pelt
+614,Nargacuga Tail,迅竜の尻尾,Naruga Tail
+615,LeatherNargaTail,迅竜の靭尾,Naruga Hrd Tail
+616,Narga Tail Spike,迅竜の尾棘,Naruga Spike
+617,HvyNargaTailSpik,迅竜の重尾棘,Naruga Hvy Spike
+618,NargaCuttingWing,迅竜の刃翼,Naruga Wing
+619,StrNargaCttngWng,迅竜の剛刃翼,Naruga Strng Wng
+620,Nargacuga Fang+,迅竜の鋭牙,Naruga Fang+
+621,HvyNargacugaFang,迅竜の重牙,Naruga Hvy Fang
+622,Narga Brain Stem,迅竜の延髄,Naruga Marrow
+623,Gravios Shell,鎧竜の甲殻,Gravios Shell
+624,Gravios Carapace,鎧竜の堅殻,Gravios Carapace
+625,HvyGraviosShell,鎧竜の重殻,Gravios Hvy Cpc
+626,HvnlyGraviosShl,鎧竜の天殻,GraviosDvnePlate
+627,Gravios Skl Shl,鎧竜の頭殻,Gravios Skl Shl
+628,Gravios BrainStm,鎧竜の延髄,Gravios BrainStm
+629,Blk Gravios Shl,黒鎧竜の甲殻,Blk Gravios Shl
+630,Blk Gravios Cpc,黒鎧竜の堅殻,Blk Gravios Cpc
+631,HvyBlkGraviosShl,黒鎧竜の重殻,BlkGraviosHvyShl
+632,HvnlyBlkGraviShl,黒鎧竜の天殻,BlkGravDvnePlate
+633,Blk Gravios Skl,黒鎧竜の頭殻,Blk Gravios Skl
+634,Twisted Horn,ねじれた角,Twisted Horn
+635,Majestic Horn,上質なねじれた角,Majestic Horn
+636,StoutWarpedHorn,堅牢なねじれた角,Glorious Horn
+637,Diablos Shell,角竜の甲殻,Diablos Shell
+638,Diablos Carapace,角竜の堅殻,Diablos Carapace
+639,HvyDiablosShell,角竜の重殻,Diablos Hvy Cpc
+640,Diablos Spine,角竜の背甲,Diablos Spine
+641,Diablos Thoracic,角竜の堅甲,Diablos Thoracic
+642,HvyDiablosSpine,角竜の重甲,Diablos HvySpne
+643,Diablos Tail,角竜の尻尾,Diablos Tail
+644,LthrDiablosTail,角竜の靭尾,Diablos Hrd Tail
+645,Blos Fang,角竜の牙,Blos Fang
+646,TwstBlkBlosHrn,黒巻き角,TwstBlkBlosHorn
+647,StoutBlkTwstdHrn,堅牢な黒巻き角,RobustBlkBlosHrn
+648,Black Blos Shell,黒角竜の甲殻,Black Blos Shell
+649,Black Blos Cpc,黒角竜の堅殻,Black Blos Cpc
+650,HvyBlkBlosShell,黒角竜の重殻,Blk Blos Hvy Cpc
+651,Black Blos Spine,黒角竜の背甲,Black Blos Spine
+652,Blk Blos Thracic,黒角竜の堅甲,Blk Blos Thracic
+653,HvyBlkBlosSpine,黒角竜の重甲,Blk Blos Hvy Spn
+654,Black Blos Tail,黒角竜の尻尾,Black Blos Tail
+655,LthrBlkBlosTail,黒角竜の靭尾,Blk Blos HrdTail
+656,Vespoid Abdomen,女王虫の尻尾,Vespoid Abdomen
+657,VespoidQn'sCrown,女王虫の冠殻,QueenVespoidShl
+658,Vespoid Shell,ランゴスタの甲殻,Vespoid Shell
+659,Vespoid Carapace,ランゴスタの堅殻,Vespoid Carapace
+660,Vespoid Wing,ランゴスタの羽,Vespoid Wing
+661,Vespoid InnrWng,ランゴスタの薄羽,Vespoid InnrWng
+662,Vspoid Razorwing,ランゴスタの斬羽,Vespoid RazrWng
+663,Hornetaur Shell,カンタロスの甲殻,Hornetaur Shell
+664,Hornetaur Crapce,カンタロスの堅殻,Hornetaur Carpce
+665,Hornetaur Head,カンタロスの頭,Hornetaur Head
+666,Hornetaur Wing,カンタロスの羽,Hornetaur Wing
+667,HornetaurInnrWng,カンタロスの薄羽,HornetaurInnrWng
+668,Hornet Razorwing,カンタロスの斬羽,HorneturRazrWng
+669,Blood Red Horn,真紅の角,Blood Red Horn
+670,Top-GrdRedHorn,上質な真紅の角,Majestic Red Hrn
+671,Monoblos Shell,一角竜の甲殻,Monoblos Shell
+672,MonoblosCarapace,一角竜の堅殻,Monoblos Carpce
+673,Monoblos Spine,一角竜の背甲,Monoblos Spine
+674,MonoblosThoracic,一角竜の堅甲,Monoblos Thrcic
+675,Monoblos Heart,モノブロスハート,Monoblos Heart
+676,Wht Monoblos Hrn,白銀の角,Wht Monoblos Hrn
+677,Top-GrdPlatHorn,上質な白銀の角,Majestic Wht Hrn
+678,Wht Monoblos Shl,白一角竜の甲殻,Wht Monoblos Shl
+679,Wht Monoblos Cpc,白一角竜の堅殻,Wht Monoblos Cpc
+680,Wht Monoblos Spn,白一角竜の背甲,Wht Monoblos Spn
+681,WhtMonoblosThora,白一角竜の堅甲,WhtMnoblosThrcic
+682,Kirin Horn,キリンの雷角,Kirin Horn
+683,Kirin Hide,キリンの皮,Kirin Hide
+684,Kirin Hide+,キリンの上皮,Kirin Hide+
+685,SpecialKirinHide,キリンの特上皮,Kirin Hide G
+686,Kirin Mane,キリンのたてがみ,Kirin Mane
+687,Platinum Mane,白銀のたてがみ,Kirin Slvr Mane
+688,Kirin Thndr Tail,キリンの雷尾,Kirin Thndr Tail
+689,LthrKirinThndrTl,キリンの靭雷尾,KirinThndrTail G
+690,Kirin Azure Horn,キリンの蒼角,Kirin Azure Horn
+691,Lao-Shan's Claw,老山龍の大爪,Lao-Shan's Claw
+692,Lao-Shan's Horn,老山龍の角,Lao-Shan's Horn
+693,Lao-Shan's Scale,老山龍の鱗,Lao-Shan's Scale
+694,Lao-Shan Scale+,老山龍の上鱗,Lao-Shan Scale+
+695,Lao-Shan'sThkScl,老山龍の厚鱗,Lao-ShanThckScl
+696,Lao-Shan's Ruby,老山龍の紅玉,Lao-Shan's Ruby
+697,Lao-ShanHvnlyScl,老山龍の天鱗,LaoS Dvine Plate
+698,Lao-Shan's Shell,老山龍の甲殻,Lao-Shan's Shell
+699,Lao-ShanCarapace,老山龍の堅殻,Lao-ShanCarapace
+700,Lao-Shan'sHvyShl,老山龍の重殻,Lao-Shan Hvy Cpc
+701,Azure LaoS Horn,老山龍の蒼角,Azure LaoS Horn
+702,Azure LaoS Shell,老山龍の蒼甲殻,Azure LaoS Shell
+703,Azure LaoS Claw,老山龍の蒼大爪,Azure LaoS Claw
+704,Gaoren Shell,砦蟹の甲殻,Gaoren Shell
+705,Gaoren Carapace,砦蟹の堅殻,Gaoren Carapace
+706,HvyGaorenShell,砦蟹の重殻,Gaoren Hvy Cpc
+707,HvnlyGaorenShell,砦蟹の天殻,GaorenDvinePlate
+708,Gaoren Spine,砦蟹の背甲,Gaoren Spine
+709,Gaoren Thoracic,砦蟹の堅甲,Gaoren Thoracic
+710,Hvy Gaoren Spine,砦蟹の重甲,Gaoren Hvy Spn
+711,Gaoren Pincer,砦蟹の鋏,Gaoren Pincer
+712,Gaoren Claw,砦蟹の尖爪,Gaoren Claw
+713,Hard Gaoren Claw,砦蟹の剛爪,GaorenStrngClaw
+714,Daora Shell,鋼龍の甲殻,Daora Shell
+715,Daora Carapace,鋼龍の堅殻,Daora Carapace
+716,Hvy Daora Shell,鋼龍の重殻,Daora Hvy Carpce
+717,DaoraDragonScale,鋼の龍鱗,DaoraDragonScale
+718,DaoraDragonScal+,鋼の上龍鱗,DaoraDragonScal+
+719,ThckDaoraDrgnScl,鋼の厚龍鱗,DaoraDrgnThckScl
+720,Daora Webbing,鋼龍の翼膜,Daora Webbing
+721,Str Daora Wing,鋼龍の剛翼,Daora Webbing G
+722,Daora Horn,鋼龍の角,Daora Horn
+723,Hard Daora Horn,鋼龍の剛角,Daora Horn G
+724,Daora Tail,鋼龍の尻尾,Daora Tail
+725,Lthr Daora Tail,鋼龍の靭尾,Daora Tail G
+726,Daora Claw,鋼龍の爪,Daora Claw
+727,Daora Sharp Claw,鋼龍の尖爪,Daora Sharp Claw
+728,Daora Jewel,鋼龍の宝玉,Daora Jewel
+729,Chameleos Hide,霞龍の皮,Chameleos Hide
+730,Chameleos Hide+,霞龍の上皮,Chameleos Hide+
+731,SpecChameleHide+,霞龍の特上皮,Chameleos Hide G
+732,Chameleos Horn,霞龍の角,Chameleos Horn
+733,Chameleos Spike,霞龍の尖角,Chameleos Spike
+734,HrdChameleosHorn,霞龍の剛角,Chameleos Horn G
+735,Chameleos Claw,霞龍の爪,Chameleos Claw
+736,ChameleosWebbing,霞龍の翼膜,ChameleosWebbing
+737,StrChameleosWing,霞龍の剛翼,ChameleosWbng G
+738,Chameleos Tail,霞龍の尻尾,Chameleos Tail
+739,LthrChameleoTail,霞龍の靭尾,Chameleos Tail G
+740,Chameleos Jewel,霞龍の宝玉,Chameleos Jewel
+741,Fire Dragon Scl,炎の龍鱗,Fire Dragon Scl
+742,Fire Drgn Scl+,獄炎の龍鱗,Fire Drgn Scl+
+743,ThckFireDrgnScl,獄炎の厚龍鱗,Fire Drgn HvyScl
+744,Fire Dragon Claw,炎龍の爪,Fire Dragon Claw
+745,HrdFireDrgnClaw,炎龍の剛爪,FireDrgnStrngClw
+746,Fire Drgn Webbng,炎龍の翼膜,Fire Drgn Wbng
+747,Fire Dragon Pwdr,炎龍の塵粉,Fire Dragon Pwdr
+748,Fire Drgn Jwl,炎龍の宝玉,Fire Drgn Jwl
+749,ElderDragonBlood,古龍の血,ElderDragonBlood
+750,Lunastra Shell,炎妃龍の甲殻,Lunastra Shell
+751,LunastraCarapace,炎妃龍の堅殻,Lunastra Carpace
+752,Lunastra Mane,炎妃龍のたてがみ,Lunastra Mane
+753,Lunastra Tail,炎妃龍の尻尾,Lunastra Tail
+754,Lunastra Horn,炎妃龍の角,Lunastra Horn
+755,Lunastra Spike,炎妃龍の尖角,Lunastra Horn G
+756,Teostra Shell,炎王龍の甲殻,Teostra Shell
+757,Teostra Carapace,炎王龍の堅殻,Teostra Carapace
+758,HvyTeostraShell,炎王龍の重殻,Teostra Hvy Cpc
+759,Teostra Mane,炎王龍のたてがみ,Teostra Mane
+760,Teostra Tail,炎王龍の尻尾,Teostra Tail
+761,LthrTeostraTail,炎王龍の靭尾,Teostra Tail G
+762,Teostra Horn,炎王龍の角,Teostra Horn
+763,Teostra Horn+,炎王龍の尖角,Teostra Horn+
+764,HardTeostraHorn,炎王龍の剛角,Teostra Horn G
+765,Dragonmoss,龍苔,Dragonmoss
+766,Dragonmoss+,神龍苔,Dragonmoss+
+767,AncientDrgnmoss,太古の龍苔,Dragonmoss G
+768,Dragonwood,龍木,Dragonwood
+769,Dragonwood+,神龍木,Dragonwood+
+770,AncientDrgnwood,太古の龍木,Dragonwood G
+771,YamaTsukamiHide,浮岳龍の皮,Yamatsukami Skin
+772,YamaTsukaFillet,浮岳龍のヒレ,Yamatsukami Fin
+773,YamaTsukamiFluid,浮岳龍の体液,YamatsukamiFluid
+774,Dark Piece,黒いかけら,Dark Piece
+775,Dark Stone,黒い塊,Dark Stone
+776,Fatalis Horn,黒龍の角,Fatalis Horn
+777,HardFatalisHorn,黒龍の剛角,Fatalis Hvy Horn
+778,Fatalis Scale,黒龍の鱗,Fatalis Scale
+779,ThckFatalisScale,黒龍の厚鱗,Fatalis Thck Scl
+780,Fatalis Shell,黒龍の甲殻,Fatalis Shell
+781,Hvy Fatalis Shl,黒龍の重殻,Fatalis Hvy Shl
+782,Fatalis Eye,黒龍の眼,Fatalis Eye
+783,Fatalis Evil Eye,黒龍の邪眼,Fatalis Evil Eye
+784,Fatalis Webbing,黒龍の翼膜,Fatalis Webbing
+785,Str Fatalis Wng,黒龍の剛翼,Fatalis Hrd Wbng
+786,Fatalis CrmsnHrn,黒龍の紅角,Fatalis CrmsnHrn
+787,HrdFatlisCrmHorn,黒龍の剛紅角,FataHvyCrmsnHrn
+788,Fatalis CrmsnScl,黒龍の紅鱗,Fatalis CrmsnScl
+789,ThckFatlisCrmScl,黒龍の厚紅鱗,FataThkCrmsnScl
+790,Fatalis CrmsnShl,黒龍の紅殻,Fatalis CrmsnShl
+791,HvyFatalisCrmShl,黒龍の重紅殻,FataHvyCrmsnShl
+792,Fatalis DevilEye,黒龍の魔眼,Fatalis DevilEye
+793,Fatalis CrmsnWng,黒龍の紅翼,Fatalis CrmsnWng
+794,StrFatlisCrmWing,黒龍の剛紅翼,FataHrdCrmsnWng
+795,Wht Fatalis Scl,祖龍の白鱗,Wht Fatalis Scl
+796,ThckWhtFatlisScl,祖龍の厚白鱗,WhtFatalisThkScl
+797,Wht Fatalis Shl,祖龍の堅殻,Wht Fatalis Cpc
+798,HvyWhtFatalisShl,祖龍の重殻,WhtFatalisHvyCpc
+799,Wht Fatalis Wbng,祖龍の翼膜,Wht Fatalis Wbng
+800,StrWhtFatalisWng,祖龍の剛翼,Wht Fatalis Wng
+801,Wht Fatalis Horn,祖龍の角,White Ftalis Hrn
+802,HrdWhtFatlisHorn,祖龍の剛角,WhtFatalisHvyHrn
+803,Akantor Scale,覇竜の上鱗,Akantor Scale
+804,Akantor Shell,覇竜の堅殻,Akantor Shell
+805,Akantor Tail,覇竜の尻尾,Akantor Tail
+806,Akantor Claw,覇竜の剛爪,Akantor Claw
+807,Akantor Fang,覇竜の大牙,Akantor Fang
+808,Akantor Spike,覇竜の大棘,Akantor Spike
+809,HvyUkanlosShell,崩竜の重殻,Ucamulbas Shell
+810,UkanlosUnderscl,崩竜の腹鱗,Ucamulbas Scale
+811,Hvy Ukanlos Tail,崩竜の重尾,Ucamulbas Tail
+812,UkanlosDiggngClw,崩竜の穿爪,Ucamulbas Claw
+813,UkanlosShovelJaw,崩竜の削顎,Ucamulbas Jaw
+814,StrongUkanlosFin,崩竜の剛ビレ,Ucamulbas Fin
+815,Ukanlos Stone,崩天玉,Ucamu Divine Jwl
+816,Wyverian Harp,龍頭の竪琴,Wyverian Harp
+817,Sinister Cloth,禍々しい布,Sinister Cloth
+818,Lost Umbrella,落し物の傘,Lost Umbrella
+819,Ruststone,さびた塊,Ruststone
+820,Flat Ruststone,さびた板状の塊,Flat Ruststone
+821,Large Ruststone,さびた大きな塊,Lg Ruststone
+822,Small Ruststone,さびた小さな塊,Sm Ruststone
+823,Ruststone Rod,さびた棒状の塊,Ruststone Rod
+824,Ancient Stone,太古の塊,Ancient Stone
+825,AncientFlatstone,太古の板状の塊,AncientFlatstone
+826,Lg Ancient Stone,太古の大きな塊,Lg Ancient Stone
+827,Sm Ancient Stone,太古の小さな塊,Sm Ancient Stone
+828,Ancient StoneRod,太古の棒状の塊,Ancient StoneRod
+829,Organizer Guide,収納上手・技の書,Organizer Guide
+830,Backpacker Guide,収納上手・力の書,BackPacker Guide
+831,Lynian Info,獣人種の書,Lynian Info
+832,Shakalaka Info,チャチャブーの書,Shakalaka Info
+833,Neopteron Info,甲虫種の書,Neopteron Info
+834,GrtThundrbugInfo,大雷光虫の書,Great Thunderbug Info
+835,Herbivore Info,草食種の書,Herbivore Info
+836,Bird Wyvern Info,鳥竜種の書,Bird Wyvern Info
+837,HypnocatriceInfo,ヒプノックの書,Hypnoc Info
+838,Yian Garuga Info,イャンガルルガの書,Yian Garuga Info
+839,FlyingWyvernInfo,飛竜種の書,FlyingWyvern Info
+840,Remobra Info,ガブラスの書,Remobra Info
+841,Tigrex Info,ティガレックスの書,Tigrex Info
+842,Nargacuga Info,ナルガクルガの書,Narugakuruga Info
+843,Akantor Info,アカムトルムの書,Akantor Info
+844,Ukanlos Info,ウカムルバスの書,Ucamulbas Info
+845,Piscine Info,魚竜種の書,Piscine Info
+846,Lavasioth Info,ヴォルガノスの書,Volganos Info
+847,Carapaceon Info1,甲殻種の書【上巻】,Carapaceon Info 1
+848,Carapaceon Info2,甲殻種の書【下巻】,Carapaceon Info 2
+849,Shen Gaoren Info,シェンガオレンの書,Shen Gaoren Info
+850,Pelagus Info,牙獣種の書,Primatius Info
+851,Rajang Info,ラージャンの書,Rajang Info
+852,Kirin Info,キリンの書,Kirin Info
+853,KushalaDaoraInfo,クシャルダオラの書,Kushala Daora Info
+854,Chameleos Info,オオナズチの書,Chameleos Info
+855,Lunastra Info,ナナ・テスカトリの書,Lunastra Info
+856,Teostra Info,テオ・テスカトルの書,Teostra Info
+857,Lao-Shan Info,ラオシャンロンの書,Lao Shan Info
+858,YamaTsukamiInfo,ヤマツカミの書,Yamatsukami Info
+859,Fatalis Info,ミラボレアスの書,Fatalis Info
+860,Steel Egg,鋼のたまご,Steel Egg
+861,Silver Egg,銀のたまご,Silver Egg
+862,Golden Egg,金のたまご,Gold Egg
+863,Map,地図,Map
+864,First-Aid Med,応急薬,First-Aid Med
+865,Ration,携帯食料,Ration
+866,Portable Spit,携帯肉焼きセット,Portable Spit
+867,Mini Whetstone,携帯砥石,Mini Whetstone
+868,Prtbl Shock Trap,携帯シビレ罠,Prtbl Shock Trap
+869,Supply Flash Bmb,支給専用閃光玉,Supply Flash Bmb
+870,Sply Max Potion,支給専用秘薬,Sply Max Potion
+871,Sply Pitfall Trp,支給専用落とし穴,Sply Pitfall Trp
+872,Sply Lg Brrl Bmb,支給用大タル爆弾,Sply Lg Brrl Bmb
+873,Ballista S,バリスタの弾,Ballista S
+874,Cannon S,大砲の弾,Cannon S
+875,Wyvern,ワイバーン,Wyvern 
+876,Wyvern Egg,飛竜の卵,Wyvern Egg
+877,Herbivore Egg,草食竜の卵,Herbivore Egg
+878,Carnivore Egg,肉食竜の卵,Carnivore Egg
+879,Sootstone Ore,灰水晶の原石,Soot stone
+880,Quartz Ore,白水晶の原石,Quartz Stone
+881,Powderstone,火薬岩,PowderStone
+882,Khezu Whelp,フルフルベビー,Khezu Whelp
+883,Khz Whlp Ice Crm,フルベビアイス,Khezu Ice Cream
+884,Kut-Ku Coin,クックコイン,Kut-ku Coin
+885,Congalala Coin,ババコイン,Congalala Coin
+886,Khezu Coin,アルビノコイン,Khezu Coin
+887,Daimyo Coin,ダイミョウコイン,Daimyo Coin
+888,Blangonga Coin,ドドブラコイン,Blangonga Coin
+889,Yian Garuga Coin,ガルルガコイン,Yian Garuga Coin
+890,Tigrex Coin,レックスコイン,Tigrex Coin
+891,Diablos Coin,ディアブロコイン,Diablos Coin
+892,Gravios Coin,グラビドコイン,Gravios Coin
+893,Kirin Coin,マボロシコイン,Kirin Coin
+894,Cephadrome Coin,ドスガレコイン,Cephalos Coin
+895,Plesioth Coin,ガノスコイン,Plesioth Coin
+896,Shogun Coin,ショウグンコイン,Shogun Coin
+897,Fire Coin,リオコイン,Fire Coin
+898,Rajang Coin,キンピカコイン,Rajang Coin
+899,BlackBeltCoinG,クロオビコインＧ,Blackbelt Coin G
+900,Expert Coin G,タツジンコインＧ,Expert Coin G
+901,Warrior Coin G,ツワモノコインＧ,Fighter Coin G
+902,Legend Coin G,デンセツコインＧ,Legendary Coin G
+903,Commendation,勇気の証,Commendation
+904,Commendation G,勇気の証Ｇ,Commendation G
+905,Commendation S,勇気の証Ｓ,Commendation S
+906,Pawprint Stamp,肉球のスタンプ,Pawprint Stamp
+907,Pokke Ticket,ポッケチケット,Pokke Ticket
+908,Pokke Ticket+,ポッケチケットＧ,Pokke Ticket+
+909,Normal Ticket,ノーマルチケット,Normal ticket
+910,Hard Ticket,ハードチケット,Hard Ticket
+911,Plus Class Tcket,Ｇクラスチケット,G Class Ticket
+912,Hero of Kkto Bio,ココット村英雄伝,Hero of Kkto Bio
+913,Hero of JumboBio,ジャンボ村武勇伝,Hero of JumboBio
+914,Elder Thank You,大長老の感謝状,Elder Thank You
+915,Elder Thnk You+,大長老の感謝状Ｇ,Elder Thank You+
+916,FlynMealPassReg,アイルー食券・並,FlynMealPassReg
+917,FlynMealPassPlus,アイルー食券・上,FlynMealPassPlus
+918,Comrade Ticket,オトモチケット,FlynFighterPass
+919,VeggieElderTcket,山菜組引換券,VeggieElderTcket
+920,VeggieElderTckt+,山菜組引換券Ｇ,VeggieElderTckt+
+921,VegElderTcktBrz,鋼の山菜組引換券,VegElderTcktBrz
+922,VegElderTcktSlv,銀の山菜組引換券,VegElderTcktSlv
+923,VegElderTcktGld,金の山菜組引換券,VegElderTcktGld
+924,VegElderTcktSky,天の山菜組引換券,VegElderTcktDvne
+925,Blackbelt Ticket,クロオビチケット,Blackbelt Ticket
+926,Expert Ticket,タツジンチケット,Expert Ticket
+927,Paw Pass Ticket,ネコタクチケット,Paw Pass Ticket
+928,Limited Paw Pass,条件付きネコタク,Limited Paw Pass
+929,dummy,ファミ通チケット,Famitsu Ticket
+930,dummy,ファミ通の注文書,Famitsu Invoice
+931,dummy,ファミ通ＰＴ,Famitsu PT Tckt
+932,dummy,ファミ通の特注券,FamitsuSpcialTkt
+933,dummy,デンゲキチケット,Dengeki Ticket
+934,dummy,電撃Ｇチケット,Dengeki Ticket+
+935,dummy,電撃２Ｇチケット,Dengeki Ticket G
+936,dummy,「マ）王チケット,One-HornedTicket
+937,dummy,海賊Ｊチケット,Pirate J Ticket
+938,dummy,海賊ＪチケットＧ,Pirate J Tckt G
+939,dummy,マガジンチケット,Magazine Ticket
+940,Hunter's Ticket,狩人チケット,Hunter's Ticket
+941,Hunter Soul Tkt,狩魂チケット,Hunter Soul Tckt
+942,Puppet Ticket,パペットチケット,Puppet Ticket
+943,SpecPuppetTicket,特注パペット券,Puppet Ticket+
+944,Suiko Jewel,水光原珠,Suiko Jewel
+945,Akito Jewel,陽翔原珠,Akito Jewel
+946,BattlefieldJewel,修羅原珠,BattlefieldJewel
+947,LapisLazuliJewel,瑠璃原珠,LapislazuliJewel
+948,Paralysis Jewel,耐麻痺珠,Paralysis Jewel
+949,Paralysis Jewel+,制麻痺珠,Petrification Jewel
+950,Pep Jewel,耐眠珠,Pep Jewel
+951,Jolt Jewel,抗眠珠,Jolt Jewel
+952,Steadfast Jewel,耐絶珠,Steadfast Jewel
+953,Steadfast Jewel+,制絶珠,Vigilance Jewel
+954,Antidote Jewel,耐毒珠,Antidote Jewel
+955,Antidote Jewel+,制毒珠,Anti-Toxin Jewel
+956,Retroviral Jewel,耐菌珠,Retroviral Jewel
+957,Antiviral Jewel,抗菌珠,Antiviral Jewel
+958,Snowblower Jewel,耐雪珠,Snowblower Jewel
+959,SnowblowerJewel+,制雪珠,Defroster Jewel
+960,Tip Toe Jewel,潜伏珠,Tip Toe Jewel
+961,Ninja Jewel,忍脚珠,Ninja Jewel
+962,Strength Jewel,体力珠,Strength Jewel
+963,Feel Good Jewel,早復珠,Feel Good Jewel
+964,Razor Jewel,斬鉄珠,Razor Jewel
+965,Artisan Jewel,匠珠,Artisan Jewel
+966,Fencer Jewel,剣豪珠,Fencer Jewel
+967,Expert Jewel,達人珠,Expert Jewel
+968,Grinder Jewel,研磨珠,Grinder Jewel
+969,Stone Wall Jewel,石壁珠,Stone Wall Jewel
+970,Hard Wall Jewel,強壁珠,Hard Wall Jewel
+971,HvnlyShieldJewel,天盾珠,HvnlyShieldJewel
+972,Hardball Jewel,力投珠,Hardball Jewel
+973,Early Bird Jewel,早填珠,Early Bird Jewel
+974,Recoilless Jewel,抑反珠,Recoilless Jewel
+975,StrongShot Jewel,強弾珠,StrongShot Jewel
+976,Pierce Jewel,貫通珠,Pierce Jewel
+977,Pellet Jewel,散弾珠,Pellet Jewel
+978,Shot Bonus Jewel,加弾珠,Shot Bonus Jewel
+979,PierceBonusJewel,加貫珠,PierceBonusJewel
+980,PelletBonusJewel,加散珠,PelletBonusJewel
+981,Crag Bonus Jewel,加榴珠,Bomb Bonus Jewel
+982,ScattrBonusJewel,加拡珠,ScatterBonusJewel
+983,SpecialAtk Jewel,特攻珠,SpecialAtk Jewel
+984,Element Jewel,属攻珠,Element Jewel
+985,Bombardier Jewel,爆師珠,Bombardier Jewel
+986,PickyEater Jewel,小食珠,PickyEater Jewel
+987,No Food Jewel,無食珠,Anorexic Jewel
+988,Fatso Jewel,食漢珠,Fatso Jewel
+989,Attack Jewel,攻撃珠,Attack Jewel
+990,Defense Jewel,防御珠,Defense Jewel
+991,Protection Jewel,加護珠,Protection Jewel
+992,DivineProtectJwl,神護珠,DivinePrtctionJewel
+993,Earplug Jewel,防音珠,Earplug Jewel
+994,Alarm Jewel,防盗珠,Alarm Jewel
+995,Friendship Jewel,友愛珠,Friendship Jewel
+996,Backpacker Jewel,運搬珠,Backpacker Jewel
+997,Impervious Jewel,全耐珠,Impervious Jewel
+998,Inferno Jewel,火炎珠,Inferno Jewel
+999,Crimson Jewel,紅蓮珠,Crimson Jewel
+1000,Stream Jewel,流水珠,Stream Jewel
+1001,Torrent Jewel,爆水珠,Torrent Jewel
+1002,Freeze Jewel,氷結珠,Freeze Jewel
+1003,Glacier Jewel,氷河珠,Glacier Jewel
+1004,Lightning Jewel,雷光珠,Lightning Jewel
+1005,Thunder Jewel,雷鳴珠,Thunder Jewel
+1006,Slayer Jewel,破龍珠,Slayer Jewel
+1007,DragonslyrJewel,絶龍珠,Dracocide Jewel
+1008,CoolBreeze Jewel,涼風珠,CoolBreeze Jewel
+1009,ColdBreezeJewel,凍風珠,Icy Gale Jewel
+1010,WarmBreeze Jewel,温風珠,Warm Breeze Jewel
+1011,HotBreezeJewel,燃風珠,Fiery Gale Jewel
+1012,PaperweightJewel,文鎮珠,PaperweightJewel
+1013,Map Jewel,地図珠,Map Jewel
+1014,Gathering Jewel,採取珠,Gathering Jewel
+1015,Grab'n'DashJewel,速集珠,Grab'n'DashJewel
+1016,Good Luck Jewel,祝珠,Good Luck Jewel
+1017,Blessing Jewel,祝福珠,Blessing Jewel
+1018,Fate Jewel,運気珠,Fate Jewel
+1019,Fisher Jewel,釣力珠,Fisher Jewel
+1020,Psychic Jewel,千里珠,Psychic Jewel
+1021,Curing Jewel,治癒珠,Curing Jewel
+1022,Professor Jewel,博士珠,Professor Jewel
+1023,Armory Jewel,弾製珠,Armory Jewel
+1024,SecretArts Jewel,秘術珠,SecretArts Jewel
+1025,Evade Jewel,回避珠,Evade Jewel
+1026,Danger Jewel,危険珠,Danger Jewel
+1027,StayingPwr Jewel,持続珠,StayingPwr Jewel
+1028,Marathon Jewel,強走珠,Marathon Jewel
+1029,Ammo Box Jewel,弾穴珠,Ammo Box Jewel
+1030,Sniper Jewel,的射珠,Sniper Jewel
+1031,SharpshootrJewel,点射珠,SharpshootrJewel
+1032,QuickEaterJewel,早食珠,QuickEaterJewel
+1033,HideCutter Jewel,皮剥珠,HideCutter Jewel
+1034,Melt-Proof Jewel,耐溶珠,Melt-Proof Jewel
+1035,Anchor Jewel,耐震珠,Anchor Jewel
+1036,BBQ Jewel,肉焼珠,BBQ Jewel
+1037,Small Arms Jewel,銃器珠,Small Arms Jewel
+1038,Howitzer Jewel,大砲珠,Howitzer Jewel
+1039,Fife Jewel,鼓笛珠,Fife Jewel
+1040,Tireless Jewel,抗疲珠,Tireless Jewel
+1041,Jumping Jewel,跳躍珠,Jump Jewel
+1042,Sword Draw Jewel,抜刀珠,Draw Jewel
+1043,Cat Guide Jewel,猫師珠,FlynMaster Jewel
+1044,Cat Attack Jewel,猫攻珠,FlynAttack Jewel
+1045,CatDefenseJewel,猫守珠,FlynDefence Jewel
+1046,TrapMasterJewel,罠師珠,TrapMaster Jewel
+1047,PoisonCoatJewel,毒瓶珠,PoisnCoating Jewel
+1048,ParalysCoatJewel,麻瓶珠,ParaCoating Jewel
+1049,Sleep Coat Jewel,眠瓶珠,SleepCoating Jewel
+1050,Power Coat Jewel,強瓶珠,PowerCoating Jewel
+1051,Combo Coat Jewel,接瓶珠,RazorCoating Jewel
+1052,Guts Jewel,根性珠,Survivor Jewel
+1053,ConstitutnJewel,体操珠,Stamina Jewel
+1054,Tranq Jewel,捕縄珠,Bind Jewel
+1055,Perceive Jewel,観察珠,Observer Jewel
+1056,ShortChargeJewel,短縮珠,QuickCharge Jewel
+1057,Cont. Fire Jewel,連射珠,SpeedFire Jewel
+1058,AntiParalyzJewel,抗麻痺珠,AntiParalyzJewel
+1059,Anti-Faint Jewel,抗絶珠,Anti-Faint Jewel
+1060,Antivenin Jewel,抗毒珠,Antivenin Jewel
+1061,Snowplow Jewel,抗雪珠,Snowplow Jewel
+1062,SpeedyRecvrJewel,速復珠,Quick Fix Jewel
+1063,Celebrity Jewel,名人珠,Celebrity Jewel
+1064,IronCurtainJewel,鉄壁珠,Iron Curtain Jewel
+1065,Wall Jewel,絶壁珠,Rigid Wall Jewel
+1066,High Speed Jewel,速填珠,High Speed Jewel
+1067,SpecialAtkJewel+,特襲珠,SpecialStrikeJewel
+1068,Fasting Jewel,絶食珠,Fasting Jewel
+1069,Fierce Jewel,猛攻珠,Fierce Jewel
+1070,Turtle Jewel,堅守珠,Turtle Jewel
+1071,Beloved Jewel,親愛珠,Beloved Jewel
+1072,Omnipotent Jewel,天耐珠,Omnipotent Jewel
+1073,Extinction Jewel,滅龍珠,Extinction Jewel
+1074,Cold Wind Jewel,冷風珠,Cold Wind Jewel
+1075,Hot Wind Jewel,暖風珠,Hot Wind Jewel
+1076,HeavyMetal Jewel,重塊珠,HeavyMetal Jewel
+1077,Destiny Jewel,強運珠,Destiny Jewel
+1078,Cure All Jewel,全癒珠,Cure All Jewel
+1079,Cure All Jewel+,天癒珠,Divine Cure Jewel
+1080,Dodge Jewel,光避珠,Dodge Jewel
+1081,Pinch Jewel,危難珠,Calamity Jewel
+1082,Permanence Jewel,恒久珠,Permanence Jewel
+1083,Eternal Jewel,永久珠,Eternal Jewel
+1084,Fast Food Jewel,速食珠,Fast Food Jewel
+1085,Anti-Thaw Jewel,抗溶珠,Anti-Thaw Jewel
+1086,Tectonic Jewel,抗震珠,Tectonic Jewel
+1087,UnsheathingJewel,抜撃珠,Unsheathe Jewel
+1088,ParalysisCAddJwl,痺瓶珠,Petrify Coating Jewel
+1089,PowerCAddJewel,剛瓶珠,Force Coating Jewel
+1090,More Guts Jewel,ド根性珠,Immortal Jewel
+1091,Health Jewel,体術珠,Body Arts Jewel
+1092,Knockout Jewel,捕縛珠,Cage Jewel
+1093,Cutter Jewel,斬空珠,Cutter Jewel
+1094,Master Jewel,名匠珠,Master Jewel
+1095,Swordsman Jewel,剣聖珠,Swordsman Jewel
+1096,Hermit Jewel,仙人珠,Hermit Jewel
+1097,StrongWall Jewel,剛壁珠,StrongWall Jewel
+1098,Shockless Jewel,無反珠,Shockless Jewel
+1099,StrongShotJewel+,剛弾珠,MightyShot Jewel 
+1100,Pierce Jewel+,剛貫珠,Impale Jewel
+1101,Pellet Jewel+,剛散珠,Scatter Jewel
+1102,Element Jewel+,属襲珠,Dire Element Jewel
+1103,Strongest Jewel,超攻珠,Merciless Jewel
+1104,Silencer Jewel,絶音珠,Silencer Jewel
+1105,Tenderness Jewel,慈愛珠,True Love Jewel
+1106,TrueResistJewel,真耐珠,Invulnerable Jewel
+1107,Solid Rock Jewel,如山珠,Solid Rock Jewel
+1108,Crisis Jewel,危機珠,Crisis Jewel
+1109,Sprinter Jewel,爆走珠,Sprinter Jewel
+1110,Magazine Jewel,弾倉珠,Magazine Jewel
+1111,Scarfing Jewel,迅食珠,Instant Meal Jewel
+1112,Carving Jewel,殻剥珠,ShellCutter Jewel
+1113,Flying Jewel,飛躍珠,Leap Jewel
+1114,RapidChargeJewel,圧縮珠,SpeedCharge Jewel
+1115,Barrage Jewel,流射珠,Barrage Jewel
+1116,Giadrome Jewel,ギアノスの秘玉,Giadrome Jewel
+1117,Kut-Ku Jewel,怪鳥の秘玉,Kut-Ku Jewel
+1118,Daimyo Jewel,盾蟹の秘玉,Daimyo Jewel
+1119,Congalala Jewel,桃毛獣の秘玉,Congalala Jewel
+1120,Rathalos Jewel,火竜の秘玉,Rathalos Jewel
+1121,Gravios Jewel,鎧竜の秘玉,Gravios Jewel
+1122,Garuga Jewel,黒狼鳥の秘玉,Garuga Jewel
+1123,Eldr Drgn Tears,古龍の涙,Eldr Drgn Tears
+1124,Lao-Shan Melon,ラオシャンメロン,Lao Shan Melon
+1125,Eldr Drgn Fossil,古龍の化石,Eldr Drg Fossil
+1126,Gypceros Crystal,ゲリョスイショウ,Gypceros Crystl
+1127,Rathian Jewel,雌火竜の秘玉,Rathian Jewel
+1128,Teostra Meteor,メテオテスカトル,Teostra Meteor
+1129,ThsandYearForest,千年樹の種,Milnm Tree Seed
+1130,Frozen Meatball,氷結ミートボール,Frozen Meatball
+1131,Buckshot Acorn,砲丸どんぐり,Buckshot Acorn
+1132,Cephadrome Melon,ドスガレオスイカ,Cephdrome Melon
+1133,Golden Cocoon,金色タママユ,Golden Cocoon
+1134,Amber Egg,琥珀のたまご,Amber Egg
+1135,Graviscus Bulb,グラビスカス球根,Graviscus Bulb
+1136,Century Walnut,百年くるみ,Century Walnut
+1137,Hard Dragonrock,堅竜岩,Hard Dragonrock
+1138,Dragonrock+,上竜岩,Dragonrock+
+1139,Dragonrock,竜岩,Dragonrock
+1140,Green Fin,グリーンフィン,Green Fin
+1141,Kut-Ku Cartilage,怪鳥のナンコツ,Kut-Ku Cartilge
+1142,Hermitaur Brains,ザザミソブイ,Hermtaur Brains
+1143,Congalala Stomch,桃毛獣のセンマイ,Congalala Stmch
+1144,Rathalos Liver,火竜のキモ,Rathalos Liver
+1145,Gravios Giblets,鎧竜のセセリ,Gravios Giblets
+1146,Garuga Drumstick,黒狼鳥のモミジ,Garuga Tendons
+1147,Giadrome Thigh,ギアノスのモモ,Giadrome Thigh
+1148,Kut-Ku Gizzards,怪鳥のスナズリ,Kut-Ku Gizzards
+1149,Daimyo Legs,盾蟹のボウニク,Daimyo legs
+1150,Congalala Innrds,桃毛獣のテッポウ,Congalala Steak
+1151,Rathalos Tongue,火竜のタン,Rathalos Tongue
+1152,Gravios Wingtip,鎧竜の手羽先,Gravios Wingtip
+1153,GarugaClavclMeat,黒狼鳥のマツバ,Garuga Skin
+1154,Blango Bacon,ブランゴのカルビ,Blango Bacon
+1155,Kut-Ku Skin,怪鳥のカワ,Kut-Ku Skin
+1156,Cephalos Roe,魚竜の白子,Cephalos Roe
+1157,Twstd Bldrm Tsk,大猪のねじれた牙,TwstdBldrmeTusk
+1158,Rathian Chops,雌火竜のロース,Rathian Chops
+1159,Purple Crest,パープルヘッド,Purple Crest
+1160,GarugaWhiteLiver,黒狼鳥の白肝,Garuga WhtLiver
+1161,Dragonite (L),竜石【大】,Dragonite(L)
+1162,Dragonite (M),竜石【中】,Dragonite(M)
+1163,Dragonite (S),竜石【小】,Dragonite(S)
+1164,Pokke Snowman,ポッケ式雪だるま,Pokke Snowman
+1165,Felyne Crown,豪華なネコ王冠,Felyne Crown
+1166,GldFlynJewelSwd,黄金ネコの宝剣,GldFlyneJwlSwrd
+1167,Dynasty Vase,王家のマカ古ツボ,Dynasty Vase
+1168,Mysterious Mask,神秘の奇面,Mysterious Mask
+1169,Eldr Drgn Rfrnc,文献【古龍生態】,EldrDrgn Scroll
+1170,AncntCatKingStat,古代ネコ王の石像,Anct Flyne Idol
+1171,Blngo Blzrd Ball,ブランゴの大雪玉,BlangoBlzrdBall
+1172,Blngo Flrry Ball,ブランゴの小雪玉,BlangoFlrryBall
+1173,Inferior FlynCrn,欠けたネコ王冠,InfriorFlynCrwn
+1174,Flyn Crwn Frgmnt,ネコ王冠の破片,FlyneCrwnFrgmnt
+1175,Hndlelss Gld Bld,柄のない黄金の刃,HndlessGldBlade
+1176,GldBladelessHndl,刃のない黄金の柄,GldBldlessHndle
+1177,Bttmlss Old Vase,底のない古のツボ,BttmlessOldVase
+1178,Old Vase Bottom,古のツボ底,Old Vase Bottom
+1179,Holed Shaka Mask,穴の開いた奇面,HoledShklakaMsk
+1180,Shakalaka Stone,奇面族の輝石,Shakalaka Stone
+1181,Torn Old Book,破かれた古書,Torn Old Book
+1182,Old Book Scrap,古書の切れ端,Old Book Scrap
+1183,TaillessCatStatu,尾のないネコ石像,TailessFlynIdol
+1184,BrokenStoneTail,折れた石の尾,DetachedStnTail
+1185,Popo Dandelion,タンポポポ,Popo Dandelion
+1186,Velociprey Lily,ランポスズラン,VelocipreyLilly
+1187,Monoblos Rose,モノブローズ,Monoblos Rose
+1188,Chameleos' Purse,オオナズナ,Chameleos'Purse
+1189,Peach Clover,百葉のクローバー,HndrdLeafClover
+1190,Gravibiscus,グラビスカス,Gravibiscus
+1191,Shakalaka Ranka,チャチャブランカ,Shakalakashroom
+1192,Wyvern Grass,竜草,Wyvern Grass
+1193,Glitter Mushroom,キラメキノコ,Pikashrooms
+1194,Shining Jellyfsh,カガヤキクラゲ,JellyfishFlower
+1195,Bright Mushroom,マブシイタケ,Bright Mushroom
+1196,Glittr Capshroom,ピッカエリンギ,Glitter Capshrm
+1197,Skin Care Shroom,美白ダケ,SkinCare Shroom
+1198,Beauty Shroom,ウツクシメジ,Beauty Shroom
+1199,ShimmeringShroom,ギラリエリンギ,Pearlshrooms
+1200,Wyvernshroom,竜茸,Wyvernshroom
+1201,Blangonga Apple,ドドブラリンゴ,Blangonga Apple
+1202,Kelbi Nuts,ケルピーナッツ,Kelbi Nuts
+1203,Cephalos Wtrmeln,ガレオスイカ,CephalosWtrmeln
+1204,Khezu Seed,フルフルの実,Khezu Seed
+1205,Writhe Nut,のたうちドングリ,Writhe Nut
+1206,Basarios Peach,バサルモモ,Basarios Peach
+1207,Shakalaka Squash,チャチャカボチャ,ShaklakaPumpkin
+1208,Lady Mackerel,お嬢サバ,Lady Mackerel
+1209,Angler Snapper,鯛公望,Angler Snapper
+1210,Yokotuna,ヨコツナ,Bluefin Tuna
+1211,Nobunaga Bonito,ノブナガツオ,Beach Herring
+1212,Goldendrome,ドス金魚,Goldfishdrome
+1213,Amateratuna,アマテラキス,Amatera Whiting
+1214,Brilliant Aji,アジソン,Song Mackerel
+1215,Chuck Mackerel,サバスチャン,Chuck Mackerel
+1216,Victory Fish,勝海フィッシュ,Victoryfish
+1217,Plump Goldenfish,オオゼキンギョ,Lg Goldenfish
+1218,Hideyoshi Ambrjk,カンパチ秀吉,Great Amberjack
+1219,Silverdrome,ドス銀魚,Silverdrome
+1220,Susanofish,スサノウオ,Susanofish
+1221,Pharr Yellowtail,ファーブリ,FrryYellow-tail
+1222,Large Wyvernfish,竜魚【大】,Lrg Wyvernfish
+1223,Med Wyvernfish,竜魚【中】,Med Wyvernfish
+1224,Small Wyvernfish,竜魚【小】,Sm Wyvernfish
+1225,Pickaxe Fish,ピッケル活魚,Pickaxe Fish
+1226,Bugnet Fish,虫あみ活魚,Bugnet Fish
+1227,Cooler Fish,クーラー活魚,Cooler Fish
+1228,Pokke Quartz,ポッケクォーツ,Pokke Quartz
+1229,Telos Stone,テロストーン,Telos stone
+1230,Sekumaeya Pearl,セクメーアパール,Sekumaeya Pearl
+1231,Schradite,シュレイドタイト,Schradite
+1232,Minegarde Night,ミナガルデナイト,Minegardite
+1233,Lateobrium,ラティオベリル,Lateobrium
+1234,Mezeporter Topaz,メゼポルトパーズ,Mezeporu Topaz
+1235,Furiamond,フラヒヤモンド,Furiamond Ore
+1236,Jumboite,ジャンボカイト,Jumboite
+1237,Dragokurium,ドラコクルムアイ,Dragokurium
+1238,Liber Ruby,リーヴェルビー,Liber Ruby
+1239,Kokotoite,ココットライト,Kokotoite
+1240,Dondorumin,ドンドルマリン,Dondorumin
+1241,GrtForestCrystal,樹海結晶,Forest Crystal
+1242,Wyvern Ore,竜鉱石,Wyvern Ore
+1243,Pure Wyvern Ore,竜輝石,Pure Wyvern Ore
+1244,Pillow Bug,ムラサキシキブン,Pillow Bug
+1245,Cleopatris,クレオパピヨン,Cleo Butterfly
+1246,GiantStagBeetle,オオオクワガタ,Grand Beetle
+1247,Ghostly Cicada,ヨウキヒグラシ,Ghostly Cicada
+1248,Celeb Cicada,セミセレブ,Celeb Cidada
+1249,Athena Beetle,オノノコバチ,Athena Beetle
+1250,Hornfly Princess,アゲハプリンセス,PrincessBttrfly
+1251,Princess Scarab,ヒミコガネ,Princess Scarab
+1252,Marilyn Btterfly,マリリンモンシロ,MarilynBtterfly
+1253,Cricket of Troy,ヘレンオケラー,Cricket of Troy
+1254,Cutie Crawler,ワームキューレ,Cutie Crawler
+1255,Lovely Locust,イナゴージャス,Lovely Locust
+1256,Killer Venus,キラービーナス,Killer Venus
+1257,Hornfly Prince,アゲハプリンス,PrinceButterfly
+1258,Rathian Fly,竜虫【雌】,Rathian Fly
+1259,Rathalos Fly,竜虫【雄】,Rathalos Fly
+1260,Embroidered Flag,刺繍入りの登頂旗,EmbroideredFlag

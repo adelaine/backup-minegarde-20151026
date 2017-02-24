@@ -1,0 +1,319 @@
+Armor Skill In Unite Names;Skills In Unite Names;;Armor Skill in Japanese;Skills In Japanese;;Armor Skill In Patch Names;Skills In Patch Names;Value;Description
+
+Attack;Attack Up (Large);;攻撃;攻撃力UP【大】;;Attack;Attack Up (Large);20;Greater increase in Attack
+;Attack Up (Medium);;;攻撃力UP【中】;;;Attack Up (Medium);15;Moderate increase in Attack
+;Attack Up (Small);;;攻撃力UP【小】;;;Attack Up (Small);10;Slight increase in Attack
+;Attack Down (Small);;;攻撃力DOWN【小】;;;Attack Down (Small);-10;Slight decrease in Attack
+;Attack Down (Medium);;;攻撃力DOWN【中】;;;Attack Down (Medium);-15;Moderate decrease in Attack
+;Attack Down (Large);;;攻撃力DOWN【大】;;;Attack Down (Large);-20;Greater decrease in Attack
+
+Defense;Defense+40;;防御;防御+40;;Defense;Defense +40;20;Increases Defense by 40
+;Defense+30;;;防御+30;;;Defense +30;15;Increases Defense by 30
+;Defense+20;;;防御+20;;;Defense +20;10;Increases Defense by 20
+;Defense-20;;;防御-20;;;Defense -20;-10;Decreases Defense by 20
+;Defense-30;;;防御-30;;;Defense -30;-15;Decreases Defense by 30
+;Defense-40;;;防御-40;;;Defense -40;-20;Decreases Defense by 40
+
+Health;Health+50;;体力;体力+50;;Health;Health +50;20;Increases Health by 50
+;Health+30;;;体力+30;;;Health +30;15;Increases Health by 30
+;Health+20;;;体力+20;;;Health +20;10;Increases Health by 20
+;Health-10;;;体力-10;;;Health -10;-10;Decreases Health by 10
+;Health-20;;;体力-20;;;Health -20;-15;Decreases Health by 20
+;Health-30;;;体力-30;;;Health -30;-20;Decreases Health by 30
+
+All Resist;All Resist+10;;全耐性;全耐性+10;;All Resist;All Resist +10;20;Adds 10 to all Resistances
+;All Resist+5;;;全耐性+5;;;All Resist +5;15;Adds 5 to all Resistances
+;All Resist+3;;;全耐性+3;;;All Resist +3;10;Adds 3 to all Resistances
+;All Resist-3;;;全耐性-3;;;All Resist –3;-10;Minus 3 to all Resistances
+;All Resist-5;;;全耐性-5;;;All Resist –5;-15;Minus 5 to all Resistances
+;All Resist-10;;;全耐性-10;;;All Resist –10;-20;Minus 10 to all Resistances
+
+Fire Res;Fire Res+10;;火耐性;火耐性+10;;Fire Res;Fire Res +10;15;Adds 10 to Fire Resistance
+;Fire Res+5;;;火耐性+5;;;Fire Res +5;10;Adds 5 to Fire Resistance
+;Fire Res-5;;;火耐性-5;;;Fire Res –5;-10;Minus 5 to Fire Resistance
+;Fire Res-10;;;火耐性-10;;;Fire Res -10;-15;Minus 10 to Fire Resistance
+
+Water Res;Water Res+10;;水耐性;水耐性+10;;Water Res;Water Res +10;15;Adds 10 to Water Resistance
+;Water Res+5;;;水耐性+5;;;Water Res +5;10;Adds 5 to Water Resistance
+;Water Res-5;;;水耐性-5;;;Water Res –5;-10;Minus 5 to Water Resistance
+;Water Res-10;;;水耐性-10;;;Water Res –10;-15;Minus 10 to Water Resistance
+
+ThunderRes;ThunderRes+10;;雷耐性;雷耐性+10;;Thunder Res;Thunder Res +10;15;Adds 10 to Thunder Resistance
+;ThunderRes+5;;;雷耐性+5;;;Thunder Res +5;10;Adds 5 to Thunder Resistance
+;ThunderRes-5;;;雷耐性-5;;;Thunder Res –5;-10;Minus 5 to Thunder Resistance
+;ThunderRes-10;;;雷耐性-10;;;Thunder Res –10;-15;Minus 10 to Thunder Resistance
+
+Ice Res;Ice Res+10;;氷耐性;氷耐性+10;;Ice Res;Ice Res +10;15;Adds 10 to Ice Resistance
+;Ice Res+5;;;氷耐性+5;;;Ice Res +5;10;Adds 5 to Ice Resistance
+;Ice Res-5;;;氷耐性-5;;;Ice Res –5;-10;Minus 5 to Ice Resistance
+;Ice Res-10;;;氷耐性-10;;;Ice Res -10;-15;Minus 10 to Ice Resistance
+
+Dragon Res;Dragon Res+10;;龍耐性;龍耐性+10;;Dragon Res;Dragon Res +10;15;Adds 10 to Dragon Resistance
+;Dragon Res+5;;;龍耐性+5;;;Dragon Res +5;10;Adds 5 to Dragon Resistance
+;Dragon Res-5;;;龍耐性-5;;;Dragon Res-5;-10;Minus 5 to Dragon Resistance
+;Dragon Res-10;;;龍耐性-10;;;Dragon Res -10;-15;Minus 10 to Dragon Resistance
+
+Faint;Faint Negated;;気絶;気絶無効;;Faint;Faint Negated;15;Immune to K.O. status
+;Faint Prob Halved;;;気絶確率半減;;;Faint Prob Halved;10;K.O. duration halved
+;Faint Duration[×2];;;気絶倍加;;;Faint Duration [X2];-10;K.O. duration doubled
+
+Poison;PoisonNegated;;毒;毒無効;;Poison;Poison Negated;15;Immune to Poison status
+;PoisonDur Halved;;;毒半減;;;Poison Dur Halved;10;Poison duration halved
+;PoisonDur[×2];;;毒倍加;;;Poison Duration[x2];-10;Poison duration doubled
+
+Paralysis;ParalysisNegated;;麻痺;麻痺無効;;Paralysis;Paralysis Negated;15;Immune to Paralysis status
+;ParalysisDur Halved;;;麻痺半減;;;Para Duration Halved;10;Paralysis duration halved
+;ParalysisDur[×2];;;麻痺倍加;;;Para Duration[x2];-10;Paralysis duration doubled
+
+Sleep;SleepNegated;;睡眠;睡眠無効;;Sleep;Sleep Negated;15;Immune to Sleep status
+;SleepDur Halved;;;睡眠半減;;;Sleep Dur Halved;10;Sleep duration halved
+;SleepNegated;;;睡眠無効;;;Sleep Duration[X2];-10;Sleep duration doubled
+
+Antiseptic;Antiseptic;;抗菌;抗菌;;Antiseptic;Antiseptic;10;Immune to health item use negation effects
+
+Fatigue;FatigueNegated;;疲労;疲労無効;;Fatigue;Fatigue Cancellation;10;Immune to fatigue effects
+
+Snow Res;Snow Res;;耐雪;耐雪;;Snow Resistance;Snow Resistance;10;Immune to snow effects
+
+Quake Res;Quake Res;;耐震;耐震;;Quake Resistance;Quake Resistance;10;Immune to quake effects
+
+HearProtct;High Grade Earplug;;聴覚保護;高級耳栓;;HearProtect;High-Grade Earplug;15;Unaffected by all monster roars
+;Earplug;;;耳栓;;;Earplug;10;Unaffected by some monster roars
+
+WindPress;DragonWindPressNegated;;風圧;龍風圧無効;;WindPress;Dragon Wind Breaker;20;Unaffected by all wind pressures
+;High WindPress;;;風圧【大】;;;High Wind Res;15;Unaffected by large wind pressures
+;Low WindPress;;;風圧【小】;;;Low Wind Res;10;Unaffected by small wind pressures
+
+Anti-Theft;Anti-Theft;;盗み無効;盗み無効;;Steal No Effect;Steal No Effect;10;Inventory items cannot be stolen
+
+ResistSts;Self-Defense;;状態耐性;護法;;Status Res;Abnormal Status Negated;10;Unaffected by status effects
+
+AntiFirDrg;Metallic Protection;;対炎龍;鋼殻の護り;;FireDragonRes;Daora Ward;10;Terrain Damage Reduce[Hi] and Fire Resistance
+
+AntiDaora;Frosty Protection;;対鋼龍;霞皮の護り;;Daora Res;Chameleos Ward;10;Dragon Wind Breaker and Snow Resistance
+
+AntiChamel;Fiery Protection;;対霞龍;炎鱗の護り;;ChamleosRes;Fire Dragon Ward;10;Fatigue Cancellation and Steal No Effect
+
+Artisan;Sharpness+1;;匠;斬れ味レベル+1;;Artisan;Sharpness +1;10;Increases weapon sharpness
+;Sharpness-1;;;斬れ味レベル-1;;;Sharpness -1;-10;Decreases weapon shapness
+
+Sharpness;Sharp Sword;;斬れ味;業物;;Sharpness;Sharp Sword;10;Weapon sharpness decrease is halved
+;Blunt;;;なまくら;;;Blunt Edge;-10;Weapon sharpness decrease is doubled
+
+Fencing;ESP;;剣術;心眼;;Fencing;ESP;10;Negates deflection of attacks
+
+SwdShrpner;Sharpening Skl Inc;;研ぎ師;砥石使用高速化;;SwdShrpner;Sharpening Skl Inc;10;Faster weapon sharpening speed
+;Sharpening Skl Half;;;砥石性能半減;;;Sharpening Skl Halved ;-10;Slower weapon sharpening speed
+
+Guard;Guard+2;;ガード性能;ガード性能+2;;Guard;Guard +2;20;Reduces stamina use, damage and push back when blocking
+;Guard+1;;;ガード性能+1;;;Guard +1;10;Reduces stamina use, damage and push back when blocking
+;Guard-1;;;ガード性能-1;;;Guard -1;-10;Increases stamina use, damage and push back when blocking
+;Guard-2;;;ガード性能-2;;;Guard -2;-20;Increases stamina use, damage and push back when blocking
+
+Auto-Guard;Auto-Guard;;自動防御;オートガード;;Auto-Guard;Auto-Guard;10;Blocks attacks automatically if doing nothing
+
+Sword Draw;Art of Unsheathing;;抜刀;抜刀術;;Drawn Critical;Unsheathed Attack Critical;10;Unsheathed attacks do 125% damage
+
+Edgemaster;Stellar Hunter;;刀匠;真打;;SwdMastery;True Strike;10;Sharpness +1 and Attack Up (Large)
+
+NormalS Up;NormalS/RapidBow Up;;通常弾強化;通常弾・連射矢威力UP;;NormalS Up;NormalS/RapidBow Up;10;Increases damage of Normal S and Rapid shots
+
+PierceS Up;PierceS/PierceBow Up;;貫通弾強化;貫通弾・貫通矢威力UP;;PierceS Up;PierceS/PierceBow Up;10;Increases damage of Pierce S and Pierce shots
+
+PelletS Up;PelletS/ScattrBow Up;;散弾強化;散弾・拡散矢威力UP;;PelletS Up;PelletS/ScattrBow Up;10;Increases damage of Pellet S and Scatter shots
+
+NormalSAdd;Normal S All LV Add;;通常弾追加;通常弾全レベル追加;;NormalSAdd;All Shots Up;10;Adds 1 to all Normal S ammo load limits
+
+PierceSAdd;Pierce S All LV Add;;貫通弾追加;貫通弾全レベル追加;;PierceSAdd;All Pierce Lvls Up;15;Adds 1 to all Pierce S ammo load limits
+;Pierce S LV1 Add;;;貫通弾LV1追加;;;Pierce S LV 1 Add;10;Adds 1 to Pierce S Lv1 ammo load limit
+
+PelletSAdd;Pellet S All LV Add;;散弾追加;散弾全レベル追加;;PelletSAdd;All Scatter Lvls Up;15;Adds 1 to all Pellet S ammo load limits
+;Pellet S LV1 Add;;;散弾LV1追加;;;Scatter Lvl 1 Up;10;Adds 1 to Pellet S Lv1 ammo load limit
+
+Crag S Add;Crag S All LV Add;;榴弾追加;徹甲榴弾全レベル追加;;CragS Add;All Crag Lvls Up;15;Adds 1 to all Crag S ammo load limits
+;Crag S LV1 Add;;;徹甲榴弾LV1追加;;;Crag Lvl 1 up;10;Adds 1 to Crag S Lv1 ammo load limit
+
+CragSAdd;Crag S All LV Add;;拡散弾追加;徹甲榴弾全レベル追加;;ClustS Add;All Clust Lvl Up;15;Adds 1 to all Clust S ammo load limits
+;Pellet S LV1 Add;;;拡散弾LV1追加;;;Clust Lvl 1 Up;10;Adds 1 to Clust S Lv1 ammo load limit
+
+Reload;Reload Speed+3;;装填;装填速度+3;;Load;Reloading Speed +3;20;Bowgun reloading speed increases 3 levels
+;Reload Speed+2;;;装填速度+2;;;Reloading Speed +2;15;Bowgun reloading speed increases 2 levels
+;Reload Speed+1;;;装填速度+1;;;Reloading Speed +1;10;Bowgun reloading speed increases 1 level
+;Reload Speed-1;;;装填速度-1;;;Reloading Speed -1;-10;Bowgun reloading speed decreases 1 level
+;Reload Speed-2;;;装填速度-2;;;Reloading Speed -2;-15;Bowgun reloading speed decreases 2 levels
+;Reload Speed-3;;;装填速度-3;;;Reloading Speed -3;-20;Bowgun reloading speed decreases 3 levels
+
+Auto-Reload;AutoReload;;自動装填;自動装填;;Speed Fire;Speed Fire;10;No reloading required until change of ammo type
+
+Recoil;Recoil Reduction +2;;反動;反動軽減+2;;Recoil;Recoil Reduction +2;20;Bowgun recoil negated
+;Recoil Reduction +1;;;反動軽減+1;;;Recoil Reduction +1;10;Bowgun recoil reduced
+
+Precision;Shell Deviation Down;;精密射撃;ぶれ幅DOWN;;Precision;Target Range Down;10;Reduces shots being off-center
+;Shell Deviation Up;;;ぶれ幅UP;;;Target Range Up;-10;Increases shots being off-center
+
+PoisonCAdd;Poison Coating Add;;毒瓶追加;毒ビン追加;;PoisnCtAdd;Poison Coat Add;10;Allows Bow to use Poison Coatings
+
+ParalyCAdd;Paralysis Coat Add;;麻痺瓶追加;麻痺ビン追加;;Para CtAdd;Paralysis Coat Add;10;Allows Bow to use Paralysis Coatings
+
+SleepCAdd;Sleep Coating Add;;睡眠瓶追加;睡眠ビン追加;;SleepCtAdd;Sleep Coat Add;10;Allows Bow to use Sleep Coatings
+
+PowerCAdd;Power Coating Add;;強撃瓶追加;強撃ビン追加;;PowerCtAdd;Power Coat Add;10;Allows Bow to use Power Coatings
+
+ClsRngCAdd;ClsRngCAdd;;接撃瓶追加;接撃ビン追加;;RazorCtAdd;Razor Coat Add;10;Allows Bow to use Razor Coatings
+
+SteadyHand;Straight & True;;射手;剛弾;;Marksman;Shot Damage Up;10;Increases damage of all Normal S, Pierce S and Pellet S
+
+Expert;Reckless Abandon+3;;達人;見切り+3;;Expert;Reckless Abandon +3;20;Increases Affinity by 30%
+;Reckless Abandon+2;;;見切り+2;;;Reckless Abandon +2;15;Increases Affinity by 20%
+;Reckless Abandon+1;;;見切り+1;;;Reckless Abandon +1;10;Increases Affinity by 10%
+;Reckless Abandon-1;;;見切り-1;;;Reckless Abandon -1 ;-10;Decreases Affinity by 10%
+;Reckless Abandon-2;;;見切り-2;;;Reckless Abandon -2;-15;Decreases Affinity by 20%
+;Reckless Abandon-3;;;見切り-3;;;Reckless Abandon -3;-20;Decreases Affinity by 30%
+
+Spc Attack;Abnormal Sts Atk Up;;特殊攻撃;状態異常攻撃強化;;Spc Attack;Abnormal Sts Atk Up;10;Increases Attack Power of all Status attacks
+
+ElementAtk;Element Attack Up;;属性攻撃;属性攻撃強化;;ElementAtk;Element Atk Up;10;Increases Attack Power of all Elemental attacks
+
+Rec Speed;Damage Rec Speed+2;;回復速度;ダメージ回復速度+2;;Rec Speed;Damage Rec Speed +2;20;Red part of health gauge increases 4 times faster
+;Damage Rec Speed+1;;;ダメージ回復速度+1;;;Damage Rec Speed +1;10;Red part of health gauge increases 2 times faster
+;Damage Rec Speed-1;;;ダメージ回復速度-1;;;Damage Rec Speed -1;-10;Red part of health gauge increases 2 times slower
+;Damage Rec Speed-2;;;ダメージ回復速度-2;;;Damage Rec Speed -2;-20;Red part of health gauge increases 4 times slower
+
+Protection;Divine Protection;;加護;精霊の加護;;Protection;Divine Protection;10;25% chance of decreasing damage taken by 30%
+;Demonic Protection;;;悪霊の加護;;;Demonic Protection;-10;25% chance of increasing damage taken by 30%
+
+Guard Up;Guard Up;;ガード強化;ガード強化;;Guard Inc            ;Guard Inc;10;Able to block attacks not normally blockable
+
+Evade;Evade+2;;回避性能;回避性能+2;;Evade;Evade +2;15;Increased invulnerability time during rolling, diving, backhopping and sidestepping
+;Evade+1;;;回避性能+1;;;Evade +1;10;Increased invulnerability time during rolling, diving, backhopping and sidestepping
+
+Evade Dist;Evade DistUP;;回避距離;回避距離UP;;Evade Inc;Evade Distance Up;10;Increased distance of maneuvers
+
+Potential;Adrenaline +2;;底力;火事場力+2;;Potential;Adrenaline +2;15;Increased Attack Power and Defense when health is low
+;Adrenaline +1 ;;;火事場力+1;;;Adrenaline +1;10;Increased Defense when health is low
+;Worry;;;心配性;;;Worry;-10;Decreased Attack Power when health is low
+
+Gunnery;Gunnery King;;砲術;砲術王;;Gunnery;Gunnery King;15;Increased damage of Ballista S, Cannon S. Gunlance Shelling and Crag S
+;Gunnery Master;;;砲術師;;;Gunnery Master;10;Increased damage of Ballisia S and Cannon S.
+
+Capacity;Capacity Up;;装填数;装填数UP;;Loading;Load Up;10;Increases the ammo limit of all existing shots by 1
+
+ShortCharg;Focus;;溜め短縮;集中;;Fast Chrge;Concentration;10;Increases the charging speed of GS, Hammers and Bows
+;Distracted;;;雑念;;;Distraction;-10;Decreases the charging speed of GS, Hammers and Bows
+
+Guts;Guts;;根性;根性;;Survival;Survival;10;If health is above 60-70%, a fatal blow is negated and Health reduces to 1
+
+Fury;Emboldened;;怒;逆鱗;;Rage;Rampage;10;Adrenaline +2 and Survival
+
+
+
+Map;Farsight;;地図;地図常備;;Map;Farsight;10;Map of area is automatically shown
+;Map Unavailable;;;地図無効;;;Map Unavailable;-10;Map of area is never shown
+
+PsychicVis;Autotracker;;千里眼;自動マーキング;;PsychicVis;Autotracker;15;Location of monster is always shown on the map
+;Detect;;;探知;;;Detect;10;Exact movements is shown on map when monster is paintballed
+
+Gathering;Gathering+2;;採取;採取+2;;Gathering;Gathering +2;15;Able to gather even more from mining spot or gathering point
+;Gathering+1;;;採取+1;;;Gathering +1;10;Able to gather more from mining spot or gathering point
+;Gathering-1;;;採取-1;;;Gathering -1;-10;Gathers less from mining spot or gathering point
+;Gathering-2;;;採取-2;;;Gathering -2;-15;Gathers even less from mining spot or gathering point
+
+Carving;Carving Celebrity;;剥ぎ取り;剥ぎ取り名人;;Carving;Carving Celebrity;20;Unaffected by minor attacks when carving and able to carve 1 more time
+;Carving Iron Man;;;剥ぎ取り鉄人;;;Carving Iron Man;10;Unaffected by minor attacks when carving
+
+HiSpdGathr;High Speed Gathering;;高速収集;高速剥ぎ取り＆採取;;HiSpdGathr             ;High Speed Gathering;10;Gathering and mining speed increased
+
+Backpackng;Backpacking Expert;;運搬;運搬の達人;;Backpackng;Backpacking Expert;10;Able to move faster when moving with carry items
+
+Whim;Spirit's Whim;;気まぐれ;神の気まぐれ;;Whim;Spirit's Whim;15;Even lesser chance of breaking bugnet or pickaxe
+;Divine Whim;;;精霊の気まぐれ;;;Divine Whim;10;Lesser chance of breaking bugnet or pickaxe
+;Spectre's Whim;;;悪霊の気まぐれ;;;Spectre's Whim;-10;Greater chance of breaking bugnet or pickaxe
+;Devil's Whim;;;悪魔の気まぐれ;;;Demon Whim;-15;Even greater chance of breaking bugnet or pickaxe
+
+Fishing;Fishing Expert;;釣り;釣り名人;;Fishing;Fishing Expert;10;More time is given when angling a fish
+
+Heat Res;Heat Cancel [Hi];;耐暑;暑さ【大】;;Heat Res                ;Heat Cancel [Hi];15;Immune to heat effects in all areas
+;Heat Cancel [Lo];;;暑さ【小】;;;Heat Cancel [Lo];10;Immune to heat effects in certain areas
+;Heat Inc [Lo];;;暑さ倍加【小】;;;Heat Inc [Lo];-10;Health decreases faster due to heat effects
+;Heat Inc [Hi];;;暑さ倍加【大】;;;Heat Inc [Hi];-15;Health decreases even faster due to heat effects
+
+Cold Res;Cold Elimination[Hi];;耐寒;寒さ【大】;;Cold Res                ;Cold Elimination[Hi];15;Immune to cold effects in all areas
+;Cold Elimination[Lo];;;寒さ【小】;;;Cold Elimination[Lo];10;Immune to cold effects in certain areas
+;Cold Increase [Lo];;;寒さ倍加【小】;;;Heat Inc [Lo];-10;Stamina decreases faster due to cold effects
+;Cold Increase [Hi];;;寒さ倍加【大】;;;Heat Inc [Hi];-15;Stamina decreases even faster due to cold effects
+
+Terrain;TerrainDamageNegated;;地形;地形ダメージ無効;;Terrain;TrrainDmgeReduce[Hi];15;Damage from terrain is reduced significantly
+;TerrainDamageDur Halved;;;地形ダメージ半減;;;TrrainDmgeReduce[Lo];10;Damage from terrain is reduced
+;TerrainDamageInc[Hi];;;地形ダメージ増【小】;;;TerrainDamageInc[Hi];-10;Damage from terrain is increased significantly
+;TerrainDamageInc[Lo];;;地形ダメージ増【大】;;;TerrainDamageInc[Lo];-15;Damage from terrain is increased
+
+Stamina;Stamina;;スタミナ;スタミナ;;Stamina;Stamina;10;Stamina decreases more slowly for running and attacks
+
+Constitutn;Constitution +2;;体術;体術+2;;Technique             ;Defensive Maneuvers +2;15;Stamina usage is lessened even more when rolling, backhopping and sidestepping
+;Constitution +1;;;体術+1;;;Defensive Maneuvers +1;10;Stamina usage is lessened when rolling, backhopping and sidestepping
+;Constitution -1;;;体術-1;;;Defensive Maneuvers -1;-10;Stamina usage is increased when rolling, backhopping and sidestepping
+;Constitution -2;;;体術-2;;;Defensive Maneuvers -2;-15;Stamina usage is increased even more when rolling, backhopping and sidestepping
+
+Hunger;Hunger Negated;;はらへり;はらへり無効;;Hunger;Hunger Negated;15;Stamina bar does not decrease over time
+;Hunger Halved;;;はらへり半減;;;Hunger Halved;10;Stamina bar decreases x0.5 slower over time
+;Hunger Increase [Lo];;;はらへり倍加【小】;;;Hunger Increase [Lo];-10;Stamina bar decreases x1.5 faster over time
+;Hunger Increase [Hi];;;はらへり倍加【大】;;;Hunger Increase [Hi];-15;Stamina bar decreases x2 faster over time
+
+Sneak;Stealth;;気配;隠密;;Sneak;Stealth;10;Decreases chance of being targeted by monster
+;Taunt;;;挑発;;;Taunt;-10;Increases chance of being targeted by monster
+
+Fate;Luck Booster;;運気;激運;;Fate;Luck Booster;15;Greater chance of increased rewards
+;Good Luck;;;幸運;;;Good Luck;10;Chance of increased rewards
+;Bad Luck;;;不運;;;Bad Luck;-10;Chance of decreased rewards
+;Calamity;;;災難;;;Calamity;-20;Greater chance of decreased rewards
+
+SpeedSetup;Trap Master;;高速設置;罠師;;Set Trap;Trap Expert;10;Faster speed of setting traps
+
+Tranquilzr;Tranquilizing Celeb;;捕獲;捕獲名人;;Trapper;Reward Celebrity;15;Greater chance of increased rewards for capturing monster
+;Tranquilizing Whiz;;;捕獲上手;;;Reward Specialist;10;Chance of increased rewards for capturing monster
+
+Perceive;Tranquilizing Guru;;観察眼;捕獲の見極め;;Observance       ;Eagle Eye;10;Able to see when monster's health is low enough to be captured
+
+Recovery;HealthRecItemsImprvd;;回復;体力回復アイテム強化;;Recovery;HealthRecItemsImprvd;10;Healing items have increased effectiveness
+;HealthRecItemsWeaknd;;;体力回復アイテム弱化;;;HealthRecItemsWeak;-10;Healing items have decreased effectiveness
+
+Everlastng;Item Usage Improve;;効果持続;アイテム使用強化;;Everlastng         ;Item Usage Improve;10;Consumed effect items have increased duration
+;Item Usage Decline;;;アイテム使用弱化;;;Item Usage Decline;-10;Consumed effect items have decreased duration
+
+Wide Area;Wide Area +2;;広域;広域化+2;;Wide Area        ;Wide Area +2;20;Certain usable items have full effect on others in the same area
+;Wide Area +1;;;広域化+1;;;Wide Area +1;10;Certain usable items have half effect on others in the same area
+
+Throw;Throwing Skill Up;;投擲;投擲技術UP;;Throw;Throwing Skill Up;10;Increased distance for throwing items
+
+BombStrUp;Bomber;;爆弾強化;ボマー;;BombStrUp      ;Bomber;10;Increases the damage of bombs
+
+Gluttony;Scavenger;;食いしん坊;拾い食い;;Gluttony;Picky Eater;15;Chance of healing items also increasing stamina
+;Filled Up;;;まんぷく;;;Filled Up;10;Chance of fish steaks increasing stamina
+
+Cooking;Quick Eating;;食事;早食い;;Cooking;Quick Eating;10;Increased speed of consuming items
+;Slow Life;;;スローライフ;;;Slow Life;-10;Decreased speed of consuming items
+
+BBQ;BBQ Celebrity;;肉焼き;肉焼き名人;;BBQ;BBQ Celebrity;10;Makes cooking steaks easier
+;So-Called BBQ King;;;自称・肉焼き名人;;;So-Called BBQ King;-10;Makes cooking steaks more difficult
+
+Horn;Flute Expert;;笛;笛吹き名人;;Horn;Flute Expert;10;Flutes break less easily and hunting horn effects gain increased duration
+
+MixSucRate;Combine Success +45%;;調合成功率;調合成功率+45%;;MixSucRate       ;Combine Success +45%;20;Increases combination success rate
+;Combine Success +25%;;;調合成功率+25%;;;Combine Success +25%;15;Increases combination success rate
+;Combine Success +15%;;;調合成功率+15%;;;Combine Success +15%;10;Increases combination success rate
+;Combine Success -5%;;;調合成功率-5%;;;Combine Success -5%;-10;Decreases combination success rate
+;Combine Success -10%;;;調合成功率-10%;;;Combine Success -10%;-15;Decreases combination success rate
+;Combine Success -15%;;;調合成功率-15%;;;Combine Success -15%;-20;Decreases combination success rate
+
+Shot Mix;Bullet Limit;;弾調合;最大数弾生産;;Shot Mix;Bullet Limit;10;Maximizes ammo combination amount
+
+Alchemy;Alchemy;;錬金術;錬金術;;Alchemy;Alchemy;10;Allows for Alchemy Combinations
+
+ComrdGuide;ComradGuidance&Trade;;オトモ指導;オトモ指導と交流;;FlyneGuide       ;Felyne Mentor;15;Increases Felyne Fighter's experience and skill points received after quests
+;Comrade Guidance;;;オトモ指導;;;Felyne Tutor;10;Increases Felyne Fighter's experience after quests
+
+ComradeAtk;Comrade Attack Up;;オトモ攻撃;オトモ攻撃力UP;;Flyne Atk;Felyne Attack UP;10;Increases Felyne Fighter's attack
+
+ComradeDef;Comrade Defense Up;;オトモ防御;オトモ防御力UP;;Flyne Def           ;Felyne Defense UP;10;Increases Felyne Fighter's defense
+
+Torso Inc;-;;胴系統倍加;;;Torso Inc                           ;-;-;Doubles both negative and positive attributes of torso armor

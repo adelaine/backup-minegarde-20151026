@@ -1,0 +1,78 @@
+Skills
+Skill Name;Skill Points;Requirements;Description;Additional Information
+Flute;20;No requirements.;Your Felyne Fighter sees you are in danger and plays a flute to attract your attacker.;Felyne provokes the enemy to attack it if your HP is 40% or less. Giving you time to regroup.
+Demon Flute;60;No requirements.;Your Felyne Fighter plays a tune that raises both you and the Felyne Fighter's attack power.;Works like the Demon Flute. 
+Armor Flute;60;No requirements.;Your Felyne Fighter plays a tune that enhances both you and the Felyne Fighter's defense.;Works like the Armor Flute.
+Antidote Flute;30;No requirements.;Felyne Fighter plays a tune that cleanses of any impurities and cures Poison status.;Works like the Anitdote Flute.
+Health Flute;70;No requirements.;Your Felyne Fighter plays a tune that recovers a small amount of your health when needed.;Both Hunter and Felyne Fighter regains a small amount of HP.
+Greater Health Flute;120;Get your cat’s affinity to 4 hearts.;Your Felyne Fighter plays a tune that will recover a larger amount of your health.;Both Hunter and Felyne Fighter regains a large amount of HP.
+Element Atk [Fire];15;No requirements.;Imbues Felyne Fighter's melee weapon with Fire element.;To be filled when KIRA is done.
+Element Atk [Water];15;No requirements.;Imbues Felyne Fighter's melee weapon with Water element.;(Same as above)
+Element Atk [Ice];15;No requirements.;Imbues Felyne Fighter's melee weapon with Ice element.;
+Element Atk [Thunder];15;No requirements.;Imbues Felyne Fighter's melee weapon with Thunder element.;
+*Element Atk [Dragon];30;Felyne Fighter Level 7.;Imbues Felyne Fighter's melee weapon with Dragon element.;Gives the cat 200 Dragon Element (Information from VioletKIRA)
+Elemental Attack Up;50;Kill a Rathian or Rathalos.;Enhances your Felyne Fighter’s attacks with elemental properties increasing their effectiveness.;Raises elemental attack by 20.         (Information from VioletKIRA)
+Status Atk [Poison];60;Kill a Gypceros, an Ioprey or an Iodrome.;Imbues Felyne Fighter's melee weapon with a Poison effect.;
+Status Atk [Paralysis];60;Kill a Khezu, a Cephadome, a Genprey or a Gendrome.;Imbues Felyne Fighter's melee weapon with a Paralysis effect.;
+Status Atk [Sleep];60;Kill a Hypnoc, a Plesioth, a Basarios or a Gravios.;Imbues Felyne Fighter's melee weapon with a Sleep effect.;
+Status Attack Up;120;Kill a Plesioth, a Teostra or a Lunastra.;Enhances your Felyne Fighter's attacks with status effects, increasing their effectiveness.;
+Windpress;100;Felyne Fighter Level 9.;Felyne Fighter is immune to most Wind effects.;Felyne Fighter gains High Wind Resistance skill.
+High Grade Earplug;140;Kill a Garuga or a Tigrex.;Felyne Fighter is completely immune to screams of Monsters;Felyne Fighter gains High Grade Earplug skill.
+Attack Up;60;Kill a Yian Kutkut, a Monoblos, a Diablos or Rathalos.;Raises your Felyne Fighter’s attack.;Raises attack by 20 points.
+Defense Up;90;Kill a Basarios or a Gravios.;Raises your Felyne Fighter’s defense.;Raises defense by 30 points.
+Strength Up;120;Kill a Congalala, a Blangonga or a Rajang.;Raises your Felyne Fighter’s HP.;Felyne Fighter's HP increase.     (HP x 1.2)
+Guard Up;70; Kill a Daimyo Hermitaur, a Shogun Ceanataur or a Kushala Daora.;Your felyne fighter learns how to defend himself (..no herself? SEXIST) well and raises its blocking effectiveness.;Increases blocking efficiency of your Felyne Fighter.
+Movement Speed Up;100;Kill a Kirin, a Tigrex or a Naruga.;Your Felyne Fighter gains enhanced mobility and raises its movement and gathering speed.;When you (Hunter) sprints, the Felyne Fighter is able to keep up with you.
+Recovery Speed Up;130;Felyne Fighter Level 18.;Your felyne fighter recovers from injuries faster and lessens the time taken to recupertate;Felyne Fighter takes a shorter time to 'revive' after fainting in a battle.
+Combat Expert;80;Felyne Fighter Level 5.;Your Felyne Fighter learns how to score critical hits.;
+Thievery;100;Felyne Fighter Level 10.;Your Felyne Fighter occasionally steals items for you when it attacks.;
+Trap Master;160;Felyne Fighter Level 17.;Your felyne fighter learns how to set shock traps.;Unreliable most of the times.    Don't rely on this skill.
+Bomber;150;Felyne Fighter Level 10  OR        Get your cat’s affinity to 3 hearts.;Raises the power of your Felyne Fighter’s bombs.;Increase the damage done by the Felyne Fighter's bombs.
+Bomb Resistance;90;Felyne Fighter Level 6.;Reduces Bomb damage done to both Felyne Fighter and hunter.;Lessen the damage done to the Hunter and he's Felyne Fighter when accidentally bombed.
+Lg Barrel Bomb Skill;140;Felyne Fighter Level 13.;Your Felyne Fighter will occasionally use Large Barrel Bombs to attack the enemy.;
+Anti-Poison;30;(Rathian or Gypceros);Felyne Fighter gains immunity to poison.;
+Farsight;70;Felyne Fighter Level 8.;Felyne Fighter gains senses that help you track and spot Monster.;Psychoserum effect happens at start of each quest, and at every 5 minute interval after that
+Anti-Gathering;90;Felyne Fighter Level 12.;Felyne Fighter doesn’t gather and only attacks. Attack is increased.;Adds 30 points of attack damage and the Felyne Fighter doesn't gather.
+Tireless;80;Felyne Fighter Level 15.;Felyne Fighter attack and does not rest. Drains Felyne Fighter’s strength and lowers health.;Prevents your felyne warrior from 'slacking'  at the expense of a HP reduction (HP x 0.75)
+Art of Eight Wonders;120;Felyne Fighter Level 14.;Felyne Fighters comes back after recovering with increased fervor and attack power;Each time your felyne faints, he returns to battle with 10 more attack power. (Can only happen 8 times, maximum)
+Riskbreaker Technique;150;Felyne Fighter Level 20.;Felyne fighter recieves a great attack and defense boost, but will not recover until quest end.;Raises Attack and Defense by 50 points each and Felyne Fighter does not 'revive' after fainting.
+
+Character (personalites)
+Character;Preference;Heal Rate;Attacking Target;
+Berserker;Prefers Weapon;Does not 'revive' when KO'd.;Mainly Large monsters;
+Courageous ;Prefers Weapon;Slow;Mainly Large monsters;
+Normal;Melee & Bomb;Normal;Balanced;
+Careful;Prefers Bombs;Fast;Mainly Small Monsters;
+Timid;Prefers Bombs;Very Fast;Mainly Small Monsters;
+Guerrilla;Melee Only;Normal ;Small Monsters Only;
+Weapon User;Melee Only;Normal;Balanced;
+Weapon Lover;Prefers Weapon;Normal;Balanced;
+Bomb User;Bombs Only;Normal;Balanced;
+Bomb Lover;Prefers Bombs;Normal ;Balanced;
+Hunter (Large);Prefers Weapon;Normal;Large Monsters Only;
+Hunter (Small);Prefers Weapon;Normal;Small Monsters Only;
+Pacifist;Doesn't Attack;Normal;Doesn't Attack;
+Martyr;Bombs Only;Does not 'revive' when KO'd.;Large Monsters Only;
+
+LEVEL STATS
+Level;Hp;Attack ;Defense;
+1;100;10;10;
+2;100;16;18;
+3;100;16;18;
+4;101;19;23;
+5;102;22;28;
+6;103;26;33;
+7;104;30;39;
+8;105;34;45;
+9;106;38;52;
+10;107;43;59;
+11;109;48;67;
+12;111;53;75;
+13;113;58;84;
+14;115;63;93;
+15;117;68;103;
+16;119;74;113;
+17;121;80;124;
+18;124;86;135;
+19;127;93;147;
+20;130;100;160;

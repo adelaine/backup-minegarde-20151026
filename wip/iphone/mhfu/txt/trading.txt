@@ -1,0 +1,757 @@
+
+** VEGGIE ELDER TRADING GUIDE **
+   By HotGamerMum, aegilnet
+
+=======
+Mountains
+==========
+
+Item Name          80% Trade          20% Trade
+======================================================
+Carnivore Egg      Potion             Mega Potion
+Sootstone Ore      Potion             Mega Potion
+Khezu Whelp        Khz Whlp Ice Crm   Khz Whlp Ice Crm
+Insect Husk        Mountain Herbs     Mountain Herbs
+Garbage            Mountain Herbs     Mountain Herbs
+Burnt Fish         Mountain Herbs     Mountain Herbs
+Burnt Meat         Mountain Herbs     Mountain Herbs
+Sleep Herb         Mountain Herbs     Hot Drink
+Bone               Mountain Herbs     Hot Pepper
+Bounce Bomb        Bounce Bomb+       Bounce Bomb+
+Ice Crystal        Dung               WyvernDroppings
+Sm Monster Bone    Hot Drink          Hot Meat
+Throwing Knife     Spicy Mushroom     Energy Drink
+Black Pearl        Gourmet Fish+      Killer Beetle
+Small Goldenfish   Carpenterbug       Goldenfish Bait
+Akito Jewel        Flashbug           Thunderbug
+Frog               Thawing Agent      Carpenterbug
+Firestone          Demon Flute        Health Flute
+Flat Ruststone     Vespoid Wing       Vespoid Shell
+Ruststone          Hornetaur Wing     Hornetaur Shell
+Frozen Berry       Exciteshroom       Toadstool
+Daora Tail         Mega Nutrients     Nutrients
+Kirin Thndr Tail   Hercudrome         Herbal Medicine
+Giadrome Claw      Tranquilizer       Gunpowder
+Tigrex Fang        Power Pill         Power Seed
+Daora Claw         Armor Pill         Armor Seed
+Congalala Fang     Dragon Toadstool   Cactus flower
+TwstBlkBlosHrn     Power Juice        Power Extract
+Blue Kut-Ku Scl    Gourmet Steak      Well-Done Steak
+Iodrome Skull      Armor Flute        Antidote Flute
+Teostra Horn       Immunizer          Cold Meat
+Blk Gravios Skl    Ancient Potion     Max Potion
+Teostra Shell      Lifepowder         Lifecrystals
+Garuga Mane        Dragon Toadstool   Antidote
+Carbalite Ore      King Scarab        Hercudrome
+Novacrystal        Ancient Potion     Lifecrystals
+Ancient Fish       Psychoserum        Catalyst
+ShakaInheritance   King Scarab        Hercudrome
+Felyne Fur Ruby    Gastronome Tuna    Glutton Tuna
+Giant Beak         Demondrug          Dragon Toadstool
+Tigrex Scale+      Mega Armorskin     Hot Meat
+Rajang Fang        Vespoid Carapace   Hornetaur Crapce
+Giadrome Claw+     Psychoserum        Thawing Agent
+Gaoren Thoracic    Vespoid InnrWng    HornetaurInnrWng
+Slvr Rthlos Tail   Mega Demondrug     King Scarab
+Congalala Claw+    Armorskin          Mega Potion
+Top-GrdPlatHorn    Max Potion         Lifepowder
+KhezuSpecialCut    Pale Extract       Catalyst
+StrBasariosWing    Vspoid Razorwing   Hornet Razorwing
+Mellanje Ore       Mega Demondrug     Power Pill
+Eltalite Ore       Gourmet Steak      Power Extract
+ShakalakaTreasr+   Power Extract      Power Juice
+Dosbiscus          Dung               WyvernDroppings
+Chaos Mushroom     Honey              Honey
+Springnight Carp   Net                Net
+Great Hornfly      Godbug             Monster Fluid
+Sinister Cloth     Dragon Treasure    Dragon Treasure
+Dragonmoss         Thunderbug Juice   Monster Fluid
+Dragonmoss+        Pale Extract       Monster Broth
+Dragonwood         Thunderbug Juice   Monster Fluid
+Dragonwood+        Thunderbug Juice   Monster Broth
+Giant Corn         Honey              Honey
+Tailed Frog        Frog               Frog
+dummy              Mega Bugnet        Bugnet
+dummy              Mega Bugnet        Bugnet
+dummy              dummy              dummy
+dummy              dummy              dummy
+dummy              dummy              dummy
+dummy              Bounce Bomb+       Bounce Bomb+
+dummy              Lg Barrel-Bomb+    Lg Barrel-Bomb
+dummy              dummy              dummy
+Blackbelt Ticket   Mountain Herbs     Mountain Herbs
+Expert Ticket      Decayed Drgn Scl   Decayed Drgn Scl
+Kut-Ku Coin        Potion             Herb
+Congalala Coin     Honey              Blue Mushroom
+Khezu Coin         Nutrients          Bitterbug
+Daimyo Coin        Armorskin          Armor Seed
+Blangonga Coin     Hot Meat           Hot Drink
+Yian Garuga Coin   Herbal Medicine    Antidote
+Tigrex Coin        Demondrug          Power Seed
+Diablos Coin       Mega Potion        Potion
+Gravios Coin       Armor Pill         Mega Armorskin
+Kirin Coin         Well-Done Steak    Energy Drink
+Cephadrome Coin    Cold Meat          Cool Drink
+Plesioth Coin      Mega Nutrients     Catalyst
+Shogun Coin        Gourmet Steak      Power Juice
+Fire Coin          Power Pill         Mega Demondrug
+Rajang Coin        Max Potion         Immunizer
+BlackBeltCoinG     Mega Armorskin     Armor Flute
+Expert Coin G      Mega Demondrug     Demon Flute
+Warrior Coin G     Lifepowder         Health Flute
+VeggieElderTcket   Armorskin          Armor Seed
+VeggieElderTckt+   Mega Armorskin     Armor Pill
+VegElderTcktBrz    Blangonga Fang     Blangonga Fang
+VegElderTcktSlv    Pale Bone          Pale Bone
+VegElderTcktGld    Daora Jewel        Daora Jewel
+VegElderTcktSky    HvnlyTigrexScale   HvnlyTigrexScale
+
+=======
+Desert
+==========
+
+Item Name          80% Trade          20% Trade
+======================================================
+Herbivore Egg      Potion             Mega Potion
+Insect Husk        Tropical Berry     Tropical Berry
+Garbage            Tropical Berry     Tropical Berry
+Burnt Fish         Tropical Berry     Tropical Berry
+Burnt Meat         Tropical Berry     Tropical Berry
+Fire Herb          Tropical Berry     Ice Crystal
+Cactus Flower      Tropical Berry     Ice Crystal
+Bounce Bomb        Bounce Bomb+       Bounce Bomb+
+Barrel Lid         Machalite Ore      Suiko Jewe
+ShakalakaTreasre   Suiko Jewel        Machalite Ore
+Lg Monster Bone    Earth Crystal      Iron Ore
+Sm Monster Bone    Ice Crystal        Iron Ore
+Bughopper          Disk Stone         Iron Ore
+Mystery Bone       Stone              Disk Stone
+Sleepyfish         Iron Ore           Disk Stone
+Sunset Herb        Disk Stone         Stone
+Antidote Herb      Stone              Disk Stone
+Unknown Skull      Iron Ore           Disk Stone
+Antiseptic Stone   Suiko Jewel        Suiko Jewel
+Dragon Toadstool   Earth Crystal      Machalite Ore
+Frozen Berry       Earth Crystal      Machalite Ore
+Remobra Skull      Iron Ore           Disk Stone
+Vespoid Shell      Earth Crystal      Machalite Ore
+Large Ruststone    Machalite Ore      Armor Stone
+Small Ruststone    Machalite Ore      Armor Stone
+Tuna Bait          Iron Ore           Machalite Ore
+Teostra Mane       Armor Sphere       Armor Sphere+
+Black Blos Spine   Armor Sphere       Armor Stone
+Gendrome Skull     Machalite Ore      Earth Crystal
+Pawprint Stamp     Suiko Jewel        Akito Jewel
+Black Blos Tail    Machalite Ore      Lightcrystal
+Lao-Shan's Horn    Machalite Ore      Firestone
+Garuga Tail        Machalite Ore      Lightcrystal
+Gaoren Claw        Machalite Ore      Firestone
+Congalala Claw     Earth Crystal      Machalite Ore
+Ceanataur Pincer   Akito Jewel        Machalite Ore
+Tigrex Skull Shl   Machalite Ore      Suiko Jewel
+Giadrome Skull     Suiko Jewel        Earth Crystal
+Fire Dragon Claw   Firestone          BattlefieldJewel
+ShakaInheritance   Armor Sphere       Armor Sphere+
+Grn Plsioth Scl+   Akito Jewel        LapisLazuliJewel
+Teostra Horn+      Carbalite Ore      Union Ore
+Tigrex Fang+       Firestone          Lightcrystal
+Giaprey Scale+     Machalite Ore      Dragonite Ore
+Azure LaoS Horn    Firecell Stone     Novacrystal
+Kut-Ku Scale+      Dragonite Ore      Armor Sphere
+Top-GrdRedHorn     Firestone          Dragonite Ore
+Thick Kut-Ku Scl   Carbalite Ore      Armor Sphere+
+ThckGrnPlesioScl   LapisLazuliJewel   Novacrystal
+TerraCeanatrShl    Union Ore          BattlefieldJewel
+Dosbiscus          Dung               WyvernDroppings
+Chaos Mushroom     Honey              Honey
+Springnight Carp   Net                Net
+Great Hornfly      Godbug             Monster Fluid
+Sinister Cloth     Dragon Treasure    Dragon Treasure
+Dragonmoss         Armor Sphere       Armor Sphere
+Dragonmoss+        Armor Sphere+      Armor Sphere+
+Dragonwood         Armor Sphere       Armor Sphere
+Dragonwood+        Armor Sphere+      Armor Sphere+
+Giant Corn         Honey              Honey
+Tailed Frog        Frog               Frog
+dummy              Mega Bugnet        Bugnet
+dummy              Mega Bugnet        Bugnet
+dummy              dummy              dummy
+dummy              dummy              dummy
+dummy              dummy              dummy
+dummy              Bounce Bomb+       Bounce Bomb+
+dummy              Lg Barrel-Bomb+    Lg Barrel-Bomb
+dummy              dummy              dummy
+Blackbelt Ticket   Tropical Berry     Tropical Berry
+Expert Ticket      Decayed Drgn Scl   Decayed Drgn Scl
+Kut-Ku Coin        Disk Stone         Stone
+Congalala Coin     Iron Ore           Disk Stone
+Khezu Coin         Suiko Jewel        Ice Crystal
+Daimyo Coin        Earth Crystal      Iron Ore
+Blangonga Coin     Ice Crystal        Earth Crystal
+Yian Garuga Coin   Machalite Ore      Iron Ore
+Tigrex Coin        Suiko Jewel        Machalite Ore
+Diablos Coin       Machalite Ore      Suiko Jewel
+Gravios Coin       Akito Jewel        Firestone
+Kirin Coin         Suiko Jewel        Lightcrystal
+Cephadrome Coin    Iron Ore           Disk Stone
+Plesioth Coin      Earth Crystal      Iron Ore
+Shogun Coin        Akito Jewel        Black Pearl
+Fire Coin          Machalite Ore      Akito Jewel
+Rajang Coin        BattlefieldJewel   Firestone
+BlackBeltCoinG     Carbalite Ore      Rainbow Ore
+Expert Coin G      Rainbow Ore        Lightcrystal
+Warrior Coin G     Union Ore          Novacrystal
+VeggieElderTcket   Demondrug          Power Seed
+VeggieElderTckt+   Mega Demondrug     Power Pill
+VegElderTcktBrz    Plesioth Fin       Plesioth Fin
+VegElderTcktSlv    Monoblos Heart     Monoblos Heart
+VegElderTcktGld    Fire Drgn Jwl      Fire Drgn Jwl
+VegElderTcktSky    HvnlyGaorenShell   HvnlyGaorenShell
+
+=======
+Jungle
+==========
+
+Item Name          80% Trade          20% Trade
+======================================================
+WyvernEgg          Potion             Mega Potion
+Carnivore Egg      Potion             Mega Potion
+Insect Husk        Special Mushroom   Special Mushroom
+Garbage            Special Mushroom   Special Mushroom
+Burnt Fish         Special Mushroom   Special Mushroom
+Burnt Meat         Special Mushroom   Special Mushroom
+Ivy                Special Mushroom   Bone
+Parashroom         Special Mushroom   Sm Bone Husk
+Bounce Bomb        Bounce Bomb+       Bounce Bomb+
+Sushifish          Lg Bone Husk       Sm Bone Husk
+Sleepyfish         Sm Monster Bone    Unknown Skull
+Spiderweb          Sm Bone Husk       Lg Bone Husk
+Thunderbug         Giant Bone         Sharp Claw
+Vespoid Abdomen    Paralysis Sac      Unknown Skull
+Yambug             Sharp Claw         Bone
+Pin Tuna           Brute Bone         Lg Bone Husk
+Armor Seed         Sm Bone Husk       Unknown Skull
+Felvine            Mystery Bone       Bone
+Suiko Jewel        Med Monster Bone   Anteka Pelt
+Spicy Mushroom     Sm Monster Bone    Giant Bone
+Arrowana Bait      Bullfango Pelt     Sm Bone Husk
+Speartuna          Black Pearl        Piscine Fang
+BattlefieldJewel   Lg Monster Bone    Thunderbug Juice
+Killer Beetle      Giaprey Hide       Bullfango Pelt
+Small Ruststone    Remobra Skin       Striped Skin
+Ruststone Rod      Velocidrome Hide   Velocidrome Hide
+Sm Hermitaur Shl   Giaprey Scale      Velociprey Scale
+Grn Plesioth Fin   Genprey Hide       Plesioth Scale
+Sharpened Beak     Cephalos Scale     Cephalos Fin
+Bulldrome Tusk     Blango Pelt        Bulldrome Hide
+Bullfango Head     Vespoid Wing       Hornetaur Wing
+Ceanataur Leg      Rubbery Hide       Plesioth Fin
+Blangonga Tail     Blangonga Pelt     Hermitaur Shell
+Lunastra Tail      Lunastra Horn      Gravios Shell
+Lao-Shan's Claw    Lao-Shan's Scale   Sm Lobstershell
+Mosswine Hide      Kelbi Hide         Velociprey Hide
+Gypceros Head      Flabby Hide        Hornetaur Shell
+Diablos Tail       Monoblos Shell     Blood Red Horn
+Chameleos Claw     Basarios Shell     Tigrex Claw
+ShakaInheritance   Electro Sac        Paralysis Sac
+Grn Plsioth Fin+   Ioprey Hide        Cephalos Scale+
+Velociprey Scle+   High Qualty Pelt   Ioprey Hide
+Blue Kut-Ku Scl+   Blango Pelt+       Genprey Scale+
+Slvr Rthlos Scl+   Rubbery Hide+      Ioprey Hide+
+Rajang Tail        Fire Dragon Scl    Firecell Stone
+Lao-Shan's Ruby    ElderDragonBlood   WyvernStone
+Rejuvenated Beak   Coral Cphlos Scl   Coral Cphlos Fin
+LeatherNargaTail   Black Narga Pelt   NargaCuttingWing
+SpecLavasioFin+    ThckPlesiothScl    HvyPiscineFang
+Lucky Kut-Ku Ear   Kut-ku Hvy Cpc     ThkBlueKut-KuScl
+LthrC.BlangoTail   Lg Pelagus Fang    E.CongalalaPelt+
+Azure LaoS Claw    HvyRathianShell    HvyRathalosShl
+Dosbiscus          Dung               WyvernDroppings
+Chaos Mushroom     Honey              Honey
+Springnight Carp   Net                Net
+Great Hornfly      Godbug             Monster Fluid
+Sinister Cloth     Dragon Treasure    Dragon Treasure
+Dragonmoss         Lg Monster Bone    Eldr Dragon Bone
+Dragonmoss+        Monster Bone+      Hrd Monster Bone
+Dragonwood         Lg Monster Bone    Eldr Dragon Bone
+Dragonwood+        Monster Bone+      Hrd Monster Bone
+Giant Corn         Honey              Honey
+Tailed Frog        Frog               Frog
+dummy              Mega Bugnet        Bugnet
+dummy              Mega Bugnet        Bugnet
+dummy              dummy              dummy
+dummy              dummy              dummy
+dummy              dummy              dummy
+dummy              Bounce Bomb+       Bounce Bomb+
+dummy              Lg Barrel-Bomb+    Lg Barrel-Bomb
+dummy              dummy              dummy
+Blackbelt Ticket   Special Mushroom   Special Mushroom
+Expert Ticket      Decayed Drgn Scl   Decayed Drgn Scl
+Kut-Ku Coin        Kut-Ku Scale       Kut-Ku Shell
+Congalala Coin     Congalala Pelt     Congalala Fang
+Khezu Coin         Flabby Hide        Pale Extract
+Daimyo Coin        Hermitaur Shell    Hermitaur Claw
+Blangonga Coin     Blangonga Pelt     Blangonga Whiskr
+Yian Garuga Coin   Garuga Scale       Garuga Shell
+Tigrex Coin        Tigrex Scale       Tigrex Shell
+Diablos Coin       Diablos Shell      Blos Fang
+Gravios Coin       Gravios Shell      Lg Monster Bone
+Kirin Coin         Kirin Mane         Kirin Horn
+Cephadrome Coin    Cephalos Scale     Cephalos Fin
+Plesioth Coin      Plesioth Scale     Plesioth Fin
+Shogun Coin        Ceanataur Shell    Ceanataur Leg
+Fire Coin          Rathalos Scale     Rathalos Shell
+Rajang Coin        Commendation       Blk Rajang Pelt
+BlackBeltCoinG     OrangeHypnoPelt+   PlumD.HermitrShl
+Expert Coin G      C.BlangongaPelt+   ThickNargaScale
+Warrior Coin G     ThckLavasiothScl   TerraCeanatrShl
+VeggieElderTcket   Power Juice        Well-Done Steak
+VeggieElderTckt+   Mega Juice         Gourmet Steak
+VegElderTcktBrz    Vibrant Pelt       Vibrant Pelt
+VegElderTcktSlv    Rathian Plate      Rathian Plate
+VegElderTcktGld    Rathian Ruby       Rathian Ruby
+VegElderTcktSky    Lao-ShanHvnlyScl   Lao-ShanHvnlyScl
+
+=======
+Swamp
+==========
+
+Item Name          80% Trade          20% Trade
+======================================================
+Sootstone Ore      Potion             Mega Potion
+Quartz Ore         Potion             Mega Potion
+Khezu Whelp        Khz Whlp Ice Crm   Khz Whlp Ice Crm
+Insect Husk        Special Mushroom   Special Mushroom
+Garbage            Special Mushroom   Special Mushroom
+Burnt Fish         Special Mushroom   Special Mushroom
+Burnt Meat         Special Mushroom   Special Mushroom
+Toadstool          Special Mushroom   Hot Drink
+Conga Pelt         Special Mushroom   Antidote
+Bounce Bomb        Bounce Bomb+       Bounce Bomb+
+Mystery Bone       Antidote Herb      Herb
+Sleepyfish         Nitroshroom        Exciteshroom
+Kut-Ku Scale       Gunpowder          Antidote
+Lost Umbrella      Glutton Tuna       Power Extract
+Snakebee Larva     Bomberry           Armor Seed
+Sm Monster Bone    Cool Drink         Cold Meat
+Disk Stone         Antidote           Exciteshroom
+Scatterfish        Godbug             Antiseptic Stone
+Ice Crystal        Dung               WyvernDroppings
+Cricket            Blue Mushroom      Bitterbug
+Paintberry         Sap Plant          Fire Herb
+Spicy Mushroom     Exciteshroom       Toadstool
+Goldenfish Bait    Armor Seed         Armorskin
+Ruststone Rod      Vespoid Wing       Vespoid Shell
+AncientFlatstone   Hornetaur Wing     Hornetaur Shell
+ShakalakaTreasre   Carpenterbug       Catalyst
+Dragonite Ore      Hercudrome         Killer Beetle
+Lightcrystal       Flashbug           Carpenterbug
+Sm Ceanataur Shl   Power Seed         Tranquilizer
+Vibrant Pelt       Mega Nutrients     Nutrients
+Velocidrome Head   Mega Potion        Killer Beetle
+Chameleos Tail     Mega Demondrug     Hot Meat
+Blangonga Fang     Killer Beetle      Health Flute
+Twisted Horn       Demondrug          Mega Demondrug
+Anteka Antlers     Well-Done Steak    Rare Steak
+Teostra Tail       Immunizer          Cold Meat
+Azur Rthlos Tail   Hornetaur Shell    Vespoid Shell
+Blos Fang          Psychoserum        Herbal Medicine
+Hornetaur Head     Antidote Flute     Demon Flute
+ShakaInheritance   King Scarab        Hercudrome
+LapisLazuliJewel   Gourmet Steak      Power Extract
+Ceanataur Claw+    Gourmet Fish+      Gourmet Fish
+Chameleos Spike    Hornetaur Crapce   Vespoid Carapace
+Slvr Rthlos Wing   HornetaurInnrWng   Vespoid InnrWng
+Lg Lobstershell    Mega Potion        King Scarab
+Rajang Claw        Power Juice        Mega Juice
+Blazing Fire Sac   Lifepowder         Fire Dragon Pwdr
+DeadlyPoisonSac    Power Extract      Power Juice
+TerraCeanatrClaw   Mega Demondrug     Power Pill
+HrdE.CongaClaw     Rare Scarab        King Scarab
+Lightning Sac      Thunderbug Jelly   Pale Extract
+Dosbiscus          Dung               WyvernDroppings
+Chaos Mushroom     Honey              Honey
+Springnight Carp   Net                Net
+Great Hornfly      Godbug             Monster Fluid
+Sinister Cloth     Dragon Treasure    Dragon Treasure
+Dragonmoss         Thunderbug Juice   Monster Fluid
+Dragonmoss+        Pale Extract       Monster Broth
+Dragonwood         Thunderbug Juice   Monster Fluid
+Dragonwood+        Pale Extract       Monster Broth
+Giant Corn         Honey              Honey
+Tailed Frog        Frog               Frog
+dummy              Mega Bugnet        Bugnet
+dummy              Mega Bugnet        Bugnet
+dummy              dummy              dummy
+dummy              dummy              dummy
+dummy              dummy              dummy
+dummy              Bounce Bomb+       Bounce Bomb+
+dummy              Lg Barrel-Bomb+    Lg Barrel-Bomb
+dummy              dummy              dummy
+Blackbelt Ticket   Special Mushroom   Special Mushroom
+Expert Ticket      Decayed Drgn Scl   Decayed Drgn Scl
+Kut-Ku Coin        Potion             Herb
+Congalala Coin     Honey              Blue Mushroom
+Khezu Coin         Nutrients          Bitterbug
+Daimyo Coin        Armorskin          Armor Seed
+Blangonga Coin     Hot Meat           Hot Drink
+Yian Garuga Coin   Herbal Medicine    Antidote
+Tigrex Coin        Demondrug          Power Seed
+Diablos Coin       Mega Potion        Potion
+Gravios Coin       Armor Pill         Mega Armorskin
+Kirin Coin         Well-Done Steak    Energy Drink
+Cephadrome Coin    Cold Meat          Cool Drink
+Plesioth Coin      Mega Nutrients     Catalyst
+Shogun Coin        Gourmet Steak      Power Juice
+Fire Coin          Power Pill         Mega Demondrug
+Rajang Coin        Max Potion         Immunizer
+BlackBeltCoinG     Mega Armorskin     Armor Flute
+Expert Coin G      Mega Demondrug     Demon Flute
+Warrior Coin G     Lifepowder         Health Flute
+VeggieElderTcket   Nutrients          Potion
+VeggieElderTckt+   Mega Nutrients     Mega Potion
+VegElderTcktBrz    Lightcrystal       Lightcrystal
+VegElderTcktSlv    Gravios Skl Shl    Gravios Skl Shl
+VegElderTcktGld    Chameleos Jewel    Chameleos Jewel
+VegElderTcktSky    HvnlyBlkGraviShl   HvnlyBlkGraviShl
+
+=======
+Forest&Hills
+==========
+
+Item Name          80% Trade          20% Trade
+======================================================
+WyvernEgg          Potion             Mega Potion
+Insect Husk        Special Mushroom   Special Mushroom
+Garbage            Special Mushroom   Special Mushroom
+Burnt Fish         Special Mushroom   Special Mushroom
+Burnt Meat         Special Mushroom   Special Mushroom
+Scatternut         Special Mushroom   Bone
+Disk Stone         Special Mushroom   Bone
+Bounce Bomb        Bounce Bomb+       Bounce Bomb+
+Gunpowder          Lg Bone Husk       Sm Bone Husk
+Rumblefish         Unknown Skull      Bone
+Toadstool          Sm Bone Husk       Unknown Skull
+Dragon Toadstool   Sm Monster Bone    Unknown Skull
+Carpenterbug       Sharp Claw         Anteka Pelt
+Earth Crystal      Sm Monster Bone    Giant Bone
+Spicy Mushroom     Lg Bone Husk       Sm Bone Husk
+ShakalakaTreasre   Bullfango Pelt     Giaprey Hide
+Bomb Arrowana      Sharp Claw         Bone
+Suiko Jewel        Velociprey Scale   Kelbi Horn
+Power Seed         Sharp Claw         Lg Bone Husk
+Burst Arrowana     Lg Bone Husk       Sm Monster Bone
+Fire Herb          Unknown Skull      Mystery Bone
+Ruststone          Remobra Skin       Striped Skin
+Large Ruststone    Giadrome Hide      Iodrome Hide
+Needleberry        Mystery Bone       Bone
+Rathalos Tail      Ceanataur Shell    Ioprey Scale
+Velocidrome Claw   Genprey Hide       Vespoid Wing
+Rathalos Webbing   Pnk Rathian Scl    Tigrex Shell
+Chameleos Hide     Monster Bone+      Eldr Dragon Bone
+Chameleos Horn     Fire Drgn Webbng   Kirin Hide
+Ceanataur Claw     Tigrex Scale       Garuga Shell
+Garuga Ear         Kut-Ku Ear         Kut-Ku Webbing
+Daora Horn         Daora Shell        DaoraDragonScale
+Tigrex Tail        Plesioth Fin       Blangonga Whiskr
+Basarios Wing      WyvernSkull Shl    Iodrome Hide
+Gravios Skl Shl    Rathian Shell      Rathian Spike
+Azur Rthlos Wing   Monoblos Spine     FireWyvrn Marrow
+Felyne Fur Ruby    Bullfango Pelt     Kut-Ku Scale
+Ancient Fish       Lg Monster Bone    Thunderbug Juice
+ShakaInheritance   Flame Sac          Poison Sac
+Akantor Tail       Azure LaoS Shell   FireWyvrn BrnStm
+Azre Rthlos Scl+   Toxin Sac          Blk Gravios Shl
+Kut-Ku Carapace    Genprey Hide+      HornetaurInnrWng
+Velocidrome Clw+   Rathian Scale      Rathalos Scale
+Blk Blos Thracic   Stout Bone         Congalala Pelt+
+Splendid Beak      Bulldrome Hide+    Giaprey Hide+
+Gold Rajang Pelt   Inferno Sac        Hrd Monster Bone
+Hypno Bezoar       Sleep Sac          Rathian Spike
+HvyAzurRthlsShl    HvyBlueKut-KuShl   Str Kut-Ku Wing
+VespoidQn'sCrown   Rathian Scale+     Rathalos Scale+
+ThickGarugaScale   ThkBullfangoPelt   RobustWyvernBone
+Dosbiscus          Dung               WyvernDroppings
+Chaos Mushroom     Honey              Honey
+Springnight Carp   Net                Net
+Great Hornfly      Godbug             Monster Fluid
+Sinister Cloth     Dragon Treasure    Dragon Treasure
+Dragonmoss         Lg Monster Bone    Eldr Dragon Bone
+Dragonmoss+        Monster Bone+      Hrd Monster Bone
+Dragonwood         Lg Monster Bone    Eldr Dragon Bone
+Dragonwood+        Monster Bone+      Hrd Monster Bone
+Giant Corn         Honey              Honey
+Tailed Frog        Frog               Frog
+dummy              Mega Bugnet        Bugnet
+dummy              Mega Bugnet        Bugnet
+dummy              dummy              dummy
+dummy              dummy              dummy
+dummy              dummy              dummy
+dummy              Bounce Bomb+       Bounce Bomb+
+dummy              Lg Barrel-Bomb+    Lg Barrel-Bomb
+dummy              dummy              dummy
+Blackbelt Ticket   Special Mushroom   Special Mushroom
+Expert Ticket      Decayed Drgn Scl   Decayed Drgn Scl
+Kut-Ku Coin        Kut-Ku Scale       Kut-Ku Shell
+Congalala Coin     Congalala Pelt     Congalala Fang
+Khezu Coin         Flabby Hide        Pale Extract
+Daimyo Coin        Hermitaur Shell    Hermitaur Claw
+Blangonga Coin     Blangonga Pelt     Blangonga Whiskr
+Yian Garuga Coin   Garuga Scale       Garuga Shell
+Tigrex Coin        Tigrex Scale       Tigrex Shell
+Diablos Coin       Diablos Shell      Blos Fang
+Gravios Coin       Gravios Shell      Lg Monster Bone
+Kirin Coin         Kirin Mane         Kirin Horn
+Cephadrome Coin    Cephalos Scale     Cephalos Fin
+Plesioth Coin      Plesioth Scale     Plesioth Fin
+Shogun Coin        Ceanataur Shell    Ceanataur Leg
+Fire Coin          Rathalos Scale     Rathalos Shell
+Rajang Coin        Commendation       Blk Rajang Pelt
+BlackBeltCoinG     OrangeHypnoPelt+   E.CongalalaPelt+
+Expert Coin G      C.BlangongaPelt+   ThickNargaScale
+Warrior Coin G     ThckLavasiothScl   TerraCeanatrClaw
+VeggieElderTcket   Max Potion         Lifecrystals
+VeggieElderTckt+   Ancient Potion     Lifepowder
+VegElderTcktBrz    Monster Bone+      Monster Bone+
+VegElderTcktSlv    Rathalos Plate     Rathalos Plate
+VegElderTcktGld    Rathalos Ruby      Rathalos Ruby
+VegElderTcktSky    HvnlyRathianScl    HvnlyRathalosScl
+
+=======
+Kokoto Jungle
+==========
+
+Item Name          80% Trade          20% Trade
+======================================================
+Insect Husk        Special Mushroom   Special Mushroom
+Garbage            Special Mushroom   Special Mushroom
+Burnt Fish         Special Mushroom   Special Mushroom
+Burnt Meat         Special Mushroom   Special Mushroom
+Sap Plant          Special Mushroom   Hot Drink
+Conga Pelt         Special Mushroom   Deodorant
+Bounce Bomb        Bounce Bomb+       Bounce Bomb+
+Disk Stone         Stone              Green Seed
+Sleepyfish         Parashroom         Exciteshroom
+Iodrome Hide       Gunpowder          Antidote
+Unknown Skull      Glutton Tuna       Scatterfish
+Kelbi Horn         Bomberry           Armor Seed
+Sm Monster Bone    Hot Drink          Hot Meat
+Disk Stone         Exciteshroom       Toadstool
+Thunderbug         Godbug             Antiseptic Stone
+Machalite Ore      Carpenterbug       Honey
+Firefly            Blue Mushroom      Bitterbug
+Nitroshroom        Paintberry         Fire Herb
+Frozen Berry       Exciteshroom       Toadstool
+Small Goldenfish   Armor Seed         Armorskin
+Large Ruststone    Vespoid Wing       Vespoid Shell
+Flat Ruststone     Hornetaur Wing     Hornetaur Shell
+Vespoid Abdomen    Honey              Catalyst
+Dragonite Ore      Honey              Psychoserum
+Black Pearl        Flashbug           Carpenterbug
+Bomb Arrowana      Power Seed         Tranquilizer
+Bullfango Head     Honey              Bitterbug
+Fire Dragon Scl    Demondrug          Hot Meat
+Blangonga Fang     Killer Beetle      Health Flute
+TwstBlkBlosHrn     Demondrug          Mega Demondrug
+Gendrome Skull     Well-Done Steak    Rare Steak
+Daora Horn         Immunizer          Cold Meat
+Remobra Skull      Hornetaur Shell    Vespoid Shell
+Gravios Shell      Antiseptic Stone   Herbal Medicine
+Velocidrome Claw   Honey              Godbug
+Congalala Fang     Mega Potion        Killer Beetle
+Monster Bone+      Honey              Nutrients
+Thunder Sac        Monster Broth      Thunderbug Juice
+Pnk Rathian Scl+   Monster Fluid      Armor Pill
+Toxin Sac          Hercudrome         Rare Scarab
+Novacrystal        Gourmet Steak      Power Extract
+Hermitaur Claw+    Gourmet Fish+      Gourmet Fish
+Slvr Rthlos Tail   Hornetaur Crapce   Vespoid Carapace
+Fire Dragon Pwdr   HornetaurInnrWng   Vespoid InnrWng
+Pale Khezu Steak   Thunderbug Juice   Rare Scarab
+Kirin Azure Horn   Power Juice        Mega Juice
+NarugaTail         Power Extract      Mega Demondrug
+PlumD.HermitrClw   Mega Armorskin     Armor Pill
+ThckPnkRathnScl    FireWyvernFluid    Catalyst
+Purecrystal        Power Extract      Power Juice
+Dosbiscus          Dung               WyvernDroppings
+Chaos Mushroom     Honey              Honey
+Springnight Carp   Net                Net
+Great Hornfly      Godbug             Monster Fluid
+Sinister Cloth     Dragon Treasure    Dragon Treasure
+Dragonmoss         Lifecrystals       Monster Fluid
+Dragonmoss+        Pale Extract       Monster Broth
+Dragonwood         Lifecrystals       Monster Fluid
+Dragonwood+        Pale Extract       Monster Broth
+Giant Corn         Honey              Honey
+Tailed Frog        Frog               Frog
+dummy              Mega Bugnet        Bugnet
+dummy              Mega Bugnet        Bugnet
+dummy              dummy              dummy
+dummy              dummy              dummy
+dummy              dummy              dummy
+dummy              Bounce Bomb+       Bounce Bomb+
+dummy              Lg Barrel-Bomb+    Lg Barrel-Bomb
+dummy              dummy              dummy
+Blackbelt Ticket   Special Mushroom   Special Mushroom
+Expert Ticket      Decayed Drgn Scl   Decayed Drgn Scl
+Kut-Ku Coin        Potion             Herb
+Congalala Coin     Honey              Blue Mushroom
+Khezu Coin         Nutrients          Bitterbug
+Daimyo Coin        Armorskin          Armor Seed
+Blangonga Coin     Hot Meat           Hot Drink
+Yian Garuga Coin   Herbal Medicine    Antidote
+Tigrex Coin        Demondrug          Power Seed
+Diablos Coin       Mega Potion        Potion
+Gravios Coin       Armor Pill         Mega Armorskin
+Kirin Coin         Well-Done Steak    Energy Drink
+Cephadrome Coin    Cold Meat          Cool Drink
+Plesioth Coin      Mega Nutrients     Catalyst
+Shogun Coin        Gourmet Steak      Power Juice
+Fire Coin          Power Pill         Mega Demondrug
+Rajang Coin        Max Potion         Immunizer
+BlackBeltCoinG     Mega Armorskin     Armor Flute
+Expert Coin G      Mega Demondrug     Demon Flute
+Warrior Coin G     Lifepowder         Health Flute
+VeggieElderTcket   Lg Barrel-Bomb     Sm Barrel-Bomb
+VeggieElderTckt+   Lg Barrel-Bomb+    Sm Barrel-Bomb+
+VegElderTcktBrz    Hermitaur Claw     Hermitaur Claw
+VegElderTcktSlv    Majestic Horn      Majestic Horn
+VegElderTcktGld    Gravios BrainStm   Gravios BrainStm
+VegElderTcktSky    HvnlyNargaScale    HvnlyNargaScale
+
+=======
+Kokoto Swamp
+==========
+
+Item Name          80% Trade          20% Trade
+======================================================
+Quartz Ore         Potion             Mega Potion
+Insect Husk        Special Mushroom   Special Mushroom
+Garbage            Special Mushroom   Special Mushroom
+Burnt Fish         Special Mushroom   Special Mushroom
+Burnt Meat         Special Mushroom   Special Mushroom
+Toadstool          Special Mushroom   Hot Drink
+Herb               Special Mushroom   Antidote
+Bounce Bomb        Bounce Bomb+       Bounce Bomb+
+Screamer           Earth Crystal      Suiko Jewel
+ShakalakaTreasre   Earth Crystal      Suiko Jewel
+CarapaceonBrains   Earth Crystal      Iron Ore
+Carpenterbug       Ice Crystal        Iron Ore
+Mega Fishing Fly   Disk Stone         Iron Ore
+Brute Bone         Iron Ore           Earth Crystal
+Small Goldenfish   Iron Ore           Disk Stone
+Sap Plant          Disk Stone         Stone
+Hot Pepper         Stone              Disk Stone
+WyvernClaw         Iron Ore           Disk Stone
+Frozen Berry       Suiko Jewel        Suiko Jewel
+Exciteshroom       Earth Crystal      Machalite Ore
+Spicy Mushroom     Earth Crystal      Machalite Ore
+Killer Beetle      Iron Ore           Earth Crystal
+Hornetaur Shell    Earth Crystal      Machalite Ore
+Ruststone          Machalite Ore      Armor Stone
+Small Ruststone    Machalite Ore      Armor Stone
+Remobra Skin       Iron Ore           Machalite Ore
+Chameleos Horn     Armor Sphere       Armor Sphere+
+Blk Gravios Skl    Armor Sphere       Armor Stone
+Bullfango Head     Machalite Ore      Earth Crystal
+Lost Umbrella      Suiko Jewel        Akito Jewel
+Blk Gravios Shl    Earth Crystal      Lightcrystal
+Lao-Shan's Shell   Machalite Ore      Firestone
+Monoblos Heart     Earth Crystal      Lightcrystal
+Gaoren Pincer      Earth Crystal      Firestone
+Blangonga Tail     Earth Crystal      Machalite Ore
+Hermitaur Claw     Machalite Ore      Akito Jewel
+Tigrex Tail        Machalite Ore      Suiko Jewel
+Iodrome Skull      Suiko Jewel        Earth Crystal
+Chameleos Claw     Akito Jewel        BattlefieldJewel
+Gastronome Tuna    Armor Sphere       Armor Sphere+
+Garuga Carapace    BattlefieldJewel   LapisLazuliJewel
+Chameleos Spike    LapisLazuliJewel   Union Ore
+Tigrex Claw+       Firestone          Lightcrystal
+Ioprey Scale+      Earth Crystal      Dragonite Ore
+Gaoren Thoracic    Lightcrystal       Novacrystal
+Blue Kut-Ku Scl+   Armor Stone        Armor Sphere
+Lunastra Spike     Union Ore          LapisLazuliJewel
+Hvy Monster Bone   Dragonite Ore      BattlefieldJewel
+HardGypcerosHead   Carbalite Ore      Novacrystal
+StrAlluringWing    LapisLazuliJewel   Novacrystal
+SpecLavasioFin+    Hrd Armor Sphere   Armor Sphere+
+Dosbiscus          Dung               WyvernDroppings
+Chaos Mushroom     Honey              Honey
+Springnight Carp   Net                Net
+Great Hornfly      Godbug             Monster Fluid
+Sinister Cloth     Dragon Treasure    Dragon Treasure
+Dragonmoss         Armor Sphere       Armor Sphere
+Dragonmoss+        Armor Sphere+      Armor Sphere+
+Dragonwood         Armor Sphere       Armor Sphere
+Dragonwood+        Armor Sphere+      Armor Sphere+
+Giant Corn         Honey              Honey
+Tailed Frog        Frog               Frog
+dummy              Mega Bugnet        Bugnet
+dummy              Mega Bugnet        Bugnet
+dummy              dummy              dummy
+dummy              dummy              dummy
+dummy              dummy              dummy
+dummy              Bounce Bomb+       Bounce Bomb+
+dummy              Lg Barrel-Bomb+    Lg Barrel-Bomb+
+dummy              dummy              dummy
+Blackbelt Ticket   Special Mushroom   Special Mushroom
+Expert Ticket      Decayed Drgn Scl   Decayed Drgn Scl
+Kut-Ku Coin        Disk Stone         Stone
+Congalala Coin     Iron Ore           Disk Stone
+Khezu Coin         Suiko Jewel        Ice Crystal
+Daimyo Coin        Earth Crystal      Iron Ore
+Blangonga Coin     Ice Crystal        Earth Crystal
+Yian Garuga Coin   Machalite Ore      Armor Stone
+Tigrex Coin        Suiko Jewel        Machalite Ore
+Diablos Coin       Machalite Ore      Suiko Jewel
+Gravios Coin       Akito Jewel        Firestone
+Kirin Coin         Suiko Jewel        Lightcrystal
+Cephadrome Coin    Iron Ore           Disk Stone
+Plesioth Coin      Earth Crystal      Iron Ore
+Shogun Coin        Akito Jewel        Black Pearl
+Fire Coin          Machalite Ore      Akito Jewel
+Rajang Coin        BattlefieldJewel   Firestone
+BlackBeltCoinG     Carbalite Ore      Rainbow Ore
+Expert Coin G      Rainbow Ore        Lightcrystal
+Warrior Coin G     Union Ore          Novacrystal
+VeggieElderTcket   Health Flute       Antidote Flute
+VeggieElderTckt+   Armor Flute        Demon Flute
+VegElderTcktBrz    Ceanataur Pincer   Ceanataur Pincer
+VegElderTcktSlv    Gypceros Head      Gypceros Head
+VegElderTcktGld    Lao-Shan's Ruby    Lao-Shan's Ruby
+VegElderTcktSky    HvnlyGraviosShl    HvnlyGraviosShl
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

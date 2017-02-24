@@ -1,0 +1,237 @@
+body {
+  padding: 0px; margin: 0px;
+  font: 10pt normal Verdana, Tahoma, Arial;
+  color: silver;
+}
+
+#menubk {
+  padding: 60px 40px; margin: 0px;
+        height: 300px;
+	/*background: url('http://skiesofcroda.com/wip/images/logosuffix.png') top right no-repeat fixed;*/
+	float: right;
+	color: white;
+  position: absolute; top: 0px; right: 0px;
+}
+
+#socmenudiv {
+  padding: 0px; margin: 0px;
+	width: 155px;
+	float: right;
+}
+
+#socmenudiv .menuitem {
+  display: block;
+	height: 29px;
+	padding: 0px; margin: 0px;
+  text-align: center;
+  color: #830131;
+	background: url('http://skiesofcroda.com/wip/images/buttonplain.png') center center no-repeat;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#socmenudiv .menuitem:hover {
+  display: block;
+	height: 29px;
+	padding: 0px; margin: 0px;
+  text-align: center;
+  color: #cc6699;
+	background: url('http://skiesofcroda.com/wip/images/buttonhilite.png') center center no-repeat;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#socmenudiv .menuitem a {
+  display: block;
+	padding: 4px;
+  color: #830131;
+	text-decoration: none;
+}
+
+#socmenudiv .menuitem:hover a {
+  display: block;
+  padding: 4px;
+  color: #cc6699;
+	text-decoration: none;
+}
+
+
+#socmenudiv .statusicon {
+  border: none;
+	margin: 0px 4px 0px 10px;
+	float: left;
+	vertical-align: text-bottom;
+}
+
+#socmenudiv .submenu {
+  padding: 0px; margin: 0px; width: 153px;
+  background: #070002 url('http://skiesofcroda.com/wip/images/menuaccordionbk.jpg') top left repeat-x;
+	border: 1px solid black;
+	text-align: left;
+}
+
+#socmenudiv .submenu ul {
+  margin: 2px 6px; padding: 0px; width: 141px;
+	list-style: none;
+	background: black;
+	overflow: hidden;
+}
+
+#socmenudiv .submenu ul li {
+  margin: 2px; padding: 2px 4px;
+	color: #830131;
+	text-align: center;
+}
+
+#socmenudiv .submenu ul li a{
+  text-decoration: none;
+	color: #830131;
+}
+
+#socmenudiv .submenu ul li a:hover{
+  text-decoration: none;
+  color: #cc6699;
+}
+
+#mainContents {
+	margin-right: 200px;
+	color: silver;
+}
+
+#copyright {
+  color: lemonchiffon;
+	text-align: center;
+	padding: 20px;
+	margin-right: 150px;
+}
+
+
+
+
+html { overflow-x: hidden; overflow-y: auto; }
+
+form { display:inline; background-color: black;}
+img  { vertical-align:middle; border:0px; margin: 0px 1px; }
+BODY { font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 11px; color: #ccc; margin:0px 10px 0px 10px;background:black url('http://skiesofcroda.com/wip/sfimages/bodybk.jpg') top left fixed no-repeat; }
+TABLE, TR, TD { font-family: Verdana, Tahoma, Arial, sans-serif; font-size: 11px; color: #ccc; }
+a:link, a:visited, a:active { text-decoration: none; color: lightpink }
+a:hover { color: #465584; text-decoration:underline }
+
+fieldset.search { padding:6px; line-height:150% }
+label { cursor:pointer; }
+
+img.attach { border:2px outset #EEF2F7;padding:2px }
+
+.googleroot  { padding:6px; line-height:130% background: #000; }
+.googlechild { padding:6px; margin-left:30px; line-height:130% }
+.googlebottom, .googlebottom a:link, .googlebottom a:visited, .googlebottom a:active { font-size:11px; color: #3A4F6C; background: #000; }
+.googlish, .googlish a:link, .googlish a:visited, .googlish a:active { font-size:14px; font-weight:bold; color:#00D; background: #000; }
+.googlepagelinks { font-size:1.1em; letter-spacing:1px background: #000; }
+.googlesmall, .googlesmall a:link, .googlesmall a:active, .googlesmall a:visited { font-size:10px; color:#434951; background: #000;}
+
+li.helprow { padding:0px; margin:0px 0px 10px 0px }
+ul#help    { padding:0px 0px 0px 15px }
+
+option.cat { font-weight:bold; }
+option.sub { font-weight:bold;color:#555 }
+.caldate   { text-align:right;font-weight:bold;font-size:11px;color:#777;background-color:#DFE6EF;padding:4px;margin:0px }
+
+.warngood { color:green }
+.warnbad  { color:red }
+
+#padandcenter { margin-left:auto;margin-right:auto;text-align:center;padding:14px 0px 14px 0px }
+
+#profilename { font-size:28px; font-weight:bold; }
+#calendarname { font-size:22px; font-weight:bold; }
+
+#photowrap { padding:6px; }
+#phototitle { font-size:24px; border-bottom:1px solid black }
+#photoimg   { text-align:center; margin-top:15px }
+
+#ucpmenu    { line-height:150%;width:22%; border:1px solid #345487;background-color: #F5F9FD }
+#ucpmenu p  { padding:2px 5px 6px 9px;margin:0px; }
+#ucpcontent { background-color: #F5F9FD; border:1px solid #345487;line-height:150%; width:auto }
+#ucpcontent p  { padding:10px;margin:0px; }
+
+#ipsbanner { position:absolute;top:1px;margin-right: }
+#logostrip { padding:0px;margin:0px; }
+#submenu   { font-size:10px;margin:3px 200px 3px 0px;color:#3A4F6C;font-weight:bold; background: url('http://skiesofcroda.com/wip/sfimages/backgrounds/portalheader-bar.gif') center left repeat-x; }
+#submenu a:link, #submenu  a:visited, #submenu a:active { font-weight:bold;font-size:10px;text-decoration: none; color: #3A4F6C; }
+#userlinks { background: url('http://skiesofcroda.com/wip/sfimages/backgrounds/forumbarheader.gif') center left no-repeat; color: lightsteelblue;}
+#userlinks td { color:lightsteelblue; padding-left: 50px;}
+
+#navstrip  { font-weight:bold;padding:6px 0px 6px 0px; }
+
+.activeuserstrip { background-color:#000; padding:6px }
+
+.pformstrip { color:#3A4F6C;font-weight:bold;padding:0px 15px;margin-top:1px; background: url('http://skiesofcroda.com/wip/sfimages/backgrounds/title2-bar.gif') repeat-x; height: 20px;}
+.pformleft  { background-color: #000; padding:6px; margin-top:1px;width:25%; border-top: 1px solid #333333; }
+.pformleftw { background-color: #000; padding:6px; margin-top:1px;width:40%; border-top: 1px solid #333333; }
+.pformright { background-color: #000; padding:6px; margin-top:1px; border-top: 1px solid #333333; border-left: 1px solid #333333;}
+
+.post1 { background-color: #333333 }
+.post2 { background-color: #222222 }
+.postlinksbar { padding-top:4px;margin: 0px 1px;font-size:10px; background: url('http://skiesofcroda.com/wip/sfimages/backgrounds/title2-bar.gif') top left repeat-x; height: 16px;}
+
+
+.row1, .row2, .row3, .row4, div .row4 {  background: url('http://skiesofcroda.com/wip/sfimages/backgrounds/post-bk.gif') top left repeat-x; color: #ccc; background-color:#000000; }
+
+.darkrow1 { background-color: #111; color:#4C77B6; }
+.darkrow2 {  background: url('http://skiesofcroda.com/wip/sfimages/backgrounds/title3-bar.gif') bottom left repeat-x; height: 20px;}
+.darkrow3 { background-color: #000; color:#3A4F6C; }
+
+.hlight { background-color: #000 }
+.dlight { background-color: #000 }
+
+.titlemedium { font-weight:bold; color:#3A4F6C; padding:0px 7px; margin:0px; background: url('http://skiesofcroda.com/wip/sfimages/backgrounds/title2-bar.gif') repeat-x; height: 20px;}
+.titlemedium  a:link, .titlemedium  a:visited, .titlemedium  a:active  { text-decoration: underline; color: #3A4F6C }
+
+.maintitle { font-weight:bold; color:#ccc; letter-spacing:1px; padding:0px; margin: 0px; background: url('http://skiesofcroda.com/wip/sfimages/backgrounds/maintitle-bar.gif') repeat-x; margin-bottom:0px; height:48px; background-position: 0px 21px;}
+.maintitle a:link, .maintitle  a:visited, .maintitle  a:active { text-decoration: none; color: lightpink; margin-top: 18px;}
+.maintitle a:hover { text-decoration: underline }
+
+.plainborder { border:1px solid #345487;background-color:#000 }
+.tableborder { padding:0px; margin:0px; width:100% }
+.tablefill   { border:1px solid #345487;background-color:#000;padding:6px;  }
+.tablepad    { background-color:#000;padding:6px }
+.tablebasic  { width:100%; padding:0px 0px 0px 0px; margin:0px; border:0px }
+
+.wrapmini    { float:left;line-height:1.5em;width:25% }
+.pagelinks   { float:left;line-height:1.2em;width:35% }
+
+.desc { font-size:10px; color:#434951 }
+.edit { font-size: 9px }
+
+.signature   { font-size: 10px; color: #339 }
+.postdetails { font-size: 10px }
+.postcolor   { font-size: 12px; line-height: 160% }
+
+.normalname { font-size: 12px; font-weight: bold; color: #003 }
+.normalname a:link, .normalname a:visited, .normalname a:active { font-size: 12px }
+.unreg { font-size: 11px; font-weight: bold; color: #900 }
+
+.searchlite { font-weight:bold; color:#F00; background-color:#000 }
+
+#QUOTE { font-family: Verdana, Arial; font-size: 11px; color: #465584; background-color: #FAFCFE; border: 1px solid #000; padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px }
+#CODE  { font-family: Courier, Courier New, Verdana, Arial;  font-size: 11px; color: #465584; background-color: #FAFCFE; border: 1px solid #000; padding-top: 2px; padding-right: 2px; padding-bottom: 2px; padding-left: 2px }
+
+.copyright { font-family: Verdana, Tahoma, Arial, Sans-Serif; font-size: 9px; line-height: 12px }
+
+.codebuttons  { font-size: 10px; font-family: verdana, helvetica, sans-serif; vertical-align: middle }
+.forminput, .textinput, .radiobutton, .checkbox  { font-size: 11px; font-family: verdana, helvetica, sans-serif; vertical-align: middle }
+
+.thin { padding:6px 0px 6px 0px;line-height:140%;margin:2px 0px 2px 0px;border-top:1px solid #333;border-bottom:1px solid #333 }
+
+.purple { color:purple;font-weight:bold }
+.red    { color:red;font-weight:bold }
+.green  { color:green;font-weight:bold }
+.blue   { color:blue;font-weight:bold }
+.orange { color:#F90;font-weight:bold }
+
+
+
+
+.maintitle_left {background:url('http://skiesofcroda.com/wip/sfimages/backgrounds/maintitle-left.gif') left top no-repeat;float:left;width:65px;height:30px;padding: 0px; margin: 0px;margin-top:18px;}
+
+.maintitle_right {background:url('http://skiesofcroda.com/wip/sfimages/backgrounds/maintitle-right.gif') right top no-repeat;float:right;width:110px;height:48px;padding: 0px; margin: 0px;}
+

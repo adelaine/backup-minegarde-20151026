@@ -1,0 +1,479 @@
+,Shooter's Barrel,96,156,-,Normal,Moderate,1,0%,OOO,-, 6/6/0| 3/0/0| 0/0/0| 3/0/0|0/0/0, 3/3| 3/0| 3/0| 3/0,Flame S: 6|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 0,450z
+Create, Iron Ore: 4|Brute Bone: 2
+,Chain Blitz,108,168,-,Normal,Moderate,1,0%,---,Normal S Lv1, 3/6/0| 2/0/0| 2/0/0| 1/0/0| 1/0/0, 3/3| 3/0| 3/0| 3/0,Flame S: 2|Water S: 0|Thundr S: 2|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,600z
+Create, Disk Stone: 5|Iron Ore: 10
+Shortcut,Normal Ticket: 1
+,Shotgun (Azure),108,168,-,Fast,Moderate,3,20%,OO-,-, 6/6/0| 2/0/0| 4/4/0| 1/0/0| 1/0/0, 3/3| 0/0| 0/0| 3/1,Flame S: 0|Water S: 3|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,550z
+Create,Velociprey Scale:  6|Sm Monster Bone: 3|Iron Ore: 6|Velociprey Hide:4
+Shortcut,Hard Ticket: 1|Velociprey Scale: 1
+,Shotgun (White),120,180,-,Fast,Moderate,3,0%,---,Pellet S Lv1, 6/6/0| 3/0/0| 3/0/0| 1/0/0| 1/0/0, 3/3| 3/0| 3/0| 3/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,1000z
+Create,Giadrome Claw: 4|Giaprey Scale: 6|Machalite Ore: 1|Sm Monster Bone: 4
+,Shotgun (Emerald),120,180,-,Fast,Moderate,3,0%,OOO,-, 6/6/0| 2/0/0| 4/4/0| 1/0/0| 1/0/0, 3/3| 0/0| 4/2| 3/1,Flame S: 0|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,750z
+Create,Genprey Scale: 8|Sm Monster Bone: 4|Iron Ore: 8|Gendrome Hide: 2
+,Desert Storm,120,180,-,VeryFast,Moderate,3,0%,O--,-, 6/6/9| 3/0/0| 4/0/0| 1/0/0| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 0|Water S: 3|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S:1|Armor S: 1,1100z
+Create,Cephalos Fin: 3|Cephalos Scale: 6|Lg Monster Bone: 3|Earth Crystal: 5
+,Maelstrom,120,180,-,Normal,Moderate,3,0%,---,-, 6/4/0| 2/2/2| 2/2/2| 1/1/1| 1/1/1, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 2|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,1150z
+Create,Plesioth Fin: 3|Plesioth Scale: 6|Machalite Ore: 5|Carpenterbug: 6
+,Shotgun (Blood),132,192,-,Fast,Moderate,3,0%,OOO,-, 6/6/0| 2/0/0| 4/4/0| 1/0/0| 1/0/0, 3/3| 4/2| 0/0| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,900z
+Create,Iodrome Hide: 2|Med Monster Bone: 3|Iron Ore: 10|Ioprey Scale: 10,
+,Tail String,132,192,-,Normal,Moderate,3,0%,---,Freeze S, 9/9/0| 3/2/0| 4/0/0| 0/0/0| 0/0/0, 3/3| 0/0| 0/0| 3/1,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,1150z
+Create,Blango Pelt: 4|Brute Bone: 6|Ice Crystal: 10|Giant Bone: 3,
+,Assault Conga,132,192,-,Fast,Moderate,3,0%,O--,Pierce S Lv1, 6/6/0| 3/3/0| 3/0/0| 0/0/0| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 1,1250z
+Create,Congalala Pelt: 5|Congalala Fang: 3|Machalite Ore: 5|Giant Bone: 1,
+,Jade Storm,132,192,-,Normal,Moderate,3,0%,---,Normal S Lv2, 6/3/0| 2/2/2| 2/2/2| 1/1/1| 1/1/1, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,1375z
+Create,Grn Plesioth Scl: 6|Plesioth Fin: 3|Machalite Ore: 5|Springnight Carp: 3,
+,Lobster Gun,144,204,-,Normal,Moderate,3,0%,---,Water S, 6/6/9| 3/2/2| 4/2/2| 0/0/0| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,1150z
+Create,Sm Lobstershell: 2|Plesioth Scale: 5|Machalite Ore: 5,
+,Angel Parasol,144,204,-,Fast,Moderate,3,0%,---,-, 6/6/9| 3/3/0| 4/4/4| 1/1/1| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 0|Water S: 0|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,1200z
+Create,Flabby Hide: 4|Lost Umbrella: 1|Carpenterbug: 8|Electro Sac: 3,
+,Kut-Ku Anger,156,216,8,VerySlow,Moderate,3,0%,---,-, 9/9/12| 0/3/0| 0/4/0| 0/1/0| 0/1/0, 0/0| 3/1| 0/0| 0/0,Flame S: 4|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 0,1200z
+Create,Giant Beak: 1|Kut-Ku Shell: 5|Kut-Ku Ear: 2|Flabby Hide: 2,
+,Kut-Ku Rage,180,240,-,VerySlow,Moderate,3,10%,---,-, 9/9/12| 0/3/0| 0/4/0| 0/1/0| 0/1/0, 0/0| 3/1| 0/0| 0/0,Flame S: 4|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 0,1425z
+Create,Giant Beak: 1|Blue Kut-Ku Shl: 4|Kut-Ku Ear: 2|Alluring Hide: 2,
+,Grenade Launcher,132,192,-,VeryFast,Moderate,4,0%,---,Crag S Lv1, 6/6/0| 2/2/0| 2/2/0| 1/1/0| 1/1/0, 0/0| 3/1| 0/0| 0/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,1575z
+Create,Dragonite Ore: 2|Basarios Shell: 6|Earth Crystal: 20|Machalite Ore: 10,
+,Sandfall,156,216,-,VeryFast,Moderate,4,0%,---,Normal S Lv2, 9/3/12| 3/0/0| 4/0/0| 1/0/0| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 4|Water S: 4|Thundr S: 4|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,1975z
+Create,Rainbow Ore: 2|Cephalos Scale: 8|Cephalos Fin: 5|Machalite Ore: 8,
+,Sakura Parasol,156,216,-,Fast ,Moderate,4,0%,---,Thunder S, 9/9/12| 3/3/0| 4/4/4| 2/2/2| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 0|Water S: 0|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,1425z
+Create,Alluring Hide: 4|Lost Umbrella: 1|Firestone: 1|Electro Sac: 3,
+,Tail String+,168,228,-,Normal,Moderate,4,0%,---,Freeze S, 9/9/12| 3/2/2| 4/2/2| 0/0/0| 0/0/0, 3/3| 0/0| 0/0| 3/1,Flame S: 0|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,1725z
+Create,Blangonga Whiskr: 3|Blangonga Pelt: 3|Giant Bone: 4|Killer Beetle: 3,
+,Valkyrie Fire,168,228,-,Fast,Moderate,4,0%,O--,-, 6/6/9| 3/3/0| 4/0/0| 1/1/0| 0/0/0, 3/3| 0/0| 0/0| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 1,1875z
+Create,Rathian Scale: 5|Monster Bone+: 2|Rathian Shell: 3|Gunpowder: 10,
+,Spartacus Fire,180,240,-,Normal,Moderate,4,0%,---,-, 6/6/9| 3/3/3| 0/0/0| 1/1/0| 0/0/0, 3/3| 3/1| 3/1| 0/0,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 0,1950z
+Create,Rathalos Shell: 3|Monster Bone+: 2|Rathalos Scale: 5|Gunpowder: 10,
+,Titan Launcher,192,252,10,VeryFast,Moderate,4,0%,O--,-, 6/6/0| 0/3/3| 0/3/3| 0/1/1| 0/1/1, 0/0| 3/1| 0/0| 0/0,Flame S: 3|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,1950z
+Create,Gravios Shell: 6|WyvernSkull Shl: 1|Monster Bone+: 3|Dragonite Ore: 4,
+,Uranos Grenade,192,252,10,VeryFast,Moderate,4,10%,---,Flaming S, 6/6/0| 0/3/3| 0/3/3| 0/1/1| 0/1/1, 0/0| 3/1| 0/0| 0/0,Flame S: 3|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,2325z
+Create,Blk Gravios Shl: 4|Basarios Wing: 1|Monster Bone+: 3|Hercudrome: 3,
+,Tigrex Tank,204,264,-,VeryFast,Moderate,4,-30%,O--,-, 6/6/9| 4/4/4| 0/0/0| 2/2/2| 0/1/0, 0/0| 0/0| 0/0| 0/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 0,1950z
+Create,Tigrex Shell: 6|Tigrex Fang: 3|Tigrex Scale: 5|Monster Bone+: 3,
+,Demonlock,108,168,-,Slow,Moderate,5,0%,---,-,6/6/9| 3/0/0 |4/0/0 |3/3/3 |3/3/3,0/3 |0/1 |0/1 |0/1,Flame S: 3 |Water S: 0 |Thundr S: 0 |Freeze S: 0 |Dragon S: 0,Tranq S: 2 |Paint S: 2 |Demon S: 1 |Armor S: 1,1000z
+Create,Ruststone: 1
+,Felyne Ragdoll,144,204,-,VeryFast,Moderate,5,0%,OOO,Normal S Lv1|Flaming S, 4/6/9| 3/0/0| 4/0/0| 2/2/2| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 5|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,1375z
+Create,FlynMealPassReg: 3|Lightcrystal: 1|Rubbery Hide: 5|Flame Sac: 5,
+,Melynx Ragdoll,144,204,-,VeryFast,Moderate,5,30%,O--,Normal S Lv1|Flaming S, 4/6/9| 3/0/0| 4/0/0| 2/2/2| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 6|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,1375z
+Create,FlynMealPassReg: 3|Black Pearl: 6|Hermiatur Claw: 2|Flame Sac: 5,
+,Red Lobster Gun,156,216,-,Normal,Moderate,5,0%,---,Water S, 6/6/9| 3/2/2| 4/2/2| 0/0/0| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,1375z
+Create,dummy: 4|Plesioth Scale: 5|Machalite Ore: 5,
+,Blessed Lamp,156,216,-,Fast,Moderate,5,30%,OOO,-, 6/6/9| 3/3/0| 4/4/0| 1/1/1| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 1,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,2250z
+Create,Chamelos Hide: 6|ChamelosWebbing: 4|Firestone: 1|ElderDragonBlood: 2,
+,Black Belt Bowgun,168,228,-,VeryFast,Moderate,5,0%,O--,Thunder S, 6/6/9| 3/3/0| 4/4/0| 1/1/1| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 2|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,1875z
+Create,Tigrex Coin: 8|Blackbelt Ticket: 10|Khezu Coin: 7|Yian Garuga Coin: 8,
+,Black Parasol,168,228,-,Fast,Moderate,5,0%,---,-, 6/6/9| 3/0/0| 4/4/4| 1/1/0| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 1,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,3000z
+Create,Dark Stone: 1|Dark Piece: 3|Lost Umbrella: 1|Dragonite Ore: 3,
+,Raven Do,180,240,-,Normal,Moderate,5,0%,---,-, 6/6/9| 0/3/0| 0/4/0| 0/1/0| 0/1/0, 3/3| 3/1| 0/0| 0/0,Flame S: 5|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,1725z
+Create,Garuga Shell: 6|Sharpened Beak: 2|Garuga Ear: 2|Ceanataur Shell: 8,
+,Valkyrie Heart,180,240,-,Fast,Moderate,5,0%,---,Normal S Lv2, 6/3/9| 4/4/0| 2/0/0| 1/1/0| 0/0/0, 3/3| 0/0| 0/0| 3/1,Flame S: 3|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 1,2250z
+Create,Pnk Rathian Scl: 5|Pnk Rathian Shl: 3|Dragonite Ore: 2|Rathian Spike: 1,
+,Azure Sakura,180,240,6,Fast,Moderate,5,0%,---,Normal S Lv2|Pierce S Lv1, 6/3/9| 3/4/4| 2/0/0| 1/1/0| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,2700z
+Create,Azre Rathalos Shl: 5|Pnk Rathian Scl: 5|Lightcrystal: 2|FireWyvernMarrow: 2,
+,Spartacus Soul,192,252,-,Normal,Moderate,5,0%,---,Pierce S Lv1, 6/6/9| 3/4/4| 0/0/0| 1/1/0| 0/0/0, 3/3| 3/1| 3/1| 0/0,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 0,2325z
+Create,Azre Rathalos Shl: 5|Azr Rathalos Scl: Shortcut3|Dragonite Ore: 2|FireWyvernMarrow: 1,
+,Aqua Blade Shower,204,264,-,Fast,Moderate,6,30%,---,-, 6/6/0| 3/0/0| 4/4/0| 1/0/0| 1/0/0, 3/3| 0/0| 0/0| 3/1,Flame S: 3|Water S: 3|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,1200z
+Create,Velocidrome Clw+: 6|Velociprey Scle+: 8|Monster Bone+: 5|Dragonite Ore: 6,
+,Maelstrom+,204,264,-,Normal,Moderate,6,0%,---,-, 6/4/0| 2/2/2| 2/2/2| 1/1/1| 1/1/1, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 2|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,2525z
+Create,Plesioth Fin+: 4|Plesioth Scale+: 6|Springnight Carp: 4|Union Ore: 2,
+,Green Blade Shower,216,276,-,Fast,Moderate,6,0%,OO-,-, 6/6/0| 3/0/0| 4/4/4| 1/0/0| 1/0/0, 3/3| 0/0| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,1650z
+Create,Gendrome Tail: 6|Genprey Scale+: 8|Monster Bone+: 5|Dragonite Ore: 8,
+,Grenade Launcher+,216,276,-,VeryFast,Moderate,6,0%,---,Crag S Lv1, 6/6/0| 2/2/0| 2/2/0| 2/2/0| 1/1/0, 0/0| 3/1| 0/0| 0/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,2300z
+Create,Basarios Tears: 1|Carbalite Ore: 10|Dragonite Ore: 20|Union Ore: 3,
+,Desert Tempest,216,276,-,VeryFast,Moderate,6,0%,OO-,-, 6/6/9| 3/0/0| 4/0/0| 1/0/0| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 0|Water S: 3|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,2400z
+Create,Cephalos Fin+: 5|Cephalos Scale+: 6|Carbalite Ore: 5|Hercudrome: 4,
+,HorNet Gun,216,276,-,Fast,Moderate,6,0%,---,-, 9/9/12| 3/0/0| 4/0/0| 2/2/2| 2/2/0, 3/3| 3/1| 3/1| 3/1,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 1,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,2450z
+Create,HornetaurInnrWng: 6|Hornetaur Crapce: 10|Stout Bone: 3|Hercudrome: 3,
+,Crimson Blade Shower,228,288,-,Fast,Moderate,6,0%,---,-, 6/6/0| 3/0/0| 4/4/4| 1/0/0| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,1975z
+Create,Ioprey Scale+: 8|Toxin Sac: 6|Stout Bone: 2|Dragonite Ore: 10,
+,King Lobster Gun,228,288,-,Normal,Moderate,6,0%,---,Water S, 6/6/9| 3/2/2| 4/2/2| 0/0/0| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 3|Paint S: 2|Demon S: 1|Armor S: 1,2525z
+Create,Lg Lobstershell: 2|Plesioth Fin+: 4|Plesioth Scale+: 5|King Scarab: 6,
+,Valkyrie Blaze,228,288,-,Fast,Moderate,6,0%,O--,-, 6/6/9| 3/3/0| 4/0/0| 1/1/0| 0/0/0, 3/3| 0/0| 0/0| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 3|Paint S: 2|Demon S: 0 |Armor S: 1,2750z
+Create,Rathian Scale+: 5|Rathian Carapace: 3|Carbalite Ore: 5|King Scarab: 6,
+,Great Crossbow Gun,240,300,-,Normal,Moderate,6,0%,OO-,-, 6/6/0| 3/0/0| 4/0/0| 1/0/0| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,2450z
+Create,Stout Bone: 2|FlynMealPassPlus: 2|Monster Bone+: 5|King Scarab: 3,
+Shortcut,Plus Class Tcket: 1|Stout Bone: 2,
+,Assault Conga+,240,300,-,Fast,Moderate,6,0%,O--,Pierce S Lv1, 6/6/9| 3/3/4| 3/3/0| 0/0/0| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 1,2900z
+Create,Congalala Pelt+: 6|Congalala Claw+: 2|Vibrant Pelt: 2|Carbalite Ore: 3,
+,Spartacus Blaze,240,300,-,Normal,Moderate,6,0%,OO-,-, 6/6/9| 3/3/3| 0/0/0| 1/1/0| 0/0/0, 3/3| 3/1| 3/1| 0/0,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 0,2850z
+Create,Rathalos Carpace: 5|Rathalos Scale+: 3|Carbalite Ore: 5|King Scarab: 6,
+,Tail Catapult+,252,312,-,Normal,Moderate,6,0%,---,Freeze S, 9/9/12| 3/2/2| 4/2/2| 0/0/0| 0/0/0, 3/3| 0/0| 0/0| 3/1,Flame S: 0|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,2525z
+Create,Blangonga Pelt+: 6|Blango Pelt+: 6|Stout Bone: 4|Hercudrome: 4,
+,Titan Launcher+,252,312,20,VeryFast,Moderate,6,0%,O--,-, 6/6/0| 0/3/3| 0/3/3| 0/1/1| 0/1/1, 0/0| 3/1| 0/0| 0/0,Flame S: 3|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,2850z
+Create,Gravios Carapace: 6|Basarios Carpace: 5|WyvernSkull Shl: 2|Rare Scarab: 5,
+,Tigrex Wargun,288,348,-,VeryFast,Moderate,6,-30%,O--,-, 6/6/9| 4/4/4| 0/0/0| 2/2/2| 0/1/0, 0/0| 0/0| 0/0| 0/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,2850z
+Create,Tigrex Scarapace: 4|Tigrex Scale+: 8|FireWyvernBrnstm: 1|WyvernStone: 2,
+,Hidden Gaze,204,264,-,VeryFast,Moderate,7,40%,---,Crag S Lv1, 9/9/9| 6/6/6| 0/0/3| 1/0/0| 0/0/0, 0/0| 3/0| 0/0| 3/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,3750z
+Create,Narga Scale+: 6|Black Narga Pelt: 4|Nargacuga Fang+: 8|Narga Brain Stem: 1,
+,Bullet Storm,216,276,-,Fast,Moderate,7,0%,---,Pellet S Lv1, 9/9/12| 3/0/0| 3/4/4| 1/0/0| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 6|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1 ,2625z
+Create,Giadrome Claw+: 8|Giaprey Scale+: 10|Hrd Monster Bone: 1|carbalite: 5,
+,Jade Tempest,216,276,-,Normal,Moderate,7,0%,---,Normal S Lv2, 6/3/0| 2/2/2| 2/2/2| 1/1/1| 1/1/1, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,3025z
+Create,Grn Plsioth Scl+: 5|Grn Plsioth Fin+: 4|Ancient Fish: 2|Union Ore: 2,
+,Sandfall+,228,288,-,VeryFast,Moderate,7,0%,---,Normal S Lv2, 9/3/12| 3/0/0| 4/0/0| 1/0/0| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 4|Water S: 4|Thundr S: 4|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,2900z
+Create,Coral Cphlos Fin: 1|Coral Cphlos Scl: 4|Carbalite Ore: 5|King Scarab: 6,
+,Peach Parasol,240,300,-,Fast,Moderate,7,0%,---,Thunder S, 9/9/12| 3/3/0| 4/4/4| 2/2/2| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 0|Water S: 0|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,3150z
+Create,Alluring Webbing: 8|Lost Umbrella: 1|Hrd Monster Bone: 4|Thunder Sac: 4,
+,Chronos Grenade,252,312,15,VeryFast,Moderate,7,10%,---,Flaming S, 6/6/0| 0/4/4| 0/4/4| 0/1/1| 0/1/1, 0/0| 3/1| 0/0| 0/0,Flame S: 4|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,3425z
+Create,Blk Gravios Cpc: 6|Blk Gravios Shl: 5|Blk Gavios Skl: 1|Union Ore: 4,
+,Island of the Gods,204,264,-,Slow,Moderate,8,0%,---,-,6/6/9 |3/0/0 |4/0/0 |3/3/3 |3/3/3, 0/3 |0/1 |0/1 |0/1,Flame S: 3|Water S: 0|Thundr S:|0 Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1, 1000z
+Create,Ancient Stone: 1
+,Felyne Helldoll,228,288,-,VeryFast,Moderate,8,0%,OOO,Normal S Lv1|Flaming S, 4/6/9| 3/0/0| 4/0/0| 2/2/2| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 6|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,3025z
+Create,Felyne Fur Ruby: 1|FlynMealPassPlus: 3|Novacrystal: 1|Inferno Sac: 4,
+,Melynx Helldoll,228,288,-,VeryFast,Moderate,8,30%,O--,Normal S Lv1|Flaming, 4/6/9| 3/0/0| 4/0/0| 2/2/2| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 6|Water S: 0 |Thundr S: 0|Freeze S: 0|Dragon S:0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,3025z
+Create,Felyne Fur Ruby: 1|FlynMealPassPlus: 3|Dark Stone: 2|Inferno Sac: 4,
+,Shakalaka Prized Bow,228,288,-,VeryFast,Moderate,8,0%,OO-,Dragon S, 6/6/9| 3/0/3| 0/0/0| 3/0/3| 1/1/1, 0/0| 3/1| 0/0| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 1,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,3025z
+Create,ShakaInheritance: 2|ShakalakaTreasre: 8|Carbalite Ore: 8|Monster Broth: 2,
+,Expert Bowgun,228,288,-,VeryFast,Moderate,8,0%,O--,Thunder S, 9/9/12| 4/0/0| 6/0/0| 3/0/0| 3/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 2|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,2750z
+Create,FireWyvernBrnstm: 1|Kirin Coin: 7|Fire Coin: 12|Expert Ticket: 10,
+,Valkyrie Heart+,240,300,-,Fast,Moderate,8,0%,---,Normal S Lv2, 6/3/9| 4/4/0| 2/0/0| 1/1/0| 0/0/0, 3/3| 0/0| 0/0| 3/1,Flame S: 3|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 1,3300z
+Create,Pnk Rathian Scl+: 5|Pnk Rathian Cpc: 3|Rathian Spike: 2|WyvernStone: 2,
+,Crimson Blue,240,300,8,Fast,Moderate,8,0%,OO-,-, 6/6/9| 3/3/3| 4/0/0| 1/1/0| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,3300z
+Create,Rathian Spike+: 1|FireWyvernBrnstm: 1|Firecell Stone: 1|Inferno Sac: 6,
+,Cursed Lamp,240,300,-,Fast,Moderate,8,30%,OOO,-, 6/6/9| 3/3/0| 4/4/0| 1/1/1| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 1,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,3300z
+Create,Chamelos Jewel: 1|Chamelos Hide+: 3|Chamelos: Hide: 6|Rare Scarab: 4,
+,Spartacus Soul+,252,312,-,Normal,Moderate,8,0%,---,Pierce S Lv1, 6/6/9| 3/4/4| 0/0/0| 1/1/0| 0/0/0, 3/3| 3/1| 3/1| 0/0,Flame S: 3|Water S: 3|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,3425z
+Create,Azre Rathalos Cpc: 5|Azr Rathalos Scl+: 3|Azur Rathalos Wng: 2|WyvernStone: 2,
+,Supreme Azure Sakura,252,312,10,Fast,Moderate,8,0%,---,Normal S Lv2|Pierce S Lv1, 6/3/9| 3/4/4| 2/0/0| 1/1/0| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,3950z
+Create,Azre Rathalos Cpc: 5|Pnk Rathian Scl+: 5|Rathalos Ruby: 1|Rathian Spike: 2,
+,Gold Valkyrie,252,312,-,Fast,Moderate,8,0%,---,Pellet S Lv1, 6/6/9| 4/4/0| 2/0/0| 2/2/0| 2/2/0, 3/3| 0/0| 0/0| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 1,3950z
+Create,Gld Rathian Scl+: 6|Gld Rathian Cpc: 5|Novacrystal: 2|FireWyvernBrnStm: 2,
+,Wolf Do,264,324,-,Normal,Moderate,8,0%,---,-, 6/6/9| 0/3/0| 0/4/0| 0/1/0| 0/1/0, 3/3| 3/1| 0/0| 0/0,Flame S: 6|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 0,3800z
+Create,Rejuvenated Beak: 3|Garuga Mane: 4|Garuga Scale+: 4|Blk Gravios Cpc: 3,
+,Silver Spartacus,264,324,-,Normal,Moderate,8,-10%,---,Pierce S Lv2, 6/6/9| 6/3/6| 0/0/0| 1/1/0| 0/0/0, 3/3| 3/1| 3/1| 0/0,Flame S: 3|Water S: 3|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 0,4100z
+Create,Slvr Rthlos Cpc: 5|Slvr Rathlos Scl+: 6|Novacrystal: 2|FireWyvernBrnStm: 2,
+,Profusion,264,324,12,Fast,Moderate,8,-15%,O--,Pellet S Lv1|Pierce S Lv2, 6/6/9| 6/3/6| 2/0/0| 2/2/0| 2/2/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5000z
+Create,Slvr Rthlos Wing: 2|Gld Rathian Scl+: 8|Rathalos Ruby: 1|Rathian Ruby: 1,
+,Dark Parasol,264,324,-,Fast,Moderate,8,0%,---,-, 6/6/9| 3/0/0| 4/4/4| 1/1/0| 1/1/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 1,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,4400z
+Create,Fatalis Webbing: 1|Lost Umbrella: 1|Fatalis Scale: 5|Carbalite Ore: 15,
+,Fire Wrath,276,336,-,VeryFast,Moderate,8,0%,---,Pierce S Lv1|Flaming S , 9/9/12| 4/4/3| 0/0/0| 1/1/0| 0/0/0, 3/3| 3/1| 3/1| 0/0,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 0,4600z
+Create,Rathalos Ruby: 2|Rathalos Wing: 5|Rathalos Plate: 3|Rajang Coin: 1,
+,Rajang Barrage,276,336,-,Normal,Moderate,8,0%,---,Crag S Lv1, 9/9/12| 4/4/4| 0/0/0| 2/2/2| 1/0/0, 3/3| 0/0| 3/1| 0/0,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 0,5000z
+Create,Gold Rajang Pelt: 1|Blk Rajang Pelt: 3|Rajang Fang: 3|Hrd Monster Bone: 3,
+,Hi Chain Blitz,252,312,-,Normal,Moderate,9,0%,OOO,Normal S Lv1, 3/6/0| 3/0/0| 3/0/0| 1/0/0| 1/0/0, 3/3| 3/0| 3/0| 3/0,Flame S: 3|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,3000z
+Create,Eltalite Ore: 15|RobustWyvernBone: 10|Piercing Claw: 6|Commendation: 1,
+,Nebula Storm,264,324,-,Normal,Moderate,9,0%,O--,Water S, 6/4/0| 2/2/2| 2/2/2| 1/1/1| 1/1/1, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 2|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,3500z
+Create,SpecPlesiothFin+: 4|Plesioth Thck Scl: 6|PlumD.HermitrShl: 4|Eltalite Ore: 5,
+,Jade Typhoon,264,324,-,Normal,Moderate,9,0%,---,Normal S Lv2, 6/3/0| 2/2/2| 2/2/2| 1/1/1| 1/1/1, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,4000z
+Create,ThckGrnPlesioScl: 6|GrnPlsoth Fin G: 4|HvyHermitaurShl: 4|Eltalite Ore: 5,
+,Royal Lobster Gun,276,336,-,Normal,Moderate,9,0%,---,Water S, 6/6/9| 3/2/2| 4/2/2| 0/0/0| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,3750z
+Create,Gt Lobstershell: 2|SpecGrnPlesioFn+: 4|ThckPlesiothScl: 6|Emperor Cricket: 6,
+,Combat Conga,288,348,-,Fast,Moderate,9,0%,O--,Pierce S Lv1, 6/6/9| 3/3/4| 3/3/0| 0/0/0| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 1,3750z
+Create,HrdCongalalaPlt+: 6|HrdCongalalaClw+: 3|Vibrant Pelt: 3|Eltalite Ore: 5,
+,Jungle Assault,288,348,-,Fast,Moderate,9,10%,---,Pellet S Lv2, 6/6/9| 3/3/0| 3/3/4| 0/0/0| 1/1/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 1 ,4250z
+Create,E.CongalalaPelt+: 6|HrdE.CongaClaw: 3|Vibrant Comb: 2|Emperor Cricket: 5,
+,Heartfelt Cast,288,348,-,VeryFast,Moderate,9,0%,---,Recov S Lv1, 9/9/12| 3/3/0| 4/0/0| 2/2/0| 0/0/0, 2/3| 0/0| 3/1| 3/1,Flame S: 0|Water S: 3|Thundr S: 4|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,4000z
+Create,KhezuHide-Cream: 4|KhezuSpecialCut: 1|SpecRubberyHide+: 4|Emperor Cricket: 5,
+,Kut-Ku Counterattack,300,360,14,VerySlow,Moderate,9,0%,---,-, 9/9/12| 0/3/0| 0/4/0| 0/1/0| 0/1/0, 0/0| 3/1| 0/0| 0/0,Flame S: 4|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 0,3500z
+Create,Kut-Ku Hvy Cpc: 5|Lucky Kut-Ku Ear: 3|Kut-Ku Hrd Wbbing: 4|OrangeHypnoPelt+: 4,
+,Kut-Ku Barrage,300,360,-,VerySlow,Moderate,9,10%,---,-, 9/9/12| 0/3/0| 0/4/0| 0/1/0| 0/1/0, 0/0| 3/1| 0/0| 0/0,Flame S: 4|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 0,4000z
+Create,HvyBlueKut-KuShl: 5|Lucky Kut-Ku Ear: 3|Hvy Monster Bone: 1|HypnocFangedBeak: 3,
+,Shotgun (Snake),312,372,-,Fast,Moderate,9,0%,O--,Pellet S Lv3|Posion S, 9/9/12| 3/0/0| 4/4/3| 1/0/0| 1/0/0, 3/3| 2/1| 3/1| 3/1,Flame S: 3|Water S: 0|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,4500z
+Create,ThickNargaScale: 1|SpecRemobraSkin+: 8|Big WyvernStone: 1|Hvy Monster Bone: 6,
+,Grenade Revolver,312,372,-,VeryFast,Moderate,9,0%,OO-,Crag S Lv1, 6/6/0| 2/2/0| 2/2/0| 2/2/0| 1/1/0, 0/0| 3/1| 0/0| 0/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 0,3500z
+Create,basariosSrngWng: 1|Eltalite Ore: 10|Carbalite Ore: 20|Mellanje Ore: 8,
+,Fierce Moss Green,312,372,-,Fast,Moderate,9,0%,OOO,-, 6/6/9| 3/3/0| 4/0/0| 1/1/0| 0/0/0, 3/3| 0/0| 0/0| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 1,4000z
+Create,ThckRathianScl: 6|HvyRathianShell: 4|Eltalite Ore: 5|PhantomButterfly: 2,
+,Fierce Wine Red,312,372,-,Normal,Moderate,9,0%,OOO,-, 6/6/9| 3/3/3| 0/0/0| 1/1/0| 0/0/0, 3/3| 3/1| 3/1| 0/0,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 0,4500z
+Create,HvyRathalosShl: 4|Hrd Rathalos Scl: 6|Eltalite Ore: 5|PhantomButterfly: 2,
+,Tail Launcher,324,384,-,Normal,Moderate,9,0%,---,Freeze S, 9/9/12| 3/2/2| 4/2/2| 0/0/0| 0/0/0, 3/3| 0/0| 0/0| 3/1,Flame S: 0|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,4000z
+Create,HrdBlangongaPlt+: 6|Lthr Pelagus Plt: 3|Massive Bone: 4|Piercing Claw: 3,
+,Sakura Semi-Auto,324,384,-,Fast,Moderate,9,0%,OO-,Normal S Lv2, 6/3/9| 4/4/0| 2/0/0| 1/1/0| 0/0/0, 3/3| 0/0| 0/0| 3/1,Flame S: 3|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 1,5000z
+Create,ThckPnkRathnScl: 6|HvyPnkRathianShl: 4|Rathian Spike+: 2|Big WyvernStone: 2,
+,Azure Semi-Auto,324,384,-,Normal,Moderate,9,0%,OO-,Pierce S Lv1, 6/6/9 |3/4/4| 0/0/0| 1/1/0| 0/0/0, 3/3| 3/1| 3/1| 0/0,Flame S: 3|Water S: 3|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 0,5500z
+Create,HvyAzurRthlsShl: 4|ThckAzurRthlsScl: 6|FireWyvernBrnStm: 5|Big WyvernStone: 2,
+,Lava Storm,336,396,-,Normal,Moderate,9,0%,---,Pierce S Lv3, 6/4/0| 2/2/2| 2/2/2| 1/1/1| 1/1/1, 3/1| 3/1| 3/1| 3/1,Flame S: 4|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5500z
+Create,ThckLavasiothScl: 6|SpecLavasioFin+: 4|TerraCeanatrClaw: 2|Big WyvernStone: 3,
+,Desert Tail,348,408,-,Normal,Moderate,9,-10%,---,Normal S Lv3, 9/9/6| 4/2/2| 4/2/2| 2/0/0| 2/0/0, 3/3| 0/0| 3/1| 0/0,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 3|Paint S: 2|Demon S: 1|Armor S: 1,5000z
+Create,C.BlangongaPelt+: 6|Lthr Pelagus Plt: 4|HvyC.BlangoFang: 2|Massive Bone: 6,
+,Titan Panzer,348,408,30,VeryFast,Moderate,9,0%,OO-,-, 6/6/0| 0/3/3| 0/3/3| 0/1/1| 0/1/1, 0/0| 3/1| 0/0| 0/0,Flame S: 3|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 0,5500z
+Create,HvyGraviosShell: 6|HvyBasariosShell: 5|HvnlyGraviosShl: 1|PhantomButterfly: 6,
+,Hexed Shaka Bow,276,336,-,VeryFast,Moderate,10,0%,OO-,Dragon S, 6/6/9| 3/0/3| 0/0/0| 3/0/3| 1/1/1, 0/0| 3/1| 0/0| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 1,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 0,4500z
+Create,ShakalakaTreasr+: 2|ShakaInheritance: 3|Remobra Skull: 3|Monster Essence: 2,
+,Owl's Eye Darkbow,288,348,-,VeryFast,Moderate,10,40%,---,Crag S Lv1, 9/9/9| 6/6/6| 0/0/3| 1/0/0| 0/0/0, 0/0| 3/0| 0/0| 3/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,6000z
+Create,BlackNargaPelt+: 4|HvyNargacugaFang: 8|HvnlyNargaScale: 1|Hvy Monster Bone: 5,
+,Warrior's Bowgun,312,372,-,VeryFast,Moderate,10,0%,O--,Thunder S, 9/9/12| 4/0/0| 6/0/0| 3/0/0| 3/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 2|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,4250z
+Create,Azure LaoS Claw: 4|Warrior Coin G: 7|BlackBeltCoinG: 12|Commendation G: 1,
+,Promenade,312,372,12,Fast,Moderate,10,0%,OO-,-, 6/6/9| 3/3/3| 4/0/0| 1/1/0| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5500z
+Create,Rathian Thorn: 1|StrRathalosWing: 4|Mellanje Ore: 5|Blazing Fire Sac: 6,
+,True  Azure Sakura,324,384,14,Fast,Moderate,10,0%,O--,Normal S Lv2|Pierce S Lv1, 6/3/9| 3/4/4| 2/0/0| 1/1/0| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,6500z
+Create,HvyAzurRthlsShl: 3|ThckPnkRathnScl: 5|RathalosDvnePlate: 1|Rathian Thorn: 1,
+,Mythical Three-Horn,336,396,-,Normal,Moderate,10,0%,---,Clust S Lv1, 9/9/12| 4/4/4 |0/0/0| 1/0/0| 2/2/2, 3/3| 3/1| 3/1| 3/1,Flame S: 4|Water S: 4|Thundr S: 4|Freeze S: 4|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,8000z
+Create,SpecialKirinHide: 3|Platinum Mane: 4|Kirin Azure Horn: 3|Purecrystal: 2,
+,Crow Do,336,396,-,Normal,Moderate,10,0%,---,-, 6/6/9| 0/3/0| 0/4/0| 0/1/0| 0/1/0, 3/3| 3/1| 0/0| 0/0,Flame S: 6|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 0,5000z
+Create,ThickGarugaScale: 4|Rejuvenated Beak: 3|SilverGarugaPelt: 4|Hvy Monster Bone: 4,
+,Gold Semi-Auto ,336,396,-,Fast,Moderate,10,0%,O--,Pellet S Lv1, 6/6/9| 4/4/0| 2/0/0| 2/2/0| 2/2/0, 3/3| 0/0| 0/0| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 1,6000z
+Create,ThckGldRathnScl: 6|HvyGldRathianShl: 5|Purecrystal: 2|GoldRathianThorn: 1,
+,Silver Semi-Auto,336,396,-,Normal,Moderate,10,-10%,O--,Pierce S Lv2, 6/6/9| 6/3/6| 0/0/0| 1/1/0| 0/0/0, 3/3| 3/1| 3/1| 0/0,Flame S: 3|Water S: 3|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 0,6500z
+Create,HvySlvrRthlsShl: 5|ThckSlvrRthlsScl: 6|Purecrystal: 2|SlvrRthlosHrdTail: 1,
+,Prosperity,336,396,16,Fast,Moderate,10,-15%,---,Pellet S Lv1|Pierce S Lv2, 6/6/9| 6/3/6| 2/0/0| 2/2/0| 2/2/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,7500z
+Create,HvySlvrRthlsShl: 6|ThckGldRathnScl: 8|RathalosDvnePlate: 1|HvnlyRathianScl: 1,
+,Genie's Lamp,336,396,-,Fast,Moderate,10,30%,OOO,-, 6/6/9| 3/3/0| 4/4/0| 1/1/1| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 1,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,7000z
+Create,Chamelos Hide G: 3|Chamelos Horn G: 2|Commendation S: 1|BigEDragonJewel: 1,
+,Chronos Panzer,348,408,20,VeryFast,Moderate,10,10%,---,Flaming S, 6/6/0| 0/4/4| 0/4/4| 0/1/1| 0/1/1, 0/0| 3/1| 0/0| 0/0,Flame S: 4|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 0,6000z
+Create,HvyBlkGraviosShl: 6|Gravios BrainStm: 2|BlkHvnlyGraviosShl: 1|Mellanje Ore: 4,
+,EngravedFireWyvnBow,360,420,-,VeryFast,Moderate,10,0%,O--,Pierce S Lv1|Flaming S , 9/9/12| 4/4/3| 0/0/0| 1/1/0| 0/0/0, 3/3| 3/1| 3/1| 0/0,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S:2|Paint S: 2|Demon S: 1|Armor S: 0,7000z
+Create,HvnlyRathalosScl: 2|SlvrRathlosHvyCpc: 6|Rathalos Ruby: 3|Expert Coin G: 7,
+,Ten-Thousand Volts,360,420,-,Normal,Moderate,10,0%,---,Crag S Lv1, 9/9/12| 4/4/4| 0/0/0| 2/2/2| 1/0/0, 3/3| 0/0| 3/1| 0/0,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 0,7500z
+Create,GoldRajangPelt+: 1|Blk Rajang Pelt+: 3|Hvy Rajang Fang: 3|Commedation S: 1,
+,Absolute Bow,360,420,-,VerySlow,Moderate,10,0%,---,Pierce S Lv1|Flame S|Water S|Thunder S|Freeze S, 9/9/12| 4/4/3| 0/0/0| 1/1/1| 1/1/1, 3/0| 3/0| 3/0| 3/0,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 0,10000z
+Create,ThckWhtFatlisScl: 4|StrWhtFatalisWng: 2|Ukanlos Stone: 2|BigEDragonJewel: 5,
+,Tigrex Wargun+,372,432,-,VeryFast,Moderate,10,-30%,O--,-, 6/6/9| 4/4/4| 0/0/0| 2/2/2| 0/1/0, 0/0| 0/0| 0/0| 0/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,5500z
+Create,Hvy Tigrex Shell: 4|ThickTigrexScale: 8|HvnlyTigrexScale: 1|Big WyvernStone: 3,
+,Ukanlos Flame Bow,432,492,10,Slow,Moderate,10,-40%,---,Freeze S, 5/5/12| 2/2/6| 2/2/6| 0/0/0| 0/0/0, 0/0| 0/0| 0/0| 3/1,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 4|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 0,10000z
+Create,StrongUkanlosFin: 3|Hvy Ukanlos Tail: 2|UkanlosUnderscl: 4 |Ukanlos Stone: 1,
+,Bone Shooter,156,216,-,Slow,Moderate,1,0,O--,-, 6/6/0| 3/3/0| 4/4/0| 1/0/0| 1/0/0, 0/0| 3/1| 0/0| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,700z
+Create,Iron Ore: 8|Sm Monster Bone: 3
+,Injection Cannon,168,228,-,Fast,Moderate,2,0,---,-, 6/6/9| 3/0/0| 4/4/4| 1/1/1| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 1,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 1,900z
+Create,Vespoid Wing: 6|Hornetaur Shell: 4|Disk Stone: 3|Brute Bone: 2
+Shortcut,Normal Ticket: 1|Vespoid Wing: 1
+,Rapidcaster,180,240,-,VeryFast,Moderate,2,0,O--,-, 6/6/9| 3/0/0| 4/0/0| 1/0/0| 1/0/0, 3/0| 3/0| 3/0| 3/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0 ,1000z
+Create,Brute Bone: 4|Bulldrome Hide: 4|Kelbi Hide: 4|Kelbi Horn: 2
+Shortcut,Hard Ticket: 1|Bulldrome Hide: 1
+,Tankmage,180,240,-,Slow,Moderate,3,0,OO-,-, 6/6/0| 3/0/0| 4/4/4| 1/0/0| 1/1/0, 3/3| 3/1| 3/1| 3/1,Flame S: 0|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,1400z
+Create,Rubbery Hide: 4|Earth Crystal: 10
+Shortcut,Plus Class Tcket: 1|Rubbery Hide: 1
+,Bastionmage,192,252,-,Slow,Moderate,3,0,O--,-, 6/6/0| 3/0/0| 6/6/6| 1/0/0| 1/1/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,1675z
+Create,Pur Rubbery Hide: 8|Machalite Ore: 4|Carpenterbug: 6
+,Sand Driver,192,252,-,Fast,Moderate,3,0,---,-, 6/6/0| 3/0/0| 3/0/0| 1/0/0| 1/0/0, 3/3| 0/0| 3/1| 3/1,Flame S: 4|Water S: 4|Thundr S: 4|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,1250z
+Create,Cephalos Fin: 2|Cephalos Scale: 6|Iron Ore: 10|Machalite Ore: 3
+,Yian Kut-Ku Cannon,216,276,6,VerySlow,Moderate,3,0,O--,-, 9/9/12| 0/3/0| 0/4/0| 0/1/0| 0/1/0, 0/0| 3/1| 0/0| 0/0,Flame S: 4|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,2675z
+Create,Kut-Ku Shell: 8|Kut-Ku Scale: 8|Flabby Hide: 5|Lg Monster Bone: 10
+,Crab Buster,216,276,6,Slow,Moderate,3,0,OO-,-, 6/6/9| 3/3/0| 4/0/0| 0/0/0| 1/0/0, 3/3| 0/0| 3/1| 0/0,Flame S: 0|Water S: 3|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S:0 |Armor S: 1,2750z
+Create,Hermitaur Claw: 3|Hermitaur Shell: 8|Sm Hermitaur Shl: 10|Piscine Fang: 4
+,Rock Eater,216,276,10,Slow,Moderate,4,0,---,-, 6/6/9| 3/0/0| 4/0/0| 2/2/2| 2/2/2, 0/3| 3/1| 0/1| 0/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 1,3250z
+Create,Basarios Shell: 10|Machalite Ore: 15|Poison Sac: 4|Basarios Wing: 1
+,Meteor Cannon,216,276,-,Fast,Moderate,4,0,OO-,-, 6/6/9| 4/4/4| 0/0/0| 1/1/1| 0/0/0, 0/0| 0/0| 3/0| 3/0,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,3000z
+Create,FireStone: 1|Dragonite Ore: 15|Machalite Ore: 20|Iron Ore: 40
+,Flechette Gun,228,288,-,Normal,Moderate,4,0,---,-, 6/6/0| 2/2/0| 2/2/0| 1/1/0| 1/1/0, 0/0| 3/1| 3/1| 0/0,Flame S: 0|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 1,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 0,3375z
+Create,Hercudrome: 2|Vespoid Abdomen: 1|Hornetaur Shell: 15|Monster Bone+: 3
+,Monodevilcaster,240,300,-,VeryFast,Moderate,4,0,---,-, 6/6/6| 2/2/2| 2/2/2| 0/0/0| 0/0/0, 0/0| 0/0| 0/0| 0/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,3050z
+Create,Wht Monoblos Spn: 5|Wht Monoblos Shl: 5|Dragonite Ore: 2|Wht Monoblos Hrn: 2
+,Piercing Crab,240,300,-,Normal,Moderate,4,0,O--,-, 6/6/0| 4/4/4| 2/0/0| 1/0/0| 0/0/0, 3/3| 3/1| 0/0| 3/1,Flame S: 0|Water S: 3|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 0 ,3750z
+Create,Ceanataur Leg: 3|Ceanataur Shell: 6|Ceanataur Claw: 3|Lg Monster Bone: 8
+,Blue Kut-Ku Cannon,252,312,6,VerySlow,Moderate,4,0,---,-, 9/9/12| 0/3/0| 0/4/0| 0/1/0| 0/1/0, 0/0| 3/1| 0/0| 0/0,Flame S: 4|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,4000z
+Create,Giant Beak: 1|Blue Kut-Ku Shl: 5|Alluring Hide: 5|Machalite Ore: 10
+,Duelcaster,288,348,-,VeryFast,Moderate,4,0,---,-, 6/6/6| 2/2/2| 0/0/0| 0/0/0| 0/0/0, 0/0| 0/0| 0/0| 0/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,4800z
+Create,Diablos Spine: 5|Diablos Shell: 5|Dragonite Ore: 15|Majestic Horn: 1,
+,Tigrex Howl,300,360,-,VeryFast,Moderate,4,-30%,---,-, 6/6/9| 4/4/4| 0/0/0| 2/2/2| 0/0/0, 0/0| 0/0| 0/0| 0/0,Flame S:  0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,4800z
+Create,Tigrex Skull Shl: 2|Tigrex Shell: 8|Dragonite Ore: 6|Monster Bone+: 8
+,Seven Nova,204,264,20,VerySlow,Moderate,5,0,OOO,-, 9/9/12| 0/3/3| 0/0/0| 1/1/1| 1/1/1, 3/3| 3/1| 3/1| 3/1,Flame S: 0|Water S: 0|Thundr S: 4|Freeze S: 0|Dragon S: 1,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 1,2000z
+Create,Great Ladybug: 2|Killer Beetle: 2|Giant Bone: 3|Congalala Fang: 4
+,Quickcaster,252,312,-,VeryFast,Moderate,5,0,---,-, 6/6/9| 3/3/0| 0/4/0| 0/1/0| 0/1/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 1,4300z
+Create,Kirin Mane: 8|Kirin Hide: 2|Dragonite Ore: 10|Twisted Horn: 2
+,Black Cannon,252,312,-,Fast,Moderate,5,0,O--,-, 6/6/9| 3/3/3| 0/0/0| 1/1/1| 1/1/1, 3/0| 3/0| 3/0| 3/0,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,5000z
+Create,Dark Stone: 1|Dark Piece: 4|ElderDragonBlood: 1|Dragonite Ore: 3
+,Raven Heirloom,264,324,-,Fast,Moderate,5,0,---,-, 6/6/9| 0/3/0| 0/4/0| 0/1/0| 0/1/0, 3/3| 3/1| 0/0| 0/0,Flame S: 6|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,4800z
+Create,Garuga Ear: 2|Garuga Shell: 8|Blangonga Whiskr: 4|Ceanataur Claw: 3
+,Daora's Delphinidae,264,324,-,VerySlow,Weak,5,30%,O--,-, 6/6/9| 3/3/3| 4/0/0| 1/0/0| 1/0/0, 3/3| 3/1| 3/1| 0/0,Flame S: 0|Water S: 3|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 0,5400z
+Create,Daora Shell: 5|DaoraDragonScale: 8|ElderDragonBlood: 1|Dragonite Ore: 4
+,Lunastra's Cannon,264,324,15,Normal,Moderate,5,0,---,-, 6/6/9| 3/3/0| 4/0/0| 3/3/3| 2/2/2, 3/3| 0/0| 0/0| 3/1,Flame S: 6|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 1,5250z
+Create,Lunstra Shell: 4|Fire Dragon Scl: 6|Lunstra Mane: 2|FireStone: 1
+,Teostra's Artillery,276,336,-,Normal,Moderate,5,15%,---,-, 6/6/9|0/3/3| 0/0/4| 3/3/3| 2/2/2, 3/3| 3/1| 0/0| 0/0,Flame S: 6|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 0,5500z
+Create,Teostra Shell: 4|Fire Dragon Scl: 2|Teostra Mane: 2|FireStone: 2
+,Bronze Fire,276,336,10,VerySlow,VeryWeak,5,0,O--,-, 6/6/9| 4/0/4| 0/0/0| 1/1/1| 1/1/1, 0/0| 0/0| 0/0| 0/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 2,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 1,5500z
+Create,Gaoren Pincer: 2|Gaoren Shell: 5|FireStone: 1|Pokke Ticket: 2
+,Lao-Shan Lung Cannon,300,360,10,VerySlow,Weak,5,0,O--,-, 0/6/9| 0/0/3| 0/0/4| 0/0/1| 0/0/1, 0/0| 0/1 |0/0| 0/0,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,6000z
+Create,Lao-Shan's Shell: 4|Lao-Shan's Scale: 6|Rathalos Plate: 1|Dragonite Ore: 10
+,Great Arbalest,288,348,-,Slow,Moderate,6,0,OO-,-, 6/6/0| 3/0/0| 4/0/0| 1/0/0| 1/0/0, 3/3| 0/0| 3/1| 0/0,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,5000z
+Create,Stout Bone: 4|FlynMealPassPlus: 2|Bulldrome Hide+: 3|King Scarab: 6
+Shortcut,Plus Class Tcket: 1|Stout Bone: 4
+,Tankmage+,288,348,-,Slow,Moderate,6,0,OO-,-, 6/6/0| 3/3/0| 4/4/4| 1/0/0| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 0|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,3075z
+Create,Rubbery Hide+: 4|Carbalite Ore: 10
+,Desert Diver,288,348,-,Fast,Moderate,6,0,---,-, 6/6/9| 3/0/0| 3/0/0| 1/0/0| 1/0/0, 3/3| 0/0| 3/1| 3/1,Flame S: 4|Water S: 4|Thundr S: 4|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,5500z
+Create,Cephalos Fin+: 5|Cephalos Scale+: 6|Coral Cphalos Scl: 3|Hrd Monster Bone: 3
+,Meteor Buster,288,348,-,Fast,Moderate,6,0,OO-,-, 6/6/9| 4/4/4| 0/0/0| 1/1/1| 0/0/0, 0/0| 0/0| 3/0| 3/0,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,4400z
+Create,Firecell Stone: 1|Carbalite Ore: 5|Dragonite Ore: 10|King Scarab: 6
+,Honeycomber,300,360,-,Normal,Moderate,6,0,---,-, 6/6/0| 2/2/0| 2/2/0| 1/1/0| 1/1/0, 0/0| 3/1| 3/1| 0/0,Flame S: 0|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 1,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 0,4950z
+Create,Vespoid Carapace: 10|Vespoid Abdomen: 1|HorNetaur Crapce: 10|King Scarab: 6
+,Earth Eater,300,360,15,Slow,Moderate,6,0,OO-,-, 6/6/9| 3/0/0| 4/0/0| 2/2/2| 2/2/2, 0/3| 3/1| 0/1| 0/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 1,4725z
+Create,Basarios Carpace: 10|Basarios Tears: 2|Carbalite Ore: 20|King Scarab: 8
+,Heavy Buster Crab,300,360,10,Slow,Moderate,6,0,OO-,-, 6/6/9| 3/3/0| 4/0/0| 0/0/0| 1/0/0, 3/3| 0/0| 3/1| 0/0,Flame S: 0|Water S: 3|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 1,6050z
+Create,Hermitaur Carpce: 8|Hermitaur Shell: 10|Cephalos Scale+: 6|Stout Bone: 4
+,Gravios Howl,312,372,20,Slow,Moderate,6,0,---,-, 6/6/0| 0/3/3| 0/3/3| 0/1/1| 0/1/1, 0/0| 3/1| 0/0| 3/1,Flame S: 3|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,6600z
+Create,Gravios Carapace: 8|Gravios Skl Shl: 1|Basarios Tears: 1|Rare Scarab: 2
+,Heavy Piercing Crab,324,384,-,Normal,Moderate,6,0,O--,-, 6/6/0| 4/4/4| 2/0/0| 1/0/0| 0/0/0, 3/3| 3/1| 0/0| 3/1,Flame S: 0|Water S: 3|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 0,6500z
+Create,Ceanataur Carpca: 6|Ceanataur Pincer: 3|Coral Cphalos Scl: 4|Monster Bone+: 10
+,Duelcaster+,348,408,-,VeryFast,Moderate,6,0,---,-, 6/6/6| 2/2/2| 0/0/0| 0/0/0| 0/0/0, 0/0| 0/0| 0/0| 0/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 00,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,7025z
+Create,Diablos Thoracic: 3|Diablos Carapace: 6|Union Ore: 5|Majestic Horn: 2
+,Tigrex Skull,360,420,-,VeryFast,Moderate,6,-30%,---,-, 6/6/9| 4/4/4| 0/0/0| 2/2/2| 0/1/0, 0/0| 0/0| 0/0| 0/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,7025z
+Create,Tigrex Carapace: 6|Tigrex Skull Shl: 3|FireWyvernBrnStm: 1|WyvernStone: 2
+,Hidden Sniper,276,336,-,VeryFast,Moderate,7,40%,---,-, 9/9/9| 6/6/6| 0/0/3| 1/0/0| 0/0/0, 0/0| 3/0| 0/0| 3/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,7250z
+Create,Narga Scale+: 10|Black Narga Pelt: 5 |Narga Brain Stem: 1|Hrd Monster Bone: 6
+,Bastion Cannon,300,360,-,Slow,Moderate,7,0,O--,-, 6/6/0| 3/0/0| 6/6/6| 1/0/0| 1/1/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,3675z
+Create,Pur Gypceros Wng: 8|Carbalite Ore: 6|Congalala Pelt+: 3|Hercudrome: 4
+,Gravios Roar,324,384,15,Slow,Moderate,7,0,---,-, 6/6/0| 0/4/4| 0/4/4| 0/1/1| 0/1/1, 0/0| 3/1| 0/0| 3/1,Flame S: 4|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,7900z
+Create,Blk Gravios Cpc: 8|Blk Gravios Skl: 1|Gravios BrainStm: 1|Hrd Monster Bone: 2
+,Mega Kut-Ku Cannon,336,396,10,VerySlow,Moderate,7,0,---,-, 9/9/12| 0/3/0| 0/4/0| 0/1/0| 0/1/0, 0/0| 3/1| 0/0| 0/0,Flame S: 4|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,7050z
+Create,Blue Kut-Ku Cpc: 8|Long Kut-Ku Ear: 2|Pale Khezu Steak: 2|Union Ore: 8
+,Monodevilcaster+,336,396,-,VeryFast,Moderate,7,0,---,-, 6/6/6| 2/2/2| 2/2/2| 0/0/0| 0/0/0, 0/0| 0/0| 0/0| 0/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,4500z
+Create,Wht Monoblos Cpc: 5|WhtMonoblosThrcic: 5|Hrd Monster Bone: 6|Monoblos Heart: 1
+,Seven Stars,300,360,30,VerySlow,Moderate,8,0,OOO,-, 9/9/12| 0/3/3| 0/0/0| 1/1/1| 1/1/1, 3/3| 3/1| 3/1| 3/1,Flame S: 0|Water S: 0|Thundr S: 4|Freeze S: 0|Dragon S: 1,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 1,4400z
+Create,Rare Scarab: 3|Great Ladybug: 4|Hrd Monster Bone: 1|Monster Broth: 4
+,Quickcaster+,312,372,-,VeryFast,Moderate,8,0,---,-, 6/6/9| 3/3/0| 0/4/0| 0/1/0| 0/1/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 1,6250z
+Create,Kirin Hide+: 3|Kirin Thndr Tail: 3|Carbalite Ore: 10|Majestic Horn: 2
+,Grande Daora,312,372,-,VerySlow,Weak,8,30%,O--,-, 6/6/9| 3/3/3| 4/0/0| 1/0/0| 1/0/00, 3/3| 3/1| 3/1| 0/0,Flame S: 0|Water S: 3|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 0,7700z
+Create,Daora Jewel: 1|Daora Carapace: 5|ElderDragonBlood: 4|Hrd Monster Bone: 4
+,Vor Cannon,312,372,15,Fast,Moderate,8,0,O--,-, 6/6/9| 3/3/3| 0/0/0| 1/1/1| 1/1/1, 3/0| 3/0| 3/0| 3/0,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,7350z
+Create,Fatalis Shell: 2|Fatalis Horn: 2|Fatalis Scale: 2|Union Ore: 6
+,Lunastra's Flames,324,384,15,Normal,Moderate,8,0,---,-, 6/6/9| 3/3/0| 4/0/0| 3/3/3| 2/2/2, 3/3| 0/0| 0/0| 3/1,Flame S: 6|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 1,7525z
+Create,Lunstra Carpace: 4|Fire Drgn Jwl: 1|Lunastra Mane: 1|Firecell Stone: 2
+,Teostra's Flames,324,384,-,Normal,Moderate,8,15%,---,-, 6/6/9| 0/3/3| 0/0/4| 3/3/3| 2/2/2, 3/3| 3/1| 0/0| 0/0,Flame S: 6|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 0,8025z
+Create,Fire Drgn Jwl: 1|Teostra Carapace: 5|ElderDragonBlood: 4|Hrd Monster Bone: 4
+,Destiny's Hands,324,384,-,Fast,Moderate,8,-15%,---,-, 9/9/12| 6/6/6| 0/0/0| 2/2/2| 2/2/2, 3/0| 3/0| 3/0| 3/0,Flame S: 4|Water S: 4|Thundr S: 4|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,8825z
+Create,Fatalis CrmsnShl: 2|Fatalis CrmsnHrn: 2|Fatalis CrmsnScl: 2|Firecell Stone: 4
+,Wolf Heirloom,336,396,-,Fast,Moderate,8,0,---,-, 6/6/9| 0/3/0| 0/4/0| 0/1/0| 0/1/0, 3/3| 3/1| 0/0| 0/0,Flame S: 6|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,8450z
+Create,Long Garuga Ear: 3|Garuga carapce: 5|Garuga Wing: 3|Black Blos Cpc: 3
+,Gaoren's Fire,348,408,12,VerySlow,VeryWeak,8,0,O--,-, 6/6/9| 4/0/4| 0/0/0| 1/1/1| 1/1/1, 0/0| 0/0| 0/0| 0/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 2,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 1,8025z
+Create,Gaoren Thoracic: 3|Gaoren Carapace: 5|Firecell Stone: 2|Pokke Ticket: 4
+,Suprm Lao-Shan Cannon,360,420,20,VerySlow,Weak,8,0,O--,-, 0/6/9| 0/0/3| 0/0/4| 0/0/1| 0/0/1, 0/0| 0/1| 0/0| 0/0,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,8800z
+Create,Lao-Shan's Ruby: 1|Lao-ShanCarapace: 3|Lao-Shan Scale+: 5|Hrd Monster Bone: 8
+,Empr Lao-Shan Cannon,384,444,14,VerySlow,Weak,8,-10%,---,-, 0/6/9| 0/0/3| 0/0/4| 0/0/1| 0/0/1, 0/0| 0/1| 0/0| 0/0,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,10000z
+Create,Azure LaoS Shell: 5|Lao-Shan's Ruby: 1|Lao-ShanCarapace: 3|WyvernStone: 4
+,Great Arbalest+,324,384,-,Slow,Moderate,9,0,OOO,-, 6/6/0| 3/3/0| 4/4/0| 1/1/0| 1/1/0, 0/0| 3/1| 0/0| 3/1,Flame S: 3|Water S: 3|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,5500z
+Create,Eltalite Ore: 20|Hrd Monster Bone: 6|Hvy Monster Bone: 1|Commendation G: 1
+,Tanksorcerer,336,396,-,Slow,Moderate,9,0,OO-,-, 6/6/0| 3/3/0| 4/4/4| 1/0/0| 1/1/0, 3/3| 3/1| 3/1| 3/1,Flame S: 0|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,6000z
+Create,SpecRubberyHide+: 6|Gypceros Head: 1|KhezuHide-Cream: 3|Purecrystal: 1
+,Bastionwitch,336,396,-,Slow,Moderate,9,0,O--,-, 6/6/0| 3/0/0| 6/6/6| 1/0/0| 1/1/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,6500z
+Create,HrdPuGypcerosWng: 6|HardGypcerosHead: 1|Alluring Wing: 3|Eltalite Ore: 10
+,Power Stinger,348,408,-,Fast,Moderate,9,0,---,-, 6/6/9| 3/3/4| 3/3/0| 0/0/0| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 1,7500z
+Create,HrdCongalalaPlt+: 8|CongalalaStrngFng: 4|Vibrant Pelt: 3|Hvy Monster Bone: 1
+,Pressurized Plesioth,360,420,-,Normal,Moderate,9,0,O--,-, 6/6/0| 2/2/2| 2/2/2| 1/1/1| 1/1/1, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 6|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 1,8000z
+Create,ThckPlesiothScl: 8|SpecPlesiothFin+: 4|ThckGrnPlesioScl: 4|Emperor Cricket: 6
+,Violet Punisher,360,420,16,Slow,Moderate,9,0,O--,-, 6/6/9| 3/3/3| 4/0/0| 0/0/0| 0/1/0, 3/3| 3/1| 0/0| 3/1,Flame S: 0|Water S: 4|Thundr S: 0|Freeze S: 4|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 1,9250z
+Create,PlumD.HermitrShl: 8|HrdHermitaurClaw: 3|GrnPlesiothThkScl: 3|Massive Bone: 2
+,Super Kut-Ku Cannon,372,432,14,VerySlow,Moderate,9,0,O--,-, 9/9/12| 0/3/0| 0/4/0| 0/1/0| 0/1/0, 0/0| 3/1| 0/0| 0/0,Flame S: 4|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,8500z
+Create,Kut-Ku Cpc: 6|Str Kut-Ku Wing: 6|Hypno Bezoar: 2|Eltalite Ore: 10
+,Ultra Kut-Ku Cannon,372,432,14,VerySlow,Moderate,9,10%,---,-, 9/9/12| 0/3/0| 0/4/0| 0/1/0| 0/1/0, 0/0| 3/1| 0/0| 0/0,Flame S: 4|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,9000z
+Create,HvyBlueKut-KuShl: 6|Lucky Kut-Ku Ear: 3|Hypno Claw+: 5|Hvy Monster Bone: 2
+,Meteor Shower,384,444,-,Fast,Moderate,9,0,OO-,-, 6/6/9| 4/4/4| 0/0/0| 1/1/1| 0/0/0, 0/0| 0/0| 3/0| 3/0,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,7500z
+Create,Mellanje Ore: 10|ThckLavasiothScl: 4|Eltalite Ore: 20|Big WyvernStone: 1
+,Gaia Eater,396,456,20,Slow,Moderate,9,0,OO-,-, 6/6/9| 3/0/0| 4/0/0| 2/2/2| 2/2/2, 0/3| 3/1| 0/1| 0/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 1,7500z
+Create,HvyBasariosShell: 10|StrBasariosWing: 2|Eltalite Ore: 20|Emperor Cricket: 6
+,Icethrower,396,456,-,Normal,Moderate,9,0,O--,-, 9/9/12| 3/2/2| 4/2/2| 0/0/0| 0/0/0, 3/3| 0/0| 0/0| 3/1,Flame S: 0|Water S: 3|Thundr S: 3|Freeze S: 4|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 1,8500z
+Create,HrdBlangongaPlt+: 8|HvyBlangongaFang: 4|Lthr Pelagus Plt: 2|CongalalaStrngFng: 2
+,Ceanataur Blaster,408,468,-,Normal,Moderate,9,0,O--,-, 6/6/0| 4/4/4| 2/0/0| 1/0/0| 0/0/0, 3/3| 3/1| 0/0| 3/1,Flame S: 0|Water S: 3|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 0,10000z
+Create,HvyCeanataurShl: 6|HrdCeanataurClaw: 4|Hvy Monster Bone: 4|Big WyvernStone: 2
+,Gravios gigahowl,420,480,30,Slow,Moderate,9,0,OOO,-, 6/6/0| 0/3/3| 0/3/3| 0/1/1| 0/1/1, 0/0| 3/1| 0/0| 3/1,Flame S: 3|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,11000z
+Create,HvyGraviosShell: 8|Gravios Skl Shl: 2|StrBasariosWing: 1|HvnlyGraviosShl: 1
+,Jolly Roger Cannon,420,480,-,Normal,Moderate,9,0,O--,-, 6/6/9| 0/3/3| 0/0/4| 3/3/3| 2/2/2, 3/3| 0/0| 3/1| 0/0,Flame S: 12|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 0,230z
+Create,dummy: 4|ThckFireDrgnScl: 10|FireDrgnStrngClaw: 3|Elder Dragon Jewel: 1
+,Queen Needle,348,408,-,Slow,Moderate,10,20%,OO-,-, 9/9/12| 0/2/2| 3/3/0| 2/2/0| 2/2/0, 0/0| 3/1| 3/1| 0/0,Flame S: 0|Water S: 0|Thundr S: 6|Freeze S: 0|Dragon S: 3,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 0,8500z
+Create,VespoidQn'sCrown: 3|Vespoid Abdomen: 3|Lightning Sac: 2|HorNetaurRazrWng: 4
+,Evil Wind Darkcannon,360,420,-,VeryFast,Moderate,10,40%,---,-, 9/9/9| 6/6/6| 0/0/3| 1/0/0| 0/0/0, 0/0| 3/0| 0/0| 3/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,11000z
+Create,ThickNargaScale: 10|BlackNargaPelt+: 5|NarugeDvinePlate: 1|Hvy Monster Bone: 6
+,GreatLadybugCannon+,396,456,40,VerySlow,Moderate,10,0,OOO,-, 9/9/12| 0/3/3| 0/0/0| 1/1/1| 1/1/1, 3/3| 3/1| 3/1| 3/1,Flame S: 0|Water S: 0|Thundr S: 4|Freeze S: 0|Dragon S: 1,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 1,6500z
+Create,PhantomButterfly: 8|HvyRathalosShl: 2|Great Ladybug: 10|Monster Essence: 4
+,Quick Quiver,396,456,-,VeryFast,Moderate,10,0,---,-, 6/6/9| 3/3/0| 0/4/0| 0/1/0| 0/1/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 1,10750z
+Create,SpecialKirinHide: 3|Platinum Mane: 3|Mellanje Ore: 4|StoutWarpedHorn: 2
+,Crow Heirloom,408,468,-,Fast,Moderate,10,0,---,-, 6/6/9| 0/3/0| 0/4/0| 0/1/0| 0/1/0, 3/3| 3/1| 0/0| 0/0,Flame S: 6|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,10000z
+Create,SilverGarugaPelt: 4|Hvy Garuga Shell: 5|Str Garuga Wing: 4|Hvy Monster Bone: 6
+,Terra C Blaster,408,468,-,Normal,Moderate,10,10%,---,-, 6/6/0| 4/4/4| 2/0/0| 2/0/0| 0/0/0, 3/3| 0/0| 3/1| 0/0,Flame S: 3|Water S: 3|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 0,10500z
+Create,TerraCeanatrShl: 6|TerraCeanatrClaw: 4|HvyBasariosShell: 4|ThckLavasiothScl: 4
+,Daora's Ceti,408,468,-,VerySlow,Weak,10,30%,O--,-, 6/6/9| 3/3/3| 4/0/0| 1/0/0| 1/0/0, 3/3| 3/1| 3/1| 0/0,Flame S: 0|Water S: 3|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S:1 |Armor S: 0,11750z
+Create,Hvy Daora Shell: 5|Daora Webing G: 4|BigEDragonJewel: 1|Commendation S: 1
+,Destiny's Arm,420,480,-,Fast,Moderate,10,-15%,---,-, 9/9/12| 6/6/6| 0/0/0| 2/2/2| 2/2/2, 3/0| 3/0| 3/0| 3/0,Flame S: 4|Water S: 4|Thundr S: 4|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,20000z
+Create,HvyFatalisCrmShl: 2|HrdFatlisCrmHorn: 2|ThckFatlisCrmScl: 2|BigEDragonJewel: 2
+,Gravios Gigaroar,420,480,20,Slow,Moderate,10,0,---,-, 6/6/0| 0/4/4| 0/4/4| 0/1/1| 0/1/1, 0/0| 3/1| 0/0| 3/1,Flame S: 4|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,11500z
+Create,HvyBlkGraviosShl: 8|Gravios BrainStm: 1|Firecell Stone: 6|HvnlyBlkGraviShl: 1
+,Teostra Flamethrower,420,480,-,Normal,Moderate,10,15%,---,-, 6/6/9| 0/3/3| 0/0/4| 3/3/3| 2/2/2, 3/3| 3/1| 0/0| 0/0,Flame S: 6|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 0,12000z
+Create,HvyTeostraShell: 5|FireDragonStrngClw: 2|BigEDragonJewel: 1|Commendation S: 1
+,Dark Duelcaster,432,492,-,VeryFast,Moderate,10,0,---,-, 6/6/0| 2/3/4| 0/0/0| 0/0/0| 0/0/0, 0/0| 0/0| 0/0| 0/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,11500z
+Create,HvyBlkBlosSpine: 3|HvyDiablosShell: 6|Mellanje Ore: 5|StoutBlkTwstdHrn: 2
+,Vor Buster,432,492,20,Fast,Moderate,10,0,O--,-, 6/6/9| 3/3/3| 0/0/0| 1/1/1| 1/1/1, 3/0| 3/0| 3/0| 3/0,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,15000z
+Create,Hvy Fatalis Shl: 2|HardFatalisHorn: 2|ThckFatalisScale: 2|BigEDragonJewel: 1
+,Tigrex Skull+,444,504,-,VeryFast,Moderate,10,-30%,---,-, 6/6/9| 4/4/4| 0/0/0| 2/2/2| 0/1/0, 0/0| 0/0| 0/0| 0/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S:  0 |Armor S: 0,10500z
+Create,Hvy Tigrex Shell: 6|Tigrex Skull Shl: 3|Hvy Tigrex Fang: 3|HvnlyTigrexScale: 1
+,Gaoren Orb,444,504,14,VerySlow,VeryWeak,10,0,O--,-, 6/6/9| 4/0/4| 0/0/0| 1/1/1| 1/1/1, 0/0| 0/0| 0/0| 0/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 2,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 1,12500z
+Create,Hvy Gaoren Spine: 4|HvyGaorenShell: 6|Firecell Stone: 20|HvnlyGaorenShell: 1
+,AncientDrgnwoodCan,444,504,-,Slow,Light,10,0,OO-,-, 6/6/9| 0/0/0| 6/6/6| 3/3/3| 3/3/3, 3/3| 0/0| 4/2| 0/0,Flame S: 3|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 1,13000z
+Create,AncientDrgnwood: 4|YamaTsukamiFluid: 8|Thunderbug Jelly: 6|Mellanje Ore: 10
+,UltimateLao-ShaoCan,480,540,18,VerySlow,Weak,10,-10%,O--,-, 0/6/9| 0/0/3| 0/0/4| 0/0/1| 0/0/1, 0/0| 0/1| 0/0| 0/0,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S:0 |Armor S: 0,15000z
+Create,Laso-Shan Hvy Cpc: 4|Azure LaoS Claw: 3|Lao-ShanHvnlyScl: 1|Big WyvernStone: 4
+,Ukanlos Cannon,504,564,10,Slow,Moderate,10,-40%,---,-, 5/5/12| 2/2/6| 2/2/6| 0/0/0| 0/0/0, 0/0| 0/0| 0/0| 3/1,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 6|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,20000z
+Create,HvyUkanlosShell: 6|StrongUkanlosFin: 4|UkanlosUnderscl: 3|Ukanlos Stone: 1
+,Crossbow Gun G,252,312,-,Normal ,Moderate,9,0%,OOO,-, 6/6/0| 3/0/0| 4/0/0| 1/0/0| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5000z
+Create,Commendation G: 1|Hvy Monster Bone: 2|Hrd Monster Bone: 6|Dragonite Ore: 30,
+,HorNet Gun G,312,372,-,Fast,Moderate,9,0%,---,-, 9/9/12| 3/0/0| 4/0/0| 2/2/2| 2/2/0, 3/3| 3/1| 3/1| 3/1,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 1,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 0,5000z
+Create,Commendation G: 1|Monster Essence: 10|Hornetaur Crapce: 30|Rare Scarab: 15,
+,Shotgun (White) G,312,372,-,Fast,Moderate,9,0%,---,Pellet S Lv1, 6/6/9| 3/0/0| 3/4/4| 1/0/0| 1/0/0, 3/3| 3/0| 3/0| 3/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5000z
+Create,Commendation G: 1|Giaprey Scale+: 20|Giadrome Claw+: 8|Giadrome Skull: 5,
+,Shotgun (Azure) G,312,372,-,Fast,Moderate,9,20%,O--,-, 6/6/9| 3/0/0| 4/4/4| 1/0/0| 1/0/0, 3/3| 0/0| 0/0| 3/1,Flame S: 0|Water S: 3|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5000z
+Create,Commendation G: 1|Velociprey Scle+: 20|Velocidrome Clw+: 8|Velocidrome Head: 5,
+,Shotgun (Emerald) G,312,372,-,Fast,Moderate,9,0%,OO-,-, 6/6/9| 3/0/0| 4/4/4| 1/0/0| 1/0/0, 3/3| 0/0| 4/2| 3/1,Flame S: 0|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5000z
+Create,Commendation G: 1|Genprey Scale+: 20|Thunderbug Juice: 20|Gendrome Skull: 5,
+,Shotgun (Blood) G,312,372,-,Fast,Moderate,9,0%,OOO,-, 6/6/9| 3/0/0| 4/4/4| 1/0/0| 1/0/0, 3/3| 4/2| 0/0| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5000z
+Create,Commendation G: 1|Ioprey Scale+: 20|Gypceros Head: 2|Iodrome Skull: 5,
+,Desert Tempest G,312,372,-,VeryFast,Moderate,9,0%,OOO,-, 6/6/9| 3/0/0| 4/0/0| 1/0/0| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 0|Water S: 3|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5000z
+Create,Commendation S: 1|Cephalos Scale+: 10|Hvy Monster Bone: 8|Monster Bone+: 20,
+,Sandfall G,312,372,-,VeryFast,Moderate,9,0%,---,Normal S Lv2, 9/3/12| 3/0/0| 4/0/0| 1/0/0| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 4|Water S: 4|Thundr S: 4|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5000z
+Create,Commendation S: 1|Coral Cphlos Fin: 8|PlumD.HermitrShl: 8|Hrd Monster Bone: 20,
+,Maelstrom G,312,372,-,Normal,Moderate,9,0%,O--,Water S, 6/4/0| 2/2/2| 2/2/2| 1/1/1| 1/1/1, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 2|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5000z
+Create,Commendation S: 1|SpecPlesiothFin+: 6|Plesioth Thck Scl: 8|Black Pearl: 20,
+,Jade Typhoon G,312,372,-,Normal ,Moderate,9,0%,---,Normal S Lv2, 6/3/0| 2/2/2| 2/2/2| 1/1/1| 1/1/1, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5000z
+Create,Commendation S: 1|ThckGrnPlesioScl: 8|SpecGrnPlesioFn+: 6|Giant Blk Pearl: 2,
+,King Lobster Gun G,312,372,-,Normal ,Moderate,9,0%,O--,Water S, 6/6/9| 3/2/2| 4/2/2| 0/0/0| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5000z
+Create,Commendation S: 1|Gt Lobstershell: 3|ThckGrnPlesioScl: 8|SpecPlesiothFin+: 6,
+,Angel Parasol G,312,372,-,Fast,Moderate,9,0%,OO-,-, 6/6/9| 3/3/0| 4/4/4| 1/1/1| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 0|Water S: 0|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5000z
+Create,Commendation S: 1|Lost Umbrella: 5|KhezuHide-Cream: 10|Pale Khezu Steak: 5,
+,Sakura Parasol G,312,372,-,Fast,Moderate,9,0%,---,Thunder S, 9/9/12| 3/3/0| 4/4/4| 2/2/2| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 0|Water S: 0|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5000z
+Create,Commendation S: 1|Lost Umbrella: 5|Alluring Wing: 10|Basarios Tears: 5,
+,Combat Conga G,324,384,-,Fast,Moderate,9,0%,O--,Pierce S Lv1, 6/6/9| 3/3/4| 3/3/0| 0/0/0| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0|Armor S: 1,5000z
+Create,Commendation S: 1|Vibrant Pelt: 6|HrdCongalalaClw+: 6|Mellanje Ore: 4,
+,Jungle Assault G,324,384,-,Fast,Moderate,9,10%,---,Pellet S Lv2, 6/6/9| 3/3/0| 3/3/4| 0/0/0| 1/1/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 1,5000z
+Create,Commendation S: 1|Vibrant Comb: 4|E.CongalalaPelt+: 8|Purecrystal: 2,
+,Heartfelt Cast G,324,384,-,VeryFast,Moderate,9,0%,---,Recov S Lv1, 9/9/12| 3/3/0| 4/0/0| 2/2/0| 0/0/0, 2/3| 0/0| 3/1| 3/1,Flame S: 0|Water S: 3|Thundr S: 4|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5000z
+Create,Comendation S: 1|KhezuSpecialCut: 1|Alluring Wing: 6|HrdPuGypcerosWng: 6,
+,Kut-Ku Counteratk G,336,396,14,VerySlow,Moderate,9,0%,---,-, 9/9/12| 0/3/0| 0/4/0| 0/1/0| 0/1/0, 0| 1| 0| 0,Flame S: 4|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,5000z
+Create,Commendation S: 1|Thick Kut-Ku Scl: 10|RainbowTailFeath: 5|Big WyvernStone: 6,
+,Kut-Ku Barrage G,336,396,-,VerySlow,Moderate,9,10%,---,-, 9/9/12| 0/3/0| 0/4/0| 0/1/0| 0/1/0, 0/0| 3/1| 0/0| 0/0,Flame S: 4|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,5000z
+Create,Commendation S: 1|ThkBlueKut-KuScl: 10|Hypno Claw+: 4|Purecrystal: 4,
+,Island of the Gods G,312,372,-,Slow,Moderate,10,0%,---,-, 6/6/9| 3/0/0| 4/0/0| 3/3/3| 3/3/3, 0/3| 0/1| 0/1| 0/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5000z
+Create,Commendation S: 1|AncientDrgnwood: 4|Ancient Stone: 5|Blazing Fire Sac: 8,
+,Felyne Helldoll G,312,372,-,VeryFast,Moderate,10,0%,OOO,Normal S Lv1|Flame S, 4/6/9| 3/0/0| 4/0/0| 2/2/2| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 6|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5000z
+Create,Commendation G: 1|Felyne Fur Ruby: 5|FlynMealPassPlus: 20|Blazing Fire Sac: 10,
+,Melynx Helldoll G,312,372,-,VeryFast,Moderate,10,30%,O--,Normal S Lv1|Flame S, 4/6/9| 3/0/0| 4/0/0| 2/2/2| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 6|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5000z ,
+Create, Commendation G: 1|Felyne Fur Ruby: 5|BlackNargaPelt+: 4|Sinister Cloth: 10,
+,Hexed Shaka Bow G,312,372,-,VeryFast,Moderate,10,0%,OO-,Dragon S, 6/6/9| 3/0/3| 0/0/0| 3/0/3| 1/1/1, 0/0| 3/1| 0/0| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 1,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 0,5000z
+Create,Commendation G: 1|ShakalakaTreasr+: 3|ShakalakaTreasure: 20|Old Pickaxe: 1,
+,Red Lobster Gun G,312,372,-,Normal,Moderate,10,0%,---,Water S, 6/6/9| 3/2/2| 4/2/2| 0/0/0| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5000z
+Create,Commendation S: 1|dummy: 5|Lg Lobstershell: 10|Big WyvernStone: 4,
+,Dark Parasol G,348,408,-,Fast,Moderate,10,0%,---,-, 6/6/9| 3/0/0| 4/4/4| 1/1/0| 1/1/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 1,Tranq S: 2|Paint S: 2|Demon S: 1|Armor S: 1,5000z
+Create,Commendation S: 1|Str Fatalis Wng: 1|ThckFatalisScale: 5|SpecRemobraSkin+: 20,
+,Arbalest G,312,372,-,Slow,Moderate,9,0,OOO,-, 6/6/0| 3/0/0| 4/0/0| 1/0/0| 1/0/0, 3/3| 0/0| 3/1| 0/0,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,10000z
+Create,Commendation G: 1|ThkBullfangoPelt: 15|RobustWyvernBone: 20|Lg Monster Bone: 30 
+,Rapidcaster G,384,444,-,VeryFast,Moderate,9,0,O--,-, 6/6/9| 3/0/0| 4/0/0| 1/0/0| 1/0/0, 3/0| 3/0| 3/0| 3/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,10000z
+Create,Commendation G: 1|Kelbi Hide: 20|Majestic Horn: 10|Carpenterbug: 99
+,Injector Cannon G,384,444,-,Fast,Moderate,9,0,---,-, 6/6/9| 3/0/0| 4/4/4| 1/1/1| 0/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 1,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 1,10000z
+Create,Commendation G: 1|Monster Essence: 30|Monster Broth: 30|Monster Fluid: 30
+,Honeycomber G,384,444,-,Normal,Moderate,9,0,OOO,-, 6/6/0| 2/2/0| 2/2/0| 1/1/0| 1/1/0, 0/0| 3/1| 3/1| 0/0,Flame S: 0|Water S: 0|Thundr S: 3|Freeze S: 0|Dragon S: 1,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 1,10000z
+Create,Commendation G: 1|YamaTsukamiFluid: 4|Verspoid Abdomen: 10|Hornetaur Head: 10
+,Tanksorcerer G,384,444,-,Slow,Moderate,9,0,OO-,-, 6/6/0| 3/3/0| 4/4/4| 1/0/0| 1/1/0, 3/3| 3/1| 3/1| 3/1,Flame S: 0|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,10000z
+Create,Commendation G: 1|DeadlyPoisonSac: 10|Toxin Sac: 10|Purecrystal: 5
+,Bastionwitch G,384,444,-,Slow,Moderate,9,0,O--,-, 6/6/0| 3/0/0| 6/6/6| 1/0/0| 1/1/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,10000z
+Create,Commendation S: 1|HardGypcerosHead: 3|Lightcrystal: 20|Novacrystal: 10
+,Desert Diver G,384,444,-,Fast,Moderate,9,0,---,-, 6/6/9| 3/0/0| 3/0/0| 1/0/0| 1/0/0, 3/3| 0/0| 3/1| 3/1,Flame S: 4|Water S: 4|Thundr S: 4|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,10000z
+Create,Commendation S: 1|HvyPiscineFang: 10|Coral Cphlos Fin: 6|Union Ore: 30
+,Power Stinger G,384,444,-,Fast,Moderate,9,0,---,-, 6/6/9| 3/3/4| 3/3/0| 0/0/0| 1/0/0, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 1,10000z
+Create,Commendation S: 1|Vibrant Comb: 2|HrdCongalalaClw+: 4|GrnConglalaClaw: 6
+,Crab Buster G,384,444,16,Slow,Moderate,9,0,OO-,-, 6/6/9| 3/3/0| 4/0/0| 0/0/0| 1/0/0, 3/3| 0/0| 3/1| 0/0,Flame S: 0|Water S: 3|Thundr S: 0|Freeze S: 3|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 1,10000z
+Create,Commendation S: 1|Hermitaur Claw+: 8|HvyHermitaurShl: 8|Black Pearl: 20
+,Meteor Cannon G,384,444,-,Fast,Moderate,9,0,OOO,-, 6/6/9| 4/4/4| 0/0/0| 1/1/1| 0/0/0, 0/0| 0/0| 3/0| 3/0,Flame S: 3|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,10000z
+Create,Commendation S: 1|FireStone: 40|Mellanje Ore: 30|Basarios Tears: 5
+,PressurizedPlesiothG,396,456,-,Normal,Moderate,9,0,O--,-, 6/6/0| 2/2/2| 2/2/2| 1/1/1| 1/1/1, 3/3| 3/1| 3/1| 3/1,Flame S: 3|Water S: 6|Thundr S: 3|Freeze S: 3|Dragon S: 0 ,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 1,10000z
+Create,Commendation S: 1|ThckPlesiothScl: 10|Ancient Fish: 10|Hrd Monster Bone: 20
+,Violet Punisher G,396,456,16,Slow,Moderate,9,0,O--,-, 6/6/9| 3/3/3| 4/0/0| 0/0/0| 0/1/0, 3/3| 3/1| 0/0| 3/1,Flame S: 0|Water S: 4|Thundr S: 0|Freeze S: 4|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 1,10000z
+Create,Commendation S: 1|PlumD.HermitrClw: 6|PlumD.HermitrShl: 8|WyvernSkull Shl: 3
+,SuperKut-KuCannon G,408,468,14,VerySlow,Moderate,9,0,O--,-, 9/9/12| 0/3/0| 0/4/0| 0/1/0| 0/1/0, 0/0| 3/1| 0/0| 0/0,Flame S: 4|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,10000z
+Create,Commendation S: 1|Thick Kut-Ku Scl: 10|Lucky Kut-Ku Ear: 5|Pale Khezu Steak: 3
+,UltraKut-KuCannon G,408,468,14,VerySlow,Moderate,9,10%,---,-, 9/9/12| 0/3/0| 0/4/0| 0/1/0| 0/1/0, 0/0| 3/1| 0/0| 0/0,Flame S: 4|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,10000z
+Create,Commendation S: 1|ThkBlueKut-KuScl: 10|Long Kut-Ku Ear: 10|KhezuSpecialCut: 1
+,Monodevilcaster G,420,480,-,VeryFast,Moderate,9,0,---,-, 6/6/6| 2/2/2| 2/2/2| 0/0/0| 0/0/0, 0/0| 0/0| 0/0| 0/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,10000z
+Create,Commendation S: 1|Wht Monoblos Cpc: 8|StoutBlkTwstdHrn: 4|Monoblos Heart: 2
+,Duelcaster G,432,492,-,VeryFast,Moderate,9,0,---,-, 6/6/6| 2/2/2| 0/0/0| 0/0/0| 0/0/0, 0/0| 0/0| 0/0| 0/0,Flame S: 0|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,10000z
+Create,Commendation S: 1|HvyDiablosShell: 8|Top-GrdPlatHorn: 6|WyvernStone: 10
+,Queen Needle G,384,444,-,Slow,Moderate,10,20%,OO-,-, 9/9/12| 0/2/2| 3/3/0| 2/2/0| 2/2/0, 0/0| 3/1| 3/1| 0/0,Flame S: 0|Water S: 0|Thundr S: 6|Freeze S: 0|Dragon S: 3,Tranq S: 2|Paint S: 2|Demon S: 1 |Armor S: 0,10000z
+Create,Commendation S: 1|VespoidQn'sCrown: 5|Thunderbug Jelly: 20|Killer Beetle: 99
+,Black Cannon G,408,468,-,Fast,Moderate,10,0,O--,-, 6/6/9| 3/3/3| 0/0/0| 1/1/1| 1/1/1, 3/0| 3/0| 3/0| 3/0,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,10000z
+Create,Commendation S: 1|Dark Stone: 10|BigEDragonJewel: 1|Giant Blk Pearl: 5
+,Lunastra's Flames G,420,480,25,Normal,Moderate,10,0,---,-, 6/6/9| 3/3/0| 4/0/0| 3/3/3| 2/2/2, 3/3| 0/0| 0/0| 3/1,Flame S: 6|Water S: 0|Thundr S: 0|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 1,10000z
+Create,Commendation S: 1|ThckFireDrgnScl: 4|LunastraCarapace: 8|Fire Drgn Jwl: 3
+,Lao-ShanLungCannon G,456,516,30,VerySlow,Weak,10,0,OO-,-, 0/6/9| 0/0/3| 0/0/4| 0/0/1| 0/0/1, 0/0| 0/1| 0/0| 0/0,Flame S: 3|Water S: 3|Thundr S: 3|Freeze S: 0|Dragon S: 0,Tranq S: 2|Paint S: 2|Demon S: 0 |Armor S: 0,10000z
+Create,Commendation S: 1|Lao-ShanHvnlyScl: 1|Lao-Shan's Ruby: 2|ElderDragonBlood: 10

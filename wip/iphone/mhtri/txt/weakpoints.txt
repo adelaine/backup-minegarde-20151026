@@ -1,0 +1,541 @@
+
+** MONSTER WEAKPOINTS GUIDE **
+   By VioletKIRA
+
+=================
+Agnaktor
+==============
+Raw
+    Slash: Chest
+    Impact: Head
+    Shot: Head
+
+Elemental
+    Fire: Weak
+    Water: Strong
+    Ice: Mild
+    Thunder: Weak
+    Dragon: Mild
+
+Traps/Items
+    Pitfall Trap: Yes
+    Shock Trap: Yes
+    Flash Bomb: Yes
+    Dung Bomb: Yes
+    Sonic Bomb: Yes
+    Raw Meat: Yes
+
+Behavior
+    Stamina: Yes
+    Underwater: LOL
+    Roar: Low
+    Wind Press: None
+
+=================
+Alatreon (flying and ground)
+==============
+Raw
+    Slash: Head
+    Impact: Head
+    Shot: Head
+
+Elemental (flying/ground)
+    Fire: No Damage/Weak
+    Water: Weak/Weak
+    Ice: Weak/No Damage
+    Thunder: Weak/No Damage
+    Dragon: Weak/Weak
+
+Traps/Items
+    Pitfall Trap: No
+    Shock Trap: No
+    Flash Bomb: Yes
+    Dung Bomb: No
+    Sonic Bomb: No
+    Raw Meat: No
+
+Behavior
+    Stamina: Yes
+    Underwater: No
+    Roar: High
+    Wind Press: High (flying),
+                Dragon (glide)
+
+=================
+Barioth
+==============
+Raw
+    Slash: Head
+    Impact: Head
+    Shot: Head
+
+Elemental
+    Fire: Excellent
+    Water: Weak
+    Ice: Weak
+    Thunder: Strong
+    Dragon: Mild
+
+Traps/Items
+    Pitfall Trap: Yes
+    Shock Trap: Yes
+    Flash Bomb: Yes
+    Dung Bomb: Yes
+    Sonic Bomb: No
+    Raw Meat: Yes
+
+Behavior
+    Stamina: Yes
+    Underwater: No
+    Roar: Low
+    Wind Press: High
+
+=================
+Barroth
+==============
+Raw
+    Slash: Arm
+    Impact: Arm
+    Shot: Tail
+
+Elemental (no mud/mud)
+    Fire: No Damage/Weak
+    Water: No Damage/Weak
+    Ice: Mild
+    Thunder: Weak
+    Dragon: Weak
+
+Traps/Items
+    Pitfall Trap: Yes
+    Shock Trap: Yes
+    Flash Bomb: Yes
+    Dung Bomb: Yes
+    Sonic Bomb: No
+    Raw Meat: No
+
+Behavior
+    Stamina: Yes
+    Underwater: No
+    Roar: Low
+    Wind Press: None
+
+=================
+Ceadeus
+==============
+Raw
+    Slash: Beard
+    Impact: Beard
+    Shot: Stomach
+
+Elemental
+    Fire: Mild
+    Water: Weak
+    Ice: Weak
+    Thunder: Strong
+    Dragon: Excellent
+
+Traps/Items
+    Pitfall Trap: No
+    Shock Trap: No
+    Flash Bomb: No
+    Dung Bomb: No
+    Sonic Bomb: No
+    Raw Meat: No
+
+Behavior
+    Stamina: No
+    Underwater: Yes
+    Roar: High
+    Water Press: High
+
+=================
+Deviljho
+==============
+Raw
+    Slash: Head/Stomach
+    Impact: Head
+    Shot: Head
+
+Elemental
+    Fire: Weak
+    Water: Weak
+    Ice: Weak
+    Thunder: Strong
+    Dragon: Strong
+
+Traps/Items
+    Pitfall Trap: Yes
+    Shock Trap: Yes
+    Flash Bomb: Yes
+    Dung Bomb: Yes
+    Sonic Bomb: No
+    Raw Meat: Yes
+
+Behavior
+    Stamina: Yes
+    Underwater: No
+    Roar: High
+    Wind Press: None
+
+=================
+Diablos
+==============
+Raw
+    Slash: Stomach
+    Impact: Stomach
+    Shot: tail (not the tip)
+    Note: Shot damage is weak
+          Use Pierce S, Pellet S
+          or Mazereon S :)~
+
+Elemental
+    Fire: Weak
+    Water: Mild
+    Ice: Excellent
+    Thunder: Mild
+    Dragon: Mild
+
+Traps/Items
+    Pitfall Trap: Yes
+    Shock Trap: Yes
+    Flash Bomb: Yes
+    Dung Bomb: Yes
+    Sonic Bomb: Yes
+    Raw Meat: No
+
+Behavior
+    Stamina: Yes
+    Underwater: No
+    Roar: High
+    Wind Press: High
+
+=================
+Gigginox
+==============
+Raw
+    Slash: Stomach
+    Impact: Head
+    Shot: Stomach
+
+Elemental
+    Fire: Excellent
+    Water: Strong
+    Ice: Weak
+    Thunder: Weak
+    Dragon: Weak
+
+Traps/Items
+    Pitfall Trap: Yes
+    Shock Trap: Yes
+    Flash Bomb: No
+    Dung Bomb: Yes
+    Sonic Bomb: No
+    Raw Meat: No
+
+Behavior
+    Stamina: Yes
+    Underwater: No
+    Roar: High
+    Wind Press: Low
+
+=================
+Gobul
+==============
+Raw
+    Slash: Lantern
+    Impact: Lantern
+    Shot: Stomach
+
+Elemental
+    Fire: Mild
+    Water: Weak
+    Ice: Mild
+    Thunder: Excellent
+    Dragon: Weak
+
+Traps/Items
+    Pitfall Trap: Yes
+    Shock Trap: Yes
+    Flash Bomb: No
+    Dung Bomb: Yes
+    Sonic Bomb: Yes
+    Raw Meat: Yes
+
+Behavior
+    Stamina: Yes
+    Underwater: Yes
+    Roar: None
+    Water Press: Low
+
+=================
+Great Baggi
+==============
+Raw
+    Slash: Head
+    Impact: Head
+    Shot: Head
+
+Elemental
+    Fire: Excellent
+    Water: Strong
+    Ice: Weak
+    Thunder: Strong
+    Dragon: Weak
+
+Traps/Items
+    Pitfall Trap: Yes
+    Shock Trap: Yes
+    Flash Bomb: Yes
+    Dung Bomb: Yes
+    Sonic Bomb: No
+    Raw Meat: Yes
+
+Behavior
+    Stamina: Yes
+    Underwater: No
+    Roar: None
+    Wind Press: None
+
+=================
+Great Jaggi
+==============
+Raw
+    Slash: Head
+    Impact: Head
+    Shot: Head
+
+Elemental
+    Fire: Excellent
+    Water: Excellent
+    Ice: Excellent
+    Thunder: Excellent
+    Dragon: Mild
+
+Traps/Items
+    Pitfall Trap: Yes
+    Shock Trap: Yes
+    Flash Bomb: Yes
+    Dung Bomb: Yes
+    Sonic Bomb: No
+    Raw Meat: Yes
+
+Behavior
+    Stamina: Yes
+    Underwater: No
+    Roar: None
+    Wind Press: None
+
+=================
+Jhen Mohran
+==============
+Raw
+    Slash: Inside Mouth
+    Impact: Inside Mouth
+    Shot: Inside Mouth
+
+Elemental
+    Fire: Weak
+    Water: Mild
+    Ice: Strong
+    Thunder: Mild
+    Dragon: Strong
+
+Traps/Items
+    Pitfall Trap: No
+    Shock Trap: No
+    Flash Bomb: No
+    Dung Bomb: No
+    Sonic Bomb: No
+    Raw Meat: No
+
+Behavior
+    Stamina: Yes
+    Underwater: No
+    Roar: High
+    Wind Press: High
+
+=================
+Lagiacrus
+==============
+Raw
+    Slash: Chest
+    Impact: Head
+    Shot: Head
+
+Elemental
+    Fire: Strong
+    Water: Weak
+    Ice: Mild
+    Thunder: Weak
+    Dragon: Mild
+
+Traps/Items
+    Pitfall Trap: Yes
+    Shock Trap: Yes
+    Flash Bomb: Yes
+    Dung Bomb: Yes
+    Sonic Bomb: Yes (water, no rage)
+    Raw Meat: Yes
+
+Behavior
+    Stamina: Yes
+    Underwater: Yes
+    Roar: Low
+    Water Press: High
+
+=================
+Qurupeco
+==============
+Raw
+    Slash: Head
+    Impact: Head
+    Shot: Sac (singing), Stomach
+
+Elemental
+    Fire: Weak
+    Water: Strong
+    Ice: Excellent
+    Thunder: Mild
+    Dragon: Weak
+    
+Traps/Items
+    Pitfall Trap: Yes
+    Shock Trap: Yes
+    Flash Bomb: Yes
+    Dung Bomb: Yes
+    Sonic Bomb: Yes
+    Raw Meat: Yes
+
+Behavior
+    Stamina: Yes
+    Underwater: No
+    Roar: None
+    Wind Press: High
+
+=================
+Rathalos
+==============
+Raw
+    Slash: Head
+    Impact: Head
+    Shot: Stomach
+
+Elemental
+    Fire: Weak
+    Water: Mild
+    Ice: Mild
+    Thunder: Strong
+    Dragon: Excellent
+
+Traps/Items
+    Pitfall Trap: Yes
+    Shock Trap: Yes
+    Flash Bomb: Yes
+    Dung Bomb: Yes
+    Sonic Bomb: No
+    Raw Meat: Yes
+
+Behavior
+    Stamina: Yes
+    Underwater: No
+    Roar: Low
+    Wind Press: High
+
+=================
+Rathian
+==============
+Raw
+    Slash: Head
+    Impact: Head
+    Shot: Stomach
+
+Elemental
+    Fire: Weak
+    Water: Mild
+    Ice: Mild
+    Thunder: Strong
+    Dragon: Excellent
+
+Traps/Items
+    Pitfall Trap: Yes
+    Shock Trap: Yes
+    Flash Bomb: Yes
+    Dung Bomb: Yes
+    Sonic Bomb: No
+    Raw Meat: Yes
+
+Behavior
+    Stamina: Yes
+    Underwater: No
+    Roar: Low
+    Wind Press: High
+
+=================
+Royal Ludroth
+==============
+Raw
+    Slash: Neck
+    Impact: Head
+    Shot: Head
+
+Elemental
+    Fire: Excellent
+    Water: Weak
+    Ice: Weak
+    Thunder: Mild
+    Dragon: Weak
+
+Traps/Items
+    Pitfall Trap: Yes
+    Shock Trap: Yes
+    Flash Bomb: Yes
+    Dung Bomb: Yes
+    Sonic Bomb: Yes (water, no rage)
+    Raw Meat: No
+
+Behavior
+    Stamina: Yes
+    Underwater: Yes
+    Roar: None
+    Water Press: Low
+
+=================
+Uragaan
+==============
+Raw
+    Slash: Stomach
+    Impact: Stomach
+    Shot: Stomach
+
+Elemental
+    Fire: Weak
+    Water: Excellent
+    Ice: Mild
+    Thunder: Weak
+    Dragon: Excellent
+
+Traps/Items
+    Pitfall Trap: Yes
+    Shock Trap: Yes
+    Flash Bomb: Yes
+    Dung Bomb: Yes
+    Sonic Bomb: No
+    Raw Meat: No
+
+Behavior
+    Stamina: Yes
+    Underwater: No
+    Roar: Low
+    Wind Press: None
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,136 @@
+Meat,,,Vegetables,,,Fish
+
+1 Cat,,,1 Cat,,,1 Cat
+Japanese,English,,Japanese,English,,Japanese,English
+
+くず肉,Meat Scrap,,ドテカボチャ,Pumpkin,,ホタテチップ,Clamchip
+堅肉,Tough Meat,,ふたごキノコ,Twinshroom,,オンプウオ,Scalefish
+ゴムジャーキー,Rubber Jerky,,ジャンゴーネギ,Jungle Onion,,骨タコ,Bone Taco
+
+2 Cats,,,2 Cats,,,2 Cats
+Japanese,English,,Japanese,English,,Japanese,English
+
+サイコロミート,Cubesteak,,まだらネギ,Spotted Onion,,スネークサーモン,Snake Salmon
+七味ソーセージ,Spicy Sausage,,ヤングポテト,Young Potato,,ブリカブト,Tuna Head
+ワイルドベーコン,Wild Bacon,,マイルドハーブ,Mild Herb
+,,,スライスサボテン,Sliced Cactus
+
+3 Cats,,,3 Cats,,,3 Cats
+Japanese,English,,Japanese,English,,Japanese,English
+
+ガブリブロース,Juicy Rib Roast,,根棒ネギ,Cudgel Onion,,兜ガニ,Horseshoe Crab
+ミートワゴン,Meat Wagon,,西国パセリ,Western Parsley,,くの字エビ,Curved Shrimp
+マトングレート,Great Mutton,,激辛ニンジン,Spicy Carrots,,スパイクフグ,Spiky Blowfish
+
+4 Cats,,,4 Cats,,,4 Cats
+Japanese,English,,Japanese,English,,Japanese,English
+
+プリンセスポーク,Princess Pork,,砲丸レタス,Cannon Lettuce,,大王イカ,King Squid
+ガビアルカルビ,Gator Ribmeat,,レアオニオン,Rare Onion,,女王エビ,Queen Shrimp
+龍足,Dragon Foot,,五香セロリ,Scented Celery,,ピンクキャビア,Pink Caviar
+
+5 Cats,,,5 Cats,,,5 Cats
+Japanese,English,,Japanese,English,,Japanese,English
+
+リュウノテール,Dragon Tail,,キングトリュフ,King Truffle,,千年蟹,1000-Year Crab
+ギガントミート,Big Meat,,シモフリトマト,Fatty Tomato,,たてがみマグロ,Hairy Tuna
+龍頭,Dragon Head,,オニマツタケ,Demonshroom,,紅蓮鯛,Crimson Seabream
+キングターキー,King Turkey
+
+
+Bran,,,Fruit,,,Milk
+
+1 Cat,,,1 Cat,,,1 Cat
+Japanese,English,,Japanese,English,,Japanese,English
+
+ジャリライス,Chunky Rice,,オイルレーズン,Oily raisins,,ネンチャクリーム,Sticky Cream
+フラヒヤ麦,Furahiya Wheat,,,,,粉吹きチーズ,Powdered Cheese
+ミックスビーンズ,Mixed Beans
+
+2 Cats,,,2 Cats,,,2 Cats
+Japanese,English,,Japanese,English,,Japanese,English
+
+頑固パン,Stubborn Pan,,フルーツジャム,Fruity Jam,,クヨクヨーグルト,Carefree Yogurt
+大雪米,SnowyRice,,北風みかん,Northern Orange,,熟成チーズ,Aged Cheese
+
+3 Cats,,,3 Cats,,,3 Cats
+Japanese,English,,Japanese,English,,Japanese,English
+
+ウォーミル麦,Warwheat,,氷樹リンゴ,Frozen Apples,,猛牛バター,Buffalo Butter
+クック豆,Kut Beans,,,,,チリチーズ,Chili Cheese
+ウマイ米,Tasty Rice
+
+4 Cats,,,4 Cats,,,4 Cats
+Japanese,English,,Japanese,English,,Japanese,English
+
+マスターベーグル,Megabagel,,炎熟マンゴー,Burning Mango,,ロイヤルチーズ,Royale Cheese
+古代豆,Ancient Beans,,長寿ジャム,Lifejam
+ココット米,Kokoto Rice
+
+5 Cats,,,5 Cats,,,5 Cats
+Japanese,English,,Japanese,English,,Japanese,English
+
+ヘブンブレッド,Heaven Bread,,エメラルドリアン,Emerald Durian,,幻獣チーズ,Kirin Cheese
+黄金米,Gold Rice
+ソウルビーンズ,Soul Beans
+
+Drink
+
+1 Cat
+Japanese,English
+
+ホピ酒,Hopi
+
+2 Cats
+Japanese,English
+
+フラヒヤビール,Furahiya Cola
+
+3 Cats
+Japanese,English
+
+パニーズ酒,Panish
+
+4 Cats
+Japanese,English
+
+ブレスワイン,Blessed Wine
+
+5 Cats
+Japanese,English
+
+黄金芋酒,Goldenfish Brew
+
+
+
+
+Food Type,1 Cat,2 Cats,3 Cats,4 Cats,5 Cats
+
+Meat + Meat,Health +10,Health +20,Health +20,Health +30,Health +30
+Meat + Veg,Stamina +25,Stamina -25,Health +10<br> Atk Up [Sm],-,Health +40<br> Atk Up [Lg]
+Meat + Fish,Stamina -25,-,Thunder Res +3,Stamina +25<br> Water Res +5,Health +20<br> Stamina +50
+Meat + Bran,Health +10,Defense +15,-,Stamina -50,-
+Meat + Fruit,-,Fire Res +3,Atk Up [Lg],Atk Up [Sm]<br> Fire Res +5,Health -40<br> Stamina -25
+Meat + Milk,-,Health -20,-,Health +40,Stamina +25<br> Defense +15
+Meat + Drink,Atk Up [Sm],Health +10,Stamina -25,Defense +10<br> Ice Res +5,Atk Up [Sm]<br> Fire Res +5
+Veg + Veg,Defense +10,Defense +10,Defense +10,Defense +15,Defense +15
+Veg + Fish,Stamina +25,-,Health -30,Health +20<br> Dragon Res +3,Defense +10<br> Ice Res +5
+Veg + Bran,Stamina -25,Atk Up [Sm],Stamina +50,Stamina +25<br> Atk Up [Sm],Stamina +25<br> Atk Up [Sm]
+Veg + Fruit,Health +20,Health +10<br> Defense +10,Health -30,Stamina +50,-
+Veg + Milk,-,Health -10<br> Stamina -25,Health +10<br> Defense +15,-,Stamina +25<br> Defense +20
+Veg + Wine,-,Stamina +25,-,Health +40,Stamina -50
+Fish + Fish,Atk Up [Sm],Atk Up [Sm],Atk Up [Sm],Atk Up [Lg],Atk Up [Lg]
+Fish + Bran,Health +10,Health +20,-,Health -30<br> Stamina -25,Health +40<br> Defense +20
+Fish + Fruit,Health -10,-,Stamina +25<br> Fire Res +3,Defense +20,Stamina +50<br> Defense +10
+Fish + Milk,-,Stamina -25,Health +30,Defense +10<br> Thunder Res +5,-
+Fish + Drink,Defense +10,Stamina +25,Stamina -25,-,-
+Bran + Bran,Stamina +25,Stamina +25,Stamina +25,Stamina +50,Stamina +50
+Bran + Fruit,Ice Res +3,-,-,Health -40,Health +30<br> Stamina +25
+Bran + Milk,-,-,Defense +10<br> Stamina +25,Health +30<br> Atk Up [Sm],Health -50
+Bran + Drink,Stamina -25,Health +10<br> Thunder Res +3,Defense +15<br> Water Res +3,-,Health +20<br> Water Res +5
+Fruit + Fruit,-,Health -20,-,Health +10<br> Atk Up [Lg],-
+Fruit + Milk,Stamina +25,Water Res +3,Health -20<br> Stamina -25,-,Health +50<br> Dragon Res +5
+Fruit + Drink,Health -10,-,Atk Up [Sm],Health +20<br> Defense +15,Atk Up [Sm]<br> Thunder Res +5
+Milk + Milk,-,Stamina +25<br> Atk Up [Sm],Health +20<br> Ice Res +3,-,-
+Milk + Drink,Health -10,Ice Res +3,-,Health +20<br> Stamina +25,Health +50<br> Stamina +50
+Drink + Drink,-,-,-,-,-

@@ -1,0 +1,622 @@
+,War Hammer,500z,312,,9.2.4 9.2.9,0%,---,1,HM
+Create,Iron Ore: 3 |Disk stone: 1
+E,War Hammer+,650z,364,,9.2.9 9.2.13.1,0%,---,1,HM
+Improve,Iron Ore: 5 |Disk stone: 1
+Create,Normal ticket: 1
+SR,War mace,1100z,468,,3.2.10 3.2.15,0%,---,1,HM
+Improve,Iron Ore: 10 |Disk stone: 5
+SLR,Iron Striker,2150z,624,,9.2.13.1 9.2.13.6,0%,---,2,HM
+Improve,Iron Ore: 12 |Machalite Ore: 5 |Earth Crystal: 3
+Create,Earth Crystal: 10 |Iron Ore: 20 |Disk stone: 20
+SLLR,Iron Striker+,4250z,832,,3.2.17.3 3.2.17.8,0%,---,2,HM
+Improve,Dragonite Ore: 5 |Machalite Ore: 8 |Earth Crystal: 15
+SLLLE,Anvil Hammer,6350z,884,Def+4,3.2.17.8 3.2.17.12.1,0%,O--,5,HM
+Improve,Gravios Shell: 2 |Dragonite Ore: 10 |Iron Ore: 30
+SLLLSR,Onslaught Hammer,60000z,1092,Def+6,6.4.8.12.5 6.4.8.12.6.4,0%,O--,5,HM
+Improve,Union Ore: 5 |Iron Ore: 99 |Dragonite Ore: 20
+SLLLSLE,Blacksmith,75000z,1196,Def+10,3.2.17.12.4.2 3.2.17.12.4.5.2,0%,OO-,9,HM
+Improve,Etherlite Ore: 5 |Carbalite Ore: 20 |Emperor Locust: 7
+Create,Etherlite Ore: 10 |Union Ore: 10 |Razor Claw: 4 |BirdWyvnStoutBne: 5
+SLLLSLSR,*Juggernaut,100000z,1404,Def+10,6.4.8.12.6.4 6.4.8.12.6.5.4,0%,OO-,9,HM
+Improve,Melange Ore: 5 |BirdWyvnStoutBne: 8 |PhantomButterfly: 5
+SLLLSLSE,Lava Arpa,100000z,1248,Fir 270,5.4.14.10.2 5.4.14.10.4.3,-5%,O--,9,HH,P Y R, Attack Up [Hi]|Defense Up [Lo]|High-Frequency|Fire Res Up [Lo]|Dragon Res Up [Hi]|
+Improve,Volganos Thk Scl: 4 |Volganos Fin+: 2 |Screamer: 4
+Create,Volganos Thk Scl: 8 |Volganos Hvy Cpc: 6 | Hvy Monster Bone:8 | Screamer: 8
+SLLLSLSSE,*Volganos Arpa,120000z,1404,Fir 300,5.4.14.10.4.3 5.4.14.10.4.6.2,-10%,O--,10,HH,P Y R,(same as prev)
+Improve,Etherlite Ore: 5 |Volganos Fin+: 4 |PhantomButterfly: 3 |Gravios Hvy Cpc: 2
+SLLLSR,War Stamp,30000z,1040,,3.2.17.8 3.2.17.12.1,0%,O--,6,HM
+Improve,Dragonite Ore: 15 |Disk stone: 50 |Carbalite Ore: 15
+SLLLSLE,*War Basher,75000z,1144,Def+8,3.2.17.12.1 3.2.17.12.4.2,0%,OO-,7,HM
+Improve,Carbalite Ore: 30 |Black Blos Cpc: 10 |Machalite Ore: 40
+SLLLSR,Iron Devil,25000z,988,,9.2.13.1 9.2.13.6,0%,---,6,HM
+Improve,Carbalite Ore: 3 |Iron Ore: 30 |Dragonite Ore: 5
+Create,Carbalite Ore: 5 |Iron Ore: 50 |Disk stone: 30
+Shortcut,G Class Ticket: 1 |Carbalite Ore: 1
+SLLLSLR,Great Demon Hammer,35000z,1040,,6.4.8.7 6.4.8.12,10%,O--,6,HM
+Improve,Union Ore: 10 |Remobra Skull: 3 |Velocidrome Head: 3
+SLLLSLLR,Devil Masher,55000z,1040,Par 140,6.4.8.12 6.4.8.12.5,0%,O--,8,HM
+Improve,Gld Rathian Cpc: 3 |Vespoid Abdomen: 3 |Gendrome Skull: 3
+SLLLSLLLE,Devil Masher+,80000z,1144,Par 150,6.4.8.12.5 6.4.8.12.6.4,0%,O--,9,HM
+Improve,Etherlite Ore: 5 |Thunderbug Jelly: 5 |Gld Rathian Scl+: 8
+SLLLSLLLSE,*Devil's Fate,105000z,1300,Par 170,6.4.8.12.6.4 6.4.8.12.6.5.4,0%,O--,9,HM
+Improve,Etherlite Ore: 10 |GldRathianHvyCpc: 5 |YamatsukamiFluid: 2
+SLLLSLLE,Iron Impact,55000z,1092,,6.4.8.12 6.4.8.12.5,0%,OOO,7,HM
+Improve,Union Ore: 25 |Iron Ore: 50 |Nova Crystal: 5
+SLLLSLLSR,*Iron Reject,85000z,1456,,6.4.8.12.5 6.4.8.12.6.4,0%,OOO,9,HM
+Improve,Melange Ore: 10 |Iron Ore: 90 |Volganos Hvy Cpc: 5 |Rainbow Ore: 10
+SLLLSLLSE,Frozen Impact,75000z,1196,Ice 240,5.4.14.10.2 5.4.14.10.4.3,0%,OO-,9,HM
+Improve,Ice Crystal: 10 |Etherlite Ore: 8 |Emperor Locust: 10 |DaoraDragonScal+: 5
+Create,Etherlite Ore: 12 |Ice Crystal: 20 |Blangonga Pelt+: 10 |Monster Broth+: 5
+SLLLSLLSSE,*Decisive Action,100000z,1352,Ice 280,5.4.14.10.4.3 5.4.14.10.4.6.2,0%,OO-,9,HM
+Improve,Ice Crystal: 20 |Pure Crystal: 2 |Blangonga Pelt G: 10 |Basarios Hvy Cpc: 3
+SLLLSLE,Fist of Fury,35000z,1144,,14.4.6.1 14.4.6.6,-10%,O--,7,HM
+Improve,Carbalite Ore: 15 |Gaoren Shell: 5 |Dragonite Ore: 10
+SLLLSLSE,Ancient Blow,70000z,1248,,19.2.5.4 19.2.5.7.2,-20%,OO-,8,HM
+Improve,Union Ore: 10 |Gaoren Carapace: 5 |Dragonite Ore: 25
+SLLLSLSSE,*Fool's Stone Fist,110000z,1664,,8.7.7.8 8.7.7.11.2,-20%,OO-,10,HM
+Improve,Melange Ore: 10 |Gaoren Carapace: 10 |Lao-Shan Hvy Cpc: 5
+SLLLSR,Bronze Bell,35000z,936,Def+24,9.2.13.6 9.2.13.7.4,0%,O--,5,HH,P B Y, No Stamina Loss [Hi]|Wind All Cancel|High-Frequency|Dragon Res Up [Hi]|Thunder Res Up [Hi]|Water Res Up [Lo]|
+Create,Gaoren Pincer: 2 |Gaoren Shell: 6 |Gaoren Spine: 2 |Iron Ore: 20
+SLLLSLE,Gaoren Bell,85000z,1092,Def+34,9.2.13.7.4 9.2.13.7.5.4,0%,O--,8,HH,P B Y,(same as prev)
+Improve,Gaoren Claw: 4 |Gaoren Thoracic: 4 |Gaoren Carapace: 6
+SLLLSLSE,*Gaoren Hollow,130000z,1560,Def+36,9.2.13.7.5.4 9.2.13.7.5.6.3,0%,O--,10,HH,P B Y,(same as prev)
+Improve,GaorenStrngClaw: 2 |Gaoren Hvy Spn: 4 |Gaoren Hvy Cpc: 6 |GaorenDvinePlate: 1
+SLLLSE,Sakura Recorder,25000z,884,Drg 290,3.2.17.8 3.2.17.12.1,0%,O--,5,HH,W K B, No Stamina Loss [Lo]|Clairvoyance Wind Cancel|
+Improve,Pnk Rathian Scl: 5 |Pnk Rathian Shl: 2 |Dragonite Ore: 5
+Create,Pnk Rathian Scl: 6 |Pnk Rathian Shl: 4 |Dosbiscus: 10 |Killer Beetle: 10
+SLLLSSE,Sakura Recorder+,70000z,936,Drg 340,6.4.8.12 6.4.8.12.5,0%,O--,7,HH,W K B,(same as prev)
+Improve,PnkRathian Scl+: 7 |Pnk Rathian Cpc: 5 |Rathian Plate: 1
+SLLLSSSE,Gold Recorder,75000z,988,Drg 380,3.2.17.12.1 3.2.17.12.4.2,0%,O--,8,HH,P K B, No Stamina Loss [Hi]|Clairvoyance Wind Cancel|No Faint
+Improve,Gld Rathian Scl+: 6 |Gld Rathian Cpc: 4 |Small Goldenfish: 20
+SLLLSSSSE,Gold Recorder+,100000z,1196,Drg 400,6.4.8.12.5 6.4.8.12.6.4,0%,O--,9,HH,P K B,(same as prev)
+Improve,PnkRathianHvyCpc: 6 |Rathian Hvy Cpc: 4 |Gld Rathian Cpc: 6 |Rathian Spike G: 1
+SLLLSSSSSE,*Lunar Recorder,125000z,1300,Drg 420,10.1.3.17.6.3 10.1.3.17.6.5.3,0%,OO-,10,HH,P K B,(same as prev)
+Improve,GldRathianThkScl: 7 |GldRathianHvyCpc: 5 |RathianDvnePlate: 1
+SLLE,Gunhammer Prototype,3100z,572,Fir 300,10.1.3.6 10.1.3.11,0%,---,3,HM
+Improve,FireWyvern Fluid: 2 |Gunpowder: 10 |Machalite Ore: 15
+Create,FireWyvern Fluid: 1 |Machalite Ore: 20 |Gunpowder: 20
+SLLSE,Dead Revolver,8350z,728,Fir 400,10.1.3.16 10.1.3.17.4,0%,OO-,5,HM
+Improve,Dragonite Ore: 15 |Fire Stone: 4 |FireWyvrn Marrow: 2
+SLLSSE,Sanctioned Gunhammer,60000z,832,Fir 500,8.7.7.11.2 8.7.7.11.5.2,0%,OO-,6,HM
+Improve,Firecell Stone: 4 |Carbalite Ore: 20 |Monster Broth: 2 |FireWyvrn BrnStm: 1
+SLLSSSE,Augmented Gunhammer,95000z,1092,Fir 520,8.7.7.11.5.2 8.7.7.11.5.5.2,0%,OO-,9,HM
+Improve,Etherlite Ore: 5 |Blaze Sac: 4 |Monster Broth+: 2
+Create,Etherlite Ore: 10 |Blaze Sac: 6 |Firecell Stone: 10 |FireWyvrn BrnStm: 2
+SLLSSSSE,*Imperial Gunhammer,120000z,1248,Fir 540,10.1.3.17.6.3 10.1.3.17.6.5.3,0%,OO-,10,HM
+Improve,Etherlite Ore: 20 |Naruga Thck Scl: 5 |BlkGraviosHvyShl: 5 |Wyvern Stone: 3
+SLR,Anchor Hammer,2150z,572,Wat 100,9.2.13.1 9.2.13.6,0%,O--,3,HM
+Improve,Speartuna: 1 |Cephalos Fin: 2 |Disk stone: 20
+SLLE,Anchor Hammer+,4900z,728,Wat 290,9.2.13.6 9.2.13.7.4,0%,O--,4,HM
+Improve,Glutton Tuna: 5 |Plesioth Fin: 5 |Dragonite Ore: 20
+SLLSE,*Anchor Crusher,65000z,884,Wat 380,9.2.13.7.4 9.2.13.7.5.4,0%,OO-,6,HM
+Improve,Ancient Fish: 5 |Plesioth Fin+: 5 |Union Ore: 20
+SLR,Black Cauldron,1400z,468,,14.4.2 14.4.6.1,0%,OO-,3,HM
+Improve,FlynMealPassReg: 2 |Iron Ore: 10 |Carpenterbug: 10
+Create,FlynMealPassPlus: 1 |Iron Ore: 12 |Disk stone: 7
+SLLR,*True Black Cauldron,35000z,780,,10.1.3.11 10.1.3.16,0%,OOO,6,HM
+Improve,FlynMealPassReg: 7 |Carbalite Ore: 10 |Black Blos Shell: 5
+SLLE,One Star Silver Pot,2150z,520,,19.2.5.7.2 19.2.5.7.4.3,15%,---,4,HM
+Improve,FlynMealPassPlus: 2 |Rainbow Ore: 10 |DaoraDragonScale: 5
+SLLSE,*Two Star Silver Pot,50000z,676,,6.4.8.12.5 6.4.8.12.6.4,15%,---,7,HM
+Improve,FlynMealPassPlus: 8 |Union Ore: 10 |Slvr Ratlos Scl+: 5
+SLR,Bone Axe,2150z,624,,6.4.5 6.4.8.2,0%,O--,2,HM
+Improve,Med Monster Bone: 3 |Sm Monster Bone: 3 |Monster Fluid: 1
+SLLE,Bone Broadaxe,5600z,936,,14.4.6.1 14.4.6.6,5%,OO-,4,HM
+Improve,Monster Bone+: 2 |Lg Monster Bone: 4 |Tigrex Shell: 4
+SLLSE,Bone Great Axe,40000z,1092,,19.2.5.4 19.2.5.7.2,5%,OO-,6,HM
+Improve,Hrd Monster Bone: 2 |Monster Bone+: 4 |Monster Broth: 1 |King Scarab: 5
+SLLSSE,Ceanataur Head Axe,60000z,1144,,6.4.8.12.5 6.4.8.12.6.4,0%,---,7,HM
+Improve,Ceanataur Carpce: 4 |Ceanataur Pincer: 2 |Carbalite Ore: 6
+Create,Ceanataur Carpce: 6 |Ceanataur Claw+: 4 |Ceanataur Leg: 2 |Carbalite Ore: 10
+SLLSSSR,*Ceanataur Great Axe,110000z,1300,,6.4.8.12.6.5.4 6.4.8.12.6.5.4,0%,O--,10,HM
+Improve,CeanataurHvyCpc: 4 |CeanataurClaw G: 2 |CeanataurHvyLeg: 3 |Etherlite Ore: 4
+SLLSSSE,Ochre Axe,85000z,1196,Wat 280,14.4.6.7.4.5 14.4.6.7.4.6.4,15%,---,9,HM
+Improve,RedCeanataurShl: 4 |RedCeanataurClaw: 2 |CeanataurHvyLeg: 2
+Create,RedCeanataurShl: 6 |RedCeanataurClaw: 4 |Ceanataur Pincer: 10 |Etherlite Ore: 10
+SLLSSSSE,*Ochre Crusher,115000z,1248,Wat 300,3.2.17.12.4.5.2 3.2.17.12.4.5.2,15%,---,10,HM
+Improve,RedCeanataurShl: 2 |BlkGraviosHvyShl: 1 |GaorenStrngClaw: 2 |Black Pearl+: 2
+SLE,Metal Bagpipe,2340z,676,Def+10,3.2.15 3.2.17.3,-5%,O--,2,HH,W G R,Attack Up [Lo]|Defense Up [Hi]|HealthRec[Lo]&Antidote
+Improve,Black Pearl: 2 |Machalite Ore: 12 |Screamer: 3
+Create,Black Pearl: 5 |Machalite Ore: 17 |Iron Ore: 5 |Velocidrome Head: 1
+SLSE,Great Bagpipe,4410z,832,Def+15,3.2.17.3 3.2.17.8,-5%,O--,4,HH,W G R,(same as prev)
+Improve,Dragonite Ore: 5 |Machalite Ore: 20 |Screamer: 10
+SLSSE,Heavy Bagpipes,40000z,1040,Def+20,3.2.17.8 3.2.17.12.1,-5%,O--,6,HH,W G R,(same as prev)
+Improve,Carbalite Ore: 10 |Dragonite Ore: 15 |Basarios Shell: 6
+Create,Carbalite Ore: 15 |Dragonite Ore: 20 |Machalite Ore: 40 |Basarios Wing: 2
+SLSSSE,Heavy Bagpipes+,40000z,1144,Def+20,3.2.17.12.1 3.2.17.12.4.2,-5%,O--,7,HH,W G R,(same as prev)
+Improve,Union Ore: 10 |Basarios Tears: 1 |Blk Gravios Cpc: 5
+SLSSSSE,Master Bagpipes,85000z,1404,Def+20,8.7.7.11.2 8.7.7.11.5.2,-5%,O--,9,HH,W G R,(same as prev)
+Improve,Etherlite Ore: 5 |Basarios Hvy Cpc: 6 |Naruga Marrow: 1
+SLSSSSSE,*Suffusion,110000z,1508,Def+20,3.2.17.12.4.2 3.2.17.12.4.5.2,-5%,O--,9,HH,W G R,(same as prev)
+Improve,Etherlite Ore: 10 |BasariosStrngWng: 1 |Gravios Hvy Cpc: 4
+SE,Spiked Hammer,1400z,520,,10.1.3.1 10.1.3.6,0%,---,2,HM
+Improve,Iron Ore: 10 |Needleberry: 10 |Carpenterbug: 5
+SSE,Spiked Hammer+,1750z,572,,10.1.3.6 10.1.3.11,0%,---,2,HM
+Improve,Iron Ore: 20 |Needleberry: 15 |Killer Beetle: 2
+SSSR,Crystal Hammer,2600z,676,,8.7.7.3 8.7.7.8,0%,O--,3,HM
+Improve,Light Crystal: 1 |Machalite Ore: 8 |Killer Beetle: 6
+Create,Light Crystal: 2 |Iron Ore: 25 |Ice Crystal: 7 |Carpenterbug: 10
+SSSLE,Crystal Nova,3650z,780,,8.7.7.8 8.7.7.11.2,0%,O--,4,HM
+Improve,Light Crystal: 3 |Rainbow Ore: 2 |Ice Crystal: 10
+SSSLSR,Great Nova,50000z,936,Thn 300,8.7.7.11.2 8.7.7.11.5.2,0%,OO-,6,HM
+Improve,Nova Crystal: 3 |Basarios Carpace: 8 |Thunder Sac: 5
+SSSLSLE,*Super Nova,100000z,1352,Thn 450,8.7.7.11.5.2 8.7.7.11.5.5.2,0%,OO-,9,HM
+Improve,Pure Crystal: 3 |Lightning Sac: 5 |KirinThndrTail G: 2 |BasariosStrngWng: 2
+SSSLSE,Gigaton Hammer,4250z,832,Def+8,6.4.8.2 6.4.8.7,-10%,O--,4,HM
+Improve,Gravios Skl Shl: 1 |Basarios Shell: 4 |Machalite Ore: 10
+SSSLSSE,*Titan Hammer,8000z,1040,Def+8,8.7.7.3 8.7.7.8,-15%,O--,5,HM
+Improve,Gravios Shell: 10 |Gaoren Shell: 4 |Machalite Ore: 15
+SSSR,Shell Hammer,4250z,728,Poi 120 Def+8,14.4.6.1 14.4.6.6,0%,OO-,4,HM
+Improve,Basarios Shell: 8 |Wyvern Fang: 15 |Poison Sac: 5
+Create,Basarios Shell: 8 |Machalite Ore: 5 |Ioprey Fang: 18 |Hercudrome: 3
+SSSLE,Graviton Hammer,4900z,780,Poi 180 Def+14,14.4.6.6 14.4.6.7.4,0%,OO-,5,HM
+Improve,Gravios Shell: 10 |Machalite Ore: 10 |Chameleos Claw: 1
+SSSLSR,Crater Maker,70000z,988,Poi 200,14.4.6.7.4 14.4.6.7.4.5,0%,OO-,7,HM
+Improve,Gravios Carapace: 12 |Wyvern Stone: 3 |Toxin Sac: 8
+SSSLSLE,Venom Crater,90000z,1300,Poi 220,8.7.7.11.5.2 8.7.7.11.5.5.2,0%,OO-,9,HM
+Improve,BlkGraviosHvyShl: 5 |Gravios Hvy Cpc: 2 |Garuga Tail +: 4 |Venom Sac: 5
+SSSLSLSE,*Venom Crater Maker,115000z,1404,Poi 240,14.4.6.7.4.5 14.4.6.7.4.6.4,0%,OO-,10,HM
+Improve,BlkGraviosHvyShl: 10 |Chameleos Hide G: 3 |BasariosStrngWng: 2 |BlkGravDvnePlate: 1
+SSSLSE,Torment Hammer,45000z,884,Fir 250,8.7.7.8 8.7.7.11.2,0%,O--,6,HM
+Improve,Blk Gravios Shl: 8 |Inferno Sac: 4 |Carbalite Ore: 20
+SSSLSSE,Torment (Purgatory),70000z,988,Fir 310,8.7.7.11.2 8.7.7.11.5.2,0%,O--,7,HM
+Improve,Blk Gravios Cpc: 12 |Blk Gravios Skl: 2 |Gravios BrainStm: 3
+SSSLSSSE,Venom Crater Maker,(same above),70
+SSSE,Basarios Rock,3825z,676,Fir 250,6.4.8.7 6.4.8.12,0%,---,4,HH,W Y K,Dragon Res Up [Lo]|Ice Res Up [Lo]|High-Frequency|No Cold & Snow Res|No Quakes| No Paralysis|
+Improve,Basarios Shell: 5 |Machalite Ore: 15 |Flame Sac: 5
+Create,Basarios Shell: 8 |Machalite Ore: 25 |FireWyvern Fluid: 10 |Hercudrome: 3
+SSSSE,Basarios Rock Mk. II,5715z,832,Fir 280,6.4.8.12 6.4.8.12.5,0%,---,5,HH,W Y K,(same as prev)
+Improve,Gravios Shell: 5 |Machalite Ore: 20 |Basarios Wing: 1
+SSSSSE,Volcanic Rock,40000z,988,Fir 320,8.7.7.11.2 8.7.7.11.5.2,0%,OO-,7,HH,P Y K, Dragon Res Up [Hi]|Ice Res Up [Hi]|Thunder Res Up [Lo]|High-Frequency|No Cold & Snow Res|No Quakes| No Paralysis|
+Improve,Basarios Tears: 3 |Machalite Ore: 50 |Kirin Mane: 5
+SSSSSSE,*Volganic Gig,95000z,1300,Fir 400,8.7.7.11.5.2 8.7.7.11.5.5.2,0%,OO-,9,HH,P Y K,(same as prev)
+Improve,Basarios Hvy Cpc: 5 |BasariosStrngWng: 1 |Blaze Sac: 8 |Machalite Ore: 50
+,Bone Club,400z,364,,8.7 8.7.5,0%,---,1,HM
+Create,Mystery Bone: 3
+R,Large Bone Club,2600z,676,,8.7.5 8.7.7.3,-10%,---,1,HM
+Improve,Giant Bone: 1 |Mystery Bone: 5
+LE,Enormous Ham,7500z,728,,10.1.3.1 10.1.3.6,-20%,---,2,HM
+Improve,Giant Bone: 3 |Well-Done Steak: 10 |FlynMealPassReg: 3
+LSE,*Ham of Hams,50000z,1196,,10.1.3.1 10.1.3.6,-20%,---,6,HM
+Improve,Hrd Monster Bone: 3 |Gourmet Steak: 10 |FlynMealPassPlus: 3
+R,Cyclo-Hammer,1100z,468,,5.4.6 5.4.11,0%,---,1,HM
+Improve,Brute Bone: 3 |Sm Monster Bone: 3
+Create,Hard Ticket: 1 |Sm Monster Bone: 1
+LR,Atlas Hammer,1750z,572,,5.4.11 5.4.14.2,0%,---,2,HM
+Improve,Giant Bone: 2 |Sm Monster Bone: 10
+LLR,Kut-Ku Jaw,2600z,676,,5.4.14.2 5.4.14.7,0%,---,3,HM
+Improve,Giant Beak: 1 |Sharp Claw: 5 |Monster Fluid: 2
+Create,Giant Beak: 1 |Piscine Fang: 5 |Kut-Ku Scale: 5 |Mega Demondrug: 1
+LLLR,Kut-Ku Pick,5600z,884,,9.2.13.6 9.2.13.7.4,10%,OOO,4,HM
+Improve,Kut-Ku Ear: 4 |Vibrant Pelt: 2 |Monster Bone+: 4
+Create,G Class Ticket: 1 |Rainbow Ore: 1 |Monster Bone+: 1
+LLLLR,Hard Bone Hammer,25000z,1040,,5.4.14.2 5.4.14.7,0%,---,6,HM
+Improve,Stout Bone: 2 |Elder Drgn Bone: 5 |Brute Bone: 60
+Create,Stout Bone: 5 |Giant Bone: 20 |Sm Monster Bone: 60 |Iron Ore: 15
+Shortcut,G Class Ticket: 1 |Stout Bone: 1
+LLLLLR,Hard Bone Hammer+,35000z,1092,,5.4.14.7 5.4.14.10.2,0%,---,6,HM
+Improve,Stout Bone: 8 |Dragonite Ore: 10 |Rare Scarab: 10
+LLLLLLE,Diablos Hammer,45000z,1092,Def+8,10.1.3.16 10.1.3.17.4,-10%,---,6,HM
+Improve,Blood Red Horn: 1 |TwstBlkBlosHorn: 1 |Black Blos Cpc: 6
+LLLLLLSE,Diablos Chaos Broker,75000z,1196,Def+10,10.1.3.17.4 10.1.3.17.6.3,-10%,---,7,HM
+Improve,Majestic Horn: 2 |Blk Blos Thracic: 6 |Diablos Thoracic: 6
+LLLLLLSSE,*Diablos Chaos Order,115000z,1508,Def+20,10.1.3.17.6.3 10.1.3.17.6.5.3,0%,---,10,HM
+Improve,RobustBlkBlosHrn: 2 |Majestic Red Hrn: 2 |Blk Blos HvySpne: 6 |Monoblos Thrcic: 6
+LLLLLE,Lobster Hammer,30000z,936,Wat 230,6.4.8.7 6.4.8.12,0%,O--,6,HM
+Improve,Sm Lobstershell: 4 |Iodrome Hide: 10 |Carbalite Ore: 10
+LLLLLSE,King Lobster Hammer,55000z,988,Wat 230,5.4.14.7 5.4.14.10.2,0%,O--,7,HM
+Improve,Lg Lobstershell: 2 |Ioprey Hide+: 5 |Ancient Fish: 5
+LLLLLSSE,*Royal Lobster Hammer,90000z,1144,Wat 350,5.4.14.10.2 5.4.14.10.4.3,0%,OO-,9,HM
+Improve,Hg Lobstershell: 2 |Piscine Fang+: 6 |Etherlite Ore: 5
+LLLLE,Feather Whistle,50000z,780,Slp 120 Def+5,3.2.17.8 3.2.17.12.1,0%,O--,6,HH,P G B,No Stamina Loss [Hi]|Wind Cancel|Health Rec [Lo]|HealthRec[Mid]&Antidote
+Improve,Hypnoc Claw+: 5 |Hypnoc Feather: 3 |Dragonite Ore: 8
+Create,Hypnoc Claw+: 10 |Hypnoc Feather: 8 |Earth Crystal: 20 |Carbalite Ore: 10
+LLLLSE,Hypnotic Whistle,80000z,884,Slp 150 Def+8,3.2.17.12.1 3.2.17.12.4.2,0%,O--,9,HH,P G B,(same as prev)
+Improve,Hypnoc Claw+: 12 |Hypnoc Feather+: 5 |Etherlite Ore: 10 |HypncGizzardStne: 1
+Create,Hypnoc Feather+: 8 |Hypnoc StrngClaw: 6 |Etherlite Ore: 15 |HypncGizzardStn+: 1
+LLLLSSE,*Hypnotic Clarinet,105000z,1040,Slp 180 Def+8,3.2.17.12.4.2 3.2.17.12.4.5.2,0%,O--,9,HH,P G B,(same as prev)
+Improve,Hypnoc StrngClaw: 8 |Rainbow Down: 5 |HypncGizzardStn+: 1 |Coma Sac: 3
+LLLR,Raven Torrent,10000z,728,,14.4.6.6 14.4.6.7.4,20%,O--,5,HM
+Improve,Sharpened Beak: 1 |Garuga Ear: 2 |Garuga Mane: 3
+Create,Sharpened Beak: 2 |Garuga Mane: 4 |Garuga Scale: 8 |Lg Monster Bone: 3
+LLLLE,Wolf Torrent,65000z,936,,14.4.6.7.4 14.4.6.7.4.5,30%,O--,7,HM
+Improve,Sharpened Beak+: 1 |Garuga Mane: 10 |Garuga Devil Ear: 2
+LLLLSR,*Vicious Torrent,105000z,1352,,14.4.6.7.4.5 14.4.6.7.4.6.4,40%,OO-,9,HM
+Improve,Sharpened Beak+: 2 |Garuga Slvr Mane: 5 |Garuga Scale G: 5 |Hvy Monster Bone: 2
+LLLLSE,Wolf Shamisen,65000z,1040,Poi 150,8.7.7.11.2 8.7.7.11.5.2,0%,---,7,HH,P Y R,Attack Up [Hi]|Defense Up [Lo]|High-Frequency|Fire Res Up [Lo]|Dragon Res Up [Hi]|
+Improve,Garuga Scale+: 4 |Garuga Tail: 1 |Garuga Wing: 2 |Garuga Mane: 4
+Create,Garuga Scale+: 8 |Garuga Carapace: 3 |Garuga Tail: 2 |Garuga Wing: 4
+LLLLSSE,*Vicious Shamisen,105000z,1404,Poi 180,8.7.7.11.5.2 8.7.7.11.5.5.2,0%,---,9,HH,P Y R,(same as prev)
+Improve,Garuga Tail+: 2 |Garuga StrngWng:2 |Garuga Slvr Mane:2 |Garuga Scale G: 8
+LLLR,Dynamic Hammer,5600z,728,,19.2.5.4 19.2.5.7.2,5%,---,3,HM
+Improve,Blue Kut-Ku Shl: 6 |Blue Kut-Ku Scl: 8 |Carpenterbug: 5
+LLLLE,Violence Hammer,45000z,1040,,5.4.14.7 5.4.14.10.2,20%,OO-,6,HM
+Improve,Blue Kut-Ku Cpc: 4 |Blue Kut-Ku Scl+: 6 |Long Kut-Ku Ear: 2
+LLLLSE,*Mysterious Jo,80000z,1144,,19.2.5.7.4.3 19.2.5.7.4.5.3,30%,OO-,9,HM
+Improve,Splendid Beak: 2 |BlueKut-KuThkScl: 4 |BlueKut-KuHvyCpc: 6 |Lucky Kut-KuEar: 2
+LLLE,Venom Monster,3100z,572,Poi 260,14.4.6.6 14.4.6.7.4,10%,O--,3,HM
+Improve,Rubbery Hide: 10 |Poison Sac: 5 |Gypceros Head: 1
+LLLSE,Death Venom Hammer,60000z,936,Poi 350,19.2.5.7.2 19.2.5.7.4.3,10%,O--,7,HM
+Improve,Rubbery Hide+: 10 |Toxin Sac: 5 |Splendid Beak: 5
+LLLSSE,Purple Mace,85000z,1092,Poi 380,19.2.5.7.4.3 19.2.5.7.4.5.3,15%,O--,9,HM
+Improve,Pur Gyp StrngWng: 5 |Venom Sac: 5 |Pur GypcerosWng: 7
+LLLSSSE,*Death Venom Mace,110000z,1248,Poi 400,9.2.13.7.5.4 9.2.13.7.5.6.3,15%,O--,9,HM
+Improve,Pur Gyp StrngWng: 5 |Gypceros HrdHead: 1 |Garuga Tail+: 2 |Sharpened Beak+: 3
+LLR,Jail Hammer,3100z,624,Par 190,14.4.6.1 14.4.6.6,0%,O--,3,HM
+Improve,Machalite Ore: 6 |Thunderbug: 12 |Rubbery Hide: 3
+LLLE,*Binder Mace,5600z,780,Par 280,19.2.5.4 19.2.5.7.2,0%,OOO,4,HM
+Improve,Dragonite Ore: 12 |Thunderbug Juice: 8 |Electro Sac: 8
+LLE,Khezu Horn,2790z,624,Thn 200,9.2.13.1 9.2.13.6,0%,O--,3,HH,W B Y,No Stamina Loss [Lo]|High-Frequency|Element Attack Up|Fire Res Up [Hi]|Water Res Up [Hi]|Thunder Res Up [Hi]|Dragon Res Up [Lo]|
+Improve,Flabby Hide: 3 |Pale Extract: 4 |Electro Sac: 2
+Create,Flabby Hide: 5 |Electro Sac: 4 |Machalite Ore: 6 |Lg Monster Bone: 6
+LLSE,Khezu Horn+,5040z,780,Thn 290,9.2.13.6 9.2.13.7.4,0%,O--,4,HH,W B Y,(same as prev)
+Improve,Flabby Hide: 8 |Pale Bone: 1 |Monster Bone+: 4
+LLSSR,*Khezu Flute,30000z,884,Thn 480,9.2.13.7.4 9.2.13.7.5.4,0%,OOO,6,HH,W B Y,(same as prev)
+Improve,Khezu Hide - Tan: 6 |Khezu Steak: 1 |Thunder Sac: 5
+LLSSR,Blood Horn,40000z,936,Thn 320,14.4.6.6 14.4.6.7.4,0%,O--,6,HH,P G R, Health Rec [Lo]|Recover Spd Up [Hi]|Attack Up [Hi]|Defense Up [Hi]|
+Improve,Alluring Webbing: 2 |Alluring Hide: 8 |Electro Sac: 5
+LLSSLE,Blood Flute,50000z,988,Thn 380,14.4.6.7.4 14.4.6.7.4.5,0%,O--,7,HH,P G R,(same as prev)
+Improve,Alluring Webbing: 6 |Wyvern Stone: 2 |Thunder Sac: 5
+LLSSLSE,Blood Flute+,90000z,1092,Thn 400,5.4.14.10.4.3 5.4.14.10.4.6.2,0%,O--,9,HH,P G R,(same as prev)
+Improve,Alluring Wing: 2 |Alluring Webbing: 4 |Lightning Sac: 5 |Khezu Steak: 1
+LLSSLSSE,*Brutal Flute,115000z,1300,Thn 420,14.4.6.7.4.5 14.4.6.7.4.6.4,0%,O--,9,HH,P G R,(same as prev)
+Improve,Alluring Wing: 6 |KhezuChoiceSteak: 1 |Ancient DrgnBone: 2
+LLSSE,Khezu Hammer,50000z,1040,Thn 200,5.4.14.10.2 5.4.14.10.4.3,0%,---,7,HM
+Improve,Khezu Hide - Tan: 5 |Dragonite Ore: 10 |Thunder Sac: 3 |Thunderbug: 20
+Create,Khezu Hide - Tan: 8 |Carbalite Ore: 10 |Thunder Sac: 5 |Pale Bone: 2
+LLSSSE,Khezu Hammer+,85000z,1144,Thn 220,5.4.14.10.4.3 5.4.14.10.4.6.2,0%,---,9,HM
+Improve,Khezu Hide - Gloss: 3 |Lightning Sac: 5 |Khezu Steak: 2
+LLSSSSE,*Khezu Thunder Maul,120000z,1456,Thn 250,9.2.13.7.5.4 9.2.13.7.5.6.3,0%,O--,10,HM
+Improve,Khezu Hide - Gloss: 8 |Thunderbug Jelly: 5 |KhezuChoiceSteak: 1 |YamatsukamiFluid: 2
+LR,Skullcrusher,1400z,520,,3.2.10 3.2.15,0%,---,2,HM
+Improve,Med Monster Bone: 2 |Sharp Claw: 8 |Monster Fluid: 1
+LLE,Skullcrusher+,2150z,624,,3.2.15 3.2.17.3,0%,---,2,HM
+Improve,Med Monster Bone: 6 |Piscine Fang: 10 |Congalala Claw: 3
+LLSR,Diablos Maul,4250z,832,Def+4,6.4.8.7 6.4.8.12,0%,---,4,HM
+Improve,Monoblos Shell: 6 |Lg Monster Bone: 5 |Machalite Ore: 8
+Create,Diablos Tail: 1 |Monoblos Shell: 4 |Elder Drgn Bone: 2 |Earth Crystal: 20
+LLSLE,*Finishing Hammer,30000z,988,Def+10,10.1.3.16 10.1.3.17.4,0%,---,5,HM
+Improve,Diablos Tail: 3 |Diablos Shell: 12 |Hercudrome: 8
+LLSR,Dragonhead Hammer,2600z,676,,19.2.5.4 19.2.5.7.2,0%,OO-,3,HM
+Improve,Wyvern Skull Shl: 1 |Giant Bone: 3 |Unknown Skull: 3
+Create,Wyvern Skull Shl: 2 |Killer Beetle: 10 |Lg Monster Bone: 3 |Unknown Skull: 5
+LLSLR,Ancient Relic,7150z,988,,5.4.14.7 5.4.14.10.2,0%,OO-,5,HM
+Improve,Wyvern Skull Shl: 5 |Elder Drgn Bone: 10 |Gaoren Shell: 5
+LLSLLE,Shell Castanets,50000z,1040,Wat 220 Def+10,10.1.3.17.4 10.1.3.17.6.3,0%,---,7,HH,P B R, No Stamina Loss [Hi]|Wind Reduce|Attack Up [Hi]|Health Inc [Hi]|
+Improve,Hermitaur Carpce: 4 |Ceanataur Carpce: 2 |Hermitaur Claw+: 1
+Create,Hermitaur Carpce: 6 |Ceanataur Carpce: 3 |Hermitaur Claw+: 2 |Rubbery Hide+: 4
+LLSLLSR,Shell Castanets+,85000z,1144,Wat 240 Def+15,10.1.3.17.6.3 10.1.3.17.6.5.3,0%,---,9,HH,P B R,(same as prev)
+Improve,Hermitaur HvyCpc: 4 |Ceanataur Claw+: 1 |HermitaurClaw G: 2 |Rubbery Hide G: 2
+LLSLLSLE,*Carapaceon Pulse,115000z,1404,Wat 260 Def+20,6.4.8.12.6.4 6.4.8.12.6.5.4,0%,---,10,HH,P B R,(same as prev)
+Improve,Hermitaur HvyCpc: 2 |CeanataurHvyCpc: 4 |CeanataurClaw G: 2 |Black Pearl+: 2
+LLSLLSE,Crab Castanets,90000z,1300,Def+28,5.4.14.10.4.6.2 5.4.14.10.4.6.2,0%,---,9,HH,P G R, Health Rec [Lo]|Recover Spd Up [Hi]|Attack Up [Hi]|Defense Up [Hi]|
+Improve,Pur HermitaurShl: 4 |RedCeanataurShl: 2 |Pur HermitaurClw: 1
+LLSLLSSE,*Violet Castanets,120000z,1352,Def+34,9.2.13.7.5.6.3 9.2.13.7.5.6.3,0%,---,10,HH,P G R,(same as prev)
+Improve,Pur HermitaurShl: 6 |RedCeanataurShl: 4 |GaorenStrngClaw: 2 |GaorenDvinePlate: 1
+LLSLE,Basarios Blow,4900z,780,Def+24,3.2.17.8 3.2.17.12.1,0%,---,4,HM
+Improve,Basarios Wing: 1 |Basarios Shell: 6 |Elder Drgn Bone: 3
+LLSLSE,*Basarios Bash,50000z,1040,Def+36,3.2.17.12.1 3.2.17.12.4.2,0%,---,7,HM
+Improve,Basarios Carpace: 12 |Carbalite Ore: 12 |Wyvern Stone: 1
+LLSE,Sonic Glass,2340z,624,,10.1.3.11 10.1.3.16,5%,---,3,HH,W G Y,HealthRec[Lo]&Antidote|Recover Spd Up [Lo]|High-Frequency|Ice Res Up [Lo]|Dragon Res Up [Lo]|
+Improve,Vespoid Abdomen: 1 |Vespoid Shell: 4 |Hornetaur Shell: 4
+Create,Lightcrystal: 2 |Vespoid Wing: 6 |Hornetaur Wing: 6 |Killer Beetle: 5
+LLSSE,Sonic Glass+,3285z,728,,8.7.7.11.2 8.7.7.11.5.2,10%,---,4,HH,W G Y,(same as prev)
+Improve,Hercudrome: 3 |Vespoid Wing: 20 |Hornetaur Wing: 20
+LLSSSE,Glass Queen,55000z,832,,8.7.7.11.5.2 8.7.7.11.5.5.2,15%,O--,6,HH,P G Y, Health Rec [Lo]|Health Rec [Mid]|Recover Spd Up [Lo]|Heavenly Protection|High-Frequency|Ice Res Up [Hi]|Dragon Res Up [Hi]|
+Improve,Nova Crystal: 2 |Vespoid InnrWng: 15 |HornetaurInnrWng: 15
+LLSSSSE,Royal Hive Vidro,80000z,1092,Ice 250,8.7.7.11.5.5.2 8.7.7.11.5.5.2,0%,O--,9,HH,P G Y,(same as prev)
+Improve,Pure Crystal: 1 |Vespoid RazrWng: 8 |HorneturRazrWng: 8
+Create,Pure Crystal: 2 |Vespoid RazrWng: 15 |HorneturRazrWng: 15 |QueenVespoidShl: 3
+LLSSSSSE,*Queen Vespoid Horn,105000z,1248,Ice 300,5.4.14.10.4.6.2 5.4.14.10.4.6.2,0%,O--,9,HH,P G Y,(same as prev)
+Improve,Vespoid RazrWng: 5 |HorneturRazrWng: 5 |Monster Broth+: 10 |PhantomButterfly: 10
+LR,Conehead Hammer,1400z,416,Ice 180,3.2.10 3.2.15,0%,---,2,HM
+Improve,Blango Pelt: 6 |Iron Ore: 6 |Unknown Skull: 1
+LLE,Conehead Hammer+,4250z,676,Ice 320,3.2.17.8 3.2.17.12.1,0%,---,4,HM
+Improve,Blangonga Fang: 2 |Blangonga Whiskr: 4 |Blangonga Pelt: 8
+LLSE,Great Cone,50000z,884,Ice 400,3.2.17.12.1 3.2.17.12.4.2,0%,OO-,7,HM
+Improve,Blangonga Fang+: 5 |Blangonga Pelt+: 10 |Master's Skull: 1
+LLSSE,Desert Cone,95000z,1456,,3.2.17.12.4.2 3.2.17.12.4.5.2,-10%,O--,9,HM
+Improve,Brwn BlngngaPelt: 5 |Blngnga HrdWhskr: 3 |Colossal Bone: 4
+Create,Brwn BlngngaPelt: 10 |Brwn BlngngaFang: 4 |Brwn BlngngaTail: 1 |Colossal Bone: 6
+LLSSSE,*Magnitude,115000z,1612,,5.4.14.10.4.3 5.4.14.10.4.6.2,-15%,O--,10,HM
+Improve,Brwn BlngngaFang: 2 |Brwn BlngngaTail: 2 |BlkRajangThkPelt: 4 |PhantomButterfly: 10
+LE,Bone Horn,(same below),156
+R,Bull Hammer,1400z,520,,6.4.5 6.4.8.2,0%,---,2,HM
+Improve,Bullfango Pelt: 2 |Anteka Antlers: 2 |Brute Bone: 3
+Create,Bullfango Pelt: 4 |Bullfango Head: 1|Brute Bone: 5 |Carpenterbug: 2
+Shortcut,G Class Ticket: 1 |Bullfango Pelt: 1
+LE,Bull Head Hammer,2150z,624,,8.7.5 8.7.7.3,0%,O--,3,HM
+Improve,Bulldrome Hide: 2 |Bulldrome Tusk: 2 |Giant Bone: 1
+LSE,*Bull Tusk Hammer,5600z,936,,8.7.7.3 8.7.7.8,0%,OO-,4,HM
+Improve,Bulldrome Hide: 5 |Bulldrome Tusk: 6 |Monster Bone+: 5
+E,Giaprey Balloon,990z,416,Ice 100,3.2.10 3.2.15,0%,---,2,HH,W G K,HealthRec[Lo]&Antidote|HealthRec[Mid]&Deodorant|No Heat
+Improve,Giaprey Hide: 2 |Giaprey Scale: 2 |Ice Crystal: 3
+Create,Giaprey Hide: 4 |Brute Bone: 3 |Anteka Antlers: 1 |Iron Ore: 5
+SE,Giaprey Balloon+,1935z,520,Ice 150,3.2.15 3.2.17.3,0%,---,3,HH,W G K,(same as prev)
+Improve,Giadrome Hide: 5 |Giadrome Skull: 1 |Screamer: 3
+SSR,*Giadrome Balloon,40000z,1040,Ice 180,5.4.14.10.2 5.4.14.10.4.3,0%,---,6,HH,W G K, (same as prev)
+Improve,Giaprey Hide+: 5 |Giadrome Claw+: 6 |Giaprey Scale+: 5
+SSE,Velociprey Balloon,30000z,988,,5.4.14.7 5.4.14.10.2,0%,OOO,6,HH,P G Y, Health Rec [Lo]|Health Rec [Mid]|Recover Spd Up [Lo]|Heavenly Protection|High-Frequency|Ice Res Up [Hi]|Dragon Res Up [Hi]|
+Improve,Velociprey Scl+: 5 |Velociprey Hide: 10 |Velociprey Fang: 15 |Screamer: 3
+Create,Velociprey Scl+: 8 |Velociprey Hide: 15 |Screamer: 3 |Hrd Monster Bone: 3
+SSSE,Velociprey Balloon+,50000z,1092,,10.1.3.16 10.1.3.17.4,0%,OOO,7,HH,P G Y, (same as prev)
+Improve,Velociprey Scl+: 10 |Velociprey Hide+: 8 |Rare Scarab: 5 |Remobra Skin+: 5
+SSSSE,Velocidrome Balloon,80000z,1144,,5.4.14.10.2 5.4.14.10.4.3,0%,OOO,9,HH,P G Y, (same as prev)
+Improve,Velocidrome Head: 3 |Velocidrome Clw+: 6 |BirdWyvnStoutBne: 10 |Emperor Locust: 5
+SSSSSE,*Velocidrome Balloon+,105000z,1404,,5.4.14.10.4.3 5.4.14.10.4.6.2,0%,OOO,9,HH,P G Y, (same as prev)
+Improve,Velocidrome Hide: 10 |BirdWyvnStoutBne: 15 |PhantomButterfly: 5 |Ancient DrgnBone: 1
+,Ivory Horn,585z,364,,9.2.4 9.2.9,0%,---,1,HH,W B R,Attack Up [Lo]|Health Inc [Lo]|Wind Reduce|No Stamina Loss [Lo]|
+Create,Brute Bone: 2 |Blue Mushroom: 1
+R,Bone Horn,1575z,572,Def+5,10.1.3.1 10.1.3.6,0%,O--,2,HH,W B R,(same as prev)
+Improve,Blue Mushroom: 3 |Giant Bone: 1
+LR,Bone Horn+,5040z,884,Def+10,10.1.3.6 10.1.3.11,0%,OO-,4,HH,W B R,(same as prev)
+Improve,Dragon Toadstool: 3 |Monster Bone+: 3 |Monster Fluid: 5
+LLE,Hunter's Horn,35000z,1040,Def+10,8.7.7.8 8.7.7.11.2,0%,OO-,6,HH,W B R,(same as prev)
+Improve,Dragon Toadstool: 5 |Hrd Monster Bone: 3 |Monster Broth: 5
+LLSE,Hunter's Horn+,75000z,1196,Def+12,8.7.7.11.2 8.7.7.11.5.2,0%,OO-,9,HH,W B R,(same as prev)
+Improve,Dragon Toadstool: 8 |Hvy Monster Bone: 3 |BirdWyvnStoutBne: 5 |Monster Broth+: 3
+LLSSE,*Native Horn,100000z,1404,Def+14,8.7.7.11.5.2 8.7.7.11.5.5.2,0%,OO-,9,HH,W B R,(same as prev)
+Improve,Dragon Toadstool: 10 |Ancient DrgnBone: 3 |Colossal Bone: 5 |Commendation G: 1
+LE,Blessed Ocarina,10000z,832,Poi 290,14.4.6.1 14.4.6.6,0%,---,5,HH,W G B,No Stamina Loss [Lo]|Wind Cancel|HealthRec[Lo]&Antidote
+Improve,Chameleos Tail: 1 |Chameleos Hide: 3 |Chameleos Horn: 2
+Create,Chameleos Tail: 2 |Chameleos Hide: 4 |ChameleosWebbing: 2 |Dragonite Ore: 5
+LSE,Cursed Ocarina,90000z,936,Poi 410,14.4.6.7.4 14.4.6.7.4.5,0%,OO-,8,HH,P G B, No Stamina Loss [Hi]|Wind Cancel|Health Rec [Lo]|HealthRec[Mid]&Antidote
+Improve,Chameleos Hide+: 6 |ChameleosWebbing: 10 |Chameleos Spike: 2 |Chameleos Jewel: 1
+LSSE,*Magus Ocarina,130000z,1300,Poi 440,19.2.5.7.4.3 19.2.5.7.4.5.3,0%,OO-,10,HH,P G B,(same as prev)
+Improve,Chameleos Hide G: 6 |ChameleosWbng G: 5 |Chameleos Horn G: 2 |Elder Dragon Jwl: 1
+E,War Drum,1935z,624,,5.4.11 5.4.14.2,0%,O--,3,HH,W Y R,Attack Up [Lo]|Defense Up [Lo]|High-Frequency|Fire Res Up [Lo]|Dragon Res Up [Lo]|
+Improve,Conga Pelt: 8 |Brute Bone: 3 |Fire Herb: 3
+Create,Congalala Pelt: 4 |Med Monster Bone: 2 |Fire Herb: 5
+SE,War Drum+,5040z,936,,5.4.14.7 5.4.14.10.2,0%,O--,4,HH,W Y R,(same as prev)
+Improve,Vibrant Pelt: 1 |Congalala Pelt: 8 |Striped Skin: 5
+SSE,War Bongo,50000z,1092,,8.7.7.8 8.7.7.11.2,0%,O--,6,HH,P Y R, Attack Up [Hi]|Defense Up [Lo]|High-Frequency|Fire Res Up [Lo]|Dragon Res Up [Hi]|
+Improve,Congalala Pelt+: 3 |Conga Pelt+: 6 |Stout Bone: 2
+Create,Congalala Pelt+: 4 |Vibrant Pelt: 6 |Conga Pelt+: 8 |Hrd Monster Bone: 3
+SSSE,War Conga,60000z,1196,,6.4.8.12 6.4.8.12.5,0%,O--,7,HH,P Y R,(same as prev)
+Improve,Blangonga Pelt+: 4 |Congalala Pelt+: 8 |Conga Pelt: 20 |Vibrant Pelt: 2
+SSSSR,*Conga Conga,95000z,1456,,10.1.3.16 10.1.3.17.4,0%,O--,9,HH,P Y R,(same as prev)
+Improve,Congalala Pelt G: 6 |ConglalaStrngFng: 2 |Congalala Claw+: 8 |Colossal Bone: 2
+SSSSE,Jungle Bongo,85000z,1248,,8.7.7.11.2 8.7.7.11.5.2,0%,--,9,HH,P G B, No Stamina Loss [Hi]|Wind Cancel|Health Rec [Lo]|HealthRec[Mid]&Antidote
+Improve,GrnCongalalaPelt: 4 |ConglalaStrngFng: 2 |Rare Scarab: 5
+Create,GrnCongalalaPelt: 8 |Vibrant Crown: 1 |Colossal Bone: 4 |Emperor Locust: 5
+SSSSSE,*Jungle Conga,115000z,1456,,8.7.7.11.5.2 8.7.7.11.5.5.2,0%,---,9,HH,P G B,(same as prev)
+Improve,Blangonga Pelt G: 4 |GrnCongalalaPelt: 8 |GrnCongalalaClaw: 4 |Vibrant Crown: 2
+,Rusted Hammer,1000z,468,,15 19.1,0%,---,1,HM
+Create,Lg Ruststone: 1
+E,Tarnished Hammer,2500z,572,,14.4.2 14.4.6.1,0%,---,1,HM
+Improve,Earth Crystal: 20
+SR,*Breath Core Hammer,40000z,936,,19.2.5.4 19.2.5.7.2,-20%,O--,5,HM
+Improve,Earth Crystal: 40 |ElderDragonBlood: 1
+SE,Jadite Mace,35000z,780,Fir 260,8.7.7.3 8.7.7.8,0%,---,5,HM
+Improve,Lunastra Horn: 3 |Lunastra Shell: 3 |Fire Stone: 7
+SSE,Jade Mace,35000z,832,Fir 300,9.2.13.6 9.2.13.7.4,0%,---,5,HM
+Improve,Fire Drgn Wbng: 4 |Teostra Shell: 1 |ElderDragonBlood: 2
+SSSE,Lunastra's Crown,90000z,936,Fir 370,9.2.13.7.4 9.2.13.7.5.4,0%,O--,8,HM
+Improve,Lunastra Horn G: 3 |Fire Drgn Scl+: 6 |Fire Drgn Jwl: 1
+SSSSE,*Lunastra's Tiara,130000z,1300,Fir 400,9.2.13.7.5.4 9.2.13.7.5.6.3,0%,O--,10,HM
+Improve,Lunastra Horn G: 3 |Fire Drgn HvyScl: 6 |Elder Dragon Jwl: 1 |Commendation: 1
+,Worn Hammer,1000z,676,,19.1 19.2.4,0%,---,6,HM
+Create,Lg Ancient Stone: 1
+E,Weathered Hammer,12500z,780,,19.2.4 19.2.5.4,0%,---,6,HM
+Improve,Earth Crystal: 20
+SR,Pulsating Core,60000z,1040,,19.2.5.7.2 19.2.5.7.4.3,-20%,OO-,7,HM
+Improve,Earth Crystal: 40 |ElderDragonBlood: 5
+SLE,*Resonating Core,100000z,1352,,19.2.5.7.4.3 19.2.5.7.4.5.3,-20%,OO-,9,HM
+Improve,Pure Crystal: 8 |ElderDragonBlood: 10 |Commendation G: 1
+SE,Steel Ice Hammer,80000z,832,Ice 290,6.4.8.12 6.4.8.12.5,0%,---,7,HM
+Improve,Daora Carapace: 6 |Daora Tail: 1 |Rare Scarab: 4
+SSE,Daora's Colossus,90000z,988,Ice 330,6.4.8.12.5 6.4.8.12.6.4,0%,---,8,HM
+Improve,DaoraDragonScal+: 10 |Daora Sharp Claw: 2 |Daora Jewel: 1
+SSSE,*Titan Daora,130000z,1300,Ice 450,6.4.8.12.6.4 6.4.8.12.6.5.4,15%,---,10,HM
+Improve,Daora Hvy Carpce: 6 |Daora Horn G: 2 |Daora Webbing G: 2 |Elder Dragon Jwl: 1
+,White Cat Stamp,2150z,520,Par 200,10.1.3.1 10.1.3.6,0%,---,2,HM
+Create,Pawprint Stamp: 1 |FlynMealPassReg: 1 |Paralysis Sac: 2
+R,*White Cat Hammer,20000z,728,Par 180,8.7.7.11.2 8.7.7.11.5.2,15%,O--,6,HM
+Improve,FlynMealPassReg: 10 |Carbalite Ore: 5 |Blango Pelt+: 5
+R,Black Cat Stamp,3650z,624,Par 240,10.1.3.16 10.1.3.17.4,0%,O--,4,HM
+Improve,FlynMealPassPlus: 2 |Dragonite Ore: 5 |Barrel Lid: 1
+LR,*Black Cat Hammer,25000z,676,Par 380,3.2.17.12.1 3.2.17.12.4.2,0%,---,6,HM
+Improve,FlynMealPassPlus: 6 |Black Blos Spine: 5 |Felyne Fur Ruby: 1
+LE,Gold Cat Hammer,45000z,832,Par 280,3.2.17.3 3.2.17.8,0%,OO-,8,HM
+Improve,FlynMealPassPlus: 10 |Gld Rathian Scl+: 3 |Gold Rajang Pelt: 3
+Create,Felyne Fur Ruby: 3 |FlynMealPassReg: 15 |FlynMealPassPlus: 5 |Gld Rathian Scl+: 5
+LSE,*Gold Cat Crusher,90000z,988,Par 380,3.2.17.8 3.2.17.12.1,0%,OO-,9,HM
+Improve,FlynMealPassPlus: 10 |Felyne Fur Ruby: 3 |ShiningRajangPlt: 3 |Thunderbug Jelly: 10
+E,*Teddybear,5000z,260,Slp 200,5.4.6 5.4.11,0%,---,4,HM
+Improve,Lightcrystal: 1 |Antiseptic Stone: 3 |Pokke Ticket: 1
+Create,Commendation: 1 |Lightcrystal: 2 |Black Pearl: 2
+,Striped Striker,35000z,884,,19.2.5.7.2 19.2.5.7.4.3,-30%,---,5,HM
+Create,Tigrex Claw: 3 |Tigrex Scale: 5 |Tigrex Shell: 5 |Pokke Ticket: 1
+R,Tigrex Hammer,80000z,1144,,19.2.5.7.4.3 19.2.5.7.4.5.3,-30%,---,7,HM
+Improve,Tigrex Claw+: 3 |Tigrex Scale+: 5 |Tigrex Skull Shl: 3
+LE,*Great Rex Hammer,125000z,1508,,19.2.5.7.4.5.3 19.2.5.7.4.5.3,-30%,---,10,HM
+Improve,Tigrex StrngClaw: 3 |Tigrex Thck Scl: 5 |Tigrex Hvy Cpc: 5 |TigrexDvinePlate:1
+E,Hidden Breaker,80000z,988,,3.2.17.12.4.2 3.2.17.12.4.5.2,50%,O--,7,HM
+Improve,Naruga Pelt: 6 |Naruga Scale+: 3 |Hrd Monster Bone: 4
+Create,Naruga Pelt: 10 |Naruga Scale+: 5 |Naruga Marrow: 1 |Hrd Monster Bone: 6
+SE,*Shdw Breaker "Blitz",120000z,1248,,3.2.17.12.4.5.2 3.2.17.12.4.5.2,50%,OO-,10,HM
+Improve,Naruga Blk Pelt: 7 |Naruga Thck Scl: 3 |Naruga Hvy Fang: 2 |Naruga Marrow: 2
+Create,Naruga Blk Pelt: 10 |Naruga Hvy Fang: 4 |Naruga Hvy Spike: 6 |NarugaDvinePlate: 1
+,Black Hammer,15000z,728,Drg 100,3.2.17.8 3.2.17.12.1,0%,---,5,HM
+Create,Dark Stone: 1 |Dark Piece: 4 |Pokke Ticket: 1
+R,Fatalis Buster,100000z,1040,Drg 240,9.2.13.7.4 9.2.13.7.5.4,0%,---,8,HM
+Improve,Fatalis Horn: 3 |Fatalis Eye: 2 |Fire Drgn Jwl: 1
+LE,*Fatalis Demolisher,150000z,1404,Drg 260,6.4.8.12.5 6.4.8.12.6.4,0%,O--,10,HM
+Improve,Fatalis Hvy Horn: 3 |Fatalis Evil Eye: 1 |Fatalis Hvy Shl: 2 |Elder Dragon Jwl: 1
+E,AncientFatalisBuster,100000z,988,Drg 350 Def+8,3.2.17.12.1 3.2.17.12.4.2,0%,---,8,HM
+Improve,White Ftalis Hrn: 5 |Wht Fatalis Cpc: 3 |Lao-Shan's Ruby: 3
+SE,*Ftlis Ancestor Ruiner,150000z,1300,Drg 380 Def+8,3.2.17.12.4.2 3.2.17.12.4.5.2,0%,---,10,HM
+Improve,WhtFatalisHvyHrn: 5 |WhtFatalisHvyCpc: 2 |Fatalis Evil Eye: 2 |Elder Dragon Jwl: 3
+,Dragon Destroyer,5600z,832,Drg 170,6.4.8.7 6.4.8.12,0%,---,5,HM
+Create,Lao-Shan's Claw: 2 |Lao-Shan's Shell: 5 |Monster Bone+: 5
+E,Dragon Breaker,40000z,884,Drg 330,6.4.8.12 6.4.8.12.5,0%,---,5,HM
+Improve,Lao-Shan's Claw: 2 |Gaoren Spine: 3 |ElderDragonBlood: 2
+SE,Dragon Demolisher,95000z,936,Drg 410,3.2.17.12.1 3.2.17.12.4.2,0%,---,8,HM
+Improve,Azure LaoS Shell: 5 |Lao-Shan's Ruby: 1 |Nova Crystal: 3
+SSE,*Great Drgn Demolisher,140000z,1248,Drg 450,3.2.17.12.4.2 3.2.17.12.4.5.2,0%,---,10,HM
+Improve,Azure LaoS Claw: 2 |Lao-Shan Hvy Cpc: 5 |LaoS Dvine Plate: 1 |Pure Crystal: 3
+,Black Belt Hammer,6000z,780,,8.7.7.3 8.7.7.8,0%,OOO,4,HM
+Create,Blackbelt Ticket: 8 |Gravios Coin: 8 |Diablos coin: 8 |Daimyo coin: 10
+E,Expert Hammer,20000z,1092,Def+12,3.2.17.8 3.2.17.12.1,0%,OOO,8,HM
+Improve,Expert Ticket: 15 |Tigrex coin: 8 |Gld Rathian Cpc: 3
+SE,*Fighter's Hammer,75000z,1404,Def+22,3.2.17.12.4.2 3.2.17.12.4.5.2,0%,OOO,10,HM
+Improve,GldRathianHvyCpc: 3 |Fighter Coin G: 4 |Expert Coin G: 6 |Commendation G: 1
+,Cactus Hammer,7500z,260,Poi 300,3.2.10 3.2.15,0%,---,3,HM
+Create,Cactus flower: 2 |Bone: 1 |Dosbiscus: 3
+E,*Green Monster,30000z,468,Poi 300,6.4.8.12.5 6.4.8.12.6.4,0%,OO-,5,HM
+Improve,Cactus flower: 10 |Stout Bone: 2 |Pokke Ticket: 1
+,Polytan,550z,520,Thn 280,5.4.11 5.4.14.2,0%,---,4
+Create,Dengeki Ticket: 4
+E,Polytan G,550z,780,Thn 420,5.4.14.2 5.4.14.7,0%,---,6,HM
+Improve,Dengeki Ticket+: 4 |Dengeki Ticket: 5 |King Scarab: 6
+SE,*True Polytan G,590z,1144,Thn 600,5.4.14.10.4.3 5.4.14.10.4.6.2,0%,OO-,9,HM
+Improve,Dengeki Ticket+: 3 |Lightning Sac: 4 |Emperor Locust: 6
+,Red Lobster Hammer,25000z,520,Wat 400,6.4.8.7 6.4.8.12,0%,OOO,4,HM
+Create,King Lobster Shl: 2 |Famitsu Ticket: 1 |Sm Lobstershell: 1
+E,Red Lobster Hammer+,25000z,728,Wat 450,10.1.3.11 10.1.3.16,0%,OOO,6,HM
+Improve,Famitsu Invoice: 2 |King Lobster Shl: 4 |Lg Lobstershell: 3 |Ioprey Hide+: 8
+SE,*Red Lobster Impact,25000z,1040,Wat 600,6.4.8.12.5 6.4.8.12.6.4,0%,OOO,9,HM
+Improve,King Lobster Shl: 8 |Hg Lobstershell: 2 |Lg Lobstershell: 4 |Sm Lobstershell: 10
+,*Ucamulbas Crusher,150000z,1820,Ice 120 Def+10,17.2.4.7.2 17.2.4.7.4.3,-30%,---,10,HM
+Create,Ucamulbas Fang: 3 |Ucamulbas Shell: 4 |Lightning Sac: 10 |Ucamu Divine Jwl: 1
+,Striped Dragonga,35000z,936,,19.2.5.7.2 19.2.5.7.4.3,-30%,---,5,HH,W K R, Hear Protect [Lo]|Attack Up [Lo]|Health Inc [Mid]|
+Create,Tigrex Shell: 5 |Tigrex Fang: 7 |Dragonite Ore: 10 |Pokke Ticket: 1
+R,Tigrex Horn,80000z,1144,,19.2.5.7.4.3 19.2.5.7.4.5.3,-30%,---,7,HH,P K R, Hear Protect [Lo]|Attack Up [Hi]|Health Inc [Mid]|Defense Up [Hi]|
+Improve,Tigrex Carapace: 5 |Tigrex Fang+: 7 |Tigrex Skull Shl: 2
+LE,*Great Rex Horn,125000z,1508,,19.2.5.7.4.5.3 19.2.5.7.4.5.3,-30%,---,10,HH,P K R, (same as prev)
+Improve,Tigrex Hvy Cpc: 5 |Tigrex Hvy Fang: 7 |Etherlite Ore: 10 |TigrexDvinePlate: 1
+E,Hidden Tone,80000z,988,,3.2.17.12.4.2 3.2.17.12.4.5.2,50%,O--,7,HH,P B R, No Stamina Loss [Hi]|Wind Reduce|Attack Up [Hi]|Health Inc [Hi]|
+Improve,Naruga Pelt: 4 |Naruga Wing: 4 |Naruga Spike: 3
+Create,Naruga Pelt: 6 |Naruga Wing: 6 |Naruga Marrow: 1 |Hrd Monster Bone: 4
+SE,*Shdw Horn "Songbird",120000z,1248,,3.2.17.12.4.5.2 3.2.17.12.4.5.2,50%,OO-,10,HH,P B R, (same as prev)
+Improve,Naruga Blk Pelt: 6 |Naruga Strng Wng: 4 |Naruga Hvy Spike: 2 |Naruga Marrow: 2
+Create,Naruga Blk Pelt: 10 |Naruga Strng Wng: 6 |Naruga Thck Scl: 6 | NarugaDvinePlate: 1
+,Dragonwood Horn,20000z,624,Par 140,19.2.5.4 19.2.5.7.2,0%,---,5,HH,P B R, No Stamina Loss [Hi]|Wind Reduce|Attack Up [Hi]|Health Inc [Hi]|
+Create,Dragonwood: 2 |Dragonmoss: 3 |Monster Fluid: 10 |Thunderbug: 20
+E,Spirit Dragonwd Horn,75000z,780,Par 220,19.2.5.7.2 19.2.5.7.4.3,0%,OO-,8,HH,P B R, (same as prev)
+Improve,Dragonwood+: 2 |Dragonmoss+: 4 |Pokke Ticket+: 1
+SE,Ancient Drgnwood Horn,120000z,988,Par 240,19.2.5.7.4.3 19.2.5.7.4.5.3,0%,OO-,9,HH,P B R, (same as prev)
+Improve,Dragonwood G: 3 |Dragonmoss G: 1 |Yamatsukami Skin: 2
+Create,Dragonwood G: 6 |Dragonmoss G: 2 |Yamatsukami Fin: 2 |Thunderbug Jelly: 10
+SSE,*Dgnwood "Divine Song",145000z,1092,Par 260,9.2.13.7.5.4 9.2.13.7.5.6.3,0%,OO-,10,HH,P B R,(same as prev)
+Improve,Dragonwood G: 6 |YamatsukamiFluid: 5 |Thunderbug Jelly: 8 |Commendation S: 1,
+,Black Lute,15000z,780,Drg 100,8.7.7.3 8.7.7.8,0%,---,5,HH,W K R,Hear Protect [Lo]|Attack Up [Lo]|Health Inc [Mid]|
+Create,Dark Stone: 1 |Dark Piece: 4 |Pokke Ticket: 1
+R,Fatalis Menace,100000z,1092,Drg 260,3.2.17.12.1 3.2.17.12.4.2,0%,---,8,HH,P K R, Hear Protect [Lo]|Attack Up [Hi]|Health Inc [Mid]|Defense Up [Hi]|
+Improve,Fatalis Horn: 2 |Fatalis Webbing: 1 |Fatalis Scale: 2 |Chameleos Jewel: 1
+LE,*Divine Fatalis Menace,150000z,1456,Drg 320,10.1.3.17.4 10.1.3.17.6.3,0%,O--,10,HH,P K R, (same as prev)
+Improve,Fatalis Hvy Horn: 2 |Fatalis Thck Scl: 4 |Elder Dragon Jwl: 1
+E,Ftlis Ancestral Light,100000z,1040,Drg 330 Def+8,9.2.13.7.4 9.2.13.7.5.4,0%,---,8,HH,P G R, Health Rec [Lo]|Recover Spd Up [Hi]|Attack Up [Hi]|Defense Up [Hi]|
+Improve,White Ftalis Hrn: 2 |Wht Fatalis Wbng: 1 |Wht Fatalis Scl: 2 |Daora Jewel: 1
+SE,*Ftlis Ancestral Avros,150000z,1352,Drg 380 Def+8,3.2.17.12.4.2 3.2.17.12.4.5.2,0%,---,10,HH,P G R, (same as prev)
+Improve,WhtFatalisHvyHrn: 2 |Wht Fatalis Wng: 1 |WhtFatalisThkScl: 2 |Elder Dragon Jwl: 3
+,Woodcraft Toad,40000z,884,Wat 450,6.4.8.12 6.4.8.12.5,0%,OO-,6,HH,W B Y, No Stamina Loss [Lo]|High-Frequency|Element Attack Up|Fire Res Up [Hi]|Water Res Up [Hi]|Thunder Res Up [Hi]|Dragon Res Up [Lo]|
+Create,Big-Tailed Frog: 2 |Dragonwood+: 2 |Frog: 5
+E,*Woodcraft Frog,75000z,1248,Wat 500,6.4.8.12.5 6.4.8.12.6.4,0%,OO-,9,HH,W B Y, (same as prev)
+Improve,Big-Tailed Frog: 5 |Frog: 10 |Black Pearl+: 3 |Hg Lobstershell: 2
+,Akantor Horn,100000z,1300,,9.2.13.1 9.2.13.6,40%,---,8,HH,P G K,Health Rec [Lo]|Health Rec [High]|Hear Protect [Hi]|No Heat
+Create,Akantor Tail: 1 |Akantor Fang: 2 |Akantor Scale: 8 |Firecell Stone: 5
+E,*Heavy Akantor Horn,145000z,1716,,9.2.13.6 9.2.13.7.4,40%,---,10,HH,P G K, (same as prev)
+Improve,Ucamu Divine Jwl: 1 |Lg Wyvern Stone: 3 |Akantor Tail: 2 |Akantor Fang: 4
+,*Ucamulbas Howler,150000z,1820,Ice 120 Def+10,19.2.5.7.2 19.2.5.7.4.3,-30%,---,10,HH,P G R, Health Rec [Lo]|Recover Spd Up [Hi]|Attack Up [Hi]|Defense Up [Hi]|
+Create,Ucamulbas Jaw: 3 |Ucamulbas Tail: 2 |Ucamulbas Scale: 5 |Ucamu Divine Jwl: 1
+,*Bone Club G,100000z,1560,,8.7.7.8 8.7.7.11.2,-10%,---,9,HM
+Create,Commendation G: 1 |Mystery Bone: 50 |Stout Bone: 15 |Colossal Bone: 5
+,*War Hammer G,100000z,1456,,9.2.13.7.5.4 9.2.13.7.5.6.3,0%,---,9,HM
+Create,Commendation G: 1 |Iron Ore: 30 |Disk stone: 30 |Etherlite Ore: 12
+,*Tarnished Hammer G,100000z,1664,,19.2.4 19.2.5.4,0%,---,9,HM
+Create,Commendation G: 1 |Lg Ruststone: 5
+,*Spiked Hammer G,100000z,1456,,10.1.3.17.6.3 10.1.3.17.6.5.3,0%,---,9,HM
+Create,Commendation G: 1 |Needleberry: 50 |Etherlite Ore: 8 |Emperor Locust: 8
+,*Iron Striker G,100000z,1456,,3.2.17.12.4.2 3.2.17.12.4.5.2,0%,---,9,HM
+Create,Commendation G: 1 |Iron Ore: 30 |Machalite Ore: 15 |Melange Ore: 5
+,*Atlas Hammer G,100000z,1456,,5.4.14.10.4.3 5.4.14.10.4.6.2,0%,---,9,HM
+Create,Commendation G: 1 |Sm Monster Bone: 40 |Giant Bone: 30 |Colossal Bone: 10
+,*Bone Axe G,100000z,1508,,6.4.8.12.5 6.4.8.12.6.4,10%,OO-,9,HM
+Create,Commendation G: 1 |Hrd Monster Bone: 15 |Monster Broth+: 5 |Tigrex Hvy Cpc: 5
+,*Skullcrusher G,100000z,1508,,3.2.17.12.1 3.2.17.12.4.2,0%,---,9,HM
+Create,Commendation G: 1 |Piscine Fang+: 6 |Razor Claw: 8 |Monster Broth+: 3
+,*Bull Tusk Hammer G,100000z,1404,,8.7.7.11.5.2 8.7.7.11.5.5.2,0%,OO-,9,HM
+Create,Commendation G: 1 |Bullfango Head: 5 |Bulldrome Tusk: 10 |Bullfango Pelt+: 10
+,*Crystal Nova G,100000z,1456,,8.7.7.11.5.2 8.7.7.11.5.5.2,0%,O--,9,HM
+Create,Commendation G: 1 |Lightcrystal: 15 |Nova Crystal: 10 |Pure Crystal: 5
+,*Binder Mace G,100000z,1144,Par 280,14.4.6.7.4.5 14.4.6.7.4.6.4,0%,OO-,9,HM
+Create,Commendation G: 1 |Thunderbug: 30 |Rubbery Hide G: 5 |Melange Ore: 10
+,*Kut-Ku Jaw G,100000z,1456,,5.4.14.10.4.3 5.4.14.10.4.6.2,0%,---,9,HM
+Create,Commendation G: 1 |Giant Beak: 6 |Kut-ku Hvy Cpc: 10 |Monster Broth+: 5
+,*Venom Monster G,100000z,1248,Poi 350,19.2.5.7.4.3 19.2.5.7.4.5.3,15%,O--,9,HM
+Create,Commendation S: 1 |Rubbery Hide G: 8 |Toxin Sac: 12 |Gypceros Head: 3
+,*Dead Revolver G,100000z,1248,Fir 400,10.1.3.17.6.3 10.1.3.17.6.5.3,0%,OO-,9,HM
+Create,Commendation G: 1 |Etherlite Ore: 10 |Fire Stone: 15 |FireWyvrn Marrow: 10
+,*Anchor Crusher G,100000z,1300,Wat 380,9.2.13.7.5.4 9.2.13.7.5.6.3,0%,OO-,9,HM
+Create,Commendation G: 1 |Ancient Fish: 10 |Plesioth Fin G: 5 |Etherlite Ore: 8
+,*Kut-Ku Pick G,100000z,1352,,9.2.13.7.5.4 9.2.13.7.5.6.3,20%,OOO,9,HM
+Create,Commendation G: 1 |Splendid Beak: 4 |Kut-Ku Thck Scl: 10 |Lucky Kut-KuEar: 4
+,*Dragonhead Hammer G,100000z,1404,,19.2.5.7.4.3 19.2.5.7.4.5.3,0%,OO-,9,HM
+Create,Commendation G: 1 |Wyvern Skull Shl: 10 |Unknown Skull: 10 |Ancient DrgnBone: 5
+,*Basarios Bash G,100000z,1352,Def+36,3.2.17.12.4.2 3.2.17.12.4.5.2,0%,---,9,HM
+Create,Commendation S: 1 |Basarios Hvy Cpc: 10 |Basarios Tears: 5 |Wyvern Stone: 3
+,*Titan Hammer G,100000z,1560,Def+8,8.7.7.11.2 8.7.7.11.5.2,-15%,O--,9,HM
+Create,Commendation G: 1 |Basarios Hvy Cpc: 6 |Gravios Carapace: 10 |Machalite Ore: 20
+,*Finishing Hammer G,100000z,1404,Def+10,10.1.3.17.6.3 10.1.3.17.6.5.3,0%,O--,9,HM
+Create,Commendation S: 1 |Diables Hrd Tail: 3 |Ancient DrgnBone: 5 |Monoblos Carpce: 5
+,*True Blk Cauldron G,100000z,1300,,10.1.3.17.6.3 10.1.3.17.6.5.3,0%,OOO,9,HM
+Create,Commendation G: 1 |FlynMealPassReg: 15 |Carbalite Ore: 15 |Blk Blos Hvy Cpc: 5
+,*Enormous Ham G,100000z,1612,,10.1.3.16 10.1.3.17.4,-20%,---,9,HM
+Create,Commendation G: 1 |Gourmet Steak: 1 |FlynMealPassReg: 10 |Hvy Monster Bone: 8
+,*Teddybear G,100000z,936,Slp 200,5.4.14.7 5.4.14.10.2,0%,---,9,HM
+Create,Commendation G: 1 |Antiseptic Stone: 10 |Pure Crystal: 4 |Sleep Sac: 20
+,*Cactus Hammer G,100000z,884,Poi 300,19.2.5.7.4.5.3 19.2.5.7.4.5.3,0%,OO-,9,HM
+Create,Commendation G: 1 |Cactus flower: 10 |Colossal Bone: 10 |Dosbiscus: 10
+,*White Cat Hammer G,100000z,1040,Par 180,8.7.7.11.2 8.7.7.11.5.2,15%,O--,9,HM
+Create,Commendation G: 1 |Pawprint Stamp: 10 |Paralysis Sac: 15 |Blangonga Pelt G: 10
+,*Black Cat Hammer G,100000z,936,Par 380,3.2.17.12.4.2 3.2.17.12.4.5.2,0%,---,9,HM
+Create,Commendation G: 1 |FlynMealPassPlus: 10 |Felyne Fur Ruby: 5 |Naruga Blk Pelt: 10
+,*Black Belt Hammer G,100000z,1352,,8.7.7.11.5.2 8.7.7.11.5.5.2,0%,OOO,9,HM
+Create,Commendation G: 1 |Expert Ticket: 10 |Fire coin: 7 |Legendary Coin G: 1
+,*Breath Core Hammer G,100000z,1508,,19.2.5.7.4.3 19.2.5.7.4.5.3,-20%,O--,9,HM
+Create,Commendation S: 1 |Lg Ancient Stone: 3 |ElderDragonBlood: 10 |Lg Wyvern Stone: 1
+,*Polytan G,100000z,1196,Thn 280,5.4.14.10.2 5.4.14.10.4.3,0%,---,9,HM
+Create,Commendation S: 1 |Dengeki Ticket: 5 |Dengeki Ticket+: 5 |Lightning Sac: 10
+,*Great Demon Hammer G,100000z,1404,,6.4.8.12.6.4 6.4.8.12.6.5.4,20%,O--,9,HM
+Create,Commendation G: 1 |Etherlite Ore: 8 |Carbalite Ore: 25 |Velocidrome Head: 5
+,*Hard Bone Hammer G,100000z,1456,,5.4.14.10.4.3 5.4.14.10.4.6.2,0%,---,9,HM
+Create,Commendation G: 1 |Hvy Monster Bone: 5 |Ancient DrgnBone: 3 |Dragonite Ore: 15
+,*Two Star Slvr Pot G,100000z,1196,,3.2.17.12.4.5.2 3.2.17.12.4.5.2,20%,---,9,HM
+Create,Commendation G: 1 |FlynMealPassPlus: 10 |Rainbow Ore: 20 |SlvrRthlosHvyCpc: 5
+,*Great Cone G,100000z,1248,Ice 400,3.2.17.12.4.2 3.2.17.12.4.5.2,0%,OO-,9,HM
+Create,Commendation G: 1 |Blangnga HvyFang: 3 |Blangonga Pelt G: 10 |Blango Pelt+: 20
+,*Onslaught Hammer G,100000z,1404,Def+6,6.4.8.12.6.4 6.4.8.12.6.5.4,0%,O--,10,HM
+Create,Commendation S: 1 |Dragonite Ore: 20 |Gravios Hvy Cpc: 5 |Union Ore: 15
+,*War Basher G,100000z,1404,Def+8,3.2.17.12.4.2 3.2.17.12.4.5.2,0%,OO-,10,HM
+Create,Commendation S: 1 |Carbalite Ore: 20 |Disk stone: 50 |Black Blos Cpc: 8
+,*SnctionedGunhammer G,100000z,1196,Fir 500,8.7.7.11.5.2 8.7.7.11.5.5.2,0%,OO-,10,HM
+Create,Commendation S: 1 |Firecell Stone: 10 |Monster Broth+: 8 |Melange Ore: 5
+,*Crater Maker G,100000z,1300,Poi 200 Def+14,14.4.6.7.4.5 14.4.6.7.4.6.4,0%,OO-,10,HM
+Create,Commendation S: 1 |Gravios Hvy Cpc: 6 |Venom Sac: 3 |Wyvern Stone: 5
+,*Torment(Purgatory) G,100000z,1352,Fir 310,8.7.7.11.5.2 8.7.7.11.5.5.2,0%,O--,10,HM
+Create,Commendation S: 1 |BlkGraviosHvyShl: 6 |Blaze Sac: 3 |Wyvern Stone: 5
+,*Dragon Breaker G,100000z,1300,Drg 330,6.4.8.12.6.4 6.4.8.12.6.5.4,0%,---,10,HM
+Create,Commendation S: 1 |Lao-Shan's Claw: 3 |Lao-Shan Hvy Cpc: 5 |Lao-Shan's Scale+: 15
+,Bone Horn G,100000z,1404,Def+10,9.2.13.7.5.4 9.2.13.7.5.6.3,0%,OO-,9,HH,W B R, Attack Up [Lo]|Health Inc [Lo]|Wind Reduce|No Stamina Loss [Lo]|
+Create,Commendation G: 1 |Blue Mushroom: 10 |Colossal Bone: 8 |Monster Fluid: 20
+,War Drum G,100000z,1456,,5.4.14.10.4.3 5.4.14.10.4.6.2,0%,O--,9,HH,W Y R, Attack Up [Lo]|Defense Up [Lo]|High-Frequency|Fire Res Up [Lo]|Dragon Res Up [Lo]|
+Create,Commendation G: 1 |Conga Pelt: 30 |Conga Pelt+: 20 |Hvy Monster Bone: 8
+,Great Bagpipe G,100000z,1404,Def+15,3.2.17.12.4.2 3.2.17.12.4.5.2,-5%,O--,9,HH,W G R, Attack Up [Lo]|Defense Up [Hi]|HealthRec[Lo]&Antidote
+Create,Commendation G: 1 |Remobra Skin G: 8 |Black Pearl+: 5 |Screamer: 10
+,Khezu Flute G,100000z,1196,Thn 480,9.2.13.7.5.4 9.2.13.7.5.6.3,0%,OOO,9,HH,W B Y, No Stamina Loss [Lo]|High-Frequency|Element Attack Up|Fire Res Up [Hi]|Water Res Up [Hi]|Thunder Res Up [Hi]|Dragon Res Up [Lo]|
+Create,Commendation S: 1 |Khezu Hide-Gloss: 5 |Thunder Sac: 10 |Pale Bone: 7
+,Basarios Rock G,100000z,1352,Fir 280,6.4.8.12.6.4 6.4.8.12.6.5.4,0%,---,9,HH,P Y K, Dragon Res Up [Hi]|Ice Res Up [Hi]|Thunder Res Up [Lo]|High-Frequency|No Cold & Snow Res|No Quakes| No Paralysis|
+Create,Commendation S: 1 |Basarios Hvy Cpc: 8 |BasariosStrngWng: 2 |Flame Sac: 20
+,Glass Queen G,100000z,1248,,8.7.7.11.5.5.2 8.7.7.11.5.5.2,15%,O--,9,HH,P G Y, Health Rec [Lo]|Health Rec [Mid]|Recover Spd Up [Lo]|Heavenly Protection|High-Frequency|Ice Res Up [Hi]|Dragon Res Up [Hi]|
+Create,Commendation G: 1 |Vespoid Abdomen: 8 |Vespoid RazrWng: 10 |Monster Broth+: 5
+,Heavy Bagpipes G,100000z,1352,Def+20,3.2.17.12.4.2 3.2.17.12.4.5.2,-5%,OO-,9,HH,W G R, Attack Up [Lo]|Defense Up [Hi]|HealthRec[Lo]&Antidote
+Create,Commendation G: 1 Etherlite Ore: 5 |BlkGraviosHvyShl: 5 |Naruga Marrow: 3
+,Velociprey Balloon G,100000z,1352,,5.4.14.10.4.3 5.4.14.10.4.6.2,0%,OOO,9,HH,P G Y, Health Rec [Lo]|Health Rec [Mid]|Recover Spd Up [Lo]|Heavenly Protection|High-Frequency|Ice Res Up [Hi]|Dragon Res Up [Hi]|
+Create,Commendation G: 1 |Velociprey Scl+: 10 |BirdWyvnStoutBne: 10 |Velociprey Hide: 50
+,Giadrome Balloon G,100000z,1404,Ice 180,3.2.17.12.4.2 3.2.17.12.4.5.2,0%,---,9,HH,W G K, HealthRec[Lo]&Antidote|HealthRec[Mid]&Deodorant|No Heat
+Create,Commendation G: 1 |Giadrome Skull: 5 |BirdWyvnStoutBne: 10 |Giadrome Claw+: 15
+,Sakura Recorder G,100000z,1300,Drg 340,6.4.8.12.6.4 6.4.8.12.6.5.4,0%,OO-,10,HH,P K B, No Stamina Loss [Hi]|Clairvoyance Wind Cancel|No Faint
+Create,Commendation S: 1 |PnkRathianThkScl: 7 |PnkRathianHvyCpc: 5 |Pnk Rathian Cpc: 10
+,Spirit Dragonwd Horn G,100000z,1040,Par 220,19.2.5.7.4.3 19.2.5.7.4.5.3,0%,OO-,10,HH,P B R, No Stamina Loss [Hi]|Wind Reduce|Attack Up [Hi]|Health Inc [Hi]|
+Create,Commendation G: 1 |Dragonwood+: 8 |Dragonmoss+: 8 |Thunderbug Jelly: 15

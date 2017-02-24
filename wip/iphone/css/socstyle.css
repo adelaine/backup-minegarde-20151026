@@ -1,0 +1,240 @@
+body {
+   padding-left: 0px; 
+   margin: 1px 1px 1px 1px;
+   font: 10pt normal Verdana, Tahoma, Arial;
+   color: black;
+}
+
+#mainContents {
+   color: black;
+}
+
+#mainContents h1 {
+   padding: 0px;
+   font: 12pt bold Verdana, Tahoma, Arial;
+   color: black;
+}
+
+#tableItems th, #tableWeapons th.mini {
+   background: #111111;
+   padding: 0px 4px;
+   color: white;
+}
+
+#tableItems td {
+    padding: 2px 4px;
+}
+
+#tableItems td.percent {
+   padding: 0px 10px;
+   text-align: right;
+   color: #830131;
+}
+
+.odd {
+   background: #EEEEEE;
+}
+
+.even, .s_odd {
+   background: #DDDDDD;
+}
+
+#tableWeapons, #tableWeapons tr {
+   margin: 0px 0px 0px 0px; 
+   padding: 0px 0px;
+   //background: white;
+   border: 1px solid black;
+}
+
+#tableWeapons td {
+   text-align: left;
+   padding: 4px 4px;
+   font-size: 10pt;
+}
+
+#tableWeapons td.mat {
+   text-align: right;
+   margin: 0px;
+   padding: 0px 2px;
+   font-size: 8pt;
+   color: red;
+   border-top: 1px solid #505050;
+}
+
+#tableWeapons td.mat1 {
+   font-size: 8pt;
+   border-top: 1px solid #505050;
+}
+
+#tableItems th.heading, #tableWeapons th.heading {
+   font-size: 10pt;
+   font-style: bold;
+   text-align: left;
+   padding: 5px 10px;
+   color: black;
+}
+
+.cont {
+   margin:0px 0px 0px 0px;
+   padding: 0px;
+   float: left;
+   overflow: hidden;
+}
+
+.cont .dn {
+   margin: 0px 8px 0px 0px;
+   padding: 0px;
+   width: 8px;
+   height: 100px;
+   float: left;
+   border-right: 1px solid black;
+}
+
+.cont .rt1 {
+   margin: 0px 0px 0px 0px;
+   padding: 0px;
+   width: 8px;
+   height: 100px;
+   float: left;
+   border-right: 1px solid black;
+}
+
+.cont .rt2 {
+   margin: 0px 0px 20px 0px;
+   padding: 0px;
+   width: 8px;
+   height: 8px;
+   float: left;
+   border-bottom: 1px solid black;
+}
+
+.cont .en {
+   margin: 0px 0px 20px 8px;
+   padding: 0px;
+   width: 8px; 
+   height: 8px;
+   float: left;
+   border-left: 1px solid black;
+   border-bottom: 1px solid black;
+}
+
+.cont .dh {
+   margin: 0px 0px 20px 0px;
+   padding: 0px;
+   width: 17px;
+   height: 8px;
+   float: left;
+   border-bottom: 1px solid black;
+}
+
+.cont .dx {
+   margin: 0px 0px 20px 0px;
+   padding: 0px;
+   width: 17px;
+   height: 8px;
+   float: left;
+   border-bottom: 1px solid black;
+   position: relative; left: -9px;
+}
+
+.cont .sp {
+   margin: 0px 0px 0px 0px;
+   padding: 0px;
+   width: 17px;
+   height: 10px;
+   float: left;
+}
+
+.cn {
+   margin: 0px 0px 0px 4px;
+   padding: 0px;    
+   white-space: nowrap;
+   font-weight: bold;
+   float: left;
+}
+
+.GS  { padding-left: 14px; background: url('http://minegarde.com/wip/images/icons/gs_bk.gif') left top no-repeat; }
+.LS  { font-style:italic; padding-left: 17px; background: url('http://minegarde.com/wip/images/icons/ls_bk.gif') left bottom no-repeat; }
+.SnS { padding-left: 19px; background: url('http://minegarde.com/wip/images/icons/sns_bk.gif') left bottom no-repeat; }
+.DS  { font-style:italic; padding-left: 19px; background: url('http://minegarde.com/wip/images/icons/ds_bk.gif') left bottom no-repeat; }
+.LC  { padding-left: 14px; background: url('http://minegarde.com/wip/images/icons/lc_bk.gif') left top no-repeat; }
+.GL  { font-style:italic; padding-left: 17px; background: url('http://minegarde.com/wip/images/icons/gl_bk.gif') left center no-repeat; }
+.HM  { padding-left: 14px; background: url('http://minegarde.com/wip/images/icons/hm_bk.gif') left top no-repeat; }
+.HH  { font-style:italic; padding-left: 14px; background: url('http://minegarde.com/wip/images/icons/hh_bk.gif') left bottom no-repeat; }
+.SA  { font-style:italic; padding-left: 20px; background: url('http://minegarde.com/wip/images/icons/sa_bk.gif') left bottom no-repeat; }
+
+.rare1 { color: black; }
+.rare2 { color: black; }
+.rare3 { color: black; }
+.rare4 { color: green; }
+.rare5 { color: pink; }
+.rare6 { color: blue; }
+.rare7 { color: red; }
+.rare8 { color: darkred; }
+.rare9 { color: darkorange; }
+.rare10 { color: purple; }
+
+.def { color: #90b0f8; }
+.Poi { color: #9932CD; }
+.Par { color: orange; }
+.Slp { color: #9ac2d6; }
+.Fir { color: #CC0033; }
+.Thn { color: #CFB52B; }
+.Wat { color: #4281c0; }
+.Ice { color: #8eb8bb; }
+.Drg { color: #6B238E; }
+.Pwr { color: #f85858; }
+.Pai { color: lightpink; }
+.Raz { color: #ffffff; }
+.Rapid { color: #70c888; }
+.Scatter { color: #8eb8bb; }
+.Pierce { color: #dde8bb; }
+
+.note_W { color: #cccccc; }
+.note_P { color: #a858c0; }
+.note_B { color: #3333cc; }
+.note_K { color: #7777dd; }
+.note_G { color: #33cc33; }
+.note_Y { color: #cccc33; }
+.note_R { color: #cc3333; }
+
+.atk { color: #0000FF; }
+.affpositive { color: #0000FF; } 
+.affnegative { color: #CC0033; }
+.invisible { visibility: hidden; background: none; border: none; }
+
+.sharp0 { height: 6px; background: #c00838; float: left; }
+.sharp1 { height: 6px; background: #e85018; float: left; }
+.sharp2 { height: 6px; background: #f0c830; float: left; }
+.sharp3 { height: 6px; background: #58d000; float: left; }
+.sharp4 { height: 6px; background: #3068e8; float: left; }
+.sharp5 { height: 6px; background: #f0f0f0; float: left; }
+.sharp6 { height: 6px; background: #f000f0; float: left; }
+
+.gauge {
+   margin: 0px;
+   padding: 2px 4px;
+   width: 98px;
+   height:7px;
+   background: gray;
+   margin-top:4px;
+}
+
+.gauge1 {
+   margin: 0px;
+   padding: 2px 4px;
+   width: 98px;
+   height: 7px;
+   background: gray;
+   margin-bottom:4px;
+}
+
+#tableWeapons td .mini {
+   color: skyblue;
+   font-size: 8pt;
+   font-style: italic;
+   padding: 0px 4px;
+}
+
+a, a:visited { color: black; text-decoration: none; }
+a:hover { color: black; text-decoration: none; }

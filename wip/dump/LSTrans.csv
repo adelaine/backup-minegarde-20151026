@@ -1,0 +1,277 @@
+
+,Buster sword+,(From Great Sword)
+E,Iron katana,1400z,480,,5.3.7 5.3.9.3,0%,---,下位
+Improve,Iron Ore: 5 |Machalite Ore: 1 |Disk stone: 5
+Create,Machalite Ore: 3 |Iron Ore: 8 |Carpenterbug: 8 |Ice Crystal: 8
+Shortcut,Hard Ticket: 1 |Iron Ore: 1
+SE,Iron katana "Grace",1750z,528,,5.3.9.3 5.3.9.8,0%,---,下位
+Improve,Iron Ore: 10 |Machalite Ore: 5 |Earth Crystal: 10
+SSR,Iron katana "Gospel",2150z,576,,13.1.6.5 13.1.6.10,0%,---,下位
+Improve,Iron Ore: 15 |Machalite Ore: 12 |Earth Crystal: 15
+SSLR,Eager Cleaver,3650z,624,Thn 250,5.3.9.9 5.3.9.13,0%,---,下位
+Improve,Machalite Ore: 15 |Earth Crystal: 25 |Electro Sac: 4
+SSLLE,Devil Slicer,6350z,720,Thn 450,13.1.6.10 13.1.6.13.2,0%,O--,下位
+Improve,Dragonite Ore: 5 |Machalite Ore: 20 |Thunderbug Juice: 4 |Kirin Thndr Tail: 2
+SSLLSE,True Devil Slicer,70000z,816,Thn 520,16.3.2.9.5 16.3.2.9.7.3,0%,O--,上位
+Improve,Carbalite Ore: 10 |Dragonite Ore:20 |Thunder Sac: 4 |Khezu Steak: 1
+SSLLSSE,Howling Devil Slicer,100000z,960,Thn 540,12.11.5.4.8 12.11.5.4.8.3.2,0%,O--,G級
+Improve,Etherlite Ore: 10 |Tigrex Scale+: 8 |Lightning Sac: 4 |KhezuChoiceSteak: 1
+SSLLSSSE,*True Howling Devil,120000z,1200,Thn 560,13.1.6.13.4.3 13.1.6.13.4.6.2,0%,O--,G級
+Improve,Melange Ore : 5 |Thunderbug Jelly: 8 |KirinThndrTail G: 2 |Rajang StrngClaw: 4
+SSLR,Saber,5600z,720,Fir 350,8.3.10.4 8.3.11.8,0%,---,下位
+Improve,Lunastra Shell: 2 |Fire Drgn Wbng: 2 |Fire Dragon Scl: 4
+Create,Lunastra Mane: 1 |Lunastra Horn: 2 |Lunastra Shell: 4 |Commendation: 2
+SSLLE,Lion Dance Saber,50000z,816,Fir 400,9.4.11.6 9.4.11.7.4,0%,---,上位
+Improve,Firecell Stone: 5 |Lunastra Horn: 2 |Lunastra Tail: 4
+SSLLSE,Lion King Saber,90000z,864,Fir 460,3.7.18.4.3 3.7.18.4.4.4,0%,O--,上位
+Improve,Lunastra Horn G: 2 |Fire Dragon Pwdr: 3 |Fire Drgn Jwl: 1
+SSLLSSE,*Lion Kaiser Saber,100000z,912,Fir 480,12.11.5.4.8 12.11.5.4.8.3.2,0%,---,上位
+Improve,Lunastra Horn G: 4 |Lunastra Carpace: 5 |ElderDragonBlood: 5 |Commendation G: 2
+SSLE,Mirage Shotel,35000z,816,Def+8,8.3.11.8 8.3.11.10.3,10%,O--,下位
+Improve,Chameleos Hide: 3 |Chameleos Tail: 1 |ChameleosWebbing: 2
+Create,Chameleos Horn: 2 |Chameleos Hide: 5 |Chameleos Tail: 2 |Dragonite Ore: 8
+SSLSE,Mirage Shotel+,90000z,1056,Def+8,13.1.6.13.2 13.1.6.13.4.3,20%,O--,上位
+Improve,Chameleos Spike: 2 |Union Ore: 10 |Chameleos Hide+: 5
+SSLSSE,*Phantom Mirage,130000z,1344,Def+10,16.3.2.9.7.3 16.3.2.9.7.6.2,30%,O--,G級
+Improve,Chameleos Horn G: 2 |Chameleos Hide G: 5 |Chameleos Tail G: 3 |Chameleos Jewel: 3
+SSE,Dark Scythe,2150z,624,,12.11.5.2 12.11.5.4.3,-10%,---,下位
+Improve,Piscine Fang: 8 |Killer Beetle: 3 |Unknown Skull: 2
+Create,Lg Monster Bone: 6 |Bulldrome Tusk: 3 |Knife Mackerel: 8 |Monster Fluid: 4
+SSSR,Tormentor,5600z,960,,18.2.7.3 18.2.7.7.1,-10%,---,下位
+Improve,Elder Dragon Bone: 5 |Black Blos Shell: 4 |Black Blos Spine: 3
+Create,G Class Ticket: 1 |Black Blos Spine: 1
+SSSLR,Scythe of Menace,65000z,960,Poi 320,12.11.5.4.3 12.11.5.4.8,-10%,---,上位
+Improve,Master's Skull: 2 |Toxin Sac: 8 |Union Ore: 10
+SSSLLE,*Scythe of Malice,95000z,1056,Poi 340,18.2.7.7.4.2 18.2.7.7.4.4.3,-10%,OO-,G級
+Improve,Hvy Monster Bone: 5 |Venom Sac: 3 |Rathian Spike+: 2 |Etherlite Ore: 5
+SSSLE,Crab Cutter,40000z,864,Def+28,9.4.11.6 9.4.11.7.4,0%,O--,上位
+Improve,Hermitaur Claw+: 2 |Hermitaur Shell: 10 |Hrd Monster Bone: 2
+Create,Hermitaur Claw+: 4 |Hermitaur Claw: 6 |Stout Bone: 3 |Black Pearl: 10
+SSSLSE,Daimyo Cutter,50000z,960,Def+36,9.4.11.7.4 9.4.11.7.6.3,0%,OO-,上位
+Improve,Hermitaur Claw+: 3 |Hermitaur Carpce: 6 |Ceanataur Claw+: 2
+SSSLSSR,Carapaceon Slicer,85000z,1104,Def+40,16.3.2.9.5 16.3.2.9.7.3,0%,OO-,G級
+Improve,Pur HermitaurClw: 2 |Pur HermitaurShl: *5 |Razor Claw: 8
+SSSLSSLE,*Carapaceon Slasher,115000z,1296,Def+40,9.4.11.7.6.3 9.4.11.7.6.4.4,0%,OO-,G級
+Improve,Pur HermitaurClw: 3 |RedCeanataurClaw: 2 |Black Pearl+: 2 |PhantomButterfly: 4
+SSSLSSE,Ceanataur Cutter,85000z,1200,,12.11.5.4.8.3.2 12.11.5.4.8.3.2,0%,O--,G級
+Improve,CeanataurClaw G: 2 |CeanataurHvyCpc: 5 |Ceanataur Pincer: 5
+SSSLSSSE,*Death Scythe,115000z,1248,,5.3.9.14.6.5.3 5.3.9.14.6.5.3,0%,O--,G級
+Improve,CeanataurClaw G: 3 |CeanataurHvyLeg: 5 |GaorenStrngClaw: 2 |Black Pearl+: 3
+SSSE,Crimson Scythe,3100z,624,Fir 120,9.4.11.1 9.4.11.6,0%,---,下位
+Improve,Blood Red Horn: 1 |Flame Sac: 3 |Monster Fluid: 5
+SSSSR,Monoblos Scythe,6350z,768,Fir 180,8.3.11.8 8.3.11.10.3,0%,OO-,下位
+Improve,Monoblos Spine: 5 |Blos Fang: 10 |Monoblos Heart: 1
+SSSSLE,*Monoblos Scythe+,75000z,1008,Fir 240,8.3.11.10.3 8.3.11.10.6.2,0%,OO-,上位
+Improve,Majestic Red Hrn: 2 |Monoblos Thrcic: 5 |Inferno Sac: 3
+SSSSE,White Mantis,4250z,672,Wat 210,9.4.11.6 9.4.11.7.4,0%,---,下位
+Improve,Majestic Wht Hrn: 1 |Wht Monoblos Spn: 4 |Hercudrome: 2
+SSSSSE,Frost Ripper,70000z,912,Wat 240,18.2.7.7.1 18.2.7.7.4.2,0%,---,上位
+Improve,Wht Monoblos Hrn: 3 |Lg Lobstershell: 2 |Monoblos Heart: 1
+SSSSSSE,*Crescent Vice,85000z,960,Wat 260,9.4.11.7.4 9.4.11.7.6.3,0%,---,上位
+Improve,Majestic Wht Hrn: 2 |WhtMnoblosThrcic: 5 |Wht Monoblos Cpc: 3
+,Bone,500z,336,,13.1.1 13.1.6,0%,---,下位
+Create,Bone: 2
+E,Large Bone,850z,432,,13.1.6 13.1.6.5,0%,---,下位
+Improve,Mystery Bone: 2 |Brute Bone: 2
+SR,Bone Katana "Wolf",1750z,528,,8.3.4 8.3.9,0%,---,下位
+Improve,Med Monster Bone: 2 |Velociprey Fang: 5 |Velociprey Hide:*5
+Create,Velocidrome Hide: 2 |Sm Monster Bone: 4 |Machalite Ore: 3 |Giadrome Claw: 2
+SLE,Bone Katana "Shark",2150z,576,,8.3.9 8.3.11.3,0%,---,下位
+Improve,Machalite Ore: 2 |Piscine Fang: 4 |Giaprey Scale: 8
+SLSR,Bone Katana "Dragon",3100z,672,,8.3.11.3 8.3.11.8,0%,---,下位
+Improve,Light Crystal: 2 |Wyvern Fang: 5 |Velocidrome Hide: 6
+SLSLR,Supremacy Blade,40000z,960,,8.3.11.8 8.3.11.10.3,0%,O--,下位
+Improve,Daora Tail: 4 |Teostra Tail: 4 |Striped Skin: 10
+SLSLLE,Divine Slasher,100000z,1104,,8.3.11.10.3 8.3.11.10.6.2,5%,O--,上位
+Improve,Fatalis CrmsnWng: 2 |Daora Sharp Claw: 5 |Teostra Horn+: 5
+SLSLLSE,*Peerless Slasher,150000z,1440,,8.3.11.10.6.2 8.3.11.10.6.5.2,0%,O--,G級
+Improve,Fatalis Hrd Wbng: 2 |FataHrdCrmsnWng: 2 |Wht Fatalis Wng: 2 |Elder Dragon Jwl: 3
+SLSLE,Fire Dragonsword,6350z,720,Drg 350,16.3.2.4 16.3.2.9,0%,O--,下位
+Improve,Lao-Shan's Horn: 1 |Fire Stone: 5 |ElderDragonBlood: 2
+Create,Lao-Shan's Horn: 1 |Lao-Shan's Claw: 2 |Fire Stone: 10 |Commendation: 5
+SLSLSE,Red Dragonsword,40000z,768,Drg 450,16.3.2.9 16.3.2.9.5,0%,O--,下位
+Improve,Lao-Shan's Horn: 3 |Teostra Horn: 3 |Fire Stone: 8
+SLSLSSE,Smolder Dragonsword,95000z,816,Drg 520,16.3.2.9.5 16.3.2.9.7.3,0%,O--,上位
+Improve,Azure LaoS Horn: 3 |Lunastra Horn: 3 |Firecell Stone: 5
+SLSLSSSE,*Ancient Dragonsword,140000z,1056,Drg 540,16.3.2.9.7.3 16.3.2.9.7.6.2,0%,O--,G級
+Improve,Azure LaoS Horn: 3 |Lao-ShanThckScl: 4 |LaoS Dvine Plate: 1 |Commendation S: 1
+SLSR,Wyvern Blade "Fall",2600z,528,Fir 220,13.1.6.5 13.1.6.10,0%,---,下位
+Improve,FireWyvern Fluid: 3 |Killer Beetle: 5 |Flame Sac: 2
+Create,Rathalos Scale: 3 |Rathalos Shell: 2 |FireWyvern Fluid: 5 |Fire Stone: 3
+SLSLE,Wyvern Blade "Blood",7150z,768,Fir 250,13.1.6.10 13.1.6.13.2,0%,---,下位
+Improve,FireWyvern Claw: 1 |Rathalos Webbing: 3 |Tigrex Claw: 4
+SLSLSE,Wyvern Blade "Maple",75000z,960,Fir 340,5.3.9.14.4 5.3.9.14.6.3,0%,---,上位
+Improve,Fire Drgn Scl+: 5 |Rathalos Carpace: 5 |Rathalos Ruby: 1
+SLSLSSE,Wyvern Blade "Silver",105000z,1152,Fir 400,13.1.6.13.4.3 13.1.6.13.4.6.2,0%,OO-,G級
+Improve,RathlosStrngWing: 1 | Rathalos Hvy Cpc: 2 | Slvr Ratlos Scl+: 5| FireWyvrn BrnStm: 1
+Create,RathlosStrngWng: 3 |FireWyvrnHrdClaw: 5 |Slvr Rathlos Cpc: 8 |Rathalos Ruby: 1
+SLSLSSSE,*Wyvern Blade "Glory",125000z,1248,Fir 450,5.3.9.14.6.3 5.3.9.14.6.5.3,0%,OO-,G級
+Improve,SlvrRthlosHvyCpc: 3 |SlvrRthlosThkScl: 3 |Blaze Sac: 3 |RathlosDvnePlate: 1
+SLSE,Wyvern Blade "Leaf",2600z,528,Poi 250,13.1.6.5 13.1.6.10,0%,O--,下位
+Improve,FireWyvern Fluid: 3 |Machalite Ore: 10 |Poison Sac: 5
+Create,Rathian Scale: 3 |Rathian Shell: 2 |FireWyvern Fluid: 5 |Ioprey Fang: 20
+SLSSE,Wyvern Blade "Verde",7150z,768,Poi 300,13.1.6.10 13.1.6.13.2,0%,O--,下位
+Improve,Rathian Shell: 6 |Rathian Spike: 1 |Rathian Plate: 1
+SLSSSE,Wyvern Blade "Holly",70000z,864,Poi 400,13.1.5.13.3 13.1.5.13.4.3,0%,O--,上位
+Improve,Rathian Carapace: 6 |Rathian Spike+: 1 |Rathian Ruby: 1
+SLSSSSE,Wyvern Blade "Silver",(same above)
+SE,Black Katana Mk.I,2600z,576,Def+2,5.3.9.13 5.3.9.14.4,0%,O--,下位
+Improve,Hornetaur Head: 2 |Hornetaur Wing: 10 |Demondrug: 3
+SSE,Black Katana Mk.II,3650z,624,Def+6,5.3.9.14.4 5.3.9.14.6.3,10%,O--,下位
+Improve,Hornetaur Shell: 15 |Vespoid Shell: 10 |Hercudrome: 3
+SSSE,Black Katana Mk.III,55000z,720,Def+10,5.3.9.14.6.3 5.3.9.14.6.5.3,15%,OO-,上位
+Improve,Hornetaur Head: 6 |King Scarab: 5 |HornetaurInnrWng: 10
+SSSSE,Black Katana Mk.IV,80000z,1008,Def+10,5.3.9.14.6.5.3 5.3.9.14.6.5.3,20%,OO-,G級
+Improve,HorneturRazrWng: 5 |HornetaurInnrWng: 8 |Emperor Locust: 8
+Create,HorneturRazrWng: 10 |Vespoid RazrWng: 10 |Monster Broth: 10 |Emperor Locust: 8
+SSSSSE,*Black Katana Mk.V,105000z,1152,Def+10,9.4.11.7.6.4.4 9.4.11.7.6.4.4,25%,OOO,G級
+Improve,HorneturRazrWng: 10 |QueenVespoidShl: 5 |Monster Broth+: 5 |PhantomButterfly: 10
+,Beat Saber,40000z,864,Def+20,16.3.2.9.5 16.3.2.9.7.3,0%,OOO,上位
+Create,King Scarab: 2 |Great Hornfly: 2 |Vespoid InnrWng: 5 |Monster Broth: 5
+E,*Exceed Beat,80000z,1248,Def+20,16.3.2.9.7.3 16.3.2.9.7.6.2,0%,OOO,G級
+Improve,Emperor Locust: 3 |Great Hornfly: 5 |QueenVespoidShl: 2 |PhantomButterfly: 10
+,Steel Ice Blade+,(From Great Sword)
+E,Steel Ice Longsword,90000z,1008,Ice 150,16.3.2.9.5 16.3.2.9.6.3,0%,O--,上位
+Improve,Daora Sharp Claw: 3 |Daora Tail: 3 |Daora Jewel: 1
+Create,Daora Sharp Claw: 5 |Daora Carapace: 10 |Daora Jewel: 1 |Commendation G: 2
+SE,*Daora Blade,130000z,1296,Ice 320,16.3.2.9.7.3 16.3.2.9.7.6.2,0%,O--,G級
+Improve,Daora Tail G: 2 |DaoraDrgnThckScl: 8 |Daora Horn G: 2 |Elder Dragon Jwl: 1
+,Buster Sword,(From Great Sword)
+E,Blango Destroyer,1100z,384,Ice 100,18.2.5 18.2.7.3,0%,---,下位
+Improve,Blango Pelt: 6 |Iron Ore: 8 |Ice Crystal: 5
+Create,Blango Pelt: 8 |Sharp Claw: 5 |Iron Ore: 5 |Carpenterbug: 5
+Shortcut,G Class Ticket: 1 |Blango Pelt: 1
+SE,Blango Destroyer+,2150z,480,Ice 200,18.2.7.3 18.2.7.7.1,0%,---,下位
+Improve,Blango Pelt: 10 |Sharp Claw: 6 |Killer Beetle: 2
+SSE,Blango Decimator,4900z,672,Ice 250,13.1.6.10 13.1.6.13.2,10%,---,下位
+Improve,Blangonga Whiskr: 5 |Blangonga Fang: 3 |Ice Crystal: 20
+SSSE,Blango Destructor,50000z,864,Ice 350,7.3.11.11.3 7.3.11.11.6.2,15%,---,上位
+Improve,Blangonga Pelt+: 8 |Blangonga Fang+: 2 |Blangonga Tail: 5
+SSSSE,Desert Demolisher,85000z,1392,,18.2.7.7.4.2 18.2.7.7.4.4.3,-10%,O-,G級
+Improve,Brwn BlngngaPelt: 5 |Brwn BlngngaFang: 2 |Etherlite Ore: 10
+SSSSSE,*Desert Decapitator,115000z,1536,,9.4.11.7.6.3 9.4.11.7.6.4.4,-20%,O-,G級
+Improve,Brwn BlngngaTail: 2 |Blngnga HrdWhskr: 2 |BlkRajangThkPelt: 5 |Rajang Hvy Fang: 2
+,Tigrex Tooth,35000z,816,,18.2.7.7.1 18.2.7.7.4.2,-25%,---,下位
+Create,Tigrex Claw: 5 |Tigrex Tail: 2 |Tigrex Shell: 4 |Pokke Ticket: 1
+R,Tigrex Katana,80000z,1056,,18.2.7.7.4.2 18.2.7.7.4.4.3,-25%,---,上位
+Improve,Tigrex Claw+: 5 |Tigrex Carapace: 6 |Tigrex Tail: 4
+LE,*Great Rex Katana,125000z,1392,,18.2.7.7.4.4.3 18.2.7.7.4.4.3,-25%,---,G級
+Improve,Tigrex StrngClaw: 5 |Tigrex Hvy Cpc: 6 |TigrexDvinePlate: 1
+E,Hidden Saber,80000z,912,,8.3.11.10.6.2 8.3.11.10.6.5.2,50%,O--,上位
+Improve,Naruga Wing: 3 |Naruga Pelt: 8 |Naruga Spike: 5
+Create,Naruga Wing : 5 |Naruga Pelt: 5 |Naruga Marrow: 1 |Carbalite Ore: 5
+SE,*Shadow Saber "Moon",120000z,1152,,8.3.11.10.6.5.2 8.3.11.10.6.5.2,50%,OO-,G級
+Improve,Naruga Strng Wng: 3 |Naruga Blk Pelt: 8 |Naruga Hvy Spike: 5 |Naruga Marrow: 2
+Create,Naruga Strng Wng: 5 |Naruga Blk Pelt: 10 |NarugaDvinePlate: 1 |Etherlite Ore: 15
+,Carbalite Sword,(From Great Sword)
+E,Guardian Sword,30000z,912,,5.3.9.8 5.3.9.13,0%,OOO,下位
+Improve,Nova Crystal: 2 |Light Crystal: 15 |Carbalite Ore: 10
+Create,G Class Ticket: 1 |Nova Crystal: 1
+SE,Imperial Sword,60000z,1008,,4.3.9.14 4.3.9.14.5,10%,OOO,上位
+Improve,Union Ore: 10 |Earth Crystal: 30 |Basarios Tears: 3
+SSE,Ocean Guardian,90000z,1104,Wat 300,4.3.9.14.5 4.3.9.14.5.3,0%,OO-,G級
+Improve,Pure Crystal: 2 |Nova Crystal: 15 |Etherlite Ore: 10 |Piscine Fang+: 3
+Create,Pure Crystal: 5 |Union Ore: 20 |Basarios Tears: 3 |Etherlite Ore: 12
+SSSR,*Altantica,115000z,1296,Wat 350,4.3.9.14.5.4 4.3.9.14.5.4.3,0%,OO-,G級
+Improve,Melange Ore : 10 |Plesioth Fin G: 4 |BasariosStrngWng: 2 |Lg Wyvern Stone: 1
+SSSE,Snow Blossom,75000z,1104,Ice 150,4.3.9.14.5 4.3.9.14.5.3,0%,O--,G級
+Improve,Etherlite Ore: 15 |Pure Crystal: 1 |Ice Crystal: 20 |Blangonga Fang+: 10
+SSSSE,Snow Moon Blossom,100000z,1344,Ice 200,5.3.9.14.6.3 5.3.9.14.6.5.3,0%,OO-,G級
+Improve,Etherlite Ore: 15 |Blangnga HvyFang: 3 |DaoraDrgnThckScl: 5
+,Agito,(From Great Sword)
+E,Rusty Claymore,30000z,912,Def+10,5.3.9.8 5.3.9.13,10%,---,上位
+Improve,Nova Crystal: 2 |Rathalos Shell: 5 |Daora Shell: 5
+SE,Grind Claymore,60000z,960,Def+12,5.3.9.13 5.3.9.14.4,10%,O--,上位
+Improve,Rathalos Scale+: 5 |Rathalos Wing: 3 |DaoraDragonScale: 20
+SSE,Gaelic Flame,95000z,1056,Def+14,13.1.6.13.2 13.1.6.13.4.3,15%,OO-,上位
+Improve,Daora Carapace: 5 |DaoraDragonScal+: 8 |FireWyvrn BrnStm: 2
+SSSE,*Ultimate Gaelic,135000z,1392,Def+16,13.1.6.13.4.3 13.1.6.13.4.6.2,20%,OO-,G級
+Improve,Rathalos Hvy Cpc: 5 |Daora Hvy Carpce: 5 |RathlosStrngWng: 2 |Daora Webbing G: 2
+,Carbalite Sword+,(From Great Sword)
+E,Demon Halberd,80000z,864,Thn 180,9.4.11.6 9.4.11.7.4,10%,---,上位
+Improve,Rajang Fang: 3 |Blk Rajang Pelt: 4 |Union Ore: 8
+Create,Rajang Fang: 3 |Blk Rajang Pelt: 5 |Gold Rajang Pelt: 1 |Commendation: 4
+SE,Great Demon Halberd,90000z,912,Thn 240,18.2.7.7.1 18.2.7.7.3.2,15%,---,上位
+Improve,Rajang Claw: 4 |Rajang Tail: 4 |Rare Scarab: 10
+SSE,*Arch-Demon Halberd,130000z,1248,Thn 250,18.2.7.7.4.2 18.2.7.7.4.4.3,25%,O--,G級
+Improve,Rajang Hvy Fang: 4 |BlkRajangThkPelt: 5 |ShiningRajangPlt: 1 |YamatsukamiFluid: 3
+,Sentoryu Wolf,(From Great Sword)
+E,Wolf's Pike,65000z,1008,Poi 100,8.3.11.10.3 8.3.11.10.6.2,15%,---,上位
+Improve,Sharpened Beak+: 1 |Garuga Devil Ear: 2 |Garuga Mane: 4
+SE,Vicious Pike,105000z,1296,Poi 120,8.3.11.10.6.2 8.3.11.10.6.5.2,20%,---,G級
+Improve,Garuga Slvr Mane: 3 |Garuga Scale G: 4 |Garuga Carapace: 8 |Etherlite Ore: 10
+,Resolution,(From Great Sword)
+E,Melting Flame Edge,100000z,1200,Fir 200,18.2.7.7.1 18.2.7.7.4.2,15%,O--,G級
+Improve,Volganos Fin+: 2 |Volganos HvyFang: 2 |Dragonite Ore: 12 |Union Ore: 5
+Create,Volganos Thk Scl: 8 |Volganos Hvy Cpc: 6 |Carbalite Ore: 10
+SSE,*Scorching Flame Edge,120000z,1296,Fir 220,18.2.7.7.4.2 18.2.7.7.4.4.3,20%,O--,G級
+Improve,Volganos Hvy Cpc: 8 |Volganos HvyFang: 2 |Etherlite Ore: 12 |GraviosDvnePlate: 1
+,Dragonwood L.Sword,20000z,576,Par 190,3.7.18.2 3.7.18.4.3,0%,---,下位
+Create,Dragonwood: 3 |Dragonmoss: 1 |Chaoshroom: 10 |Thunderbug: 15
+E,Fanatic Dragonwd LS,75000z,768,Par 240,3.7.18.4.3 3.7.18.4.4.4,0%,OO-,上位
+Improve,Dragonwood+: 3 |Dragonmoss+: 3 |Pokke Ticket+: 1
+SE,Ancient Dragonwood LS,120000z,960,Par 250,18.2.7.7.4.2 18.2.7.7.4.4.3,0%,OO-,G級
+Improve,Dragonwood G: 3 |YamatsukamiFluid: 2 |Thunderbug Juice: 15
+Create,Dragonwood G: 5 |Dragonmoss G: 3 |Yamatsukami Fin: 3 |Thunderbug Jelly: 10
+SSE,*Drgnwood "God Slayer",145000z,1104,Par 270,9.4.11.7.6.3 9.4.11.7.6.4.4,0%,OO-,G級
+Improve,Dragonmoss G: 3 |Yamatsukami Fin: 3 |Dragonwood+: 10 |Commendation S: 1
+,Black Scythe,15000z,720,Drg 100,16.3.2.4 16.3.2.9,0%,---,下位
+Create,Dark Stone: 1 |Dark Piece: 4 |Pokke Ticket: 1
+E,Fatalis Scythe,100000z,1008,Drg 200,3.7.18.4.3 3.7.18.4.4.4,0%,---,上位
+Improve,Fatalis Shell: 5 |Fatalis Webbing: 3 |Fire Drgn Jwl: 1
+SE,*Fatalis Death Scythe,150000z,1248,Drg 300,3.7.18.4.4.4 3.7.18.4.4.4.5,0%,---,G級
+Improve,Fatalis Hvy Shl: 5 |Fatalis Hrd Wbng: 3 |Elder Dragon Jwl: 1
+,Centenarian Dagger,25000z,864,Fir 70,9.4.11.6 9.4.11.7.4,15%,O--,下位
+Create,Elder Thank You: 1 |Gaoren Pincer: 1 |Lao-Shan's Shell: 1
+E,*Susano Blade,50000z,1008,Fir 170,9.4.11.7.4 9.4.11.7.6.3,15%,O--,上位
+Improve,Elder Thank You+: 1 |Elder Thank You: 1 |Fire Dragon Claw: 10
+,Akantor Katana,100000z,1200,,9.4.11.1 9.4.11.6,40%,---,上位
+Create,Akantor Spike: 3 |Akantor Shell: 6 |Akantor Tail: 1 |Union Ore: 10
+E,Akantor Steel Edge,145000z,1584,,9.4.11.6 9.4.11.7.4,40%,---,G級
+Improve,Ucamu Divine Jwl: 1 |Lg Wyvern Stone: 3 |Akantor Spike: 5 |Akantor Shell: 4
+,LS Fan "Gavas",350z,624,Ice 420,16.3.2.9 16.3.2.9.5,0%,---,上位
+Create,Famitsu Invoice: 3 |Famitsu Ticket: 5 |Daora Webbing: 2 |Remobra Skin: 3
+E,*10000 Gavas Great Fan,350z,912,Ice 500,16.3.2.9.7.6.2 16.3.2.9.7.6.2,0%,O--,G級
+Improve,Famitsu Invoice: 3 |Daora Webbing G: 2 |Remobra Skin G: 3 |PnkRathianThkScl: 3
+,*Jolly Roger Saber,230z,1296,,3.7.18.4.4.4 3.7.18.4.4.4.5,0%,O--,G級
+Create,Pirate J Ticket G: 4 |Fire Drgn HvyScl: 5 |Master's Skull: 3 |Elder Dragon Jwl: 1
+,*Red Lobster Blade,25000z,1104,Wat 500,8.3.11.10.6.2 8.3.11.10.6.5.2,0%,---,G級
+Create,King Lobster Cpc: 2 |Hg Lobstershell: 1 |Etherlite Ore: 8
+,*Ucamulbas Chasm,150000z,1680,Ice 120 Def+10,18.2.7.7.1 18.2.7.7.4.2,-30%,---,G級
+Create,Ucamulbas Fin: 4 |Ucamulbas Tail: 3 |Ucamulbas Jaw: 2 |Ucamu Divine Jwl: 1
+,*Bone G,100000z,1392,,3.7.18.4.3 3.7.18.4.4.4,0%,---,G級
+Create,Commendation G: 1 |Mystery Bone: 20 |Brute Bone: 40 |Colossal Bone: 5
+,*Iron Katana G,100000z,1344,,13.1.6.13.4.3 13.1.6.13.4.6.2,0%,---,G級
+Create,Commendation G: 1 |Iron Ore: 30 |Whetstone: 20 |Etherlite Ore: 10
+,*Bone Katana "Drgn" G,100000z,1344,,8.3.11.10.6.2 8.3.11.10.6.5.2,0%,---,G級
+Create,Commendation G: 1 |Etherlite Ore: 10 |Wyvern Fang: 20 |Velociprey Hide+: 20
+,*Eager Cleaver G,100000z,1104,Thn 520,16.3.2.9.7.3 16.3.2.9.7.6.2,0%,---,G級
+Create,Commendation G: 1 |Dragonite Ore: 20|Electro Sac: 20 |Lightning Sac: 8
+,*Black Katana G,100000z,1200,Def+10,5.3.9.14.6.5.3 5.3.9.14.6.5.3,15%,OO-,G級
+Create,Commendation G: 1 |Hornetaur Wing: 30 |HornetaurInnrWng: 20 |HorneturRazrWng: 10
+,*Blango Destroyer G,100000z,1248,Ice 200,18.2.7.7.4.2 18.2.7.7.4.4.3,0%,---,G級
+Create,Commendation G: 1 |Blango Pelt+: 10 |Sharp Claw: 20 |Razor Claw: 8
+,*Tormenter G,100000z,1488,,18.2.7.7.1 18.2.7.7.4.2,-10%,---,G級
+Create,Commendation G: 1 |Unknown Skull: 10 |Piscine Fang+: 8 |Blk Blos HrdTail: 2
+,*Crimson Scythe G,100000z,1200,Fir 240,8.3.11.10.6.2 8.3.11.10.6.5.2,0%,OO-,G級
+Create,Commendation G: 1 |Majestic Red Hrn: 3 |Monoblos Carpce: 8 |Blaze Sac: 7
+,*Frost Ripper G,100000z,1248,Wat 260,18.2.7.7.4.2 18.2.7.7.4.4.3,0%,---,G級
+Create,Commendation S: 1 |Majestic Wht Hrn: 3 |Wht Monoblos Cpc: 8 |Hg Lobstershell: 2
+,*Imperial Sword G,100000z,1248,,5.3.9.14.6.3 5.3.9.14.6.5.3,20%,OOO,G級
+Create,Commendation G: 1 |Pure Crystal: 3 |Union Ore: 15 |BasariosStrngWng: 3
+,*Daimyo Cutter G,100000z,1296,Def+36,9.4.11.7.6.3 9.4.11.7.6.4.4,0%,OO-,G級
+Create,Commendation G: 1 |Hermitaur Claw: 15 |Hermitaur Claw+: 6 |HermitaurClaw G: 2
+,*Blango Destructor G,100000z,1200,Ice 350,8.3.11.10.6.2 8.3.11.10.6.5.2,20%,---,G級
+Create,Commendation G: 1 |Blangonga Pelt G: 5 |Blangonga Tail G: 3 |Ice Crystal: 20
+,*WyvrnBlade "Maple" G,100000z,1200,Fir 340,5.3.9.14.6.3 5.3.9.14.6.5.3,0%,---,G級
+Create,Commendation S: 1 |Rathalos Hvy Cpc: 3 |Blaze Sac: 3 |RathlosDvnePlate: 1
+,*WyvrnBlade "Holly" G,100000z,1200,Poi 400,13.1.6.13.4.3 13.1.6.13.4.6.2,0%,O--,G級
+Create,Commendation S: 1 |Rathian Hvy Cpc: 3 |Venom Sac: 3 |RathianDvnePlate: 1
+,*Fanatic Dragnwd LS G,100000z,1104,Par 240,3.7.18.4.4.4 3.7.18.4.4.4.5,0%,OO-,G級
+Create,Commendation S: 1 |Dragonmoss+: 10 |Thunderbug Jelly: 15 |Chaoshroom: 10
+,*Saber G,100000z,1152,Fir 480,9.4.11.7.6.3 9.4.11.7.6.4.4,0%,---,G級
+Create,Commendation S: 1 |Lunastra Carpace: 12 |Lunastra Horn G: 2 |Elder Dragon Jwl: 1
+,*Susano Blade G,100000z,1248,Fir 170,9.4.11.7.6.3 9.4.11.7.6.4.4,20%,O--,G級
+Create,Commendation S: 1 |GaorenStrngClaw: 3 |Azure LaoS Claw: 3 |FireDrgnStrngClw: 3
+,*Red Dragonsword G,100000z,1152,Drg 450,16.3.2.9.7.3 16.3.2.9.7.6.2,0%,O--,G級
+Create,Commendation S: 1 |Lao-Shan's Horn: 3 |Lao-ShanThckScl: 5 |Lao-Shan's Ruby: 3

@@ -1,0 +1,4360 @@
+
+** MONSTER CARVE RATES **
+   By Kawakami_Hanabi, VioletKIRA, Hideco, aegilnet
+
+=======
+Akantor
+==========
+Upper Rank--
+Reward For Breaking:
+    Fang-
+        Akantor Fang (80%)
+        Akantor Scale (20%)
+    Claw-
+        Akantor Claw (80%)
+        Akantor Claw x2 (10%)
+        Akantor Shell (10%)
+    Chest-
+        Akantor Scale (60%)
+        Akantor Shell (30%)
+        Firecell Stone x2 (10%)
+    Back-
+        Akantor Spike (80%)
+        Akantor Shell (20%)
+Carve:
+    Body-[x4]
+        Akantor Scale (40%)
+        Akantor Shell (35%)
+        Akantor Claw (10%)
+        Firecell Stone (10%)
+        Akantor Fang (5%)
+    Tail-[x2]
+        Akantor Tail (80%)
+        Akantor Scale (20%)
+Capture:
+        Cannot be captured
+Drop:
+        Wyvern Sob (50%)
+        Akantor Shell (20%)
+        Akantor Spike (15%)
+        Firecell Stone (15%)
+
+=======
+Anteka
+==========
+Elder--
+Carve:
+    Body-
+        Anteka Antlers (45%)
+        Anteka Pelt (2%%)
+        Raw Meat (18%)
+        White Liver (12%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Anteka Antlers (35%)
+        High Qualty Pelt (28%)
+        Anteka Pelt (15%)
+        White Liver (12%)
+        Raw Meat (10%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Apceros
+==========
+Elder--
+Carve:
+    Body-
+        Raw Meat (47%)
+        Sm Monster Bone (45%)
+        Med Monster Bone (8%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Raw Meat (43%)
+        Sm Monster Bone (40%)
+        Med Monster Bone (15%)
+        Monster Bone+ (2%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Aptonoth
+==========
+Elder--
+Carve:
+    Body-
+        Raw Meat (75%)
+        Sm Monster Bone (25%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Raw Meat (75%)
+        Sm Monster Bone (25%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Basarios
+==========
+Elder--
+Reward For Breaking:
+    Stomach-
+        Machalite Ore (55%)
+        Poison Sac (45%)
+Carve:
+    Body-[x3]
+        Basarios Shell (37%)
+        Machalite Ore (34%)
+        Poison Sac (18%)
+        Lg Monster Bone (8%)
+        Basarios Wing (3%)
+    Tail-[x1]
+        Machalite Ore (55%)
+        Basarios Shell (45%)
+Capture:
+        Machalite Ore x2 (59%)
+        Basarios Shell (36%)
+        Basarios Wing (5%)
+Drop:
+        Wyvern Tears (80%)
+        Machalite Ore (20%)
+
+Upper Rank--
+Reward For Breaking:
+    Stomach-
+        Toxin Sac (45%)
+        Dragonite Ore (30%)
+        Carbalite Ore (25%)
+Carve:
+    Body-[x3]
+        Basarios Carpace (33%)
+        Carbalite Ore (25%)
+        Toxin Sac (15%)
+        Hrd Monster Bone (12%)
+        Basarios Wing (7%)
+        Basarios Tear (5%)
+        Wyvern Stone (3%)
+    Tail-[x1]
+        Basarios Carpace (40%)
+        Carbalite Ore (40%)
+        Dragonite Ore (20%)
+Capture:
+        Carbalite Ore (35%)
+        Basarios Carpace (34%)
+        Dragonite Ore (16%)
+        Basarios Wing (10%)
+        Basarios Tear (5%)
+Drop:
+        Wyvern Tears (40%)
+        Wyvern Sobs (40%)
+        Carbalite Ore (20%)
+        
+G-Level--
+Reward For Breaking:
+    Stomach- Damage (Any), can be broken twice
+        DeadlyPoisonSac (45%)
+        Union Ore (30%)
+        Eltalite Ore (25%)
+Carve:
+    Body-[x3]
+        HvyBasariosShell (33%)
+        Eltalite Ore (25%)
+        DeadlyPoisonSac (15%)
+        Hvy Monster Bone (12%)
+        Basarios Tears (7%)
+        StrBasariosWing (5%)
+    Tail-[x1]
+        HvyBasariosShell (40%)
+        Eltalite Ore (40%)
+        Union Ore (20%)
+Capture: 
+        Eltalite Ore (35%)
+        HvyBasariosShell (34%)
+        Union Ore (16%)
+        Basarios Tears (10%)
+        StrBasariosWing (5%)
+Drop: Awaken from rock mimic, awaken when sleeping
+        Wyvern Sobs (55%)
+        Wyvern Tears (25%)
+        Eltalite Ore (20%)
+
+=======
+Blango
+==========
+Elder--
+Carve:
+    Body-
+        Blango Pelt (50%)
+        Sharp Claw (28%)
+        Bone (22%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Blango Pelt+ (50%)
+        Sharp Claw (23%)
+        Bone (22%)
+        Blango Pelt (5%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Blangonga
+==========
+Elder--
+Reward For Breaking:
+    Fang-
+        Blangonga Fang (100%)
+    Tail-
+        Blangonga Tail (65%)
+        Blangonga Pelt (35%)
+Carve:
+    Body-[x3]
+        Blangonga Pelt (63%)
+        Blangonga Whiskr (21%)
+        Giant Bone (8%)
+        Blangonga Fang (8%)
+Capture:
+        Blangonga Whiskr (40%)
+        Blangonga Pelt (35%)
+        Giant Bone x2 (15%)
+        Blangonga Tail (10%)
+Drop:
+        Territorial Dung (75%)
+        Blangonga Pelt (20%)
+        Dung (5%)
+
+Upper Rank--
+Reward For Breaking:
+    Fang-
+        Blangonga Fang+ (80%)
+        Blangonga Fang (20%)
+    Tail-
+        Blangonga Tail (65%)
+        Blangonga Pelt (35%)
+Carve:
+    Body-[x3]
+        Blangonga Pelt+ (60%)
+        Stout Bone (15%)
+        Blangonga Whiskr (10%)
+        Blangonga Fang (10%)
+        Blangonga Pelt (5%)
+Capture:
+        Blangonga Pelt+ (40%)
+        Blangonga Whiskr x2 (30%)
+        Stout Bone x4 (25%)
+        Blangonga Tail (5%)
+Drop:
+        Territorial Dung (38%)
+        TerritorialDung+ (37%)
+        Blangonga Pelt+ (20%)
+        Dung (5%)
+
+G-Level--
+Reward For Breaking:
+    Fang- Damage (Fire)
+        HvyBlangongaFang (60%)
+        HvyBlangongaFang x2 (20%)
+        Blangonga Fang+ x2 (20%)
+    Tail- Damage (Any)
+        LeathrBlangoTail (60%)
+        HrdBlangongaPlt+ (30%)
+        Blangonga Tail (10%)
+Carve:
+    Body-[x3]
+        HrdBlangongaPlt+ (60%)
+        Massive Bone (15%)
+        Lthr Pelagus Plt (10%)
+        HvyBlangongaFang (10%)
+        Blangonga Pelt+ (5%)
+Capture:
+        HrdBlangongaPlt+ (40%)
+        Lthr Pelagus Plt x2 (30%)
+        Massive Bone x4 (25%)
+        LeathrBlangoTail (5%)
+Drop: Finishes eating without noticing hunter 
+        TerritorialDung+ (50%)
+        Territorial Dung (25%)
+        C.BlangongaPelt+ (20%)
+        Dung (5%)
+
+=======
+Blangonga, Copper
+==========
+G-Level--
+Reward For Breaking:
+    Fang- Damage (Ice)
+        HvyC.BlangoFang (60%)
+        HvyC.BlangoFang x2 (20%)
+        Lthr Pelagus Plt (20%)
+    Tail- Damage (Any)
+        LthrC.BlangoTail (65%)
+        C.BlangongaPelt+ (35%)
+Carve:
+    Body-[x3]
+        C.BlangongaPelt+ (60%)
+        Lthr Pelagus Plt (15%)
+        Massive Bone (15%)
+        HvyC.BlangoFang (10%)
+Capture:
+        C.BlangongaPelt+ (40%)
+        HvyC.BlangoFang x2 (30%)
+        Massive Bone (25%)
+        LthrC.BlangoTail (5%)
+Drop: Finishes eating without noticing hunter
+        TerritorialDung+ (50%)        
+        Territorial Dung (25%)
+        C.BlangongaPelt+ (20%)
+        Dung (5%)
+
+=======
+Bulldrome
+==========
+Elder--
+Carve:
+    Body-
+        Bulldrome Hide (50%)
+        Brute Bone (30%)
+        Bulldrome Tusk (15%)
+        Fango Head (5%)
+Capture:
+        Bulldrome Hide (60%)
+        Brute Bone x2 (25%)
+        Bullfango Head (10%)
+        Bulldrome Tusk (5%)
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Bulldrome Hide+ (30%)
+        Giant Bone (25%)
+        Bulldrome Hide (20%)
+        Bulldrome Tusk (20%)
+        Bullfango Head (5%)
+Capture:
+        Bulldrome Hide (40%)
+        Bulldrome Hide+ (20%)
+        Brute Bone x3 (20%)
+        Giant Bone x2 (15%)
+        Bulldrome Tusk (5%)
+Drop:
+        Cannot drop items
+
+=======
+Bullfango
+==========
+Elder--
+Carve:
+    Body-
+        Bullfango Pelt (59%)
+        Raw Meat (26%)
+        Bone (10%)
+        Bullfango Head (5%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Raw Meat (30%)
+        Bullfango Pelt (30%)
+        Bullfango Head (15%)
+        Bone (15%)
+        Brute Bone (10%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Ceanataur
+==========
+Elder--
+Carve:
+    Body-
+        Sm Ceanataur Shl (42%)
+        Sharp Claw (25%)
+        CarapaceonBrains (25%)
+        Brute Bone (8%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Sm Ceanataur Shl (35%)
+        Ceanataur Shell (25%)
+        CarapaceonBrains (20%)
+        Brute Bone (10%)
+        CarapaceonBrain+ (10%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Cephadrome
+==========
+Elder--
+Reward For Breaking:
+    Back Fin-
+        Cephalos Fin (100%)
+Carve:
+    Body-[x3]
+        Cephalos Scale (58%)
+        Piscine Fang (20%)
+        Piscine Liver (12%)
+        Cephalos Fin (10%)
+Capture:
+        Cephalos Fin (65%)
+        Lg Monster Bone (25%)
+        Piscine Fang (10%)
+Drop:
+        Wyvern Tears (70%)
+        Cephalos Scale (20%)
+        Piscine Liver (10%)
+
+Upper Rank--
+Reward For Breaking:
+    Back Fin-
+        Cephalos Fin+ (85%)
+        Coral Cphlos Fin (15%)
+Carve:
+    Body-[x3]
+        Coral Cphlos Scl (50%)
+        Cephalos Scale (20%)
+        Cephalos Fin+ (14%)
+        Piscine Fang (13%)
+        Piscine Liver (3%)
+Capture:
+        Cephalos Fin+ (55%)
+        Coral Cphlos Fin (15%)
+        Monster Bone+ (15%)
+        Piscine Fang x2 (10%)
+        Hrd Monster Bone (5%)
+Drop:
+        Wyvern Tears (35%)
+        Wyvern Sobs (35%)
+        Coral Cphlos Scl (15%)
+        Piscine Liver (10%)
+        Cephalos Scale (5%)
+
+=======
+Cephalos
+==========
+Elder--
+Carve:
+    Body-
+        Piscine Liver (60%)
+        Cephalos Scale (23%)
+        Piscine Fang (15%)
+        Cephalos Fin (2%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Piscine Liver (50%)
+        Cephalos Scale+ (25%)
+        Coral Cphlos Scl (15%)
+        Piscine Fang (8%)
+        Cephalos Fin (2%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Chameleos
+==========
+Elder--
+Reward For Breaking:
+    Horn-
+        Chameleos Horn (90%)
+        Dragonite Ore (10%)
+Carve:
+    Body-[x4]
+        Chameleos Hide (39%)
+        ChameleosWebbing (24%)
+        Chameleos Claw (19%)
+        Dragonite Ore (13%)
+        ElderDragonBlood (5%)
+    Tail-[x1]
+        Chameleos Tail (60%)
+        Dragonite Ore (22%)
+        ElderDragonBlood (18%)
+Capture: 
+        Cannot be captured
+Drop:
+        Dragon Treasure (75%)
+        Dragonite Ore (25%)
+
+Upper Rank--
+Reward For Breaking:
+    Horn-
+        Chameleos Horn (50%)
+        Chameleos Horn+ (40%)
+        Union Ore (10%)
+Carve:
+    Body-[x4]
+        Chameleos Hide (35%)
+        ChameleosWebbing (24%)
+        Chameleos Hide+ (20%)
+        Union Ore (10%)
+        ElderDragonBlood (6%)
+        Chameleos Jewel (5%)
+    Tail-[x1]
+        Chameleos Tail (60%)
+        Union Ore (17%)
+        ElderDragonBlood (15%)
+        Chameleos Jewel (8%)
+Capture: 
+        Cannot be captured
+Drop:
+        Dragon Treasure (43%)
+        Anc Drgn Treasre (42%)
+        Union Ore (15%)
+
+G-Level--
+Reward For Breaking:
+    Horn- Damage (Dragon)
+        HrdChameleosHorn (70%)
+        Chameleos Spike (20%)
+        Mellanje Ore (10%)
+Note: The wings can't be broken
+Carve:
+    Body-[x4]
+        SpecChameleHide+ (35%)
+        StrChameleosWing (28%)
+        Mellanje Ore (13%)
+        Chameleos Hide+ (10%)
+        ElderDragonBlood (6%)
+        Chameleos Jewel (6%)
+        BigEDragonJewel (2%)
+    Tail-[x1], only when HP is below 30%
+        LthrChameleoTail (60%)
+        Mellanje Ore (17%)
+        ElderDragonBlood (12%)
+        Chameleos Jewel (8%)
+        BigEDragonJewel (3%)
+Capture:
+        Cannot be captured
+Drop: Sonic during its attacks
+        Anc Drgn Treasre (50%)
+        Dragon Treasure (24%)
+        Mellanje Ore (18%)
+        Chameleos Jewel (7%)
+        BigEDragonJewel (1%)
+
+=======
+Conga
+==========
+Elder--
+Carve:
+    Body-
+        Conga Pelt (50%)
+        Sharp Claw (28%)
+        Bone (22%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Conga Pelt+ (50%)
+        Sharp Claw (23%)
+        Bone (22%)
+        Conga Pelt (5%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Congalala
+==========
+Elder--
+Reward For Breaking:
+    Head-
+        Congalala Pelt (60%)
+        Vibrant Pelt (40%)
+    Claw-
+        Congalala Claw (92%)
+        Sharp Claw x2 (8%)
+Carve:
+    Body-[x3]
+        Congalala Pelt (63%)
+        Congalala Fang (29%)
+        Giant Bone (8%)
+Capture:
+        Congalala Pelt (40%)
+        Congalala Fang (40%)
+        Brute Bone x4 (20%)
+Drop:
+    Bone-
+        Territorial Dung (75%)
+        Sm Monster Bone (15%)
+        Brute Bone (10%)
+    Mushroom-
+        Territorial Dung (75%)
+        Blue Mushroom (20%)
+        Exciteshroom (5%)
+    Mineral Stone-
+        Territorial Dung (60%)
+        Machalite Ore (39%)
+        Lightcrystal (1%)
+
+Upper Rank--
+Reward For Breaking:
+    Head-
+        Congalala Pelt+ (50%)
+        Vibrant Pelt (50%)
+    Claw-
+        Congalala Claw (50%)
+        Congalala Claw+ (50%)
+Carve:
+    Body-[x3]
+        Congalala Pelt+ (60%)
+        Congalala Fang (20%)
+        Stout Bone (15%)
+        Congalala Pelt (5%)
+Capture:
+        Congalala Pelt+ (40%)
+        Congalala Fang x2 (35%)
+        Stout Bone x4 (25%)
+Drop:
+    Bone-
+        Territorial Dung (35%)
+        TerritorialDung+ (35%)
+        Monster Bone+ (20%)
+        Hrd Monster Bone (10%)
+    Mushroom-
+        Territorial Dung (35%)
+        TerritorialDung+ (35%)
+        Blue Mushroom (20%)
+        Nitroshroom (10%)
+    Mineral Stone-
+        Territorial Dung (35%)
+        TerritorialDung+ (35%)
+        Dragonite Ore (29%)
+        Novacrystal (1%)
+
+G-Level--
+Reward For Breaking:
+    Head- Damage (Any)
+        HrdCongalalaPlt+ (60%)
+        Vibrant Pelt (40%)
+    Claws- Damage (Any)
+        HrdCongalalaClw+ (60%)
+        Congalala Claw+ x2 (20%)
+        HrdCongalalaClw+ x2 (20%)
+Carve:
+    Body-[x3]
+        HrdCongalalaPlt+ (50%)
+        Lg Pelagus Fang (30%)
+        Massive Bone (15%)
+        Congalala Pelt+ (5%)
+Capture:
+        HrdCongalalaPlt+ (40%)
+        Lg Pelagus Fang x2 (35%)
+        Massive Bone x4 (25%)
+Drop: Stagger the tail
+    Mushroom-
+        TerritorialDung+ (48%)
+        Territorial Dung (22%)
+        Nitroshroom (20%)
+        Dragon Toadstool (10%)
+    Ore-
+        TerritorialDung+ (48%)
+        Territorial Dung (22%)
+        Union Ore (29%)
+        Purecrystal (1%)
+    Bone-    
+        TerritorialDung+ (48%)
+        Territorial Dung (22%)
+        Hrd Monster Bone (20%)
+        Hvy Monster Bone (10%)
+
+=======
+Congalala, Emerald
+==========
+G-Level--
+Reward For Breaking:
+    Claw- Damage (Any), both paws can be broken
+        HrdE.CongaClaw (60%)
+        E.CongalalaPelt+ (20%)
+        HrdE.CongaClaw x2 (20%)
+    Head- Damage (Any)
+        E.CongalalaPelt+ (60%)
+        Vibrant Comb (40%)
+Carve: 
+    Body-[x3]
+        E.CongalalaPelt+ (50%)
+        Lg Pelagus Fang (30%)
+        Massive Bone (15%)
+        Stout Bone (5%)
+Capture:
+        E.CongalalaPelt+ (40%)
+        Lg Pelagus Fang x2 (35%)
+        Massive Bone x4 (25%)
+Drop: Stagger the tail
+    Mushroom-
+        TerritorialDung+ (48%)
+        Territorial Dung (22%)
+        Nitroshroom (20%)
+        Dragon Toadstool(10%)
+    Ore-
+        TerritorialDung+ (48%)
+        Territorial Dung (22%)
+        Union Ore (29%)
+        Purecrystal (1%)
+    Bone-    
+        TerritorialDung+ (48%)
+        Territorial Dung (22%)
+        Hrd Monster Bone (20%)
+        Hvy Monster Bone (10%)
+
+=======
+Daimyo Hermitaur
+==========
+Elder--
+Reward For Breaking:
+    Shell-
+        Blood Red Horn (50%)
+        Hermitaur Shell (25%)
+        Giant Bone (20%)
+        Wyvern Skull Shl (5%)
+    Claw-
+        Hermitaur Claw (100%)
+Carve:
+    Body-[x3]
+        Hermitaur Shell (60%)
+        Lg Monster Bone (19%)
+        Hermitaur Claw (10%)
+        Black Pearl (10%)
+        CarapaceonBrains (1%)
+Capture:
+        Hermitaur Claw (45%)
+        Hermitaur Shell (35%)
+        Black Pearl x2 (20%)
+Drop:
+        Crab Pearl (75%)
+        Black Pearl (25%)
+
+Upper Rank--
+Reward For Breaking:
+    Shell-
+        Blood Red Horn (50%)
+        Hermitaur Carpce (25%)
+        Hrd Monster Bone (15%)
+        Wyvern Skull Shl (5%)
+        Monoblos Heart (5%)
+    Claw-
+        Hermitaur Claw (78%)
+        Hermitaur Carpce (22%)
+Carve:
+    Body-[x3]
+        Hermitaur Carpce (55%)
+        Monster Bone+ (19%)
+        Hermitaur Claw+ (10%)
+        Black Pearl (10%)
+        Hermitaur Shell (5%)
+        CarapaceonBrain+ (1%)
+Capture:
+        Hermitaur Claw+ (45%)
+        Hermitaur Carpce (35%)
+        Black Pearl x2 (20%)
+Drop:
+        Crab Pearl (38%)
+        Crab Pearl+ (37%)
+        Black Pearl (25%)
+
+G-Level--
+Reward For Breaking:
+    Claws- Damage (Any), requires both to be broken
+        HrdHermitaurClaw (50%)
+        HrdHermitaurClaw(20%)
+        Hermitaur Claw+ (15%)
+        HvyHermitaurShl (15%)
+    Shell- Damage (Impact), can be broken twice
+        HvyHermitaurShl (35%)
+        Blood Red Horn (33%)
+        Hvy Monster Bone (20%)
+        Monoblos Heart (7%)
+        Wyvern Skull Shl (5%)
+Carve:
+    Body-[x3]
+        HvyHermitaurShl (51%)
+        Hrd Monster Bone (19%)
+        HrdHermitaurClaw (10%)
+        Giant Blk Pearl (10%)
+        Hermitaur Carpce (5%)
+        CarapaceonBrain+ (5%)
+Capture: Produces blackish-purple foam from its mouth
+        HrdHermitaurClaw (45%)
+        HvyHermitaurShl (30%)
+        Giant Blk Pearl (15%)
+        Hermitaur Carpce (10%)
+Drop: Finishes eating without noticing hunter
+        Crab Pearl+ (50%) 
+        Crab Pearl (25%)
+        Giant Blk Pearl (15%)
+        Black Pearl (10%)
+
+=======
+Daimyo Hermitaur, Plum
+==========
+G-Level--
+Reward For Breaking:
+    Claws- Damage (Any), requires both to be broken
+        PlumD.HermitrClw (58%)
+        PlumD.HermitrClw x2 (20%)
+        PlumD.HermitrShl (22%)
+    Shell- Damage (Impact), can be broken twice
+        PlumD.HermitrShl (35%)
+        Hvy Monster Bone (20%) 
+        Wyvern Skull Shl (15%)
+        Majestic Horn (30%)
+Carve:
+    Body-[x3]
+        PlumD.HermitrShl (51%)
+        Hrd Monster Bone (22%)
+        Giant Blk Pearl (12%)
+        PlumD.HermitrClw (10%)
+        CarapaceonBrain+ (5%)
+Capture: Produces blackish-purple foam from its mouth
+        PlumD.HermitrClw (45%)
+        PlumD.HermitrShl (35%)
+        Giant Blk Pearl (20%)
+Drop: Finishes eating without noticing hunter
+        Crab Pearl+ (50%)
+        Crab Pearl (25%)
+        Giant Blk Pearl (15%)
+        Black Pearl (10%)
+
+=======
+Diablos
+==========
+Elder--
+Reward For Breaking:
+    Horn-
+        Twisted Horn (92%)
+        Majestic Horn (8%)
+Carve:
+    Body-[x3]
+        Diablos Shell (63%)
+        Blos Fang (30%)
+        Diablos Spine (7%)
+    Tail-[x1]
+        Diablos Shell (60%)
+        Diablos Tail (40%)
+Capture:
+        Diablos Shell (40%)
+        Blos Fang x3 (39%)
+        Diablos Spine (11%)
+        Diablos Tail (10%)
+Drop:
+        Wyvern Tears (95%)
+        Diablos Spine (5%)
+
+Upper Rank--
+Reward For Breaking:
+    Horn-
+        Twisted Horn (80%)
+        Majestic Horn (20%)
+Carve:
+    Body-[x3]
+        Diablos Carapace (56%)
+        Blos Fang (22%)
+        Diablos Shell (10%)
+        Diablos Thoracic (7%)
+        Wyvern Stone (5%)
+    Tail-[x1]
+        Diablos Tail (64%)
+        Diablos Carapace (26%)
+        Diablos Shell (10%)
+Capture:
+        Diablos Carapace (57%)
+        Blos Fang x3 (27%)
+        Diablos Thoracic (11%)
+        Diablos Tail (5%)
+Drop:
+        Wyvern Sobs (48%)
+        Wyvern Tears (47%)
+        Diablos Thoracic (5%)
+
+G-Level--
+Reward For Breaking:
+    Horn- Damage (Any), can be broken twice
+        Majestic Horn (60%)
+        StoutWarpedHorn (40%)
+Carve:
+    Body-[x3]
+        HvyDiablosShell (63%)
+        HvyDiablosSpine (17%)
+        Diablos Carapace (10%)
+        Blos Fang (5%)
+        Big Wyvern Stone (5%)
+    Tail-[x1]
+        LthrDiablosTail (64%)
+        HvyDiablosShell (26%)
+        Diablos Carapace (10%)
+Capture: HP below 40%(Elder), 24%(Upper), 20%(G-Level)
+        HvyDiablosShell (60%)
+        HvyDiablosSpine (15%)
+        Blos Fang x4 (15%)
+        LthrDiablosTail (10%)
+Drop: Horns stuck on wall (doesn't work if broken)
+        Wyvern Sobs (60%)
+        Wyvern Tears (35%)
+        HvyDiablosSpine (5%)
+
+=======
+Diablos, Black
+==========
+Elder--
+Reward For Breaking:
+    Horn-
+        TwstBlkBlosHrn (69%)
+        Twisted Horn x2 (16%)
+        Majestic Horn (15%)
+Carve:
+    Body-[x3]
+        Black Blos Shell (63%)
+        Blos Fang (30%)
+        Black Blos Spine (7%)
+    Tail-[x1]
+        Black Blos Tail (60%)
+        Black Blos Shell (40%)
+Capture:
+        Black Blos Shell (40%)
+        Blos Fang x3 (39%)
+        Black Blos Spine (11%)
+        Black Blos Tail (10%)
+Drop:
+        Wyvern Tears (95%)
+        Black Blos Spine (5%)
+
+Upper Rank--
+Reward For Breaking:
+    Horn-
+        TwstBlkBlosHrn (50%)
+        Majestic Horn x2 (32%)
+        Majestic Horn (18%)
+Carve:
+    Body-[x3]
+        Black Blos Cpc (56%)
+        Blos Fang (20%)
+        Black Blos Shell (10%)
+        Blk Blos Thracic (7%)
+        Wyvern Stone (7%)
+    Tail-[x1]
+        Black Blos Tail (64%)
+        Black Blos Cpc (30%)
+        Wyvern Stone (6%)
+Capture:
+        Black Blos Cpc (57%)
+        Blos Fang x3 (27%)
+        Blk Blos Thracic (11%)
+        Black Blos Tail (5%)
+Drop:
+        Wyvern Tears (48%)
+        Wyvern Sobs (47%)
+        Blk Blos Thracic (5%)
+
+G-Level--
+Reward For Breaking:
+    Horn- Damage (Any), can be broken twice
+        StoutBlkTwstdHrn (40%)
+        TwstBlkBlosHrn x2 (40%)
+        Majestic Horn (20%)
+Carve:
+    Body-[x3]
+        HvyBlkBlosShell (63%)
+        HvyBlkBlosSpine (17%)
+        Black Blos Cpc (8%)
+        Big Wyvern Stone (7%)
+        Blos Fang (5%)
+    Tail-[x1]
+        LthrBlkBlosTail (64%)
+        HvyBlkBlosShell (26%)
+        Big Wyvern Stone (6%)
+        Black Blos Cpc (4%)
+Capture: HP below 40%(Elder), 24%(Upper), 20%(G-Level)
+        HvyBlkBlosShell (60%)
+        HvyBlkBlosSpine (15%)
+        Blos Fang x4 (15%)
+        LthrBlkBlosTail (10%)
+Drop: Horns stuck on wall (doesn't work if broken)
+        Wyvern Sobs (60%)
+        Wyvern Tears (35%)
+        HvyBlkBlosSpine (5%)
+
+=======
+Fatalis
+==========
+G-Level--
+Reward For Breaking:
+    Horn (1st Stage)- Damage
+        HardFatalisHorn (80%)
+        Fatalis Horn (20%)
+    Horn (2nd Stage)- Damage
+        HardFatalisHorn (80%)
+        Fatalis Horn (20%)
+    Eye (3rd Stage)- Damage
+        Fatalis Evil Eye (80%)
+        Fatalis Eye (20%)
+    Wings- Damage
+        Str Fatalis Wng (100%)
+    Chest- Damage
+        ThckFatalisScale (85%)
+        Hvy Fatalis Shl (15%)
+Carve:
+    Head, Upper Body, Lower Body-[x3 each]
+        Hvy Fatalis Shl (44%)
+        ThckFatalisScale (38%)
+        Fatalis Shell (10%)
+        HardFatalisHorn (8%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Fatalis, Crimson
+==========
+G-Level--
+Reward For Breaking:
+    Horn (1st Stage)- Damage (Any)
+        HrdFatlisCrmHorn (80%)
+        Fatalis CrmsnHrn (20%)
+    Horn (2nd Stage)- Damage (Any)
+        HardFatalisHorn (80%)
+        Fatalis Horn (20%)
+    Eye (3rd Stage)- Damage (Any)
+        Fatalis Evil Eye (80%)
+        Fatalis DevilEye (20%)
+    Wings- Damage (Any), both required to be broken
+        StrFatlisCrmWing (100%)
+    Chest- Damage (Any)
+        ThckFatlisCrmScl (85%)
+        HvyFatalisCrmShl (15%)
+Carve:
+    Head, Upper Body, Lower Body-[x3 each]
+        ThckFatlisCrmScl (34%)
+        HvyFatalisCrmShl (23%)
+        ThckFatalisScale (19%)
+        Hvy Fatalis Shl (15%)
+        Fatalis CrmsnHrn (6%)
+        HardFatalisHorn (3%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Fatalis, White
+==========
+G-Level--
+Reward For Breaking:
+    Horn (1st Stage)- Damage (Any)
+        HrdWhtFatlisHorn (80%)
+        Wht Fatalis Horn (20%)
+    Horn (2nd Stage)- Damage (Any)
+        HardFatalisHorn (80%)
+        Fatalis Horn (20%)
+    Eye (3rd Stage)- Damage (Any)
+        Fatalis Evil Eye (80%)
+        Fatalis DevilEye (20%)
+    Wings- Damage (Any), both required to be broken
+        StrWhtFatalisWng (100%)
+    Chest- Damage
+        ThckWhtFatlisScl (75%)
+        HvyWhtFatalisShl (25%)
+Carve:
+    Head, Upper Body, Lower Body-[x3 each]
+        ThckWhtFatlisScl (31%)
+        HvyWhtFatalisShl (24%)
+        ThckFatalisScale (20%)
+        Hvy Fatalis Shl (17%)
+        HardFatalisHorn (5%)
+        HrdWhtFatlisHorn (3%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Gendrome
+==========
+Elder--
+Carve:
+    Body-
+        Gendrome Hide (48%)
+        Paralysis Sac (35%)
+        Genprey Scale (15%)
+        Gendrome Skull(2%)
+Capture:
+        Gendrome Hide (56%)
+        Paralysis Sac x2 (39%)
+        Gendrome Skull (5%)
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Gendrome Tail (30%)
+        Paralysis Sac (23%)
+        Genprey Scale+ (20%)
+        Genprey Hide+ (15%)
+        Gendrome Skull (7%)
+        Gendrome Hide (5%)
+Capture:
+        Genprey Hide+ x2 (40%)
+        Paralysis Sac x2 (36%)
+        Genprey Scale+ x2 (24%)
+Drop:
+        Cannot drop items
+
+=======
+Genprey
+==========
+Elder--
+Carve:
+    Body-
+        Genprey Fang (42%)
+        Genprey Scale (33%)
+        Genprey Hide (25%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Genprey Fang (35%)
+        Genprey Scale+ (35%)
+        Genprey Hide+ (30%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Giadrome
+==========
+Elder--
+Carve:
+    Body-
+        Giadrome Claw (53%)
+        Giadrome Hide (30%)
+        Giaprey Scale (15%)
+        Giadrome Skull (2%)
+Capture:
+        Giadrome Hide (56%)
+        Screamer x2 (39%)
+        Giadrome Skull (5%)
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Giadrome Claw+ (40%)
+        Giaprey Scale+ (23%)
+        Giadrome Thigh (20%)
+        Giadrome Hide (10%)
+        Giadrome Skull (7%)
+Capture:
+        Giadrome Thigh x2 (40%)
+        Screamer x2 (36%)
+        Giaprey Scale+ (24%)
+Drop:
+        Cannot drop items
+
+=======
+Giaprey
+==========
+Elder--
+Carve:
+    Body-
+        Giaprey Scale(52%)
+        Giaprey Hide (30%)
+        Sm Monster Bone (18%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Giaprey Scale+ (50%)
+        Giaprey Hide+ (40%)
+        Sm Monster Bone (10%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Gravios
+==========
+Elder--
+Reward For Breaking:
+    Stomach-
+        Gravios Shell (90%)
+        Sleep Sac x2 (10%)
+Carve:
+    Body-[x4]
+        Gravios Shell (63%)
+        Sleep Sac (20%)
+        Flame Sac (12%)
+        Gravios Skl Shl (5%)
+    Tail-[x2]
+        Gravios Shell (73%)
+        Lg Monster Bone (23%)
+        Firestone (4%)
+Capture:
+        Flame Sac x2 (41%)
+        Gravios Shell (32%)
+        Sleep Sac (21%)
+        Firestone (6%)
+Drop:
+        Wyvern Tears (94%)
+        Firestone (6%)
+
+Upper Rank--
+Reward For Breaking:
+    Stomach-
+        Gravios Carapace (57%)
+        Gravios Shell (33%)
+        Sleep Sac x2 (10%)
+Carve:
+    Body-[x4]
+        Gravios Carapace (50%)
+        Gravios Shell (18%)
+        Sleep Sac (10%)
+        Inferno Sac (10%)
+        Wyvern Stone (7%)
+        Gravios Skl Shl (5%)
+    Tail-[x2]
+        Gravios Carapace (66%)
+        Hrd Monster Bone (20%)
+        Gravios BrainStm (12%)
+        Firecell Stone (2%)
+Capture:
+        Inferno Sac (34%)
+        Gravios Carapace (32%)
+        Sleep Sac (20%)
+        Firestone (8%)
+        Firecell Stone (6%)
+Drop:
+        Wyvern Tears (47%)
+        Wyvern Sobs (47%)
+        Flame Sac (6%)
+
+G-Level--
+Reward For Breaking:
+    Stomach- Damage (Any), can be broken twice
+        HvyGraviosShell (57%)
+        Gravios Carapace (18%)
+        Coma Sac x2 (15%)
+        HvnlyBlkGraviShl (10%)
+Carve:
+    Body-[x4]
+        HvyGraviosShell (50%)
+        Coma Sac (17%)
+        Gravios Carapace (10%)
+        Blazing Fire Sac (10%)
+        Big Wyvern Stone (7%)
+        HvnlyBlkGraviShl (6%)
+    Tail-[x2]
+        HvyGraviosShell (66%)
+        Hvy Monster Bone (20%)
+        Gravios BrainStm (12%)
+        Firecell Stone (2%)
+Capture:
+        HvyGraviosShell (40%)
+        Coma Sac (30%)
+        Blazing Fire Sac (16%)
+        Firecell Stone (14%)
+Drop: Awaken when sleeping through high damage
+        Wyvern Sobs (60%)
+        Wyvern Tears (30%)
+        Firecell Stone (10%)
+
+=======
+Gravios, Black
+==========
+Elder--
+Reward for Breaking:
+    Stomach-
+        Blk Gravios Shl (90%)
+        Sleep Sac x2 (10%)
+Carve:
+    Body-[x4]
+        Blk Gravios Shl (58%)
+        Sleep Sac (20%)
+        Flame Sac (12%)
+        Blk Gravios Shl (10%)
+    Tail-[x2]
+        Blk Gravios Shl (72%)
+        Lg Monster Bone (25%)
+        Firestone (3%)
+Capture:
+        Flame Sac x3 (41%)
+        Blk Gravios Shl (32%)
+        Sleep Sac (20%)
+        Firestone (7%)
+Drop:
+        Wyvern Tears (94%)
+        Firestone (6%)
+
+Upper Rank--
+Reward For Breaking:
+    Stomach-
+        Blk Gravios Cpc (57%)
+        Blk Gravios Shl (35%)
+        Firecell Stone (8%)
+Carve:
+    Body-[x4]
+        Blk Gravios Cpc (50%)
+        Blk Gravios Shl (13%)
+        Sleep Sac (10%)
+        Inferno Sac (10%)
+        Blk Gravios Skl (10%)
+        Wyvern Stone (7%)
+    Tail-[x2]
+        Blk Gravios Cpc (58%)
+        Hrd Monster Bone (25%)
+        Inferno Sac (9%)
+        Gravios BrainStm (8%)
+Capture:
+        Inferno Sac (34%)
+        Blk Gravios Cpc (32%)
+        Sleep Sac (20%)
+        Firestone (8%)
+        Firecell Stone (6%)
+Drop:
+        Wyvern Tears (47%)
+        Wyvern Sobs (47%)
+        Firecell Stone (6%)
+
+G-Level--
+Reward For Breaking:
+    Stomach- Damage (Any), can be broken twice
+        HvyBlkGraviosShl (57%)
+        Blk Gravios Cpc (18%)
+        Coma Sac x2 (15%)
+        HvnlyBlkGraviShl (10%)
+Carve:
+    Body-[x4]
+        HvyBlkGraviosShl (50%)
+        Coma Sac (17%)
+        Blk Gravios Cpc (10%)
+        Blazing Fire Sac (10%)
+        Big Wyvern Stone (7%)
+        HvnlyBlkGraviShl (6%)
+    Tail-[x2]
+        HvyBlkGraviosShl (66%)
+        Hvy Monster Bone (20%)
+        Gravios BrainStm (8%)
+        Firecell Stone (6%)
+Capture:
+        HvyBlkGraviosShl (40%)
+        Coma Sac (30%)
+        Blazing Fire Sac (16%)
+        Firecell Stone (14%)
+Drop: Awaken from sleeping with high damage
+        Wyvern Sobs (60%)
+        Wyvern Tears (30%)
+        Firecell Stone (10%)
+
+=======
+Great Thunderbug
+==========
+Elder--
+Carve:
+    Body-
+        Cannot be carved
+Capture:
+        Cannot be captured
+Drop:
+        Thunderbug Juice (50%)
+        Thunderbug (30%)
+        Monster Fluid (20%)
+
+Upper Rank--
+Carve:
+    Body-
+        Cannot be carved
+Capture:
+        Cannot be captured
+Drop:
+        Thunderbug Juice (70%)
+        Monster Broth (20%)
+        Thunderbug (10%)
+
+=======
+Gypceros
+==========
+Elder--
+Reward For Breaking:
+    Head Crystal-
+        Iron Ore (66%)
+        Lightcrystal (29%)
+        Gypceros Head (5%)
+Carve:
+    Body-[x3]
+        Rubbery Hide (61%)
+        Power Extract (20%)
+        Poison Sac (10%)
+        Lightcrystal (8%)
+        Gypceros Head (1%)
+Capture:
+        Poison Sac x2 (46%)
+        Power Extract x2 (34%)
+        Rubbery Hide (20%)
+Drop:
+        Wyvern Tears (74%)
+        Power Extract (20%)
+        Lightcrystal (6%)
+
+Upper Rank--
+Reward For Breaking:
+    Head Crystal-
+        Dragonite Ore (68%)
+        Lightcrystal (20%)
+        Novacrystal (7%)
+        Gypceros Head (5%)
+Carve:
+    Body-[x3]
+        Rubbery Hide+ (43%)
+        Power Extract (23%)
+        Toxin Sac (18%)
+        Novacrystal (8%)
+        Gypceros Head (5%)
+        Lightcrystal (3%)
+    When Playing Dead-[x1]
+        Rubbery Hide+ (60%)
+        Wyvern Sobs (30%)
+        Toxin Sac (10%)
+Capture:
+        Toxin Sac x2 (42%)
+        Power Extract x2 (30%)
+        Rubbery Hide+ (18%)
+        Rubbery Hide (10%)
+Drop:
+        Cannot drop items
+
+G-Level--
+Reward For Breaking:
+    Head- Damage (Any)
+        Dragonite Ore (58%)
+        Novacrystal (20%)
+        Gypceros Head (10%)
+        Purecrystal (7%)
+        HardGypcerosHead (5%)
+Carve:
+    Body-[x3]
+        SpecRubberyHide+ (43%)
+        DeadlyPoisonSac (23%)
+        Power Extract (18%)
+        Novacrystal (8%)
+        HardGypcerosHead (5%)
+        Purecrystal (3%)
+    Body-[x3], while it is playing dead
+        SpecRubberyHide+ (30%)
+        Wyvern Sobs (25%)
+        Power Extract (15%)
+        DeadlyPoisonSac (13%)
+        Wyvern Tears (10%)
+        HardGypcerosHead (7%)
+Capture: HP is below 30%
+        DeadlyPoisonSac x2 (42%)
+        SpecRubberyHide+ (18%)
+        Toxin Sac x2 (15%)
+        Power Extract x2 (15%)
+        Rubbery Hide+ (10%)
+Drop: 
+        Cannot drop items
+
+=======
+Gypceros, Purple
+==========
+Elder--
+Reward For Breaking:
+    Head Crystal-
+        Iron Ore x2 (66%)
+        Lightcrystal (29%)
+        Gypceros Head (5%)
+Carve:
+    Body-[x3]
+        Pur Rubbery Hide (61%)
+        Power Extract (20%)
+        Poison Sac (10%)
+        Lightcrystal (8%)
+        Gypceros Head (1%)
+Capture:
+        Poison Sac x2 (46%)
+        Power Extract x2 (34%)
+        Pur Rubbery Hide (20%)
+Drop:
+        Wyvern Tears (74%)
+        Power Extract (20%)
+        Lightcrystal (6%)
+
+Upper Rank--
+Reward For Breaking:
+    Head Crystal-
+        Dragonite Ore (68%)
+        Lightcrystal (20%)
+        Novacrystal (7%)
+        Gypceros Head (5%)
+Carve:
+    Body-[x3]
+        Pur Gypceros Wng (43%)
+        Power Extract (23%)
+        Toxin Sac (18%)
+        Lightcrystal (8%)
+        Pur Rubbery Hide (5%)
+        Novacrystal (3%)
+    When Playing Dead-[x1]
+        Pur Gypceros Wng (60%)
+        Wyvern Sobs (30%)
+        Toxin Sac (10%)
+Capture:
+        Toxin Sac x2 (42%)
+        Power Extract x2 (30%)
+        Pur Gypceros Wng (18%)
+        Pur Rubbery Hide (10%)
+Drop: 
+        Cannot drop items
+
+G-Level--
+Reward For Breaking:
+    Head- Damage (Any)
+        Dragonite Ore (58%)
+        Novacrystal (20%)
+        Gypceros Head (10%)
+        Purecrystal (7%)
+        HardGypcerosHead (5%)
+Carve:
+    Body-[x3]
+        HrdPuGypcerosWng (43%)
+        DeadlyPoisonSac (23%)
+        Power Extract (18%)
+        Novacrystal (8%)
+        HardGypcerosHead (5%)
+        Purecrystal (3%)
+    Body-[x3], while it is playing dead
+        HrdPuGypcerosWng (30%)
+        Wyvern Sobs (25%)
+        Power Extract (15%)
+        DeadlyPoisonSac (13%)
+        Wyvern Tears (10%)
+        HardGypcerosHead (7%)
+Capture: HP is below 30%
+        DeadlyPoisonSac x2 (42%)
+        HrdPuGypcerosWng (18%)
+        Toxin Sac x2 (15%)
+        Power Extract x2 (15%)
+        Pur Gypceros Wng (10%)
+Drop:
+        Cannot drop items
+
+=======
+Hermitaur
+==========
+Elder--
+Carve:
+    Body-
+        Sm Hermitaur Shl (40%)
+        CarapaceonBrains (34%)
+        Sharp Claw (26%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        CarapaceonBrains (42%)
+        Sm Hermitaur Shl (20%)
+        Hermitaur Shell (18%)
+        Black Pearl (10%)
+        CarapaceonBrain+ (10%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Hornetaur
+==========
+Elder--
+Carve:
+    Body-
+        Hornetaur Shell (40%)
+        Hornetaur Wing (32%)
+        Monster Fluid (20%)
+        Hornetaur Head (8%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Hornetaur Crapce (40%)
+        Monster Broth (19%)
+        Hornetaur Head (18%)
+        HornetaurInnrWng (15%)
+        Hornetaur Wing (8%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Hypnocatrice
+==========
+Upper/Elder rank--
+Reward For Breaking:
+    Head- Damage (Any)
+        Hypno Beak (90%)
+        Sleep Sac x2 (10%)
+Carve:
+    Body-[x3]
+        Top-GrdHypnoClaw (40%)
+        OrangeHypnoPelt (32%)
+        Sleep Sac (24%)
+        Hypno Bezoar (4%)
+Capture:
+        RainbowTailFeath (36%)
+        OrangeHypnoPelt x2 (28%)
+        Sleep Sac x2 (24%)
+        Sleepyfish x2 (6%)
+Drop: Put Hypnoc to Sleep
+        OrangeHypnoPelt (32%)
+        Wyvern Sobs (30%)
+        Wyvern Tears (30%)
+        Hypno Bezoar (8%)
+
+G-Level--
+Reward For Breaking:
+    Head- Damage (Any)
+        Hypno Fang (85%)
+        Hypno Beak (10%)
+        Sleep Sac x2 (5%)
+Carve:
+    Body-[x3]
+        Hypno Claw+ (30%)
+        OrangeHypnoPelt+ (28%)
+        OrangeHypnoPelt (12%)
+        Top-GrdHypnoClaw (10%)
+        Hypno Bezoar (8%)
+        Sleep Sac (8%)
+        Hypno Bezoar+ (4%)
+Capture:
+        OrangeHypnoPelt+ (28%)
+        RainbowTailFeath (25%)
+        Hypno Claw+ (15%)
+        Hypno Bezoar (12%)
+        Sleep Sac x2 (10%)
+        Hypno Bezoar+ (6%)
+        OrangeHypnoPelt x2 (4%)
+Drop: Put Hypnoc to Sleep
+        Wyvern Sobs (40%)
+        OrangeHypnoPelt+ (32%)
+        Wyvern Tears (20%)
+        Hypno Bezoar+ (8%)
+
+=======
+Iodrome
+==========
+Elder--
+Carve:
+    Body-
+        Iodrome Hide (48%)
+        Poison Sac (35%)
+        Ioprey Scale (15%)
+        Iodrome Skull (2%)
+Capture:
+        Iodrome Hide (56%)
+        Poison Sac x2 (39%)
+        Iodrome Skull (5%)
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Toxin Sac (30%)
+        Ioprey Scale+ (28%)
+        Ioprey Hide+ (25%)
+        Iodrome Hide (10%)
+        Iodrome Skull (7%)
+Capture:
+        Ioprey Hide+ x2 (40%)
+        Toxin Sac x2 (36%)
+        Ioprey Scale+ x2 (24%)
+Drop:
+        Cannot drop items
+
+=======
+Ioprey
+==========
+Elder--
+Carve:
+    Body-
+        Ioprey Fang (47%)
+        Ioprey Scale (38%)
+        Ioprey Hide (15%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Ioprey Fang (35%)
+        Ioprey Scale+ (35%)
+        Ioprey Hide+ (35%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Kelbi
+==========
+Elder--
+Carve:
+    Body-
+        Kelbi Horn (50%)
+        Kelbi Hide (32%)
+        White Liver (15%)
+        Raw Meat (3%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Kelbi Horn (35%)
+        High Qualty Pelt (25%)
+        Kelbi Hide (22%)
+        White Liver (15%)
+        Raw Meat (3%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Khezu
+==========
+Elder--
+Reward For Breaking:
+    Head/Back-
+        Pale Extract (92%)
+        Pale Bone (8%)
+Carve:
+    Body-[x3]
+        Flabby Hide (50%)
+        Pale Extract (35%)
+        Electro Sac (15%)
+Capture:
+        Pale Extract x2 (40%)
+        Flabby Hide (32%)
+        Electro Sac x2 (20%)
+        Pale Bone (8%)
+Drop:
+        Wyvern Tears (75%)
+        Pale Extract (20%)
+        Pale Bone (5%)
+
+Upper Rank--
+Reward For Breaking:
+    Head/Back-
+        Pale Extract (77%)
+        Pale Bone (15%)
+        Pale Khezu Steak (8%)
+Carve:
+    Body-[x3]
+        Khezu Hide - Tan (50%)
+        Pale Extract (27%)
+        Thunder Sac (15%)
+        Flabby Hide (4%)
+        Wyvern Stone (4%)
+Capture:
+        Pale Extract x2 (40%)
+        Khezu Hide - Tan (32%)
+        Thunder Sac x2 (20%)
+        Pale Khezu Steak (8%)
+Drop:
+        Wyvern Sobs (38%)
+        Wyvern Tears (37%)
+        Pale Extract (20%)
+        Pale Khezu Steak (5%)
+       
+G-Level--
+Reward For Breaking:
+    Head and Back (scar up)- Damage (Any)
+        KhezuHide-Cream (50%)
+        Pale Extract (27%)
+        Pale Khezu Steak (15%)
+        KhezuSpecialCut (8%) 
+Carve:
+    Body-[x3]
+        KhezuHide-Cream (50%)
+        Lightning Sac (20%)
+        Thunder Sac (14%)
+        Wyvern Stone (8%)
+        Khezu Hide - Tan (4%)
+        Big Wyvern Stone (4%)
+Capture: HP below 10%
+        KhezuHide-Cream (35%)
+        Thunder Sac x2 (25%)
+        Lightning Sac x2 (17%)
+        Khezu Steak (15%)
+        KhezuSpecialCut (8%)
+Drop: Drip acid from ceiling
+        Wyvern Sobs (50%)
+        Wyvern Tears (25%)
+        Khezu Steak (10%)
+        Pale Extract (8%)
+        KhezuSpecialCut (7%)
+
+=======
+Khezu, Red
+==========
+Elder--
+Reward For Breaking:
+    Head/Back-
+        Pale Extract (92%)
+        Pale Bone (8%)
+Carve:
+    Body-[x3]
+        Alluring Hide (50%)
+        Pale Extract (35%)
+        Electro Sac (15%)
+Capture:
+        Pale Extract x2 (40%)
+        Alluring Hide (32%)
+        Electro Sac x2 (20%)
+        Pale Bone (8%)
+Drop:
+        Wyvern Tears (75%)
+        Pale Extract (20%)
+        Pale Bone (5%)
+
+Upper Rank--
+Reward For Breaking:
+    Head/Back-
+        Pale Extract (77%)
+        Pale Bone (15%)
+        Pale Khezu Steak (8%)
+Carve:
+    Body-[x3]
+        Alluring Webbing (50%)
+        Pale Extract (27%)
+        Thunder Sac (15%)
+        Alluring Hide (4%)
+        Wyvern Stone (4%)
+Capture:
+        Pale Extract x2 (40%)
+        Alluring Webbing (32%)
+        Thunder Sac x2 (20%)
+        Pale Khezu Steak (8%)
+Drop:
+        Wyvern Tears (38%)
+        Wyvern Sobs (37%)
+        Pale Extract (20%)
+        Pale Khezu Steak (5%)
+        
+G-Level--
+Reward For Breaking:
+    Head and Back (scar up) - Damage (Any)
+        StrAlluringWing (50%)
+        Pale Extract (27%)
+        Khezu Steak (15%)
+        KhezuSpecialCut (8%)
+Carve:
+    Body-[x3]
+        StrAlluringWing (50%)
+        Lightning Sac (20%)
+        Thunder Sac (14%)
+        Wyvern Stone (8%)
+        Alluring Webbing (4%)
+        Big Wyvern Stone (4%)
+Capture: HP below 10%
+        StrAlluringWing (35%)
+        Thunder Sac x2 (25%)
+        Lightning Sac x2 (17%)
+        Khezu Steak (15%)
+        KhezuSpecialCut (8%)
+Drop: Drip acid from ceiling
+        Wyvern Sobs (50%)
+        Wyvern Tears (25%)
+        Khezu Steak (10%)
+        Pale Extract (8%)
+        KhezuSpecialCut (7%)
+
+=======
+King Shakalaka
+==========
+Upper/Elder Rank--
+Reward For Breaking:
+        No parts available for breaking
+Carve:
+    Body-[x2]
+        ShakalakaTreasre (38%)
+        ShakaInheritance (20%)
+        Armor Sphere+ (14%)
+        Armor Sphere (10%)
+        BattlefieldJewel (10%)
+        LapisLazuliJewel (8%)
+Capture:
+        Cannot be captured
+Drop: Staggered while doing taunt gesture *
+        ShakaInheritance (25%)
+        ShakalakaTreasre (15%)
+        Armor Stone (15%)
+        BattlefieldJewel (15%)
+        Silver Egg (8%)
+        Hrd Armor Sphere (6%)
+        LapisLazuliJewel (6%)
+        Golden Egg (4%)
+        Hvy Armor Sphere (2%)
+
+G-Level--
+Reward For Breaking:
+        No parts available for breaking
+Carve:
+    Body-[x2]
+        ShakaInheritance (25%)
+        ShakalakaTreasre (20%)
+        ShakalakaTreasr+ (18%)
+        BattlefieldJewel (12%)
+        LapisLazuliJewel (10%)
+        Hrd Armor Sphere (10%)
+        Hvy Armor Sphere (3%)
+        Ryl Armor Sphere (2%)
+Capture:
+        Cannot be captured
+Drop: Staggered while doing taunt gesture *
+        ShakalakaTreasr+ (20%)
+        ShakaInheritance (16%)
+        Armor Stone (15%)
+        BattlefieldJewel (10%)
+        Golden Egg (8%)
+        Hrd Armor Sphere (8%)
+        LapisLazuliJewel (6%)
+        Hvy Armor Sphere (4%)
+        Silver Egg (4%)
+        Ryl Armor Sphere (3%)
+        Tru Armor Sphere (2%)
+
+*: Can drop exploding items, gather at your own risk!
+
+=======
+Kirin
+==========
+Elder--
+Reward For Breaking: N/A
+Carve:
+    Body-[x2]
+        Kirin Mane (39%)
+        Kirin Thndr Tail (24%)
+        Lightcrystal (15%)
+        Kirin Horn (12%)
+        Kirin Hide (10%)
+Capture: 
+        Cannot be captured
+Drop: 
+        Cannot drop items
+
+Upper Rank--
+Reward For Breaking: N/A
+Carve:
+    Body-[x2]
+        Kirin Thndr Tail (20%)
+        Kirin Hide+ (18%)
+        Kirin Azure Horn (15%)
+        Novacrystal (15%)
+        Kirin Hide (12%)
+        Kirin Horn (12%)
+        Kirin Mane (8%)
+Capture: 
+        Cannot be captured
+Drop: 
+        Cannot drop items
+
+G-Level--
+Reward For Breaking:
+        No parts available for breaking
+Carve:
+    Body-[x2]
+        Platinum Mane (34%)
+        LthrKirinThndrTl (24%)
+        SpecialKirinHide (18%)
+        Purecrystal (10%)
+        Kirin Hide+ (4%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Kushala Daora
+==========
+Elder--
+Reward For Breaking:
+    Horn-
+        Daora Horn (95%)
+        ElderDragonBlood (5%)
+    Wings-
+        Daora Webbing (67%)
+        DaoraDragonScale (18%)
+        Daora Claw x2 (15%)
+Carve:
+    Body-[x4]
+        DaoraDragonScale (50%)
+        Daora Shell (32%)
+        Eldr Dragon Bone (10%)
+        Daora Claw (5%)
+        ElderDragonBlood (3%)
+    Tail-[x1]
+        Daora Tail (53%)
+        Daora Shell (42%)
+        Decayed Drgn Scl (5%)
+Capture: 
+        Cannot be captured
+Drop:
+        Dragon Treasure (35%)
+        Decayed Drgn Scl (15%)
+        DaoraDragonScale (8%)
+        ElderDragonBlood (2%)
+
+Upper Rank--
+Reward for Breaking:
+    Horn-
+        Daora Horn (88%)
+        ElderDragonBlood (8%)
+        Daora Jewel (4%)
+    Wings-
+        Daora Webbing (50%)
+        DaoraDragonScal+ (32%)
+        Daora Sharp Claw (15%)
+        Daora Jewel (3%)
+Carve:
+    Body-[x4]
+        DaoraDragonScal+ (40%)
+        Daora Carapace (30%)
+        Daora Shell (18%)
+        Daora Sharp Claw (5%)
+        ElderDragonBlood (5%)
+        Daora Jewel (2%)
+    Tail-[x1]
+        Daora Tail (45%)
+        Daora Carapace (35%)
+        Daora Shell (18%)
+        Daora Jewel (2%)
+Capture: 
+        Cannot be captured
+Drop:
+        Dragon Treasure (35%)
+        Anc Drgn Treasre (35%)
+        DaoraDragonScal+ (23%)
+        ElderDragonBlood (4%)
+        Daora Jewel (3%)
+
+G-Level--
+Reward For Breaking:
+    Horn- Damage (Any), only when HP is below 60%
+        Hard Daora Horn (88%)
+        Daora Jewel (6%)
+        ElderDragonBlood (4%)
+        BigEDragonJewel (2%)
+    Wings- Damage (Any)
+        Str Daora Wing (67%)
+        ThckDaoraDrgnScl (22%)
+        Daora Sharp Claw x2 (5%)
+        Daora Jewel (5%)
+        BigEDragonJewel (1%)
+Carve:
+    Body-[x4]
+        ThckDaoraDrgnScl (40%)
+        Hvy Daora Shell (30%)
+        Daora Carapace (13%)
+        ElderDragonBlood (8%)
+        Daora Sharp Claw (5%)
+        Daora Jewel (3%)
+        BigEDragonJewel (1%)
+    Tail-[x1], only when HP is below 30%
+        Daora Tail G (60%)
+        Hvy Daora Shell (28%)
+        Daora Carapace (6%)
+        Daora Jewel (4%)
+        BigEDragonJewel (2%)
+Capture:
+        Cannot be captured
+Drop: Force into rage mode or re-activating wind aura
+        Anc Drgn Treasre (44%)
+        ThckDaoraDrgnScl (23%)
+        Dragon Treasure (18%)
+        ElderDragonBlood (8%)
+        Daora Jewel (5%)
+        BigEDragonJewel (2%)
+
+=======
+Lao-Shan Lung
+==========
+Lower Guild--
+Reward For Breaking:
+    Horn-
+        Lao-Shan's Horn (100%)
+    Head-
+        Lao-Shan's Shell (65%)
+        Flat Ruststone (7%)
+        Large Ruststone (7%)
+        Small Ruststone (7%)
+        Ruststone Rod (7%)
+        Ruststone (7%)
+    Back-
+        Lao-Shan's Shell (75%)
+        Flat Ruststone (5%)
+        Large Ruststone (5%)
+        Small Ruststone (5%)
+        Ruststone Rod (5%)
+        Ruststone (5%)
+    Left Shoulder-
+        Lao-Shan's Scale (58%)
+        Lao-Shan's Shell (42%)
+    Right Shoulder-
+        Lao-Shan's Scale (58%)
+        Lao-Shan's Shell (42%)
+Carve:
+    Body-[X9]
+        Lao-Shan's Scale (58%)
+        Lao-Shan's Shell (37%)
+        Lao-Shan's Claw (5%)
+    Back-[x3]
+        Eldr Dragon Bone (35%)
+        Lao-Shan's Scale (28%)
+        Dragon Herb (25%)
+        Lao-Shan's Shell (12%)
+Capture: 
+        Cannot be captured
+Drop: 
+        Cannot drop items
+
+=======
+Lao-Shan Lung, Azure
+==========
+Upper Rank--
+Reward For Breaking:
+    Horn-
+        Azure LaoS Horn (97%)
+        Lao-Shan's Ruby (3%)
+    Head-
+        Lao-ShanCarapace (57%)
+        Azure LaoS Shell (18%)
+        Lg Ancient Stone (6%)
+        Ancient Stone (6%)
+        AncientFlatstone (5%)
+        Ancient StoneRod (5%)
+        Sm Ancient Stone (3%)
+    Back-
+        Lao-ShanCarapace (48%)
+        Azure LaoS Shell (25%)
+        Ancient Stone (7%)
+        AncientFlatstone (6%)
+        Sm Ancient Stone (5%)
+        Lg Ancient Stone (4%)
+        Ancient StoneRod (3%)
+        Lao-Shan's Ruby (2%)
+    Left Shoulder-
+        Azure LaoS Shell (57%)
+        Lao-Shan Scale+ x2 (41%)
+        Lao-Shan's Ruby (2%)
+    Right Shoulder-
+        Azure LaoS Shell (57%)
+        Lao-Shan Scale+ x2 (41%)
+        Lao-Shan's Ruby (2%)
+Carve:
+    Body-[X9]
+        Azure LaoS Shell (38%)
+        Lao-Shan Scale+ (29%)
+        Lao-Shan's Claw (16%)
+        Lao-Shan's Shell (9%)
+        Lao-ShanCarapace (5%)
+        Lao-Shan's Ruby (3%)
+    Back-[x3]
+        Eldr Dragon Bone (35%)
+        Lao-Shan Scale+ (28%)
+        Dragon Herb (25%)
+        Azure LaoS Shell (12%)
+Capture: 
+        Cannot be captured
+Drop: 
+        Cannot drop items
+
+G-Level--
+Reward For Breaking:
+    Horn- Damage (Any)
+        Azure LaoS Horn (90%)
+        Lao-Shan's Ruby (7%)
+        Lao-ShanHvnlyScl (3%)
+    Head Crown- Damage (Any)
+        Lao-Shan'sHvyShl (70%)
+        Azure LaoS Shell (20%)
+        Ancient Stone (2%)
+        AncientFlatstone (2%)
+        Lg Ancient Stone (2%)
+        Sm Ancient Stone (2%)
+        Ancient StoneRod (2%)
+    Back Plates- Damage (Any)
+        Lao-Shan'sHvyShl (63%)
+        Lao-ShanCarapace (25%)
+        Ancient Stone (2%)
+        AncientFlatstone (2%)
+        Lg Ancient Stone (2%)
+        Sm Ancient Stone (2%)
+        Ancient StoneRod (2%)
+    Left Shoulder- Damage (Any)
+        Lao-Shan'sHvyShl (53%)
+        Lao-Shan'sThkScl x2 (40%)
+        Lao-Shan's Ruby (5%)
+        Lao-ShanHvnlyScl (2%)
+    Right Shoulder- Damage (Any)
+        Lao-Shan'sHvyShl (53%)
+        Lao-Shan'sThkScl x2 (40%)
+        Lao-Shan's Ruby (5%)
+        Lao-ShanHvnlyScl (2%)
+Carve:
+    Head, Upper Body, Lower Body-[x3 each]
+        Lao-Shan'sHvyShl (35%)
+        Lao-Shan'sThkScl (26%)
+        Azure LaoS Claw (15%)
+        Azure LaoS Shell (10%)
+        Lao-ShanCarapace (5%)
+        Lao-Shan's Ruby (5%)
+        Lao-ShanHvnlyScl (3%)
+    Back-[x3] (Live carving)- Fall onto its back
+        BigEDragonBone (35%)
+        Lao-Shan'sThkScl (28%)
+        Dragon Herb (25%)
+        Lao-Shan'sHvyShl (12%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Lavasioth
+==========
+G-Level--
+Reward For Breaking:
+    Face- Damage (Any)
+        HvyLavasiothFang x2 (73%)
+        HvyLavasiothShl (21%)
+        Firecell Stone (6%)
+    Fin- Damage (Any)
+        SpecLavasioFin+ (92%)
+        ThckLavasiothScl x2 (8%)
+Carve:
+    Body-[x4]
+        ThckLavasiothScl (43%)
+        HvyLavasiothShl (30%)
+        HvyLavasiothFang (8%)
+        Firecell Stone (8%)
+        SpecLavasioFin+ (6%)
+        Big Wyvern Stone (5%)
+Capture: Stops producing glossy lava on skin
+        ThckLavasiothScl x2 (43%)
+        HvyLavasiothShl (27%)
+        SpecLavasioFin+ (24%)
+        HvyLavasiothFang (6%)
+Drop: Put into Knock Out (E.g. Hunting Horn, Bowgun)
+        Wyvern Sobs (55%)
+        Wyvern Tears (25%)
+        ThckLavasiothScl (16%)
+        Firecell Stone (4%)
+
+=======
+Lunastra
+==========
+Elder--
+Reward For Breaking:
+    Horn-
+        Lunastra Horn (100%)
+    Wing-
+        Fire Drgn Webbng (72%)
+        Fire Dragon Claw (28%)
+Carve:
+    Body-[x4]
+        Lunastra Shell (28%)
+        Fire Dragon Scl (24%)
+        Fire Dragon Claw (21%)
+        Lunastra Mane (12%)
+        Fire Drgn Webbng (10%)
+        ElderDragonBlood (5%)
+    Tail-[x1]
+        Lunastra Tail (59%)
+        Eldr Dragon Bone (23%)
+        Lunastra Shell (18%)
+Capture: 
+        Cannot be captured
+Drop:
+        Dragon Treasure (75%)
+        Fire Dragon Scl (15%)
+        ElderDragonBlood (10%)
+
+Upper Rank--
+Reward For Breaking:
+    Horn- Damage (Dragon), only when HP is below 60%
+        Lunastra Spike (80%)
+        Lunastra Horn (20%)
+    Wings- Damage (Any), both break at same time
+        Fire Dragon Pwdr (50%)
+        Fire Drgn Webbng (20%)
+        Fire Dragon Claw (20%)
+        Fire Drgn Webbng x2 (10%)
+Carve:
+    Body-[x4]
+        LunastraCarapace (28%)
+        Fire Dragon Scl (24%)
+        Fire Dragon Claw (21%)
+        Lunastra Mane (12%)
+        Fire Drgn Jwl (10%)
+        ElderDragonBlood (5%)
+    Tail-[x1], only when HP is below 40%
+        Lunastra Tail (34%)
+        Eldr Dragon Bone (32%)
+        Lunastra Shell (20%)
+        LunastraCarapace (12%)
+        Fire Drgn Jwl (2%)
+Capture:
+        Cannot be captured
+Drop: Force into rage mode or re-activating wind aura
+        Dragon Treasure (38%)
+        Anc Drgn Treasre (37%)
+        Fire Drgn Scl+ (12%)
+        ElderDragonBlood (10%)
+        Fire Drgn Jwl (3%)
+
+=======
+Melynx
+==========
+Elder--
+Carve:
+    Body-
+        Cannot be carved
+Capture:
+        Cannot be captured
+Drop:
+        Secret Pouch (72%)
+        Glutton Tuna (15%)
+        Felvine (8%)
+        Pawprint Stamp (5%)
+
+Upper Rank--
+Carve:
+    Body-
+        Cannot be carved
+Capture:
+        Cannot be captured
+Drop:
+        Secret Pouch (64%)
+        Felvine (16%)
+        Gastronome Tuna (12%)
+        Pawprint Stamp (8%)
+
+=======
+Monoblos
+==========
+Elder Rank--
+Reward For Breaking:
+    Horn- Damage (Any)
+        Top-GrdRedHorn (60%)
+        Blood Red Horn (40%)
+Carve:
+    Body-[x4]
+        MonoblosCarapace (55%)
+        MonoblosThoracic (20%)
+        Blos Fang (16%)
+        Wyvern Stone (5%)
+        Monoblos Heart (4%)
+    Tail-[x2]
+        MonoblosCarapace (70%)
+        Hrd Monster Bone (20%)
+        Monoblos Shell (10%)
+Capture: HP below 40%
+        MonoblosCarapace (65%)
+        MonoblosThoracic (29%)
+        Monoblos Heart (6%)
+Drop: Horn stuck on wall (if not already broken)
+        Wyvern Sobs (48%)
+        Wyvern Tears (48%)
+        Monoblos Heart (4%)
+
+=======
+Monoblos, White
+==========
+Elder Rank--
+Reward For Breaking:
+    Horn- Damage (Any)
+        Top-GrdPlatHorn (60%)
+        Wht Monoblos Hrn (40%)
+Carve:
+    Body-[x4]
+        Wht Monoblos Cpc (55%)
+        WhtMonoblosThora (20%)
+        Blos Fang (16%)
+        Wyvern Stone (5%)
+        Monoblos Heart (4%)
+    Tail-[x2]
+        Wht Monoblos Cpc (70%)
+        Hrd Monster Bone (20%)
+        Wht Monoblos Shl (10%)
+Capture: HP below 40%
+        Wht Monoblos Cpc (65%)
+        WhtMonoblosThora (29%)
+        Monoblos Heart (6%)
+Drop: Horn stuck on wall (if not already broken)
+        Wyvern Sobs (48%)
+        Wyvern Tears (48%)
+        Monoblos Heart (4%)
+
+=======
+Mosswine
+==========
+Elder--
+Carve:
+    Body-
+        Blue Mushroom (45%)
+        Raw Meat (30%)
+        Special Mushroom (20%)
+        Mosswine Hide (5%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Blue Mushroom (42%)
+        Raw Meat (20%)
+        Special Mushroom (20%)
+        Select Mushroom (10%)
+        Mosswine Hide (8%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Nargacuga 
+==========
+Upper/Elder rank--
+Reward For Breaking:
+    Tail- Damage (Any), tail fur will appear ruffled
+        Narga Tail Spike x2 (75%)
+        Black Narga Pelt (17%)        
+        Narga Brain Stem (8%)
+    Wings- Damage (Any), hit the WINGS not the paws
+        NargaCuttingWing x2 (60%)
+        NargaCuttingWing (25%)
+        Black Narga Pelt x2 (15%)
+    Head- Damage (Any)
+        Nargacuga Fang+ x2 (70%)
+        Narga Scale+ x2 (30%)
+Carve:
+    Body-[x3]
+        Narga Scale+ (45%)
+        Black Narga Pelt (25%)
+        Nargacuga Fang+ (15%)
+        NargaCuttingWing (10%)
+        Nargacuga Tail (5%)
+    Tail-[x1] must be in Rage Mode before cutting
+        Nargacuga Tail (82%)
+        Narga Tail Spike (10%)
+        Narga Brain Stem (8%)
+Capture:
+        Black Narga Pelt (40%)
+        Nargacuga Fang+ x2 (20%)
+        Nargacuga Tail (20%)        
+        Narga Scale+ x2 (16%)
+        Narga Brain Stem (4%)
+Drop: Sonic when it is in Prowler Stance
+        Wyvern Tears (38%)
+        Wyvern Sobs (37%)
+        Narga Scale+ (25%)
+
+G-Level--
+Reward For Breaking:
+    Tail- Damage (Any), tail fur will appear ruffled
+        HvyNargaTailSpik x2 (70%)
+        Narga Tail Spike x4 (12%)
+        Narga Brain Stem (10%)
+        BlackNargaPelt+ (8%)
+    Wings- Damage (Any), hit the WINGS not the paws
+        StrNargaCttngWng x2 (60%)
+        StrNargaCttngWng (20%)
+        BlackNargaPelt+ x2 (12%)
+        NargaCuttingWing x3 (8%)
+    Head- Damage (Any)
+        HvyNargacugaFang x2 (65%)
+        ThickNargaScale x2 (20%)
+        HvnlyNargaScale (8%)
+        Nargacuga Fang+ x4 (7%)
+Carve:
+    Body-[x3]
+        ThickNargaScale (40%)
+        BlackNargaPelt+ (20%)
+        Narga Scale+ (13%)
+        HvyNargacugaFang (12%)
+        StrNargaCttngWng (8%)
+        LeatherNargaTail (5%)
+        HvnlyNargaScale (2%)
+    Tail-[x1] must be in Rage Mode before cutting
+        LeatherNargaTail (75%)
+        Narga Brain Stem (10%)
+        HvyNargaTailSpik (8%)
+        Nargacuga Tail (7%)
+Capture:
+        BlackNargaPelt+ (35%)
+        HvyNargacugaFang x2 (18%)
+        ThickNargaScale x2 (16%)
+        LeatherNargaTail (15%)
+        Black Narga Pelt x2 (10%)
+        Narga Brain Stem (6%)
+Drop: Sonic when it is in Prowler Stance
+        Wyvern Sobs (50%)
+        Wyvern Tears (25%)
+        ThickNargaScale (21%)
+        HvnlyNargaScale (4%)
+
+=======
+Plesioth
+==========
+Elder--
+Reward For Breaking:
+    Back Fin-
+        Plesioth Fin (92%)
+        Plesioth Scale (8%)
+Carve:
+    Body-[x4]
+        Plesioth Scale (70%)
+        Plesioth Fin (22%)
+        Sm Lobstershell (8%)
+Capture:
+        Plesioth Scale x2 (39%)
+        Wyvern Fang x3 (33%)
+        Plesioth Fin (18%)
+        Sm Lobstershell (10%)
+Drop:
+        Wyvern Tears (75%)
+        Plesioth Scale (22%)
+        Plesioth Fin (3%)
+
+Upper Rank--
+Reward For Breaking:
+    Back Fin-
+        Plesioth Fin+ (87%)
+        Plesioth Scale+ (8%)
+        Plesioth Fin (5%)
+Carve:
+    Body-[x4]
+        Plesioth Scale+ (64%)
+        Plesioth Fin+ (18%)
+        Sm Lobstershell (10%)
+        Wyvern Stone (6%)
+        Lg Lobstershell (2%)
+Capture:
+        Wyvern Fang x3 (30%)
+        Plesioth Scale+ (27%)
+        Plesioth Fin+  (18%)
+        Sm Lobstershell (12%)
+        Lg Lobstershell (8%)
+        Plesioth Scale x2 (5%)
+Drop:
+        Wyvern Tears (33%)
+        Wyvern Sobs (27%)
+        Plesioth Scale+ (25%)
+        Plesioth Fin (10%)
+
+G-Level--
+Reward For Breaking:
+    Fin- Damage (Any), from back and stomach
+        SpecPlesiothFin+ (87%)
+        ThckPlesiothScl (8%)
+        Plesioth Fin+ (5%)
+Carve:
+    Body-[x4]
+        ThckPlesiothScl (60%)
+        SpecPlesiothFin+ (23%)
+        Lg Lobstershell (10%)
+        Big Wyvern Stone (5%)
+        Gt Lobstershell (2%)
+Capture: Fin down, HP below 30%
+        ThckPlesiothScl (32%)
+        SpecPlesiothFin+ (23%)
+        Piscine Fang+ x2 (20%)
+        Lg Lobstershell (12%)
+        Gt Lobstershell (8%)
+        Plesioth Scale+ x2 (5%)
+Drop: After fishing out, using a frog
+        Wyvern Sobs (42%)
+        Wyvern Tears (23%)
+        ThckPlesiothScl (25%)
+        SpecPlesiothFin+ (10%)
+
+=======
+Plesioth, Green
+==========
+Elder--
+Reward For Breaking:
+    Back Fin-
+        Grn Plesioth Fin (92%)
+        Grn Plesioth Scl x2 (8%)
+Carve:
+    Body-[x4]
+        Grn Plesioth Scl (70%)
+        Grn Plesioth Fin (22%)
+        Sm Lobstershell (8%)
+Capture:
+        Grn Plesioth Scl x2 (39%)
+        Piscine Fang x3 (35%)
+        Grn Plesioth Fin (18%)
+        Sm Lobstershell (8%)
+Drop:
+        Wyvern Tears (75%)
+        Grn Plesioth Scl (22%)
+        Grn Plesioth Fin (3%)
+
+Upper Rank--
+Reward For Breaking:
+    Back Fin-
+        Grn Plsioth Fin+ (87%)
+        Grn Plsioth Scl+ (8%)
+        Grn Plesioth Fin (5%)
+Carve:
+    Body-[x4]
+        Grn Plsioth Scl+ (60%)
+        Grn Plsioth Fin+ (22%)
+        Sm Lobstershell (10%)
+        Wyvern Stone (6%)
+        Lg Lobstershell (2%)
+Capture:
+        Wyvern Fang x3 (30%)
+        Grn Plsioth Scl+ (27%)
+        Grn Plsioth Fin+ (18%)
+        Sm Lobstershell (12%)
+        Lg Lobstershell (8%)
+        ??? x2 (5%)
+Drop:
+        Wyvern Tears (33%)
+        Wyvern Sobs (32%)
+        Grn Plsioth Scl+ (25%)
+        Grn Plsioth Fin+ (10%)
+
+G-Level--
+Reward For Breaking:
+    Fin- Damage (Any), from back and stomach
+        SpecGrnPlesioFn+ (87%)
+        ThckGrnPlesioScl (8%)
+        Grn Plsioth Fin+ (5%)
+Carve:
+    Body-[x4]
+        ThckGrnPlesioScl (60%)
+        SpecGrnPlesioFn+ (23%)
+        Lg Lobstershell (10%)
+        Big Wyvern Stone (5%)
+        Gt Lobstershell (2%)
+Capture: Fin down, HP below 30%
+        ThckGrnPlesioScl (32%)
+        SpecGrnPlesioFn+ (23%)
+        Piscine Fang+ x2 (20%)
+        Lg Lobstershell (12%)
+        Gt Lobstershell (8%)
+        Grn Plsioth Scl+ x2 (5%)
+Drop: After fishing out, using a frog
+        Wyvern Sobs (42%)
+        Wyvern Tears (23%)
+        ThckGrnPlesioScl (25%)
+        SpecGrnPlesioFn+ (10%)
+
+=======
+Popo
+==========
+Elder--
+Carve:
+    Body-
+        Popo Tongue (42%)
+        Raw Meat (38%)
+        Bone (20%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Popo Tongue (35%)
+        Raw Meat (30%)
+        Bone (25%)
+        Brute Bone (10%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Queen Vespoid
+==========
+Upper/Elder Rank--
+Reward For Breaking:
+        No parts available for breaking
+Carve:
+    Body-[x2]
+        Vespoid Abdomen (80%)
+        Monster Broth (20%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+G-Level--
+Reward For Breaking:
+        No parts available for breaking
+Carve:
+    Body-[x2]
+        VespoidQn'sCrown (50%)
+        Monster Essence (30%)
+        Vespoid Abdomen (20%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Rajang
+==========
+Elder--
+Reward For Breaking:
+    Horn-
+        Rajang Horn (100%)
+    Tail-
+        Rajang Tail (91%)
+        Gold Rajang Pelt (9%)
+Carve:
+    Body-[x3]
+        Rajang Fang (46%)
+        Blk Rajang Pelt (27%)
+        Rajang Claw (21%)
+        Gold Rajang Pelt (6%)
+Capture:
+        Blk Rajang Pelt (44%)
+        Rajang Fang (28%)
+        Rajang Claw (16%)
+        Gold Rajang Pelt (12%)
+Drop: 
+        Cannot drop items
+
+Upper Rank--
+Reward For Breaking:
+    Horn-
+        Rajang Horn (100%)
+    Tail-
+        Rajang Tail (91%)
+        Gold Rajang Pelt (9%)
+Carve:
+    Body-[x3]
+        Rajang Fang (46%)
+        Blk Rajang Pelt (27%)
+        Rajang Claw (21%)
+        Gold Rajang Pelt (6%)
+Capture:
+        Blk Rajang Pelt (44%)
+        Rajang Fang (28%)
+        Rajang Claw (16%)
+        Gold Rajang Pelt (12%)
+Drop: 
+        Cannot drop items
+
+G-Level--
+Reward For Breaking:
+    Horn- Damage (Any), can be broken twice
+        Hard Rajang Horn (60%)
+        Rajang Horn (40%)
+    Tail- Damage (Ice), can't go into rage mode afterwards
+        Rajang Tail (82%)
+        Gold Rajang Pelt (10%)
+        GoldRajangPelt+ (8%)
+Carve:
+    Body-[x3]        
+        Blk Rajang Pelt+ (28%)
+        Hvy Rajang Fang (24%)
+        Blk Rajang Pelt (20%)
+        Hard Rajang Claw (15%)
+        Rajang Fang (10%)
+        GoldRajangPelt+ (3%)
+Capture:
+        Blk Rajang Pelt+ (36%)
+        Blk Rajang Pelt x2 (18%)
+        Hvy Rajang Fang (17%)
+        Hard Rajang Claw (12%)
+        Rajang Claw x2 (10%)
+        Gold Rajang Pelt (5%)
+        GoldRajangPelt+ (2%)
+Drop: 
+        Cannot drop items
+
+=======
+Rajang, Gold
+==========
+G-Level--
+Reward For Breaking:
+    Horn- Damage (Any), can be broken twice
+        Hard Rajang Horn (90%)
+        Rajang Horn x2 (10%)
+    Tail- Damage (Any)
+        No items received        
+Carve:
+   Body-[x3]
+        Hvy Rajang Fang (42%)
+        Hard Rajang Claw (20%)
+        Blk Rajang Pelt+ (18%)
+        GoldRajangPelt+ (10%)
+        Gold Rajang Pelt (10%)
+Capture:
+        Blk Rajang Pelt+ (34%)
+        Hvy Rajang Fang (24%)
+        Hard Rajang Claw (16%)
+        GoldRajangPelt+ (12%)
+        Gold Rajang Pelt (10%)
+        Gold Rajang Pelt x2 (4%)
+Drop:
+        Cannot drop items
+
+=======
+Rathalos
+==========
+Elder--
+Reward For Breaking:
+    Head-
+        Rathalos Scale (65%)
+        Rathalos Shell (31%)
+        Rathalos Plate (4%)
+    Claw-
+        Fire Wyvern Claw (83%)
+        Wyvern Claw x4 (17%)
+Carve:
+    Body-[x3]
+        Rathalos Scale (30%)
+        Rathalos Shell (24%)
+        Rathalos Webbing (24%)
+        FireWyvern Fluid (10%)
+        Flame Sac (8%)
+        FireWyvrn Marrow (4%)
+    Tail-[x1]
+        Rathalos Tail (38%)
+        Rathalos Scale (35%)
+        Rathalos Shell (22%)
+        Rathalos Plate (3%)
+        FireWyvrn Marrow (2%)
+Capture:
+        Rathalos Shell (52%)
+        Rathalos Webbing (33%)
+        Rathalos Wing (8%)
+        Rathalos Tail (5%)
+        Rathalos Plate (2%)
+Drop:
+        Wyvern Tears (74%)
+        Rathalos Scale (21%)
+        Rathalos Plate (5%)
+
+Upper Rank--
+Reward For Breaking:
+    Head-
+        Rathalos Scale+ (65%)
+        Rathalos Carpace (31%)
+        Rathalos Ruby (4%)
+    Claw-
+        Fire Wyvern Claw x2 (80%)
+        Wyvern Claw x5 (20%)
+Carve:
+    Body-[x3]
+        Rathalos Scale+ (38%)
+        Rathalos Carpace (24%)
+        Inferno Sac (15%)
+        Rathalos Webbing (14%)
+        Rathalos Wing (5%)
+        FireWyvrn BrnStm (4%)
+    Tail-[x1]
+        Rathalos Scale+ (35%)
+        Rathalos Tail (25%)
+        Rathalos Carpace (22%)
+        Rathalos Plate (12%)
+        FireWyvrn BrnStm (4%)
+        Rathalos Ruby (2%)
+Capture:
+        Rathalos Carpace (60%)
+        Rathalos Scale+ x2 (24%)
+        Rathalos Wing x2 (8%)
+        Rathalos Plate (6%)
+        Rathalos Ruby (2%)
+Drop:
+        Wyvern Tears (37%)
+        Wyvern Sobs (37%)
+        Rathalos Scale+ (21%)
+        Rathalos Ruby (5%)
+
+G-Level--
+Reward For Breaking:
+    Head- Damage (Any)
+        Hrd Rathalos Scl (60%)
+        HvyRathalosShl (30%)
+        Rathalos Ruby (6%)
+        HvnlyRathalosScl (4%) 
+    Wings- Damage (Any), requires one to be broken
+        HrdFireWyvernClw x2 (80%)
+        Wyvern Claw x5 (20%)
+Carve:
+    Body-[x3]
+        Hrd Rathalos Scl (37%)
+        HvyRathalosShl (24%)
+        StrRathalosWing (20%)
+        Blazing Fire Sac (15%)
+        Rathalos Wing (5%)
+        FireWyvrn BrnStm (4%)
+    Tail-[x1]
+        LthrRathalosTail (38%)
+        Hrd Rathalos Scl (30%)
+        HvyRathalosShl (20%)
+        Rathalos Ruby (6%)
+        FireWyvrn BrnStm (4%)
+        HvnlyRathalosScl (2%)
+Capture: HP below 40%
+        HvyRathalosShl (60%)
+        Hrd Rathalos Scl x2 (24%)
+        StrRathalosWing x2 (8%)
+        Rathalos Ruby (6%)
+        HvnlyRathalosScl (2%)
+Drop: Flash bomb when flying, awakened from sleeping
+        Wyvern Sobs (50%)
+        Wyvern Tears (24%)
+        Hrd Rathalos Scl (24%)
+        HvnlyRathalosScl (2%)
+
+=======
+Rathalos, Azure
+==========
+Elder--
+Reward For Breaking:
+    Head-
+        Azure Rthlos Scl (65%)
+        Azure Rthlos Shl (34%)
+        Rathalos Plate (1%)
+    Claw-
+        Fire Wyvern Claw (75%)
+        Wyvern Claw x4 (25%)
+Carve:
+    Body-[x3]
+        Azure Rthlos Scl (30%)
+        Azure Rthlos Shl (24%)
+        Rathalos Webbing (19%)
+        FireWyvern Fluid (10%)
+        Flame Sac (10%)
+        FireWyvrn Marrow (7%)
+    Tail-[x1]
+        Azur Rthlos Tail (38%)
+        Azure Rthlos Scl (35%)
+        Azure Rthlos Shl (18%)
+        FireWyvrn Marrow (8%)
+        Rathalos Plate (1%)
+Capture:
+        Azure Rthlos Shl (52%)
+        Rathalos Webbing (33%)
+        Azur Rthlos Wing (9%)
+        Azur Rthlos Tail (5%)
+        Rathalos Plate (1%)
+Drop:
+        Wyvern Tears (74%)
+        Azure Rthlos Scl (21%)
+        Rathalos Plate (5%)
+
+Upper Rank--
+Reward For Breaking:
+    Head-
+        Azre Rthlos Scl+ (66%)
+        Azure Rthlos Cpc (32%)
+        Rathalos Ruby (2%)
+    Claw-
+        Fire Wyvern Claw x2 (80%)
+        Wyvern Claw x5 (20%)
+Carve:
+    Body-[x3]
+        Azre Rthlos Scl+ (38%)
+        Azure Rthlos Cpc (24%)
+        Rathalos Webbing (14%)
+        Inferno Sac (11%)
+        FireWyvrn BrnStm (8%)
+        Azur Rthlos Wing (5%)
+    Tail-[x1]
+        Azre Rthlos Scl+ (35%)
+        Azur Rthlos Tail (25%)
+        Azure Rthlos Cpc (22%)
+        FireWyvrn BrnStm (10%)
+        Rathalos Plate (7%)
+        Rathalos Ruby (1%)
+Capture:
+        Azure Rthlos Cpc (60%)
+        Azure Rthlos Scl x2 (24%)
+        Azur Rthlos Wing x2 (8%)
+        FireWyvrn Marrow x2 (6%)
+        Rathalos Ruby (2%)
+Drop:
+        Wyvern Tears (37%)
+        Wyvern Sobs (37%)
+        Azre Rthlos Scl+ (21%)
+        Rathalos Ruby (5%)
+        
+G-Level--
+Reward For Breaking:
+    Head- Damage (Any)
+        ThckAzurRthlsScl (56%)
+        HvyAzurRthlsShl (32%)
+        Rathalos Plate (10%)
+        HvnlyRathalosScl (2%)
+    Wings- Damage (Any), requires one to be broken
+        HrdFireWyvernClw x2 (80%)
+        Wyvern Claw x5 (20%)
+Carve:
+    Body-[x3]
+        ThckAzurRthlsScl (37%)
+        HvyAzurRthlsShl (24%)
+        StrRathalosWing (20%)
+        Blazing Fire Sac (11%)
+        FireWyvrn BrnStm (8%)
+        Azur Rthlos Wing (5%)
+    Tail-[x1]
+        LthrAzrRthlsTail (38%)
+        ThckAzurRthlsScl (30%)
+        HvyAzurRthlsShl (20%)
+        FireWyvrn BrnStm (7%)
+        Rathalos Ruby (4%)
+        HvnlyRathalosScl (1%)
+Capture: HP below 40%
+        HvyAzurRthlsShl (60%)
+        ThckAzurRthlsScl x2 (24%)
+        StrRathalosWing x2 (8%)
+        Rathalos Ruby (6%)
+        HvnlyRathalosScl (2%)
+Drop: Flash bomb when flying, awakened from sleeping
+        Wyvern Sobs (50%)
+        Wyvern Tears (24%)
+        ThckAzurRthlsScl (24%)
+        HvnlyRathalosScl (2%)
+
+=======
+Rathalos, Silver
+==========
+Upper Rank--
+Reward For Breaking:
+    Head-
+        Slvr Rthlos Scl+ (61%)
+        Slvr Rthlos Cpc (35%)
+        Rathalos Ruby (4%)
+    Claw-
+        Fire Wyvern Claw x2 (80%)
+        Wyvern Claw x5 (20%)
+Carve:
+    Body-[x3]
+        Slvr Rthlos Scl+ (43%)
+        Slvr Rthlos Cpc (29%)
+        Inferno Sac (10%)
+        Slvr Rthlos Wing (10%)
+        Rathalos Webbing (5%)
+        FireWyvrn BrnStm (3%)
+    Tail-[x1]
+        Slvr Rthlos Tail (50%)
+        Slvr Rthlos Scl+ (24%)
+        Slvr Rthlos Cpc (11%)
+        Rathalos Plate (10%)
+        Rathalos Ruby (5%)
+Capture:
+        Slvr Rthlos Cpc (48%)
+        Slvr Rthlos Scl+ x2 (30%)
+        Slvr Rthlos Wing (10%)
+        Rathalos Ruby (7%)
+        Slvr Rthlos Tail (5%)
+Drop:
+        Wyvern Tears (36%)
+        Wyvern Sobs (35%)
+        Slvr Rthlos Scl+ (25%)
+        Rathalos Ruby (4%)
+
+G-Level--
+Reward For Breaking:
+    Head- Damage (Any)
+        ThckSlvrRthlsScl (60%)
+        HvySlvrRthlsShl (30%)
+        Rathalos Ruby (6%)
+        HvnlyRathalosScl (4%)
+    Wings- Damage (Any), requires one to be broken
+        HrdFireWyvernClw x2 (80%)
+        Wyvern Claw x5 (20%)
+Carve:
+    Body-[x3]
+        ThckSlvrRthlsScl (37%)
+        HvySlvrRthlsShl (24%)
+        StrRathalosWing (20%)
+        Blazing Fire Sac (15%)
+        Slvr Rthlos Wing (10%)
+        FireWyvrn BrnStm (4%)        
+    Tail-[x1]
+        LthrSlvrRthlsTal (38%)
+        ThckSlvrRthlsScl (30%)
+        HvySlvrRthlsShl (20%)
+        Rathalos Ruby (6%)
+        FireWyvrn BrnStm (4%)
+        HvnlyRathalosScl (2%)
+Capture: HP below 20%
+        HvySlvrRthlsShl (60%)
+        ThckSlvrRthlsScl x2 (24%)
+        StrRathalosWing x2 (8%)
+        Rathalos Ruby (6%)
+        HvnlyRathalosScl (2%)
+Drop: Flash bomb when flying, awakened from sleeping
+        Wyvern Sobs (50%)
+        Wyvern Tears (24%)
+        ThckSlvrRthlsScl (23%)
+        HvnlyRathalosScl (3%)
+
+=======
+Rathian
+==========
+Elder--
+Reward For Breaking:
+    Head-
+        Rathian Shell (71%)
+        Rathian Scale (25%)
+        Rathian Plate (4%)
+    Claw-
+        Fire Wyvern Claw (75%)
+        Wyvern Claw x4 (25%)
+Carve:
+    Body-[x3]
+        Rathian Scale (49%)
+        Rathian Shell (30%)
+        FireWyvern Fluid (10%)
+        Flame Sac (8%)
+        Rathian Spike (2%)
+        FireWyvrn Marrow (1%)
+    Tail-[x1]
+        Rathian Scale (59%)
+        Rathian Shell (22%)
+        Rathian Spike (8%)
+        Monster Bone+ (6%)
+        Rathian Plate (3%)
+        FireWyvrn Marrow (2%)
+Capture:
+        Rathian Scale x2 (52%)
+        Rathian Shell (36%)
+        FireWyvrn Marrow (10%)
+        Rathian Plate (2%)
+Drop:
+        Wyvern Tears (74%)
+        Rathian Scale (25%)
+        Rathian Plate (1%)
+
+Upper Rank--
+Reward For Breaking:
+    Head-
+        Rathian Scale+ (65%)
+        Rathian Carapace (31%)
+        Rathian Ruby (4%)
+    Claw-
+        Fire Wyvern Claw x2 (75%)
+        Wyvern Claw x5 (25%)
+Carve:
+    Body-[x3]
+        Rathian Scale+ (45%)
+        Rathian Carapace (26%)
+        Inferno Sac (15%)
+        Rathian Spike (8%)
+        FireWyvrn BrnStm (4%)
+        Rathian Spike+ (2%)
+    Tail-[x1]
+        Rathian Scale+ (48%)
+        Rathian Carapace (26%)
+        Rathian Plate (12%)
+        Rathian Spike+ (8%)
+        FireWyvrn BrnStm (4%)
+        Rathian Ruby (2%)
+Capture:
+        Rathian Carapace (58%)
+        Rathian Scale+ x2 (30%)
+        Rathian Plate (6%)
+        FireWyvrn BrnStm (3%)
+        Rathian Ruby (3%)
+Drop:
+        Wyvern Sobs (38%)
+        Wyvern Tears (37%)
+        Rathian Scale+ (23%)
+        Rathian Ruby (2%)
+ 
+G-Level--
+Reward For Breaking:
+    Head- Damage (Any)
+        ThckRathianScl (60%)
+        HvyRathianShell (30%)
+        Rathian Ruby (6%)
+        HvnlyRathianScl (4%)
+    Wings- Damage (Any), requires one to be broken
+        HrdFireWyvernClw x2 (80%)
+        Wyvern Claw x5 (20%)
+Carve:
+    Body-[x3]
+        ThckRathianScl (45%)
+        HvyRathianShell (26%)
+        Blazing Fire Sac (15%)
+        Rathian Spike+ (8%)
+        FireWyvrn BrnStm (4%)
+        Rathian Thorn (2%)
+    Tail-[x1]
+        ThckRathianScl (48%)
+        HvyRathianShell (32%)
+        Rathian Thorn (8%)
+        Rathian Ruby (6%)
+        FireWyvrn BrnStm (4%)
+        HvnlyRathianScl (2%)
+Capture: HP below 20%
+        HvyRathianShell (58%)
+        ThckRathianScl (30%)
+        Rathian Ruby (6%)
+        FireWyvrn BrnStm (3%)
+        HvnlyRathianScl (3%)
+Drop: Awoken from sleeping, pitfall or shock trapped
+        Wyvern Sobs (50%)
+        Wyvern Tears (25%)
+        ThckRathianScl (23%)
+        HvnlyRathianScl (2%)
+
+=======
+Rathian, Gold
+==========
+Upper Rank--
+Reward For Breaking:
+    Head-
+        Gld Rathian Cpc (61%)
+        Gld Rathian Scl+ (35%)
+        Rathian Ruby (4%)
+    Claw-
+        Fire Wyvern Claw x2 (75%)
+        Wyvern Claw x5 (25%)
+Carve:
+    Body-[x3]
+        Gld Rathian Scl+ (43%)
+        Gld Rathian Cpc (30%)
+        Rathian Spike (10%)
+        Rathian Spike+ (10%)
+        Inferno Sac (5%)
+        FireWyvrn BrnStm (3%)
+    Tail-[x1]
+        Gld Rathian Scl+ (45%)
+        Gld Rathian Cpc (30%)
+        Rathian Spike+ (10%)
+        Rathian Plate (10%)
+        Rathian Ruby (5%)
+Capture:
+        Gld Rathian Cpc (48%)
+        Gld Rathian Scl+ x2 (30%)
+        FireWyvrn Marrow x3 (8%)
+        FireWyvrn BrnStm x2 (7%)
+        Rathian Ruby (7%)
+Drop:
+        Wyvern Tears (36%)
+        Wyvern Sobs (35%)
+        Gld Rathian Scl+ (25%)
+        Rathian Ruby (4%)
+
+G-Level--
+Reward For Breaking:
+    Head- Damage (Any)
+        ThckGldRathnScl (60%)
+        HvyGldRathianShl (30%)
+        Rathian Ruby (6%)
+        HvnlyRathianScl (4%)
+    Wings- Damage (Any), requires one to be broken
+        HrdFireWyvernClw x2 (80%)
+        Wyvern Claw x5 (20%)
+Carve:
+    Body-[x3]
+        ThckGldRathnScl (44%)
+        HvyGldRathianShl (26%)
+        Blazing Fire Sac (13%)
+        Rathian Spike+ (8%)
+        GoldRathianThorn (5%)
+        FireWyvrn BrnStm (4%)
+    Tail-[x1]
+        ThckGldRathnScl (48%)
+        HvyGldRathianShl (32%)
+        GoldRathianThorn (8%)        
+        Rathian Ruby (6%)
+        FireWyvrn BrnStm (4%)
+        HvnlyRathianScl (2%)
+Capture: HP below 12%(Upper), 10%(G-Level)
+        HvyGldRathianShl (58%)
+        ThckGldRathnScl x2 (30%)
+        Rathian Ruby (6%)
+        FireWyvrn BrnStm x2 (3%)
+        HvnlyRathianScl (3%)
+Drop: Awoken from sleeping, flash bomb while flying
+        Wyvern Sobs (50%)
+        Wyvern Tears (25%)
+        ThckGldRathnScl (23%)
+        HvnlyRathianScl (2%)
+
+=======
+Rathian, Pink
+==========
+Elder--
+Reward For Breaking:
+    Head-
+        Pnk Rathian Shl (73%)
+        Pnk Rathian Scl (25%)
+        Rathian Plate (2%)
+    Claw-
+        Fire Wyvern Claw (75%)
+        Wyvern Claw x4 (25%)
+Carve:
+    Body-[x3]
+        Pnk Rathian Scl (49%)
+        Pnk Rathian Shl (30%)
+        FireWyvrn Fluid (10%)
+        Flame Sac (6%)
+        FireWyvrn Marrow (3%)
+        Rathian Spike (2%)
+    Tail-[x1]
+        Pnk Rathian Scl (56%)
+        Pnk Rathian Shl (22%)
+        Rathian Spike (8%)
+        FireWyvrn Marrow (7%)
+        Monster Bone+ (6%)
+        Rathian Plate (1%)
+Capture:
+        Pnk Rathian Scl x2 (50%)
+        Pnk Rathian Shl (36%)
+        FireWyvrn Marrow (10%)
+        Rathian Plate (4%)
+Drop:
+        Wyvern Tears (74%)
+        Pnk Rathian Scl (25%)
+        Rathian Plate (1%)
+
+Upper Rank--
+Reward For Breaking:
+    Head-
+        Pnk Rathian Scl+ (66%)
+        Pnk Rathian Cpc (32%)
+        Rathian Ruby (2%)
+    Claw-
+        Fire Wyvern Claw x2 (75%)
+        Wyvern Claw x5 (25%)
+Carve:
+    Body-[x3]
+        Pnk Rathian Scl+ (45%)
+        Pnk Rathian Cpc (26%)
+        Inferno Sac (11%)
+        Rathian Spike (8%)
+        FireWyvrn BrnStm (8%)
+        Rathian Spike+ (2%)
+    Tail-[x1]
+        Pnk Rathian Scl+ (42%)
+        Pnk Rathian Cpc (28%)
+        Rathian Spike+ (12%)
+        FireWyvrn BrnStm (10%)
+        Rathian Plate (7%)
+        Rathian Ruby (1%)
+Capture:
+        Pnk Rathian Cpc (52%)
+        Pnk Rathian Scl+ x2 (24%)
+        FireWyvrn Marrow x2 (15%)
+        Rathian Spike+ (8%)
+        Rathian Ruby (1%)
+Drop:
+        Wyvern Tears (37%)
+        Wyvern Sobs (37%)
+        Pnk Rathian Scl+ (25%)
+        Rathian Ruby (1%)
+
+G-Level--
+Reward For Breaking:
+    Head- Damage (Any)
+        ThckPnkRathnScl (52%)
+        ThckPnkRathnScl x2 (24%)
+        FireWyvrn BrnStm (18%)
+        Rathian Thorn (8%)
+        HvnlyRathianScl (1%)
+    Wings- Damage (Any), requires one to be broken
+        HrdFireWyvernClw x2 (80%)
+        Wyvern Claw x5 (20%)
+Carve:
+    Body-[x3]
+        ThckPnkRathnScl (45%)
+        HvyPnkRathianShl (26%)
+        Blazing Fire Sac (11%)
+        Rathian Spike+ (8%)
+        FireWyvrn BrnStm (8%)
+        Rathian Thorn (2%)
+    Tail-[x1]
+        ThckPnkRathnScl (42%)
+        HvyPnkRathianShl (32%)
+        Rathian Thorn (12%)
+        FireWyvrn BrnStm (7%)
+        Rathian Ruby (6%)
+        HvnlyRathianScl (1%)
+Capture: HP below 20%
+        HvyPnkRathianShl (52%)
+        ThckPnkRathnScl x2 (24%)
+        FireWyvrn BrnStm (15%)
+        Rathian Thorn (8%)
+        HvnlyRathianScl (1%)
+Drop: Awoken from sleeping, pitfall or shock trapped
+        Wyvern Sobs (49%)
+        Wyvern Tears (25%)
+        ThckPnkRathnScl (25%)
+        HvnlyRathianScl (1%)
+
+=======
+Remobra
+==========
+Elder--
+Carve:
+    Body-
+        Remobra Skin (56%)
+        Striped Skin (40%)
+        Remobra Skull (4%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Remobra Skin (50%)
+        Remobra Skin+ (22%)
+        Striped Skin (18%)
+        Remobra Skull (10%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Shen Gaoren
+==========
+Elder--
+Reward for Breaking:
+    Shell-
+        Eldr Dragon Bone x2 (50%)
+        Lao-Shan's Shell (35%)
+        Lao-Shan's Horn (15%)
+    Legs-
+        Gaoren Claw (93%)
+        Gaoren Pincer (7%)
+Carve:
+    Body-[x5]
+        Gaoren Shell (52%)
+        Gaoren Pincer (31%)
+        Gaoren Spine (17%)
+    Inside Mouth-[x3]
+        Eldr Dragon Bone (50%)
+        Lao-Shan's Scale (35%)
+        Lao Shen's Shell (15%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Reward for Breaking:
+    Shell-
+        Eldr Dragon Bone x2 (50%)
+        Lao-ShanCarapace (26%)
+        Lao-Shan's Horn (24%)
+    Legs-
+        Gaoren Claw (93%)
+        Gaoren Pincer (7%)
+Carve:
+    Body-[x5]
+        Gaoren Carapace (52%)
+        Gaoren Pincer (31%)
+        Gaoren Shell (17%)
+    Inside Mouth-[x3]
+        Eldr Dragon Bone (50%)
+        Lao-Shan Scale+ (35%)
+        Lao-ShanCarapace (15%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+G-Level--
+Reward For Breaking:
+    Legs- Damage (Any), must stagger twice
+        Hard Gaoren Claw (83%)
+        Hard Gaoren Claw x2 (10%)
+        Gaoren Claw x2 (7%)
+    Shell- Damage (Any), can be broken twice
+        BigEDragonBone x2 (45%)
+        Lao-Shan'sHvyShl (35%)
+        Lao-Shan'sThkScl (15%)
+        HvnlyGaorenShell (5%)
+Carve:
+    Body-[x5]
+        HvyGaorenShell (45%)
+        Hvy Gaoren Spine (30%)
+        Gaoren Carapace (10%)
+        Gaoren Pincer (10%)
+        HvnlyGaorenShell (5%)
+    Inside Shell-[x3], only can be carved when alive
+        Lao-Shan'sThkScl (40%)
+        BigEDragonBone (40%)
+        Lao-Shan'sHvyShl (20%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Shogun Ceanataur
+==========
+Elder--
+Reward For Breaking:
+    Shell 1-
+        Gravios Skl Shl (70%)
+        Ceanataur Shell (22%)
+        Wyvern Skull Shl (8%)
+    Shell 2-
+        Ceanataur Shell (50%)
+        Wyvern Skull Shl (50%)
+    Shell 3-
+        Wyvern Skull Shl (97%)
+        Ceanataur Shell (3%)
+    Claw-
+        Ceanataur Claw (82%)
+        Ceanataur Pincer (18%)
+Carve:
+    Body-[x3]
+        Ceanataur Shell (60%)
+        Ceanataur Leg (28%)
+        Black Pearl (10%)
+        Ceanataur Pincer (2%)
+Capture:
+        Ceanataur Leg (46%)
+        Ceanataur Shell x2 (30%)
+        Ceanataur Pincer (24%)
+Drop:
+        Crab Pearl (75%)
+        Black Pearl (25%)
+   
+Upper Rank--
+Reward For Breaking:
+    Shell 1-
+        Gravios Skl Shl (70%)
+        Ceanataur Carpce (22%)
+        Wyvern Skull Shl (8%)
+    Shell 2-
+        Ceanataur Carpce (70%)
+        Wyvern Skull Shl (30%)
+    Shell 3-
+        Wyvern Skull Shl (63%)
+        Ceanataur Carpce (37%)
+    Claw-
+        Ceanataur Claw+ (70%)
+        Ceanataur Pincer (20%)
+        Ceanataur Claw (10%)
+Carve:
+    Body-[x3]
+        Ceanataur Carpce (50%)
+        Ceanataur Leg (15%)
+        Ceanataur Pincer (15%)
+        Black Pearl (10%)
+        Ceanataur Shell (5%)
+        Ceanataur Claw+ (5%)
+Capture:
+        Ceanataur Carpce x2 (60%)
+        Ceanataur Leg (22%)
+        Ceanataur Pincer (18%)
+Drop:
+        Crab Pearl (38%)
+        Crab Pearl+ (37%)
+        Black Pearl (25%)
+
+G-Level--
+Reward For Breaking:
+    Claws- Damage (Any), requires one to be broken
+        HrdCeanataurClaw (55%)
+        Ceanataur Pincer x2 (20%)
+        HrdCeanataurClaw x2 (15%)
+        Ceanataur Claw+ x2 (10%)
+    Shell- Damage (Any), can be broken twice
+    Gravios Skull-
+        Gravios Skl Shl (70%)
+        HvyCeanataurShl (22%)
+        Wyvern Skull Shl (8%)
+    Brown Shell-
+        HvyCeanataurShl (70%)
+        Wyvern Skull Shl (30%)
+    White Shell-
+        Wyvern Skull Shl (63%)
+        HvyCeanataurShl (37%)
+Carve:
+    Body-[x3]
+        HvyCeanataurShl (50%)
+        HvyCeanataurLeg (25%)
+        Giant Blk Pearl (10%)
+        HrdCeanataurClaw (5%)
+        Ceanataur Pincer (5%)
+        Ceanataur Carpce (5%)
+Capture: Blackish-purple foam forms from its mouth
+        HvyCeanataurShl x2 (60%)
+        HvyCeanataurLeg (30%)
+        Ceanataur Pincer (10%)
+Drop: burrow to replace shell, finish eating without notice
+        Crab Pearl+ (50%)
+        Crab Pearl (25%)
+        Giant Blk Pearl (15%)
+        Black Pearl (10%)
+
+=======
+Shogun Ceanataur, Terra
+==========
+G-Level--
+Reward For Breaking:
+    Claws- Damage (Any), requires one to be broken
+        TerraCeanatrClaw (65%)
+        TerraCeanatrClaw x2 (15%)
+        Ceanataur Pincer x2 (20%)
+    Shell- Damage (Any), can be broken twice
+        Gravios Skl Shl (70%)
+        TerraCeanatrShl (22%)
+        Wyvern Skull Shl (8%)
+Carve:
+    Body-[x3]
+        TerraCeanatrShl (50%)
+        HvyCeanataurLeg (25%)
+        Ceanataur Pincer (10%)
+        Giant Blk Pearl (10%)
+        TerraCeanatrClaw (5%)
+Capture: Blackish-purple foam forms from its mouth
+        TerraCeanatrShl x2 (60%)
+        HvyCeanataurLeg (30%)
+        Ceanataur Pincer (10%)
+Drop: burrow to replace shell, finish eating without notice
+        Crab Pearl+ (50%)
+        Crab Pearl (25%)
+        Giant Blk Pearl (15%)
+        Black Pearl (10%)
+
+=======
+Teostra
+==========
+Elder--
+Reward For Breaking:
+    Horn-
+        Teostra Horn (100%)
+    Wing-
+        Fire Drgn Webbng (77%)
+        Fire Dragon Claw (23%)
+Carve:
+    Body-[x4]
+        Teostra Shell (30%)
+        Fire Dragon Claw (24%)
+        Fire Dragon Scl (20%)
+        Teostra Mane (10%)
+        Fire Drgn Webbng (10%)
+        ElderDragonBlood (6%)
+    Tail-[x1]
+        Teostra Tail (59%)
+        Eldr Dragon Bone (23%)
+        Teostra Shell (18%)
+Capture:
+        Cannot be captured
+Drop:
+        Dragon Treasure (75%)
+        ElderDragonBlood (15%)
+        Fire Dragon Scl (10%)
+
+Upper Rank--
+Reward For Breaking:
+    Horn-
+        Teostra Horn+ (61%)
+        Teostra Horn (39%)
+    Wing-
+        Fire Dragon Pwdr (40%)
+        Fire Drgn Webbng (37%)
+        Fire Dragon Claw (23%)
+Carve:
+    Body-[x4]
+        Fire Drgn Scl+ (30%)
+        Fire Dragon Claw (22%)
+        Teostra Carapace (18%)
+        Teostra Mane (14%)
+        ElderDragonBlood (6%)
+        Teostra Shell (5%)
+        Fire Drgn Jwl (5%)
+    Tail-[x1]
+        Teostra Tail (34%)
+        Eldr Dragon Bone (32%)
+        Teostra Shell (20%)
+        Teostra Carapace (12%)
+        Fire Drgn Jwl (2%)
+Capture:
+        Cannot be captured
+Drop:
+        Dragon Treasure (38%)
+        Anc Drgn Treasre (37%)
+        Fire Drgn Scl+ (12%)
+        ElderDragonBlood (10%)
+        Fire Drgn Jwl (3%)
+
+G-Level--
+Reward For Breaking:
+    Horn- Damage (Dragon), only when HP is below 60%
+        HardTeostraHorn (80%)
+        Teostra Horn+ (20%)
+    Wings- Damage (Any), both will break at the same time
+        Fire Dragon Pwdr (30%)
+        Fire Drgn Webbng x2 (25%)
+        HrdFireDrgnClaw (25%)
+        Fire Dragon Pwdr x2 (20%)
+Carve:
+    Body-[x4]
+        ThckFireDrgnScl (33%)
+        HrdFireDrgnClaw (24%)
+        HvyTeostraShell (20%)
+        ElderDragonBlood (10%)
+        Fire Drgn Jwl (6%)
+        Teostra Carapace (5%)
+        BigEDragonJewel (2%)
+    Tail-[x1], only when HP is below 40%
+        LthrTeostraTail (59%)
+        BigEDragonBone (18%)
+        HvyTeostraShell (12%)
+        Teostra Carapace (7%)
+        Fire Drgn Jwl (3%)
+        BigEDragonJewel (1%)
+Capture:
+        Cannot be captured
+Drop: Forcing it into rage mode or re-activating fire aura
+        Anc Drgn Treasre (48%)
+        Dragon Treasure (23%)
+        ThckFireDrgnScl (12%)
+        ElderDragonBlood (10%)
+        Fire Drgn Jwl (5%)
+        BigEDragonJewel (2%)
+
+=======
+Tigrex
+==========
+Elder--
+Reward For Breaking:
+    Claw-
+        Tigrex Claw x2 (80%)
+        Tigrex Claw (20%)
+    Head-
+        Tigrex Fang x2 (50%)
+        Tigrex Shell (42%)
+        Tigrex Skull Shl (8%)
+Carve:
+    Body-[x3]
+        Tigrex Scale (40%)
+        Tigrex Claw (37%)
+        Tigrex Shell (20%)
+        Tigrex Skull Shl (3%)
+    Tail-[x1]
+        Tigrex Tail (80%)
+        Tigrex Scale (20%)
+Capture:
+        Tigrex Shell (35%)
+        Tigrex Fang x2 (30%)
+        Tigrex Scale x2 (20%)
+        Tigrex Tail (10%)
+        Tigrex Skull Shl (5%)
+Drop:
+        Wyvern Tears (75%)
+        Tigrex Scale (20%)
+        Tigrex Claw (5%)
+ 
+Upper Rank--
+Reward For Breaking:
+    Claw-
+        Tigrex Claw+ (80%)
+        Tigrex Claw x3 (20%)
+    Head-
+        Tigrex Fang+ (45%)
+        Tigrex Carapace (28%)
+        Tigrex Fang x3 (15%)
+        Tigrex Skull Shl (12%)
+Carve:
+    Body-[x3]
+        Tigrex Scale+ (38%)
+        Tigrex Claw+ (30%)
+        Tigrex Carapace (17%)
+        Tigrex Scale (10%)
+        Tigrex Skull Shl (5%)
+    Tail-[x1]
+        Tigrex Tail (60%)
+        Tigrex Scale+ (40%)
+Capture:
+        Tigrex Carapace (30%)
+        Tigrex Fang+ (25%)
+        Tigrex Scale+ x2 (20%)
+        Tigrex Shell (10%)
+        Tigrex Tail (8%)
+        Tigrex Skull Shl (7%)
+Drop:
+        Wyvern Tears (38%)
+        Wyvern Sobs (37%)
+        Tigrex Scale+ (20%)
+        Tigrex Claw+ (5%)
+
+G-Level--
+Reward For Breaking:
+    Head- Damage (Any)
+        Hvy Tigrex Fang (30%)
+        Hvy Tigrex Fang x2 (20%)
+        Hvy Tigrex Shell (17%)
+        Tigrex Fang+ x3 (15%)
+        Tigrex Skull Shl (10%)
+        HvnlyTigrexScale (8%)
+    Claws- Damage (Any), requires one to be broken
+        Hard Tigrex Claw (80%)
+        Tigrex Claw+ x3 (20%)
+Carve:
+    Body-[x3]
+        ThickTigrexScale (38%)
+        Hard Tigrex Claw (30%)
+        Hvy Tigrex Shell (19%)
+        Tigrex Scale+ (10%)
+        HvnlyTigrexScale (3%)
+    Tail-[x1]
+        LeathrTigrexTail (80%)
+        ThickTigrexScale (20%)
+Capture: 
+        Hvy Tigrex Shell (30%)
+        Hvy Tigrex Fang (25%)
+        ThickTigrexScale x2 (20%)
+        LeathrTigrexTail (10%)
+        HvnlyTigrexScale (5%)
+Drop: Teeth stuck on wall
+        Wyvern Sobs (50%)
+        Wyvern Tears (25%)
+        ThickTigrexScale (20%)
+        Hard Tigrex Claw (5%)
+
+=======
+Ukanlos
+==========
+G-Level--
+Reward For Breaking:
+    Head- Damage (Any), can be broken twice
+        UkanlosShovelJaw (85%)
+        UkanlosUnderscl (11%)
+        Ukanlos Stone (4%)
+    Fin- Damage (Any), located on its back
+        StrongUkanlosFin x2 (50%)
+        StrongUkanlosFin (35%)
+        HvyUkanlosShell (15%)
+    Plate- Damage (Fire), located on its neck
+        UkanlosUnderscl (70%)
+        HvyUkanlosShell (24%)
+        Ukanlos Stone (6%)
+    Claws- Damage (Any)
+        UkanlosDiggngClw (80%)
+        UkanlosDiggngClw x2 (10%)
+        HvyUkanlosShell (10%)
+Carve:
+    Body-[x4]
+        HvyUkanlosShell (40%)
+        UkanlosUnderscl (28%)
+        StrongUkanlosFin (12%)
+        Hvy Ukanlos Tail (10%)
+        UkanlosShovelJaw (8%)
+        Ukanlos Stone (2%)
+    Tail-[x2] Cut off when HP is below 25%
+        Hvy Ukanlos Tail (90%)
+        HvyUkanlosShell (10%)
+Capture:
+        Cannot be captured
+Drop: Sonic when doing Ice Blast
+        Items unknown
+
+=======
+Velocidrome
+==========
+Elder--
+Carve:
+    Body-
+        Velocidrome Claw (53%)
+        Velocidrome Hide (30%)
+        Velociprey Scale (15%)
+        Velocidrome Head (2%)
+Capture:
+        Velocidrome Hide (56%)
+        Screamer x2 (39%)
+        Velocidrome Head (5%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Velocidrome Clw+ (40%)
+        Velociprey Scle+ (23%)
+        Velociprey Hide+ (20%)
+        Velocidrome Hide (10%)
+        Velocidrome Head (7%)
+Capture:
+        Velociprey Hide+ (40%)
+        Screamer x2 (36%)
+        Velociprey Scle+ x2 (24%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Velociprey
+==========
+Elder--
+Carve:
+    Body-
+        Velociprey Fang (40%)
+        Velociprey Scale (29%)
+        Velociprey Hide (23%)
+        Sm Monster Bone (8%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Velcoiprey Fang (35%)
+        Velociprey Scle+ (35%)
+        Velcoiprey Hide+ (30%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Vespoid
+==========
+Elder--
+Carve:
+    Body-
+        Vespoid Shell (47%)
+        Vespoid Wing (36%)
+        Monster Fluid (17%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+Upper Rank--
+Carve:
+    Body-
+        Vespoid Carapace (40%)
+        Vespoid Wing (20%)
+        Monster Fluid (15%)
+        Vespoid InnrWng (15%)
+        Monster Broth (10%)
+Capture:
+        Cannot be captured
+Drop:
+        Cannot drop items
+
+=======
+Yama Tsukami
+==========
+G-Level--
+Reward For Breaking:
+    Tentacles-[x4] Damage (Any)
+        YamaTsukaFillet (70%)
+        YamaTsukamiHide (30%)
+Carve:
+    Body-[x5]
+        YamaTsukamiFluid (34%)
+        AncientDrgnwood (27%)
+        YamaTsukamiHide (20%)
+        ElderDragonBlood (11%)
+    Body-[x7] (live carve) enough damage and falls down
+        Dragon Treasure (30%)
+        AncientDrgnwood (20%)
+        Dragonmoss (10%)
+        Dragonmoss+ (10%)
+        AncientDrgnmoss (10%)
+        Dragon Toadstool (9%)
+        Dragonwood+ (5%)
+Capture:
+        Cannot be captured
+Drop:
+        Anc Drgn Treasre (45%)
+        Dragon Treasure (25%)
+        YamaTsukamiFluid (22%)
+        ElderDragonBlood (8%)
+
+=======
+Yian Garuga
+==========
+Elder--
+Reward For Breaking:
+    Ears-
+        Garuga Ear (80%)
+        Garuga Scale x3 (20%)
+    Beak-
+        Sharpened Beak (80%)
+        Garuga Scale x3 (20%)
+    Wings-
+        Garuga Wing (80%)
+        Garuga Shell x2 (20%)
+    Back-
+        Garuga Mane (80%)
+        Garuga Shell x2 (20%)
+Carve:
+    Body-[x3]
+        Garuga Scale (64%)
+        Garuga Shell (28%)
+        Garuga Mane (7%)
+        Garuga Wing (1%)
+    Tail-[x1]
+        Garuga Tail (80%)
+        Garuga Scale (20%)
+Capture:
+        Garuga Shell x2 (90%)
+        Sharpened Beak (5%)
+        Garuga Ear (5%)
+Drop:
+        Wyvern Tears (74%)
+        Garuga Scale (25%)
+        Garuga Wing (1%)
+
+=======
+Yian Garuga (One ear)
+==========
+Elder/Upper Rank--
+Reward For Breaking:
+    Ear- Damage (Any)
+        Long Garuga Ear (75%)
+        Garuga Scale+ x3 (15%)
+        Garuga Ear x2 (10%)
+    Beak- Damage (Any)
+        Rejuvenated Beak (70%)
+        Garuga Scale+ x3 (15%)
+        Sharpened Beak (15%)
+    Wings- Damage (Any)
+        Garuga Wing (50%)
+        Garuga Wing x2 (35%)
+        Garuga Carapace x2 (15%)
+    Back- Damage (Any)
+        Garuga Mane x3 (70%)
+        Garuga Carapace x3 (20%)
+        Garuga Shell x5 (10%)
+Carve:
+    Body-[x3]
+        Garuga Scale+ (64%)
+        Garuga Carapace (28%)
+        Garuga Mane (5%)
+        Garuga Wing (3%)
+    Tail-[x1]
+        Garuga Tail (70%)
+        Garuga Scale+ (20%)
+        Garuga Scale (10%)
+Capture:
+        Garuga Carapace x2 (90%)
+        Rejuvenated Beak (5%)
+        Long Garuga Ear (5%)
+Drop: Pitfall trapped in rage mode 
+        Wyvern Sobs (37%)
+        Wyvern Tears (37%)
+        Garuga Scale+ (25%)
+        Garuga Wing (1%)
+
+G-Level--
+Reward For Breaking:
+    Ear- Damage (Any)
+        Long Garuga Ear (80%)
+        ThickGarugaScale x3 (20%)
+    Beak- Damage (Any)
+        Rejuvenated Beak (80%)
+        ThickGarugaScale x3 (20%)
+    Wings- Damage (Any), requires both to be broken
+        Str Garuga Wing (80%)
+        Garuga Wing x2 (20%)
+    Back- Damage (Any)
+        SilverGarugaPelt x2 (80%)
+        Hvy Garuga Shell x4 (20%)
+Carve:
+    Body-[x3]
+        ThickGarugaScale (64%)
+        Hvy Garuga Shell (28%)
+        SilverGarugaPelt (7%)
+        Str Garuga Wing (1%)
+    Tail-[x1]
+        Garuga Tail+ (80%)
+        ThickGarugaScale (10%)
+        Garuga Scale+ (10%)
+Capture:
+        Hvy Garuga Shell x2 (80%)
+        Garuga Carapace x2 (10%)
+        Rejuvenated Beak (5%)
+        Long Garuga Ear (5%)
+Drop: Pitfall trapped in rage mode
+        Wyvern Sobs (49%)
+        Wyvern Tears (25%)
+        ThickGarugaScale (15%)
+        Garuga Scale+ (10%)
+        Str Garuga Wing (1%)
+
+=======
+Yian Kut-Ku
+==========
+Elder--
+Reward For Breaking:
+    Ears-
+        Kut-Ku Ear (50%)
+        Kut-Ku Scale x3 (50%)
+Carve:
+    Body-[x3]
+        Kut-Ku Shell (50%)
+        Kut-Ku Webbing (32%)
+        Kut-Ku Scale (13%)
+        Giant Beak (5%)
+Capture:
+        Kut-Ku Shell (33%)
+        Screamer (24%)
+        Med Monster Bone x2 (20%)
+        Flame Sac (20%)
+        Giant Beak (3%)
+Drop:
+        Wyvern Tears (74%)
+        Kut-Ku Scale (16%)
+        Kut-Ku Ear (10%)
+
+Upper Rank--
+Reward For Breaking:
+    Ears-
+        Kut-Ku Ear (50%)
+        Long Kut-Ku Ear (25%)
+        Kut-Ku Scale+ x3 (25%)
+Carve:
+    Body-[x3]
+        Kut-Ku Scale+ (50%)
+        Kut-Ku Carapace (25%)
+        Kut-Ku Webbing (10%)
+        Giant Beak (10%)
+        Splendid Beak (5%)
+Capture:
+        Kut-Ku Carapace (43%)
+        Monster Bone+ (27%)
+        Screamer x2 (17%)
+        Flame Sac (10%)
+        Splendid Beak (3%)
+Drop:
+        Wyvern Tears (37%)
+        Wyvern Sobs (37%)
+        Kut-Ku Scale+ (16%)
+        Long Kut-Ku Ear (10%)
+
+G-Level--
+Reward For Breaking:
+    Ears- Damage (Any)
+        Long Kut-Ku Ear (45%)
+        Lucky Kut-Ku Ear (30%)
+        Thick Kut-Ku Scl x3 (25%)
+Carve:
+    Body-[x3]
+        Thick Kut-Ku Scl (33%)
+        Str Kut-Ku Wing (32%)
+        Hvy Kut-Ku Shell (25%)
+        Splendid Beak (10%)
+Capture: HP below 30%, ears fold down
+        Hvy Kut-Ku Shell (47%)
+        Hvy Monster Bone (23%)
+        Blazing Fire Sac (15%)
+        Screamer x4 (10%)
+        Splendid Beak (5%)
+Drop: Sonic, doesn't work in rage mode
+        Wyvern Sobs (49%)
+        Wyvern Tears (25%)
+        Thick Kut-Ku Scl (16%)
+        Lucky Kut-Ku Ear (10%)
+
+=======
+Yian Kut-Ku, Blue
+==========
+Elder--
+Reward For Breaking:
+    Ears-
+        Kut-Ku Ear (50%)
+        Blue Kut Ku Scale x3 (50%)
+Carve:
+    Body-[x3]
+        Blue Kut-Ku Scl (47%)
+        Blue Kut-Ku Shl (35%)
+        Kut-Ku Webbing (15%)
+        Giant Beak (5%)
+Capture:
+        Blue Kut-Ku Shl (36%)
+        Med Monster Bone x2 (27%)
+        Screamer x2 (24%)
+        Flame Sac (10%)
+        Giant Beak (3%)
+Drop:
+        Wyvern Tears (74%)
+        Blue Kut-Ku Scl (16%)
+        Kut-Ku Ear (10%)
+
+Upper Rank--
+Reward For Breaking:
+    Ears-
+        Kut-Ku Ear (50%)
+        Long Kut-Ku Ear (25%)
+        Blue Kut-Ku Scl+ (25%)
+Carve:
+    Body-[x3]
+        Blue Kut-Ku Scl+ (50%)
+        Blue Kut-Ku Cpc (25%)
+        Kut-Ku Webbing (10%)
+        Giant Beak (10%)
+        Splendid Beak (5%)
+Capture:
+        Blue Kut-Ku Cpc (43%)
+        Monster Bone+ (27%)
+        Screamer x2 (17%)
+        Flame Sac (10%)
+        Splendid Beak (3%)
+Drop:
+        Wyvern Tears (37%)
+        Wyvern Sobs (37%)
+        Blue Kut-Ku Scl+ (16%)
+        Kut-Ku Ear (10%)
+
+G-Level--
+Reward For Breaking:
+    Ears- Damage (Any)
+        Long Kut-Ku Ear (45%)
+        Lucky Kut-Ku Ear (30%)
+        ThkBlueKut-KuScl x3 (25%)
+Carve:
+    Body-[x3]
+        ThkBlueKut-KuScl (33%)
+        Str Kut-Ku Wing (32%)
+        HvyBlueKut-KuShl (25%)
+        Splendid Beak (10%)
+Capture: HP below 30%, ears fold down
+        HvyBlueKut-KuShl (47%)
+        Hvy Monster Bone (23%)
+        Blazing Fire Sac (15%)
+        Screamer x4 (10%)
+        Splendid Beak (5%)
+Drop: Sonic, doesn't work in rage mode
+        Wyvern Sobs (49%)
+        Wyvern Tears (25%)
+        ThkBlueKut-KuScl (16%)
+        Lucky Kut-Ku Ear (10%)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
